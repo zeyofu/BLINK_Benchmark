@@ -27,8 +27,7 @@ BLINK is created to challenge multimodal models on hollistic visual perception a
 ## Evaluation
 Please refer to our [eval](eval)
  folder for more details.
-
-![Alt text](assets/radar_v1.png)
+<img src="assets/radar_v1.png" width="400" />
 
 ## 🏆 Mini-Leaderboard
 | Model                      | Val (1,973) | Test (2,005) |
