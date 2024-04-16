@@ -1,11 +1,13 @@
-# BLINK
+# BLINK<img src="assets/blink-removebg-preview.png" width="40" />
 This repo contains evaluation code for the paper "BLINK: Multimodal Large Language Models Can See but Not Perceive"
 
-[**🌐 Homepage**](https://zeyofu.github.io/blink/) | [**🤗 Dataset**](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) | [**🤗 Paper**](?) | [**📖 arXiv**](?) | [**GitHub**](https://github.com/zeyofu/BLINK_Benchmark) | [**Evaluation**](?)
+[**🌐 Homepage**](https://zeyofu.github.io/blink/) | [**🤗 Dataset**](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) | [**🤗 Paper**](?) | [**📖 arXiv**](?) | [**🔗Evaluation**](?)
 
 
 
 This repo contains the evaluation code for the paper "[BLINK: Multimodal Large Language Models Can See but Not Perceive](arxiv?)"
+
+![Alt text](assets/teaser.png)
 
 ## 🔔News
 
@@ -14,7 +16,7 @@ This repo contains the evaluation code for the paper "[BLINK: Multimodal Large L
 ## Introduction
 We introduce **BLINK**, a new benchmark for multimodal language models (LLMs) that focuses on core visual perception abilities not found in other evaluations. Most of the **BLINK** tasks can be solved by humans “within a blink” (e.g., *relative depth estimation, visual correspondence, forensics detection, and multi-view reasoning*). However, we find these perception-demanding tasks cast significant challenges for current multimodal LLMs because they resist mediation through natural language. **BLINK** reformats 14 classic computer vision tasks into 3,978 multiple-choice questions, paired with single or multiple images and visual prompting. While humans get 95.100% accuracy on average, **BLINK** is surprisingly challenging for existing multimodal LLMs: even the best-performing GPT-4V and Gemini achieve accuracies of 51.32% and 45.46%, only 13.23% and 7.47% higher than random guessing, indicating that such perception abilities have not “emerged” yet in recent multimodal LLMs. Our analysis also highlights that specialist CV models could solve these problems much better, suggesting potential pathways for future improvements. We believe **BLINK** will stimulate the community to help multimodal LLMs catch up with human-level visual perception.
 
-![Alt text](image.png)
+![Alt text](assets/comparison.png)
 
 ## Dataset Creation
 
@@ -23,6 +25,8 @@ BLINK is created to challenge multimodal models on hollistic visual perception a
 ## Evaluation
 Please refer to our [eval](eval)
  folder for more details.
+
+![Alt text](assets/radar_v1.png)
 
 ## 🏆 Mini-Leaderboard
 | Model                      | Val (1,973) | Test (2,005) |
