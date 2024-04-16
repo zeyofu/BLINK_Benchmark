@@ -1,4 +1,4 @@
-# BLINK_Benchmark
+# BLINK
 This repo contains evaluation code for the paper "BLINK: Multimodal Large Language Models Can See but Not Perceive"
 
 [**🌐 Homepage**](https://zeyofu.github.io/blink/) | [**🤗 Dataset**](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) | [**🤗 Paper**](?) | [**📖 arXiv**](?) | [**GitHub**](https://github.com/zeyofu/BLINK_Benchmark) | [**Evaluation**](?)
