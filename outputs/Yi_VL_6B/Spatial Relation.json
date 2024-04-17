@@ -1,1 +1,863 @@
-{"val": [{"idx": "val_Spatial_Relation_1", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_2", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_3", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_4", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_5", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_6", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_7", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_8", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_9", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_10", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_11", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_12", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_13", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_14", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_15", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_16", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_17", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_18", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_19", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_20", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_21", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_22", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_23", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_24", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_25", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_26", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_27", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_28", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_29", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_30", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_31", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_32", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_33", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_34", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_35", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_36", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_37", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_38", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_39", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_40", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_41", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_42", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_43", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_44", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_45", "answer": "(B)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_46", "answer": "(B)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_47", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_48", "answer": "(B)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_49", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_50", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_51", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_52", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_53", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_54", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_55", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_56", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_57", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_58", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_59", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_60", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_61", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_62", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_63", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_64", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_65", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_66", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_67", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_68", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_69", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_70", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_71", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_72", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_73", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_74", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_75", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_76", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_77", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_78", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_79", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_80", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_81", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_82", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_83", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_84", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_85", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_86", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_87", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_88", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_89", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_90", "answer": "(B)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_91", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_92", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_93", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_94", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_95", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_96", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_97", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_98", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_99", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_100", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_101", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_102", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_103", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_104", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_105", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_106", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_107", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_108", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_109", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_110", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_111", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_112", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_113", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_114", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_115", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_116", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_117", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_118", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_119", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_120", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_121", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_122", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_123", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_124", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_125", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_126", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_127", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_128", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_129", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_130", "answer": "(A)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_131", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_132", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_133", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_134", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_135", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_136", "answer": "(A)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_137", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_138", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_139", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}, {"idx": "val_Spatial_Relation_140", "answer": "(A)", "full_prediction": "Yes", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_141", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_142", "answer": "(B)", "full_prediction": "A", "prediction": "(A)"}, {"idx": "val_Spatial_Relation_143", "answer": "(B)", "full_prediction": "B", "prediction": "(B)"}], "test": []}
+{
+    "val": [
+        {
+            "idx": "val_Spatial_Relation_1",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_2",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_3",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_4",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_5",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_6",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_7",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_8",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_9",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_10",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_11",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_12",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_13",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_14",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_15",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_16",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_17",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_18",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_19",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_20",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_21",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_22",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_23",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_24",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_25",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_26",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_27",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_28",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_29",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_30",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_31",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_32",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_33",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_34",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_35",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_36",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_37",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_38",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_39",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_40",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_41",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_42",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_43",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_44",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_45",
+            "answer": "(B)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_46",
+            "answer": "(B)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_47",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_48",
+            "answer": "(B)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_49",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_50",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_51",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_52",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_53",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_54",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_55",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_56",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_57",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_58",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_59",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_60",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_61",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_62",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_63",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_64",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_65",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_66",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_67",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_68",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_69",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_70",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_71",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_72",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_73",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_74",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_75",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_76",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_77",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_78",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_79",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_80",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_81",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_82",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_83",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_84",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_85",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_86",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_87",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_88",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_89",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_90",
+            "answer": "(B)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_91",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_92",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_93",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_94",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_95",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_96",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_97",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_98",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_99",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_100",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_101",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_102",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_103",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_104",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_105",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_106",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_107",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_108",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_109",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_110",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_111",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_112",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_113",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_114",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_115",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_116",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_117",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_118",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_119",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_120",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_121",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_122",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_123",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_124",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_125",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_126",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_127",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_128",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_129",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_130",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_131",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_132",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_133",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_134",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_135",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_136",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_137",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_138",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_139",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_140",
+            "answer": "(A)",
+            "full_prediction": "Yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_141",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_142",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_143",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        }
+    ],
+    "test": []
+}

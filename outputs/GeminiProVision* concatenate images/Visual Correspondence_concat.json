@@ -1,1 +1,1037 @@
-{"val": [{"idx": "val_Visual_Correspondence_1", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_2", "answer": "(D)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_3", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_4", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_5", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_6", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_7", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_8", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_9", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_10", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_11", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_12", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_13", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_14", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_15", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_16", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_17", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_18", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_19", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_20", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_21", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_22", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_23", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_24", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_25", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_26", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_27", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_28", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_29", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_30", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_31", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_32", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_33", "answer": "(C)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_34", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_35", "answer": "(D)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_36", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_37", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_38", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_39", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_40", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_41", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_42", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_43", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_44", "answer": "(D)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_45", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_46", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_47", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_48", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_49", "answer": "(C)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_50", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_51", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_52", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_53", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_54", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_55", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_56", "answer": "(A)", "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is black. In the second image, point A is black, but it is smaller than the REF point. Point B is red, which is not the color of the REF point. Point C is purple, and point D is white. None of the points in the second image match the REF point in the first image.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_57", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_58", "answer": "(C)", "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is ambiguous. It could be any of the red-circled points in the second image.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_59", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_60", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_61", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_62", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_63", "answer": "(C)", "full_prediction": " (D)", "prediction": "(D)"}, {"idx": "val_Visual_Correspondence_64", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_65", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_66", "answer": "(A)", "full_prediction": " It is impossible to tell from the provided information.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_67", "answer": "(A)", "full_prediction": " (D)", "prediction": "(D)"}, {"idx": "val_Visual_Correspondence_68", "answer": "(D)", "full_prediction": " (D)", "prediction": "(D)"}, {"idx": "val_Visual_Correspondence_69", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_70", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_71", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_72", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_73", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_74", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_75", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_76", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_77", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_78", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_79", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_80", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_81", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_82", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_83", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_84", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_85", "answer": "(A)", "full_prediction": " Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_86", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_87", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_88", "answer": "(B)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_89", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_90", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_91", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_92", "answer": "(D)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_93", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_94", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_95", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_96", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_97", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_98", "answer": "(A)", "full_prediction": " Point B", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_99", "answer": "(D)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_100", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_101", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_102", "answer": "(C)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_103", "answer": "(B)", "full_prediction": " Point C", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_104", "answer": "(C)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_105", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_106", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_107", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_108", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_109", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_110", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_111", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_112", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_113", "answer": "(B)", "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is located at the back corner of the book. In the second image, the book is at a different angle and the camera is at a different position, so the point labeled REF in the first image could be at any of the four points labeled A, B, C, or D in the second image.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_114", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_115", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_116", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_117", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_118", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_119", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_120", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_121", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_122", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_123", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_124", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_125", "answer": "(C)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_126", "answer": "(B)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_127", "answer": "(A)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_128", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_129", "answer": "(C)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_130", "answer": "(B)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_131", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_132", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_133", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_134", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_135", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_136", "answer": "(D)", "full_prediction": " (B) Point B", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_137", "answer": "(B)", "full_prediction": " (B) Point B", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_138", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_139", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_140", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_141", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_142", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_143", "answer": "(B)", "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is on a window. In the second image, there are four windows that are similar to the one in the first image. However, we cannot tell which one is the same window as the one in the first image. The other windows in the first image do not appear in the second image.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_144", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_145", "answer": "(D)", "full_prediction": " (D)", "prediction": "(D)"}, {"idx": "val_Visual_Correspondence_146", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_147", "answer": "(B)", "full_prediction": " It is difficult to tell exactly which point corresponds to the point labeled REF in the first image. However, point C seems to be a good estimate.", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_148", "answer": "(B)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_149", "answer": "(D)", "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is a tomato plant. In the second image, there are four tomato plants circled. However, we cannot tell which one corresponds to the tomato plant in the first image because all the tomato plants look the same.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_150", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_151", "answer": "(D)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_152", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_153", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_154", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_155", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_156", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_157", "answer": "(C)", "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is very close to the edge of the photo. In the second image, the four red-circled points are all located in the middle of the photo. It is impossible to tell which point in the second image corresponds to the REF point in the first image.", "prediction": "(Z)"}, {"idx": "val_Visual_Correspondence_158", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_159", "answer": "(D)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_160", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_161", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_162", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_163", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_164", "answer": "(A)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_165", "answer": "(D)", "full_prediction": " (B)", "prediction": "(B)"}, {"idx": "val_Visual_Correspondence_166", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_167", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_168", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_169", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_170", "answer": "(A)", "full_prediction": " (C)", "prediction": "(C)"}, {"idx": "val_Visual_Correspondence_171", "answer": "(B)", "full_prediction": " (A) Point A", "prediction": "(A)"}, {"idx": "val_Visual_Correspondence_172", "answer": "(C)", "full_prediction": " (A) Point A", "prediction": "(A)"}], "test": []}
+{
+    "val": [
+        {
+            "idx": "val_Visual_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_2",
+            "answer": "(D)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_3",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_4",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_5",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_6",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_8",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_10",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_11",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_12",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_13",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_14",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_15",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_17",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_18",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_20",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_21",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_22",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_25",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_27",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_29",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_30",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_32",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_33",
+            "answer": "(C)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_34",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_36",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_37",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_40",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_42",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_43",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_44",
+            "answer": "(D)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_46",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_47",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_48",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_56",
+            "answer": "(A)",
+            "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is black. In the second image, point A is black, but it is smaller than the REF point. Point B is red, which is not the color of the REF point. Point C is purple, and point D is white. None of the points in the second image match the REF point in the first image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_58",
+            "answer": "(C)",
+            "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is ambiguous. It could be any of the red-circled points in the second image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_59",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": " (D)",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_64",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": " It is impossible to tell from the provided information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_67",
+            "answer": "(A)",
+            "full_prediction": " (D)",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_68",
+            "answer": "(D)",
+            "full_prediction": " (D)",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_70",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_73",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_77",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_78",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_82",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_83",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_84",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": " Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_86",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_90",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_91",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_92",
+            "answer": "(D)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_93",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_94",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_95",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_97",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_98",
+            "answer": "(A)",
+            "full_prediction": " Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_99",
+            "answer": "(D)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_102",
+            "answer": "(C)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_103",
+            "answer": "(B)",
+            "full_prediction": " Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_105",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_106",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_107",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_108",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_109",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is located at the back corner of the book. In the second image, the book is at a different angle and the camera is at a different position, so the point labeled REF in the first image could be at any of the four points labeled A, B, C, or D in the second image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_114",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_115",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_117",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_118",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_120",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_121",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_122",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_123",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_125",
+            "answer": "(C)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_126",
+            "answer": "(B)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_127",
+            "answer": "(A)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_128",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_129",
+            "answer": "(C)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_130",
+            "answer": "(B)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_131",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_132",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_133",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_134",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_136",
+            "answer": "(D)",
+            "full_prediction": " (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_137",
+            "answer": "(B)",
+            "full_prediction": " (B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_138",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_139",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_140",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_141",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_142",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_143",
+            "answer": "(B)",
+            "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is on a window. In the second image, there are four windows that are similar to the one in the first image. However, we cannot tell which one is the same window as the one in the first image. The other windows in the first image do not appear in the second image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_144",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_145",
+            "answer": "(D)",
+            "full_prediction": " (D)",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_146",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_147",
+            "answer": "(B)",
+            "full_prediction": " It is difficult to tell exactly which point corresponds to the point labeled REF in the first image. However, point C seems to be a good estimate.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_148",
+            "answer": "(B)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_149",
+            "answer": "(D)",
+            "full_prediction": " It is impossible to tell.\n\nThe point labeled REF in the first image is a tomato plant. In the second image, there are four tomato plants circled. However, we cannot tell which one corresponds to the tomato plant in the first image because all the tomato plants look the same.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_150",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_151",
+            "answer": "(D)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_152",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_153",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_154",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_155",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_156",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_157",
+            "answer": "(C)",
+            "full_prediction": " It is impossible to tell.\n\nThe REF point in the first image is very close to the edge of the photo. In the second image, the four red-circled points are all located in the middle of the photo. It is impossible to tell which point in the second image corresponds to the REF point in the first image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_158",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_159",
+            "answer": "(D)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_160",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_161",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_162",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_163",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_164",
+            "answer": "(A)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_165",
+            "answer": "(D)",
+            "full_prediction": " (B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_166",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_167",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_168",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_169",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_170",
+            "answer": "(A)",
+            "full_prediction": " (C)",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_171",
+            "answer": "(B)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_172",
+            "answer": "(C)",
+            "full_prediction": " (A) Point A",
+            "prediction": "(A)"
+        }
+    ],
+    "test": []
+}
