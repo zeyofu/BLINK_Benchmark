@@ -8,9 +8,9 @@ This repo contains evaluation code for the paper "BLINK: Multimodal Large Langua
 This repo contains the evaluation code for the paper "[BLINK: Multimodal Large Language Models Can See but Not Perceive](arxiv?)"
 
 
-## 🔔News
+<!-- ## 🔔News
 
-- **🔥[2024-04-17]: Our evaluation server for test set is now availble on [EvalAI](https://eval.ai/web/challenges/challenge-page/2179/overview). We welcome all submissions and look forward to your participation! 😆**
+- **🔥[2024-04-17]: Our evaluation server for test set is now availble on [EvalAI](https://eval.ai/web/challenges/challenge-page/2179/overview). We welcome all submissions and look forward to your participation! 😆** -->
 
 ## Introduction
 We introduce **BLINK**, a new benchmark for multimodal language models (LLMs) that focuses on core visual perception abilities not found in other evaluations. Most of the **BLINK** tasks can be solved by humans “within a blink” (e.g., *relative depth estimation, visual correspondence, forensics detection, and multi-view reasoning*). However, we find these perception-demanding tasks cast significant challenges for current multimodal LLMs because they resist mediation through natural language. **BLINK** reformats 14 classic computer vision tasks into 3,978 multiple-choice questions, paired with single or multiple images and visual prompting. While humans get 95.100% accuracy on average, **BLINK** is surprisingly challenging for existing multimodal LLMs: even the best-performing GPT-4V and Gemini achieve accuracies of 51.32% and 45.46%, only 13.23% and 7.47% higher than random guessing, indicating that such perception abilities have not “emerged” yet in recent multimodal LLMs. Our analysis also highlights that specialist CV models could solve these problems much better, suggesting potential pathways for future improvements. We believe **BLINK** will stimulate the community to help multimodal LLMs catch up with human-level visual perception.
