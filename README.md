@@ -22,7 +22,14 @@ BLINK is created to challenge multimodal models on hollistic visual perception a
 **Unique Features** of BLINK includes diverse visual prompting, beyond recognition perception, and visual commonsense.
 
 <!-- ![Alt text](assets/comparison.png) -->
+## Load Dataset
+```
+import datasets
 
+dataset_name = 'BLINK-Benchmark/BLINK'
+data = load_dataset(dataset_name, [subtask])
+```
+where `subtask` is one of the subtasks: ['Art_Style', 'Functional_Correspondence, 'Multi-view_Reasoning', 'Relative_Reflectance', 'Visual_Correspondence', 'Counting', 'IQ_Test', 'Object_Localization', 'Semantic_Correspondence', 'Visual_Similarity', 'Forensic_Detection', 'Jigsaw', 'Relative_Depth', 'Spatial_Relation']
 
 ## Evaluation
 Please refer to our [eval](eval)
