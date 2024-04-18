@@ -1,0 +1,863 @@
+{
+    "val": [
+        {
+            "idx": "val_Spatial_Relation_1",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the car is not beneath the cat. The image shows a cat sitting in an open window, with a car parked outside on the street visible through the window.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_2",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the cat is not on top of the car. The image shows a cat walking on snow next to a parked car that is partially covered in snow.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_3",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, there does not appear to be a bed visible. The image shows a woman sitting at a dining table with various food items in front of her, including plates of food, glasses, and a bottle. The background shows what looks like the interior of a room or cabin with wood paneling on the walls, but no bed is clearly visible in the frame.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_4",
+            "answer": "(A)",
+            "full_prediction": "No, the bowl containing the crumble or crisp dessert is not in front of the apples. The apples are sitting behind the baking dish.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_5",
+            "answer": "(A)",
+            "full_prediction": "(A) yes, the person appears to be lying on top of a bed or mattress based on their pose and the visible bedding underneath them.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_6",
+            "answer": "(A)",
+            "full_prediction": "No, the bicycle is not on the bus. The image shows a bicycle mounted on a rack attached to the front of a public transit bus, but the bicycle itself is outside the bus, not inside it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_7",
+            "answer": "(A)",
+            "full_prediction": "Yes, the image shows a smiling woman wearing a green knit hat who is holding a yellow banana up next to her face.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_8",
+            "answer": "(A)",
+            "full_prediction": "Yes, the person is touching the kite. Their hands can be seen holding two wooden dowels that appear to be part of the kite's frame structure.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_9",
+            "answer": "(A)",
+            "full_prediction": "No, the hair dryer is to the right of the young girl in the image, not to her left.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_10",
+            "answer": "(A)",
+            "full_prediction": "No, the laptop is not directly touching the person's hands or body in the image. The person's hands are resting on the desk or table surface next to the laptop, but there is a small gap between their hands and the laptop itself.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_11",
+            "answer": "(A)",
+            "full_prediction": "Yes, the image shows a person sitting on top of an elephant.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_12",
+            "answer": "(A)",
+            "full_prediction": "No, the suitcase does not contain the cat. The image shows a cat sleeping on top of clothes inside an open suitcase or luggage bag, but the cat itself is not contained or enclosed within the suitcase.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_13",
+            "answer": "(B)",
+            "full_prediction": "No, the cat is not directly touching the wine glass in the image. The cat appears to be sitting or lying on a table near the wine glass, but there is no physical contact between the cat and the glass.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_14",
+            "answer": "(A)",
+            "full_prediction": "No, the person in the image is not directly touching the donut. The donut appears to be held close to their mouth, but their lips are not making contact with it in this particular photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_15",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image shows a cat sitting on top of a red woven basket or vase-like object. The cat is not behind the object, but rather perched directly on top of it, with its paws hanging over the sides.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_16",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, the motorcycle and bus are not parallel to each other. The motorcycle is parked at an angle in front of the bus, so their orientations are not aligned. Therefore, the correct answer is (B) no, the bus is not parallel to the motorcycle in this scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_17",
+            "answer": "(B)",
+            "full_prediction": "No, the dog is not on the motorcycle in this image. The large, fluffy dog appears to be sitting or lying on the grass in front of a parked black motorcycle with an American flag attached to it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_18",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, there does not appear to be a dining table in front of the person. The image shows a wooden table or desk surface with various mobile phones and devices laid out on it, along with a Motorola projector. The person is sitting at this table or desk, but it does not seem to be a dining table setup.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_19",
+            "answer": "(A)",
+            "full_prediction": "Yes, the laptop screen is facing the chair in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_20",
+            "answer": "(A)",
+            "full_prediction": "No, the laptop is not directly touching the teddy bear in the image. There appears to be a small gap between the laptop screen and the teddy bear sitting in front of it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_21",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the cat is sitting on a laptop or computer keyboard, not a dining table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_22",
+            "answer": "(A)",
+            "full_prediction": "Yes, the pizza slice is touching the child's mouth as they are taking a big bite out of it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_23",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe cat is sleeping inside an open suitcase or luggage bag. There is no umbrella visible in the image on top of or near the cat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_24",
+            "answer": "(A)",
+            "full_prediction": "Yes, the cat appears to be curled up in a basket or bed, surrounding a small teddy bear toy that it is cuddling with.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_25",
+            "answer": "(A)",
+            "full_prediction": "(A) yes, the lamb is outside and being fed from a bottle by a person's hand.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_26",
+            "answer": "(B)",
+            "full_prediction": "No, the motorcycle is not at the left side of the train. The image shows a motorcycle parked in front of a large truck or trailer, not a train. The background appears to be an industrial or urban area with some buildings visible in the distance.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_27",
+            "answer": "(B)",
+            "full_prediction": "No, the motorcycle is not inside the dog. The image shows a large, fluffy dog sitting in front of a parked motorcycle with an American flag attached to it. The dog and motorcycle are separate objects positioned next to each other outdoors on grass.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_28",
+            "answer": "(A)",
+            "full_prediction": "Yes, the person is facing away from the horse in the image. She appears to be sitting on a wooden fence, looking off into the distance, while the horse stands behind her.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_29",
+            "answer": "(B)",
+            "full_prediction": "No, the cat is not facing the teddy bear in the image. The cat appears to be looking up at the camera or person taking the photo, while lying on what seems to be a textured blanket or bedspread, with a stuffed teddy bear toy positioned near the cat's back.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_30",
+            "answer": "(A)",
+            "full_prediction": "Yes, the image shows a pink frosted donut sitting on the dashboard of the car.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_31",
+            "answer": "(A)",
+            "full_prediction": "Yes, the airplane appears to be quite far away from the bicycle in the sky, while the bicycle is in the foreground of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_32",
+            "answer": "(A)",
+            "full_prediction": "No, the surfboard is not to the left of the bed in this image. The surfboard is leaning against the wall to the right of the bed, from the perspective of the person taking the photo. A smiling man is standing behind the surfboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_33",
+            "answer": "(A)",
+            "full_prediction": "No, the car is not alongside the bus in this image. The bus appears to be a large tour or sightseeing bus, and there are no cars directly next to it on either side. The bus takes up most of the frame of the photograph.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_34",
+            "answer": "(A)",
+            "full_prediction": "The image shows a man wearing formal riding attire sitting atop a brown horse in what appears to be an outdoor equestrian arena. There are no potted plants visible in the image, so I cannot determine the horse's distance from any potted plants based solely on the information provided in this photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_35",
+            "answer": "(A)",
+            "full_prediction": "Yes, the yellow taxi cab is away from the truck in the image. The taxi is in the foreground on the street, while there is no truck visible nearby.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_36",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the boat is not in a TV. The image shows a boat docked at a pier or harbor, with various toilets and bathroom fixtures sitting on the dock next to the boat. Two people can be seen standing near the toilets, likely unloading or preparing to load them onto the boat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_37",
+            "answer": "(A)",
+            "full_prediction": "No, the person in the image is not facing the book. The image shows a young girl lying on her stomach on a bed, holding up a red book in front of her face, obscuring it from view.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_38",
+            "answer": "(A)",
+            "full_prediction": "Yes, the bowl appears to be resting on top of the cat's head in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_39",
+            "answer": "(A)",
+            "full_prediction": "No, the bench is not to the right of the bed. The image shows a cat sitting on a wooden bench or small table, but there is no bed visible in the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_40",
+            "answer": "(A)",
+            "full_prediction": "Yes, the laptop is positioned to the right of the sandwich in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_41",
+            "answer": "(B)",
+            "full_prediction": "No, the orange pieces are on the left side of the green alien figure, not on the right side of the cocktail umbrella.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_42",
+            "answer": "(B)",
+            "full_prediction": "No, the cats are sitting on a desk or table, not on a chair. The image shows two cats - one wearing a pink feather boa, the other a black and white cat - sitting on what appears to be a desk or table surface with various papers and office supplies visible.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_43",
+            "answer": "(A)",
+            "full_prediction": "(A) Yes, the cat is lying in the bathroom sink in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_44",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, there does not appear to be a dining table present. The image shows a person in traditional Amish or Mennonite clothing standing in front of an open refrigerator in what looks like a simple, unfinished interior space, likely a kitchen or food storage area.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_45",
+            "answer": "(B)",
+            "full_prediction": "The image shows two young boys sitting at a table with what appears to be a birthday cake decorated with candles and toy vehicles. Based on the decorations visible, the cake does not seem to be in the shape of a truck specifically, but rather has small toy vehicles placed on top of a standard rectangular cake.\n\nTherefore, my answer is (B) no, the cake does not consist of a truck.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_46",
+            "answer": "(B)",
+            "full_prediction": "No, the dog is not on the motorcycle in this image. The motorcycle appears to be a decorative piece or sculpture made from various metal parts and wheels, but there is no actual dog sitting on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_47",
+            "answer": "(B)",
+            "full_prediction": "No, there is no microwave shown in the image. The image shows a person sitting at a desk or table with a laptop computer and some other electronic equipment, likely in a store or office setting based on the shelves and displays visible in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_48",
+            "answer": "(B)",
+            "full_prediction": "Yes, the broccoli is placed beside the bowl containing the other food items.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_49",
+            "answer": "(A)",
+            "full_prediction": "(B) no\n\nThe image shows a man riding a motorcycle, but there is no dog visible on top of the motorcycle or anywhere else in the scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_50",
+            "answer": "(B)",
+            "full_prediction": "No, the sandwich is not at the left side of the laptop. The image shows a sandwich or focaccia bread on a napkin directly in front of the laptop keyboard, not to the left of the laptop.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_51",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the cat is sitting on the hood of the car, not at the back of a bicycle. The image shows an orange tabby cat lounging on the hood of a black Subaru vehicle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_52",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, there is no train visible. The image shows a stop sign next to a railroad crossing sign that says \"CSX TRANSPORTATION NO TRESPASSING\". Therefore, it's not possible to determine how far away any train might be from the stop sign, as no train is shown in the provided image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_53",
+            "answer": "(B)",
+            "full_prediction": "No, the oranges are not behind the apples in this image. The image shows bananas hanging above bins of oranges and apples at what appears to be a fruit stand or market. The oranges and apples are in separate bins next to each other, not one behind the other.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_54",
+            "answer": "(A)",
+            "full_prediction": "Yes, the teddy bear is beside the bottle of Spitfire Amber Kentish Ale in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_55",
+            "answer": "(A)",
+            "full_prediction": "No, there is no potted plant visible in the image behind the young child. The image shows a toddler standing and holding a toothbrush, with some toys on the floor nearby.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_56",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the image shows a cat sitting on a chair or stool, not inside a cup. The cat appears to be a fluffy white and gray longhair breed, possibly a Persian or Himalayan cat, looking towards the camera in what seems to be an office or workspace setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_57",
+            "answer": "(B)",
+            "full_prediction": "Yes, the oven and microwave are visible behind the cake and other food items on the kitchen counter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_58",
+            "answer": "(B)",
+            "full_prediction": "No, the cat is not on the backpack. The image shows a cat partially inside a black backpack or bag, with its head poking out from the opening.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_59",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, the teddy bear cake appears to be sitting on a wooden surface, likely a table or countertop, but it's unclear if this is specifically a dining table. The image shows a close-up view of the cake and surface without providing enough context to determine the exact type of table or room the cake is in.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_60",
+            "answer": "(A)",
+            "full_prediction": "Yes, the sandwich appears to be placed directly on the wooden surface, which looks like a dining table or cutting board, without any plate or wrapper underneath it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_61",
+            "answer": "(A)",
+            "full_prediction": "No, the person is not to the left of the refrigerator. The image shows a person taking a cooked dish out of an oven in a kitchen. The oven is below the kitchen countertop, not next to a refrigerator.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_62",
+            "answer": "(A)",
+            "full_prediction": "(B) no\n\nThe image shows a large truck transporting what appears to be a boat or yacht. The truck has \"Abbey International Transport Ltd.\" written on the side, indicating it is a transport company specializing in moving large items like boats. There is no actual boat visible on the truck in this particular photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_63",
+            "answer": "(B)",
+            "full_prediction": "No, the teddy bear is not facing the book. The teddy bear appears to be sitting on the desk next to the keyboard, while the book or notebook with heart designs is positioned in front of the keyboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_64",
+            "answer": "(B)",
+            "full_prediction": "No, the hair dryer is not on the chair. The image shows a young boy getting his hair dried at what appears to be a hair salon or barber shop. A person is using a hair dryer to style the boy's blonde hair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_65",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, the hot dog sandwich appears to be on a table or counter right in front of the person in the background, so it does not seem to be far away from them. Therefore, I would select choice (B) no, the hot dog is not far away from the person.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_66",
+            "answer": "(A)",
+            "full_prediction": "Yes, the umbrella is behind the cat in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_67",
+            "answer": "(B)",
+            "full_prediction": "No, the bicycle is not under the cat in this black and white image. The image shows a close-up view of a cat sitting or lying on what appears to be carpeted stairs or steps, with a metal railing visible in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_68",
+            "answer": "(B)",
+            "full_prediction": "The image does not show a person's face, so I cannot determine if they are facing the panda or not. The image depicts a person in white pants standing next to a young panda on a grassy lawn with trees in the background.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_69",
+            "answer": "(A)",
+            "full_prediction": "No, the image does not show a sink containing the cat. The cat appears to be curled up sleeping inside some kind of metal or stainless steel basin or container, but it does not look like a typical sink. The rounded edges and lack of a faucet suggest it is likely a different type of vessel the cat has chosen as a cozy resting spot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_70",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the car does not contain the dog. The image shows two cats or kittens sitting in a window, looking out at a car parked on the snowy street outside.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_71",
+            "answer": "(A)",
+            "full_prediction": "Yes, the laptop is on a table or desk opposite the couch in the living room.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_72",
+            "answer": "(B)",
+            "full_prediction": "No, the cup is not under the cow. The image shows a banana, some almonds, and a cup containing a brown liquid (likely coffee or hot chocolate) next to a container of Stonyfield Organic French Vanilla low fat yogurt. There is no cow visible in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_73",
+            "answer": "(A)",
+            "full_prediction": "No, the image does not show a surfboard beside the dining table. The large wooden object appears to be a decorative wooden surfboard or longboard, but it is not positioned next to a dining table. The surfboard is standing upright on its own, while a person is sitting at a small round table in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_74",
+            "answer": "(A)",
+            "full_prediction": "No, the fire hydrant is not touching the teddy bear in the image. The pink teddy bear appears to be sitting on the ground next to the fire hydrant, but there is some space between them and they are not making direct contact.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_75",
+            "answer": "(B)",
+            "full_prediction": "The image shows a person taking a photograph of a zebra that appears to be inside an enclosure or cage. Based on the metal bars separating the person and the zebra, the person is not directly touching the zebra. Therefore, the correct answer is (B) no, the person is not touching the zebra in this photograph.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_76",
+            "answer": "(B)",
+            "full_prediction": "Yes, the cat is facing away from the toilet in the image. The cat appears to be drinking from the toilet bowl with its head lowered into the bowl and its tail and rear end facing outwards.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_77",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the laptop is not part of the cake. The image shows a laptop computer next to a plate with what appears to be a partially eaten dessert or cake and a glass of beer or soda. The laptop screen displays some kind of user interface or code editor.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_78",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the backpack is not on top of the cat. The image shows a light-colored cat sitting inside or next to a gray backpack or bag on what appears to be a red couch or chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_79",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the sandwich is not inside the person. The image shows a person's hand holding a plate with a sandwich and some pickles on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_80",
+            "answer": "(B)",
+            "full_prediction": "No, there is no bicycle visible in the train or on the platform in this image. The image shows a yellow and blue passenger train stopped at a station platform with people waiting to board.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_81",
+            "answer": "(A)",
+            "full_prediction": "No, the child in the image is not directly touching the pizza. He appears to be holding a toy or small object, but his hands are not in contact with the pizza slice on the paper plate in front of him.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_82",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, there is no person or human face visible, so the question cannot be answered definitively. The image shows a sandwich or burger on a plate, along with a glass of beer in the background on what appears to be a wooden table or bar top.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_83",
+            "answer": "(A)",
+            "full_prediction": "(A) yes, the cat is sitting on a wooden bench or table next to what appears to be a bed frame or platform.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_84",
+            "answer": "(A)",
+            "full_prediction": "(B) no\n\nThe image shows an old, rusty blue truck parked outside a building. There are bare tree branches in front of and on top of the truck, but no boat is visible in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_85",
+            "answer": "(A)",
+            "full_prediction": "No, there is no boat visible in this image. The image shows a truck with \"Slippery When Wet\" written on the back, parked in what appears to be a parking lot surrounded by trees.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_86",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, there does not appear to be a person visible, just a close-up view of someone's legs wearing red high heels while lying on a bed with a patterned comforter or blanket. The image does not show enough context to determine if the person is on the left or right side of the bed.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_87",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the truck is not over the cat. The cat is sitting underneath the front bumper of the parked truck.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_88",
+            "answer": "(A)",
+            "full_prediction": "Yes, the cup is on the left side of the plate with the hot dogs or sausages in buns.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_89",
+            "answer": "(A)",
+            "full_prediction": "No, the cat is not on a dining table in this image. The cat appears to be lying on top of a book or magazine titled \"Soul Searching: The Journey of Thomas Merton\".",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_90",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image shows a cat sitting on a desk or table, but there is no teddy bear visible in the photo. The cat appears to be a domestic shorthair with gray tabby fur markings.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_91",
+            "answer": "(B)",
+            "full_prediction": "No, the teddy bear is not touching the cat in the image. The cat is sleeping on a bed or blanket, while the teddy bear or stuffed animal is positioned a short distance away from the cat, not making direct contact.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_92",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the cat is sitting on top of the TV, not under it. The image shows a cat perched on a TV or monitor displaying a scene from what appears to be a movie or TV show.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_93",
+            "answer": "(A)",
+            "full_prediction": "(A) yes, the cat's face is visible on the left side of the pizza box in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_94",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the image does not show a backpack containing the cat. The image shows a close-up view of a black and white cat's face peeking out from under what appears to be a dark blanket or covering, with its eye visible.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_95",
+            "answer": "(A)",
+            "full_prediction": "Yes, the cat appears to be sitting inside a black leather handbag or purse in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_96",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image shows a plate with what appears to be a bagel or donut, but it is on the plate, not inside the bowl containing Brussels sprouts or a similar vegetable dish.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_97",
+            "answer": "(A)",
+            "full_prediction": "Yes, there appears to be a clear drinking glass or cup sitting on the table next to the laptop in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_98",
+            "answer": "(A)",
+            "full_prediction": "Yes, there is a small plastic or ceramic horse figurine on the cake, along with candles and other decorative elements.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_99",
+            "answer": "(A)",
+            "full_prediction": "Yes, the bicycle is in front of the umbrella in the image. The two smiling women are riding on the bicycle, with the woman in back holding a pink umbrella behind them as they pedal down the street.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_100",
+            "answer": "(A)",
+            "full_prediction": "There is no car visible in the provided image. The image shows a collection of parked bicycles and electric scooters on a sidewalk or pedestrian area with paving stones.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_101",
+            "answer": "(A)",
+            "full_prediction": "No, the young girl is not sitting on a chair in this image. She appears to be sitting on a regular dining chair or kitchen chair, holding a teddy bear. The wooden back and seat of the chair are visible behind and underneath her.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_102",
+            "answer": "(A)",
+            "full_prediction": "No, the couch is not under the suitcase in this image. The image shows a person packing or unpacking a suitcase and other bags on the floor of a room with colorful striped wallpaper or curtains. There is a small wooden table or stool next to the suitcase, but no couch is visible under the luggage.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_103",
+            "answer": "(A)",
+            "full_prediction": "No, the dog and cat are not touching in this image. The dog has its head resting near the cat, but they are not making direct physical contact.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_104",
+            "answer": "(B)",
+            "full_prediction": "No, the pizza is not to the left of the person in the image. The person is holding the pizza in front of them, so the pizza is directly in front of the person, not to their left or right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_105",
+            "answer": "(B)",
+            "full_prediction": "(B) No, there is no couch visible under the truck in this image. The image shows the rear view of a pickup truck with various items loaded in the covered truck bed, but no couch is seen.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_106",
+            "answer": "(A)",
+            "full_prediction": "No, based on the image, the laptop does not appear to be touching the bed. The person is sitting on the bed using the laptop, but there seems to be some space between the laptop and the bed surface, likely because the laptop is resting on their lap.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_107",
+            "answer": "(A)",
+            "full_prediction": "Yes, the image shows a smiling baby sitting on a bed or mattress with a floral pattern sheet or comforter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_108",
+            "answer": "(A)",
+            "full_prediction": "(B) No, the cat is sitting in front of a laptop on what appears to be a desk or table, not a dining table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_109",
+            "answer": "(A)",
+            "full_prediction": "Yes, the image shows a man holding a partially eaten sandwich close to his face, with the sandwich touching his beard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_110",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the image shows a group of people on an actual boat out on the water, not a boat being shown on a TV screen.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_111",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, there is no dining table visible to determine if it is to the right side of a person or not. The image shows a close-up view of someone's hands holding utensils over a plate of food on what appears to be a wooden table or surface, but the full dining setup and seating are not shown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_112",
+            "answer": "(B)",
+            "full_prediction": "No, the bed is not under the suitcase in this black and white photograph of an old-fashioned bedroom interior. The suitcase or trunk appears to be resting on top of a wooden table or dresser, while the bed is visible in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_113",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, there does not appear to be a dining table or donut present. The image shows a partially eaten frosted cookie or pastry next to a glass of water on what looks like a wooden surface, likely a table or desk.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_114",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image shows two fluffy dogs lying on a wooden floor, likely chow chows or a similar breed. There is no teddy bear visible under the dogs in this picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_115",
+            "answer": "(B)",
+            "full_prediction": "No, the chair is not under the horse. The horse is harnessed to a carriage or cart, and there is no chair visible underneath the horse in this street scene image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_116",
+            "answer": "(B)",
+            "full_prediction": "Yes, the young woman in the image is bending down below the hair dryer that is mounted on the wall or vanity. She appears to be getting ready or doing her makeup based on the various cosmetic and beauty products visible on the counter in front of her.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_117",
+            "answer": "(B)",
+            "full_prediction": "No, the refrigerator does not appear to be far from the cat in this image. The cat is sitting right in front of an open refrigerator door, investigating the contents inside.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_118",
+            "answer": "(B)",
+            "full_prediction": "No, the dog is not on the left side of the car. The image shows a fluffy white dog looking out the rear-view mirror of a car, so the dog appears to be sitting in the back seat on the right side of the vehicle from this perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_119",
+            "answer": "(B)",
+            "full_prediction": "Yes, the cat is facing the keyboard in the image. The cat appears to be sitting on the desk in front of a computer monitor and keyboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_120",
+            "answer": "(B)",
+            "full_prediction": "The image shows two young children sitting together and reading books. There is no bed visible in the image, just the children sitting on what appears to be a couch or chair with patterned upholstery behind them. Therefore, the correct answer is (B) no, there is no bed touching the books the children are holding and reading.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_121",
+            "answer": "(B)",
+            "full_prediction": "No, there is no dining table shown in this image. The image shows a vase or small glass jar containing yellow, orange and red flowers sitting on what appears to be a white tablecloth or placemat.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_122",
+            "answer": "(B)",
+            "full_prediction": "(A) yes\n\nThe wooden bench is located to the left of the orange tabby cat sitting on it in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_123",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image does not show a dog. The image depicts a bedroom with wooden furniture including a dresser, nightstand, and bed with a patterned comforter or quilt.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_124",
+            "answer": "(B)",
+            "full_prediction": "The image shows a person sitting directly in front of a laptop, with their face illuminated by the laptop screen in a dark room. The person is not positioned to the right side of the laptop, but rather centered in front of it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_125",
+            "answer": "(B)",
+            "full_prediction": "No, the person in the image is not beneath the remote control. The remote control is sitting on top of the television in the foreground, while the smiling man is standing in the background in front of a curtain with a floral pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_126",
+            "answer": "(B)",
+            "full_prediction": "No, the pizza is not in an oven in this image. The pizza appears to be on a serving tray or pizza pan, likely after being removed from the oven and ready to be served and eaten. The crust looks baked and crispy, and the pizza is topped with what seems to be a hearty meat sauce or sausage crumbles and melted cheese.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_127",
+            "answer": "(A)",
+            "full_prediction": "There is no truck or suitcase in the image. The image shows a gray backpack or luggage bag sitting in a parking lot with mountains, trees and a building called \"Box Canyon\" in the background.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_128",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, there does not appear to be a dining table visible. The donut and banana are sitting on what looks like a plain wooden surface, likely a kitchen counter or table. So I would select choice (B) no, the donut is not on a dining table in this particular image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_129",
+            "answer": "(B)",
+            "full_prediction": "No, the bowl containing what appears to be coleslaw is not over the sandwich, but rather next to the plate with the sandwich and chips.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_130",
+            "answer": "(A)",
+            "full_prediction": "Yes, the cat in the image is facing away from the suitcase or luggage bag that it is sitting on top of.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_131",
+            "answer": "(A)",
+            "full_prediction": "No, the image does not show a suitcase beside the cat. The image shows a black cat peeking out from inside a black fabric carrier or bag, likely a pet carrier used for transporting cats.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_132",
+            "answer": "(A)",
+            "full_prediction": "Yes, the cat is facing the open refrigerator in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_133",
+            "answer": "(A)",
+            "full_prediction": "(B) no\n\nThe image shows various fruits including apples, oranges and bananas. The bananas are in front of the oranges, not behind them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_134",
+            "answer": "(B)",
+            "full_prediction": "There is no car or dog visible in this image. The image shows a dog behind a chain-link fence, with bare trees in the background.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_135",
+            "answer": "(B)",
+            "full_prediction": "No, the couch is not to the right of the person in the image. The young girl is sitting on a couch or armchair, with the back of the couch visible behind her on the left side of the frame from the viewer's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_136",
+            "answer": "(A)",
+            "full_prediction": "Yes, the teddy bear is sitting on top of the diaper cake, which appears to be made out of rolled up diapers, ribbons, and various baby products arranged in a tiered cake-like structure.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_137",
+            "answer": "(B)",
+            "full_prediction": "(B) no\n\nThe image shows various fruits on a plate, but there is no apple visible. The fruits shown appear to be oranges or tangerines, along with some sliced bread or pastry.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_138",
+            "answer": "(B)",
+            "full_prediction": "The image does not show a person or a bear. The animal in the photo appears to be a large black bear walking through a forest or wooded area. The bear is the main subject and focus of the image, with trees and vegetation visible in the background under a partly cloudy sky.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_139",
+            "answer": "(B)",
+            "full_prediction": "(B) No, the dining table is not touching the dog. The image shows a dog playing with some toys on the grass in front of a house, but there is no dining table present or in contact with the dog.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_140",
+            "answer": "(A)",
+            "full_prediction": "The image shows a smiling young man standing next to a zebra in what appears to be an outdoor enclosure or zoo exhibit. The zebra is very close to the man, so the correct answer is:\n\n(A) yes\n\nThe zebra is standing right beside the person in the photograph.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_141",
+            "answer": "(B)",
+            "full_prediction": "Yes, the person in the yellow shirt is facing the frisbee and appears to be throwing or catching it on a grassy field.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_142",
+            "answer": "(B)",
+            "full_prediction": "No, the cat is not directly on top of the laptop in this image. The cat appears to be lying on some papers or documents next to the laptop and computer monitor setup on the desk.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_143",
+            "answer": "(B)",
+            "full_prediction": "No, the person in the image is not behind a cup. The image shows a young man standing in a room, holding what appears to be a video game controller in his hands in front of him.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": []
+}

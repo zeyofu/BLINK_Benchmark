@@ -1,0 +1,809 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "<s> A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "<s> A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "<s> (C) About the same",
+            "prediction": "(C)"
+        }
+    ],
+    "test": []
+}

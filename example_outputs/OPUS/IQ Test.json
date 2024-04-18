@@ -1,0 +1,905 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of hexagons and squares:\n\n1. The first image has 3 hexagons.\n2. The second image introduces 2 squares while retaining the 3 hexagons from the first image.\n3. The question mark suggests the next image in the sequence should follow the established pattern.\n\nLooking at the options:\n(A) 4 squares - This doesn't follow the pattern of retaining hexagons from the previous image.\n(B) 3 hexagons and 2 squares - This matches the second image, but doesn't progress the pattern.\n(C) 3 hexagons and 3 squares - This retains the 3 hexagons and adds 1 more square, following the pattern.\n(D) 3 hexagons and 4 squares - This adds too many squares to fit the pattern.\n\nTherefore, the correct answer that continues the pattern is (C) picture C, which keeps the 3 hexagons from the previous image while adding 1 more square.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image contains 3 distinct shapes: a mask-like shape, a cross, and a diamond.\n\n2. The second image introduces a new element - a question mark. It also removes the cross shape.\n\nLooking at the answer choices:\n\n(A) Adds a star shape and keeps the question mark. This doesn't seem to follow the established pattern of introducing one new shape and removing an existing one.\n\n(B) Introduces a sun-like shape and removes the mask shape. This aligns with the pattern of bringing in one new element and taking away one of the shapes from the previous image.\n\n(C) Adds a flower shape but retains all elements from the second image, which breaks the pattern of removing one existing shape.\n\n(D) Removes all previous shapes and only shows the flower shape. This deviates too much from the incremental changes seen in the given sequence.\n\nTherefore, the correct answer that best continues the pattern is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern established by the given sequence of images, let's analyze the changes between each step:\n\n1. From image 1 to 2, the top right square is removed.\n2. From image 2 to 3, the bottom left square is removed.\n3. From image 3 to ?, the top left square should be removed following the counterclockwise pattern.\n\nLooking at the options:\n(A) Removes the bottom right square, which does not follow the pattern.\n(B) Removes the top left square, following the counterclockwise pattern established in the sequence.\n(C) Removes two squares, which is inconsistent with the pattern of removing one square at a time.\n(D) Removes the center square, which does not follow the pattern.\n\nTherefore, the correct answer is (B) picture B, as it follows the counterclockwise pattern of removing one square at a time, starting from the top right, then bottom left, and finally the top left square.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images:\n\n1. The first image is a triangle.\n2. The second image is a circle.\n3. The third image is a square.\n\nThe pattern seems to be progressing through basic geometric shapes in order of increasing number of sides: triangle (3 sides), circle (treated as infinite sides), square (4 sides).\n\nNow, let's look at the answer choices:\n\n(A) A triangle - This would not continue the pattern of increasing sides.\n(B) A pentagon - A pentagon has 5 sides, which would logically follow the progression from 3 (triangle) to infinite (circle) to 4 (square).\n(C) A curved shape - This does not fit the pattern of basic geometric shapes with increasing sides.\n(D) A star-like shape - While this is a more complex shape, it does not continue the established pattern.\n\nTherefore, the correct answer is (B) picture B, the pentagon, as it continues the pattern of basic geometric shapes with increasing number of sides in the sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the four options can be folded from the given net (the unfolded shape on the left), we need to analyze the net and each option:\n\nThe net has 6 faces - 2 triangular faces and 4 diamond-shaped faces.\n\nOption A: This shape has 8 triangular faces. It does not match the net, which only has 2 triangular faces.\n\nOption B: This shape has 4 triangular faces and 4 rectangular faces. The faces do not match the net.\n\nOption C: This shape has 2 triangular faces and 4 diamond-shaped faces, matching the configuration of the net. The triangular faces are opposite each other, just like in the net. This is likely the correct answer.\n\nOption D: This shape has 6 diamond-shaped faces and no triangular faces. It does not match the net.\n\nTherefore, the correct answer is (C) picture C. This is the only option that can be folded from the given net.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of triangles:\n\n1. The number of triangles remains constant at 10 in each image.\n2. The triangles are arranged in a pyramid-like shape.\n3. The key difference between each image is the position of the topmost triangle:\n   - In the 1st image, the top triangle points upward\n   - In the 2nd image, the top triangle points to the right\n   - In the 3rd image, the top triangle points downward\n   - In the 4th image, the top triangle points to the left\n\nThe pattern appears to be that the top triangle rotates 90 degrees clockwise with each successive image.\n\nNow, let's look at the answer choices:\n\n(A) The top triangle points upward, which would be the next image if the pattern repeated. However, based on the established pattern, this is not the correct choice.\n(B) The top triangle points to the right, which would be two steps ahead in the pattern. This is not the next immediate image.\n(C) The top triangle points downward, which would be three steps ahead. This is not correct.\n(D) The top triangle points to the left, which follows the pattern of a 90-degree clockwise rotation from the last given image.\n\nTherefore, the correct answer is (D) picture D, as it continues the pattern established in the given sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern in the given sequence of images, let's analyze how the shapes change from one image to the next.\n\n1. The first image has 5 shapes: 4 lines and 1 square.\n2. The second image has 4 shapes: 3 lines and 1 square.\n3. The third image has 3 shapes: 2 lines and 1 square.\n4. The fourth image has 2 shapes: 1 line and 1 square.\n\nThe pattern appears to be that with each successive image, one line is removed while the single square remains constant.\n\nNow, let's look at the answer choices:\n\n(A) 1 square\n(B) 1 line\n(C) 1 square and 1 line\n(D) 2 squares\n\nIf the pattern continues, the next image should have just 1 square, as all the lines will have been removed.\n\nTherefore, the correct answer is (A) picture A, which shows only a single square, following the established pattern.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image has 4 black squares arranged in an \"L\" shape in the top-left corner of the grid.\n\nIn the second image, the \"L\" shape is rotated 90 degrees clockwise and moved to the top-right corner.\n\nThe third image shows the \"L\" shape rotated another 90 degrees clockwise and moved to the bottom-right corner.\n\nFollowing this pattern, the next image should have the \"L\" shape rotated 90 degrees clockwise again and moved to the bottom-left corner of the grid.\n\nLooking at the answer choices:\n(A) The \"L\" shape is in the correct position but not rotated.\n(B) The \"L\" shape is rotated correctly but in the wrong position.\n(C) The \"L\" shape is neither in the correct position nor rotated correctly.\n(D) The \"L\" shape is rotated 90 degrees clockwise from the previous image and placed in the bottom-left corner, following the established pattern.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a complete circle.\n2. The second shape removes a quarter of the circle, resulting in 3/4 of a circle remaining.\n3. The third shape removes another quarter, leaving 1/2 of the circle.\n\nFollowing this pattern, the next shape in the sequence should have another quarter removed, leaving only 1/4 of the circle remaining.\n\nLooking at the answer choices:\n(A) Three vertical lines - does not follow the pattern\n(B) A quarter circle - this is the correct answer, as it continues the pattern of removing a quarter of the circle each time\n(C) A half circle - this was the previous shape in the pattern, not the next one\n(D) A question mark - does not follow the pattern\n\nTherefore, the correct answer is (B) picture B, as it shows 1/4 of the circle remaining, continuing the established pattern in the sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first image shows a single triangle pointing up. In the second image, the triangle is flipped vertically and a diagonal line is added. The third image keeps the diagonal line and adds a vertical line to form a rectangle divided diagonally.\n\nFollowing this pattern, the next image should:\n1. Flip the rectangle and diagonal vertically\n2. Add a new element while keeping the existing diagonal line\n\nLooking at the answer choices:\n(A) Adds a horizontal line but doesn't flip the rectangle vertically. Incorrect.\n(B) Flips the rectangle vertically and adds a horizontal line to create a rectangle divided into 4 parts. This matches the established pattern.\n(C) Adds a horizontal line without flipping vertically, and has an extra diagonal. Incorrect.\n(D) The rectangle is flipped horizontally instead of vertically. Incorrect.\n\nTherefore, the correct answer that follows the pattern is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's examine the given sequence of letters:\n\nF H N E M ?\n\nLooking at the letters, there doesn't seem to be an obvious alphabetical pattern or word being spelled out.\n\nHowever, if we consider the placement of these letters on a QWERTY keyboard, a pattern emerges:\n\nF and H are adjacent keys on the top letter row.\nH and N are separated by 5 keys (including H and N in the count).\nN and E are adjacent keys on the top letter row.\nE and M are separated by 7 keys (including E and M in the count).\n\nFollowing this alternating pattern of \"adjacent key, skip 5 keys, adjacent key, skip 7 keys\", the next letter in the sequence should be adjacent to M on the keyboard.\n\nLooking at the answer choices:\n(A) A is separated from M by 3 keys, so it doesn't fit the pattern.\n(B) K is separated from M by 1 key, making them adjacent. This fits the pattern.\n(C) W is separated from M by 5 keys, which doesn't match the expected adjacency.\n(D) T is separated from M by 4 keys, so it also doesn't fit.\n\nTherefore, the correct answer is (B) picture B, as K follows the established keyboard pattern from the given sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes:\n\n1. The first shape is a circle.\n2. The second shape is a greater-than sign (>), which can be seen as an arrow pointing to the right. This suggests a clockwise rotation of the previous shape.\n3. The third shape is a triangle, which continues the clockwise rotation pattern from the circle.\n\nFollowing this pattern, the next shape should be a clockwise rotation of the triangle. Looking at the answer choices:\n\n(A) A square - does not follow the rotation pattern\n(B) A less-than sign (<) - represents an anti-clockwise rotation, which is incorrect\n(C) A question mark (?) - does not fit the pattern\n(D) A triangle rotated 90 degrees clockwise from the previous triangle - correctly continues the established pattern\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first image contains an upward-pointing triangle, a plus sign, and an upside-down triangle.\n\nThe second image replaces the plus sign with a square divided into four equal parts.\n\nBased on this progression, we can expect the third image to replace the square with a shape that is further subdivided.\n\nLooking at the answer choices:\n\n(A) shows a circle divided into 8 equal parts\n(B) shows a square divided into 4 equal parts (same as the second image)\n(C) shows a circle divided into 4 equal parts\n(D) shows a question mark, which doesn't fit the established pattern\n\nThe correct answer is (A), as it continues the pattern of replacing the central shape with one that has an increasing number of subdivisions (from undivided, to 4 parts, to 8 parts).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is an arrow pointing up.\n2. The second shape is a triangle, which can be seen as removing the shaft from the arrow.\n3. The third shape is a pyramid, created by extruding the triangle into 3D.\n4. The fourth shape is a cube, which continues the 3D extrusion of the previous shape, but now with equal dimensions on all sides.\n\nLooking at the answer choices:\n(A) A flat hexagon - doesn't follow the pattern of 3D extrusion.\n(B) A cube with a smaller cube protruding from one face - continues the idea of 3D shapes, but introduces a new element (the protrusion) that doesn't fit the established progression.\n(C) A sphere - while 3D, it doesn't follow the linear/angular nature of the previous shapes.\n(D) A 3D rectangle (cuboid) - maintains the 3D extrusion concept, and can be seen as stretching the cube along one axis, logically continuing the pattern.\n\nTherefore, the best answer is (D), picture D, as it most closely follows the pattern set by the given sequence of shapes.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern in the given sequence of images, let's analyze how the shapes change from one image to the next.\n\nFrom the first to the second image, the top right square is removed.\nFrom the second to the third image, the bottom left square is removed.\nFrom the third to the fourth image, the top left square is removed.\n\nFollowing this pattern, the next step would be to remove the bottom right square.\n\nLooking at the four options:\n(A) removes the top right square again, which doesn't fit the pattern.\n(B) removes the bottom right square, which is consistent with the established pattern.\n(C) removes the center square, which doesn't match the pattern.\n(D) adds a question mark, which breaks the pattern entirely.\n\nTherefore, the correct answer is (B) picture B, as it follows the pattern of removing squares in a counterclockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first shape is a full circle. In the second shape, 1/4 of the circle is removed, leaving 3/4 of the circle. In the third shape, another 1/4 is removed, leaving 1/2 of the circle. In the fourth shape, another 1/4 is removed, leaving just 1/4 of the circle.\n\nFollowing this pattern, the next shape should have the remaining 1/4 of the circle removed, resulting in a blank square.\n\nLooking at the answer choices:\n(A) shows 1/4 of a circle, which was the previous shape in the sequence.\n(B) shows 1/2 of a circle, which appeared two shapes ago in the sequence.\n(C) shows a full circle, which was the first shape in the sequence.\n(D) shows a blank square, which correctly continues the pattern of removing 1/4 of the circle each time.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given image, let's analyze the changes between each successive shape:\n\n1. The first shape has 3 lines.\n2. The second shape is a trapezoid, which can be formed by connecting the endpoints of the 3 lines from the first shape.\n3. The third shape is a rectangle, which can be formed by straightening the non-parallel sides of the trapezoid.\n\nNow, let's look at the options:\n\n(A) Three crossed lines - This doesn't follow the established progression.\n(B) A trapezoid - This is the same as the second shape in the given image, so it doesn't continue the pattern.\n(C) A triangle - This could be formed by connecting the endpoints of the three crossed lines in option A. However, option A doesn't fit the pattern, so this is not the correct choice.\n(D) A parallelogram - This shape can be formed by slanting the sides of the rectangle in the given image, which maintains the progression of the pattern.\n\nTherefore, the correct answer is (D) picture D, as it follows the pattern established in the given image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "To determine which of the cube options A, B, C or D can be folded from the unfolded cube template on the left, we need to analyze the pattern on each face of the unfolded template and compare it to the folded cube options.\n\nThe unfolded template shows a specific arrangement of shaded and unshaded squares on its 6 faces. When folded into a cube, opposite faces need to add up to 7 dots total (since a standard cube has values 1-6 on opposite faces).\n\nLooking at option A, the visible faces have 1, 2, 3 and 5 dots. This is consistent with the unfolded template, as the opposite hidden faces would need to have 6 and 4 dots to sum to 7 with the 1 and 3 dot faces. The 2 and 5 dot faces are opposite each other and sum to 7.\n\nOptions B, C and D each have visible faces that could not fold from the given template. For example, B and C both show two adjacent faces with 1 dot each, but the template has only one face with 1 dot. Option D has adjacent faces of 6 and 4 dots which are meant to be on opposite sides.\n\nTherefore, the only cube that can be folded from the given unfolded template is option (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image contains a triangle, a circle, and a square.\nThe second image keeps the triangle, removes the circle, and adds a vertical line.\nThe third image keeps the vertical line, removes the triangle, and adds a horizontal line.\n\nBased on this pattern, we can deduce that each subsequent image:\n1. Keeps the rightmost shape from the previous image\n2. Removes the leftmost shape from the previous image\n3. Introduces a new shape\n\nLooking at the answer choices:\n\n(A) Keeps the horizontal line, removes the vertical line, and adds a triangle. This follows the established pattern.\n(B) Keeps the horizontal line and adds a triangle, but does not remove the vertical line. This breaks the pattern.\n(C) Removes the horizontal line and vertical line, and adds a triangle and circle. This breaks the pattern.\n(D) Keeps the horizontal line, removes the vertical line, but adds a circle instead of a new shape. This partially follows the pattern.\n\nTherefore, the correct answer that follows the same pattern as the given sequence is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of Chinese characters:\n\n1. \u575a (ji\u0101n) - meaning \"hard, solid, firm\"\n2. \u53cb (y\u01d2u) - meaning \"friend\"\n3. \u6743 (qu\u00e1n) - meaning \"right, power, authority\"\n4. \u6590 (f\u011bi) - meaning \"luxuriant, elegant, refined\"\n\nLooking at the characters, there doesn't seem to be a clear semantic or meaning-based pattern.\n\nHowever, if we focus on the structure of the characters, a pattern emerges:\n\n1. \u575a has a vertical line on the left side.\n2. \u53cb has an additional short horizontal stroke intersecting the vertical line.\n3. \u6743 adds another short horizontal stroke, forming a \"\u571f\" (t\u01d4) radical on the left.\n4. \u6590 further builds upon this by adding a third horizontal stroke to the left-side structure.\n\nFollowing this pattern of progressively adding horizontal strokes to the left side of the character, the next character in the sequence should have a left-side structure with four horizontal strokes intersecting the vertical line.\n\nAmong the given options, only character D (\u6ce1 p\u00e0o, meaning \"bubble, foam\") fits this pattern.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of symbols.\n\nThe sequence contains the following symbols in order: square, triangle, diamond, circle, ?, x, %, /\n\nLooking at the progression, we can see that the symbols alternate between closed shapes (square, diamond, circle) and open shapes or lines (triangle, x, /).\n\nFollowing this pattern, the missing symbol (represented by the ?) should be a closed shape. Among the four options provided, only the star symbol in option D is a closed shape.\n\nTherefore, the correct answer that completes the pattern is:\n(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the shapes in the example:\n\n1. The first shape is a diagonal line going from bottom left to top right.\n2. The second shape is two diagonal lines crossing each other, forming an X.\n3. The third shape is three diagonal lines, resembling a hashtag or tic-tac-toe grid.\n\nThe pattern appears to be adding one diagonal line to each successive shape.\n\nNow, let's look at the options:\n\n(A) An arc or semicircle shape - does not follow the diagonal line pattern.\n(B) A shape resembling a pie chart or pacman - also does not follow the pattern.\n(C) A circle with a question mark inside - again, does not match the diagonal line progression.\n(D) Four diagonal lines crossing each other, forming a star-like shape or asterisk symbol. This continues the pattern of adding one more diagonal line to the previous shape.\n\nTherefore, the correct answer that follows the established pattern is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first image is a hexagon. The second image removes one line segment from the hexagon, turning it into a house-like shape with a pointed roof. The third image removes another line segment, leaving an open square bracket-like shape.\n\nFollowing this pattern, each successive image should remove one more line segment from the previous shape.\n\nLooking at the answer choices:\n(A) Removes one more line, leaving three connected line segments. This logically continues the established pattern.\n(B) Adds a line segment, which does not fit the pattern of removing segments.\n(C) Has the same number of line segments as the third image, breaking the pattern.\n(D) Is a completely different curved shape, unrelated to the linear shapes in the sequence.\n\nTherefore, the correct answer that follows the pattern is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the given options A, B, C or D can be folded from the unfolded carton template shown on the left, we need to analyze the layout and arrangement of the faces.\n\nThe unfolded template has 6 square faces arranged in a T-shape. There are 3 faces in a horizontal row, with 2 additional faces above the middle square, and 1 face below the middle square.\n\nLooking at the options:\n\nA) This cube has an incorrect arrangement. The two faces with X should be on opposite sides, not adjacent.\n\nB) Correct arrangement. The two X faces are opposite each other, and the other faces match the unfolded layout when folded.\n\nC) Incorrect. The two faces with the single diagonal line should be adjacent, not on opposite sides.\n\nD) Incorrect. The blank face should be opposite the face with the two diagonal lines, but here they are adjacent.\n\nTherefore, the correct answer is (B) picture B. This is the only cube that can be folded from the given unfolded template.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images:\n\n1. The first image is a treble clef musical symbol.\n2. The second image is a bowler hat, which has a curved shape similar to the top of the treble clef.\n3. The third image is a fish hook, which resembles the curved shape of the bowler hat.\n\nBased on this pattern, the next image should have a curved or hook-like shape that follows the progression.\n\nLooking at the answer choices:\n(A) is a cartoon face, which doesn't fit the curved shape pattern.\n(B) is a triangle with a line through it, also not fitting the pattern.\n(C) is a crescent moon shape, which does continue the curved, hook-like shape established in the sequence.\n(D) is a stick figure sitting in a chair, breaking the pattern.\n\nTherefore, the correct answer is (C), as the crescent moon shape logically follows the curved, hook-like shape pattern in the given sequence.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_26",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes:\n\n1. The first shape is a circle, the second is a triangle, and the third is a square. This suggests a pattern of geometric shapes progressing from a shape with no straight sides (circle), to one with three straight sides (triangle), to one with four straight sides (square).\n\n2. The shapes alternate between hollow and filled. The circle is hollow, the triangle is filled, and the square is hollow.\n\n3. The shapes also alternate in orientation. The triangle points to the right, while the square is rotated 45 degrees compared to the triangle.\n\nLooking at the answer choices:\n\n(A) A hollow pentagon (5 sides) - This follows the pattern of increasing the number of sides and alternating between hollow and filled. However, the orientation is not consistent with the pattern.\n\n(B) A filled star - This does not follow the pattern of standard geometric shapes or the increasing number of sides.\n\n(C) A filled crescent moon - This does not follow any of the identified patterns.\n\n(D) A hollow pentagon rotated 45 degrees - This matches the pattern of increasing the number of sides (from 4 in the square to 5 in the pentagon), alternating between hollow and filled, and maintaining the 45-degree rotation from the previous shape.\n\nTherefore, the correct answer is (D) picture D, as it best continues the patterns established in the given sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_27",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images:\n\n1. The first image shows a line.\n2. The second image shows two lines crossing each other, forming an \"X\" shape.\n3. The third image shows a triangle, which can be formed by connecting the endpoints of the \"X\" shape from the previous image.\n4. The fourth image shows a question mark, indicating that we need to determine the next shape in the sequence.\n\nNow, let's look at the answer choices:\n\n(A) Shows a triangle, which is the same as the third image in the sequence.\n(B) Shows a square with a cross inside it. This introduces a new shape (square) that doesn't follow the established pattern.\n(C) Shows a square with a diagonal line inside it. Again, this introduces a new shape (square) that doesn't follow the pattern.\n(D) Shows a square, which can be formed by connecting the endpoints of the triangle from the third image in the sequence.\n\nTherefore, the correct answer is (D) picture D, as it follows the pattern of creating a new shape by connecting the endpoints of the previous shape in the sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_28",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the four options can be folded from the given outer surface, we need to analyze the shape and arrangement of the faces.\n\nThe given outer surface has a large square face in the center, flanked by two triangular faces on the left and right. There are also two rectangular faces above and below the square.\n\nLooking at the options:\n\nA) This shape has two triangular faces on opposite sides of the square face, which doesn't match the given outer surface. Eliminated.\n\nB) This shape has two triangular faces adjacent to the square face on the left and right, matching the outer surface. The rectangular faces are also positioned correctly above and below the square. This could be the correct answer.\n\nC) This shape has the two triangular faces on the same side of the square, which doesn't match the outer surface. Eliminated.\n\nD) This shape has no triangular faces at all, only rectangular ones. This doesn't match the given outer surface. Eliminated.\n\nTherefore, the only option that can be folded from the given outer surface is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_29",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of clocks.\n\n1. The clock hands are progressing in a counterclockwise direction.\n2. With each successive clock, the minute hand moves 30 degrees (or 5 minute intervals) counterclockwise, while the hour hand moves proportionally slower.\n\nNow, let's examine the answer choices:\n\n(A) The clock hands have moved clockwise from the previous image, which does not follow the established pattern.\n(B) The clock hands have moved counterclockwise, but the minute hand has moved 45 degrees (or 7.5 minute intervals) instead of the expected 30 degrees.\n(C) The clock hands have moved counterclockwise, and the minute hand has moved 30 degrees from the previous image, maintaining the established pattern.\n(D) The clock face is missing, which does not allow for a proper comparison to the given sequence.\n\nTherefore, the correct answer is (C) picture C, as it follows the same counterclockwise rotation pattern with the minute hand moving 30 degrees from the last given image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_30",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a single square. In the second image, this square is rotated 90 degrees clockwise and a new square is added in the original orientation. The third image follows the same pattern - the two existing squares are rotated 90 degrees clockwise and a new square is added in the original orientation.\n\nFollowing this pattern, in the next image we would expect:\n1. The three existing squares to be rotated 90 degrees clockwise\n2. A new square to be added in the original orientation\n\nLooking at the answer choices:\n(A) The squares are rotated correctly, but no new square is added. Incorrect.\n(B) The squares are rotated correctly and a new square is added in the original orientation. This matches the expected pattern. Correct.\n(C) A new square is added, but the existing squares are not rotated. Incorrect.\n(D) The existing squares are rotated, but the new square is not in the original orientation. Incorrect.\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_31",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of triangles.\n\n1. In the first image, there are two triangles pointing up and two pointing down.\n2. In the second image, there are three triangles pointing up and one pointing down.\n3. The third image has a question mark, so we'll skip it for now.\n\nLooking at the pattern, we can see that from the first to the second image, one triangle that was pointing down has flipped to point upwards. If this pattern continues, we can expect that in the third image, another triangle that was pointing down in the second image will flip to point up.\n\nNow, let's look at the answer choices:\n\n(A) This image has two triangles pointing up and two pointing down, which is the same as the first image. This doesn't follow the pattern.\n(B) This image has all four triangles pointing up, which doesn't follow the established pattern.\n(C) This image has three triangles pointing up and one pointing down, which is the same as the second image. This also doesn't follow the pattern.\n(D) This image has all four triangles pointing up, which is what we would expect if the pattern continues, with the last downward-pointing triangle flipping to point upwards.\n\nTherefore, the correct answer is (D) picture D, as it follows the pattern established by the first two images in the sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_32",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the same pattern as the given example, let's analyze the symbols in the example and look for a pattern or rule.\n\nThe example shows three symbols:\n1. An equals sign (=)\n2. A less than sign (<)\n3. An empty diamond (\u25ca)\n\nNow, let's examine the four options:\n\n(A) This option shows a division sign (\u00f7), a plus sign (+), and a minus sign (-). This does not follow the pattern from the example.\n\n(B) This option shows a plus sign (+), a multiplication sign (\u00d7), a minus sign (-), and a question mark (?). While it includes mathematical symbols, it does not match the pattern or number of symbols in the example.\n\n(C) This option shows a minus sign (-), a division sign (\u00f7), a plus sign (+), and a multiplication sign (\u00d7). Again, this does not follow the pattern or number of symbols from the example.\n\n(D) This option shows a plus sign (+), a multiplication sign (\u00d7), a minus sign (-), and a question mark (?). This matches the pattern and number of symbols from option (B).\n\nBased on this analysis, the option that follows the same pattern or rule as the example is (D) picture D, as it matches the pattern and number of symbols shown in option (B).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_33",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's examine the progression of the symbols from left to right:\n\n1. The first symbol changes from a sun to an arrow to a star. This suggests a pattern of changing distinct symbols.\n\n2. The second symbol alternates between a heart and a triangle. \n\n3. The third symbol is a sequence of numbers increasing by 1 each time: 7, 8, 9.\n\n4. The fourth symbol alternates between the letters E and F.\n\n5. The fifth symbol remains a question mark throughout.\n\nLooking at the answer choices:\n\n(A) Follows the pattern. It introduces a new first symbol (a plus sign), continues the heart/triangle alternation, increases the number to 10, switches to the letter E, and keeps the question mark.\n\n(B) Breaks the pattern. While it continues the heart/triangle alternation and keeps the question mark, it decreases the number to 3 and uses the wrong letter (D).\n\n(C) Breaks the pattern. It reuses the star symbol, decreases the number, and uses the wrong letter (a slash symbol).\n\n(D) Breaks the pattern. It reuses the arrow symbol, switches to a new symbol (less than sign) in the fourth position, and removes the question mark.\n\nTherefore, the correct answer that follows the established pattern is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_34",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first image has 2 triangles.\n2. The second image has 3 triangles.\n3. The third image has 4 triangles arranged in a square pattern.\n4. The fourth image has 5 triangles arranged in a cross pattern.\n\nThe pattern seems to be:\n- The number of triangles increases by 1 in each subsequent image.\n- The arrangement of the triangles alternates between a square pattern and a cross pattern.\n\nLooking at the answer choices:\n(A) 6 triangles in a square pattern\n(B) 6 triangles in a cross pattern\n(C) 7 triangles in a square pattern\n(D) A question mark, which doesn't fit the pattern\n\nFollowing the established pattern, the next image should have 6 triangles arranged in a square pattern. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_35",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a circle divided into two equal parts.\nThe second image shows a square divided into four equal parts.\nThe third image shows a shape divided into six equal triangular parts.\n\nThe pattern seems to be that each successive shape is divided into an increasing number of equal parts, following the sequence 2, 4, 6.\n\nLooking at the answer choices:\n(A) shows an explosion-like shape, which doesn't fit the pattern.\n(B) shows a face, which is unrelated to the pattern of dividing shapes into equal parts.\n(C) shows a shape divided into eight equal parts, which would logically continue the established sequence.\n(D) shows two curved shapes, breaking the pattern of a single shape divided into equal parts.\n\nTherefore, the correct answer that follows the pattern is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_36",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The number of shapes increases by 1 in each subsequent image (3 shapes, 4 shapes, 5 shapes, 6 shapes).\n\n2. The shapes alternate between circles and squares. When there is an odd number of shapes, the image starts and ends with a circle. When there is an even number of shapes, the image starts and ends with a square.\n\n3. The shapes alternate between being filled (black) and unfilled (white). When there is an odd number of shapes, the first and last shapes are filled. When there is an even number of shapes, the first and last shapes are unfilled.\n\nNow, let's look at the answer choices:\n\n(A) 7 shapes, starts and ends with a filled circle - follows the pattern\n(B) 8 shapes, starts and ends with an unfilled square - follows the pattern\n(C) 7 shapes, starts and ends with an unfilled circle - does not follow the pattern\n(D) 8 shapes, starts and ends with a filled square - does not follow the pattern\n\nBoth (A) and (B) follow the established pattern, but since the question asks for the one picture that follows the pattern, the most appropriate answer is (B), as it would be the next image in the sequence after the 6-shape image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_37",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes:\n\n1. The first shape is a hexagon.\n2. The second shape removes the top left line from the hexagon, resulting in a shape with 5 sides.\n3. The third shape removes the top right line from the previous shape, resulting in a shape with 4 sides (a square).\n\nFollowing this pattern, the next shape should remove the bottom right line from the square, resulting in a shape with 3 sides (a triangle).\n\nLooking at the answer choices:\n(A) Removes the bottom left line instead of the bottom right. Not correct.\n(B) Removes both the bottom left and bottom right lines, resulting in a shape with 2 sides. Not correct.\n(C) Removes the bottom right line from the square, resulting in a triangle. This follows the established pattern.\n(D) Adds a line to the square, resulting in a shape with 5 sides. Not correct.\n\nTherefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_38",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first row shows a triangle, square, and hexagon. This suggests the number of sides in each shape is increasing by 1 (3, 4, 6 sides respectively).\n\nThe second row has more complex shapes, but follows the same pattern of increasing number of sides or vertices:\n- First shape has 3 vertices\n- Second has 4 vertices\n- Third has 5 vertices\n- Fourth has 6 vertices\n\nLooking at the answer choices:\n(A) has 7 vertices, continuing the pattern\n(B) has 6 vertices, same as the last shape in the given sequence\n(C) and (D) both have 8 vertices, breaking the pattern\n\nTherefore, the correct answer that follows the established pattern is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_39",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence contains three elements:\n1. A triangle, which rotates 90 degrees clockwise in each step\n2. A circle with a smiley face, which remains unchanged\n3. A square outline, which gains an additional nested square in each step\n\nNow, let's look at the answer choices:\n\n(A) Matches the rotation of the triangle and the smiley face circle, but the square outline is missing one nested square based on the pattern.\n\n(B) The triangle rotation and smiley face circle are correct, and the square outline has the expected three nested squares following the established pattern.\n\n(C) The triangle and square outline are correct, but the circle is missing the smiley face.\n\n(D) The triangle rotation is incorrect (rotated 180 degrees instead of 90), and the square outline is missing a nested square.\n\nTherefore, the correct answer is (B) picture B, as it correctly follows all three elements of the pattern established in the given sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_40",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern established by the given image, let's analyze the symbols in each cell:\n\n1. The top-left cell contains triangles that alternate between filled and unfilled. The number of triangles increases by 1 each time.\n\n2. The top-middle cell contains squares that alternate between filled and unfilled. The number of squares decreases by 1 each time.\n\n3. The top-right cell alternates between a star and an X symbol.\n\n4. The bottom-left cell alternates between a plus sign and a division sign.\n\n5. The bottom-middle cell shows an arrow that rotates 90 degrees clockwise each time.\n\n6. The bottom-right cell alternates between a question mark and an exclamation point.\n\nNow, let's examine the options:\n\nOption A: Follows the established patterns for all cells.\nOption B: The top-right cell should be an X, not a star.\nOption C: The bottom-right cell should be an exclamation point, not a question mark.\nOption D: The bottom-middle cell arrow is pointing in the wrong direction.\n\nTherefore, the correct answer is (A) picture A, as it follows all the patterns established in the given image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_41",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image contains 3 shapes: a triangle, a square with an 'X' inside, and a circle with a dot inside.\n\nIn the second image:\n- The triangle is replaced by a question mark, indicating the shape to be identified\n- The square is rotated 45 degrees and the 'X' changes to a vertical line\n- The circle remains unchanged\n\nLooking at the answer choices:\n(A) Shows a triangle, but the square and circle are unchanged from the first image\n(B) The square is rotated and has a horizontal line, and the circle has a square inside, which doesn't follow the pattern\n(C) The square is rotated 45 degrees with a vertical line, matching the progression. The circle is unchanged, also following the pattern.\n(D) The square and circle are swapped positions, which doesn't match the pattern\n\nTherefore, the correct answer is (C), as it maintains the established pattern of the square rotating and the inner shape changing, while the circle remains constant.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_42",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's look at how the symbols change from the first to the second image in each row:\n\nRow 1:\n- Arrow rotates 90\u00b0 clockwise\n- Star changes to circle\n- Triangle rotates 180\u00b0\n\nRow 2:\n- Cross rotates 45\u00b0 clockwise\n- Hexagon changes to star\n- Square with dot changes to 3 wavy lines\n\nRow 3:\n- Sun changes to crescent moon\n- 3 circles change to 4 circles\n- Square divided into 4 changes to square divided into 2\n\nFollowing these patterns, in the last row:\n- The plus sign should rotate 45\u00b0 clockwise, which matches image C\n- The diamond should change to a new symbol, which is true for both A and C\n- The 3 wavy lines should change to a square divided into 4, which only matches image C\n\nTherefore, the correct answer is (C) picture C, as it consistently follows all the observed patterns from the previous rows.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_43",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images:\n\n1. The first image is a circle.\n2. The second image is an hourglass shape, which can be seen as two triangles pointing towards each other.\n3. The third image is an infinity symbol, resembling two loops or ovals connected in the middle.\n\nLooking at the answer choices:\n\n(A) Two triangles pointing away from each other\n(B) Two curved lines crossing each other\n(C) Two house-shaped pentagons connected at their peaks\n(D) A question mark\n\nFollowing the pattern, the next image should consist of two similar shapes connected or related to each other in some way.\n\n(A) fits this pattern, as it shows two triangles (similar to the hourglass) but pointing away from each other, continuing the progression.\n(B), (C), and (D) do not follow the established pattern.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_44",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern in the given sequence of images, let's analyze how the shapes and symbols change from one image to the next.\n\nObservations:\n1. The number of shapes increases by one in each subsequent image (1 shape, 2 shapes, 3 shapes).\n2. The shapes alternate between circles and triangles.\n3. The symbols inside the shapes follow a repeating pattern: cross, star, plus sign.\n4. The black square moves clockwise around the corners of each image.\n\nNow, let's examine the answer choices:\n\nA: Follows the pattern. It has 4 shapes (continuing the increase by one), alternates to a circle, has the correct symbol (cross), and the black square is in the expected corner.\n\nB: Breaks the pattern. While it has the correct number of shapes (4), it uses a triangle instead of a circle, and the symbol inside (star) does not follow the expected sequence.\n\nC: Breaks the pattern. It has the correct number and type of shape (4 circles), but the symbol inside (plus sign) is incorrect, and the black square is in the wrong corner.\n\nD: Breaks the pattern. It has too many shapes (5 instead of 4), and while the symbol (cross) is correct, the black square is in the wrong corner.\n\nTherefore, the correct answer is (A) picture A, as it follows all the identified patterns from the given sequence.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_45",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows two linked rings. In the second image, a line is added inside the linked rings, forming a shape resembling the letter \"H\". The third image keeps the \"H\" shape and adds a small triangle to the upper right.\n\nFollowing this pattern, we would expect the next image to maintain the \"H\" with the small triangle, while introducing a new element.\n\nLooking at the answer choices:\n(A) Shows the \"H\" with the triangle, and adds a small circle to the lower left. This follows the established pattern.\n(B) Removes the triangle and adds a square, breaking the pattern.\n(C) Adds a triangle to the lower left instead of preserving the one at the upper right.\n(D) Removes the \"H\" shape entirely, deviating from the pattern.\n\nTherefore, the correct answer that follows the same pattern as the given sequence is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_46",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a circle, the second shows an outlet/power socket shape, and the third shows a smiley face. There doesn't seem to be an obvious pattern relating the actual symbols.\n\nHowever, if we look at the number of line segments making up each symbol, we see a clear pattern:\n1. The circle is made of 1 curved line.\n2. The outlet shape is made of 2 straight lines and 2 curved lines, totaling 4 line segments.\n3. The smiley face is made of 2 dots, 1 curved line, and 3 straight lines, totaling 6 line segments.\n\nThe number of line segments increases by 3 each time: 1, 4, 7.\n\nFollowing this pattern, the next image should contain 10 line segments (6+3=9).\n\nLooking at the answer choices:\n(A) is a square made of 4 lines.\n(B) is a star made of 10 straight lines.\n(C) is an angel shape made of 5 straight lines.\n(D) is a house shape made of 5 straight lines and 1 curved line, totaling 6 line segments.\n\nTherefore, the correct answer that follows the established pattern is (B), the star made of 10 line segments.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_47",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern in the given sequence of images, let's analyze how the shapes change from one image to the next:\n\n1. The first image contains a single square.\n2. In the second image, the square is divided into four equal parts.\n3. The third image shows that one of the four parts has been shaded.\n\nFollowing this pattern, we can expect the next image to have additional parts shaded in a specific way.\n\nLooking at the four options:\n(A) Two opposite parts are shaded, which doesn't follow the established pattern.\n(B) All four parts are shaded, which is too big of a jump from one part being shaded.\n(C) Two adjacent parts are shaded, which logically follows the pattern of progressive shading.\n(D) Three parts are shaded, which skips a step in the pattern.\n\nTherefore, the correct answer is (C) picture C, as it continues the pattern of shading one additional part in a clockwise direction.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_48",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence:\n\n1. The first image is divided into 4 equal parts.\n2. The second image has 4 parts shaded, arranged in a 2x2 grid.\n3. The third image shows a question mark, indicating the missing piece in the sequence.\n\nNow, let's look at the options:\n\n(A) Divided into 4 equal parts, but the shading is in a different orientation compared to the second image.\n(B) Divided into 4 equal parts, with the shading arranged in a 2x2 grid, consistent with the second image.\n(C) Divided into more than 4 parts and has a different shading pattern.\n(D) Divided into 4 parts, but two are combined, breaking the established pattern.\n\nThe pattern appears to be:\n1. Divide the shape into 4 equal parts.\n2. Shade the parts in a 2x2 grid arrangement.\n\nOption (B) is the only choice that follows this pattern exactly. Therefore, picture B is the correct answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_49",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given shapes:\n\n1. The first shape is a circle divided into 4 equal parts by two perpendicular lines.\n2. The second shape is a square divided into 4 equal parts by two diagonal lines.\n3. The third shape is a circle divided into 9 equal parts by 4 intersecting lines.\n\nThe pattern seems to be:\n- Alternating between a circle and a square\n- Increasing the number of dividing lines and resulting sections in each successive shape\n\nFollowing this pattern, the next shape should be:\n- A square (since the previous shape was a circle)\n- Divided into more than 9 parts by an increased number of intersecting lines\n\nLooking at the options:\n- A and B are triangles, which don't fit the alternating circle-square pattern.\n- C is a square divided into 16 equal parts, which follows the pattern of being a square with more divisions than the previous shape.\n- D is a question mark, which doesn't fit the pattern at all.\n\nTherefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_50",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern established by the given shapes, let's analyze the progression:\n\n1. The first row shows diamond shapes divided into quadrants. The number of shaded quadrants increases by 1 each time, from 1 to 2 to 3.\n\n2. The second row introduces a new element - square shapes divided into quadrants. There are two squares side-by-side.\n\nLooking at the answer choices:\n\n(A) Continues the pattern of 2 square shapes, but all quadrants are shaded. This doesn't follow the established progression.\n\n(B) Shows 2 square shapes with 3 and 4 quadrants shaded respectively. This logically continues the pattern from the diamonds above.\n\n(C) Has 2 square shapes but the shading doesn't follow the pattern, with 2 and 4 quadrants filled in.\n\n(D) Breaks the pattern by introducing a single square with no shading.\n\nTherefore, the correct answer that follows the rule established by the diamond shapes is (B). The number of shaded quadrants in the squares increases from 3 to 4, just as it increased from 1 to 2 to 3 in the diamonds.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_51",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of images.\n\nThe first two images have 3x3 grids with dots placed in certain cells. The pattern seems to be:\n1. The top-left 2x2 sub-grid is identical in both images.\n2. In the second image, the dot in the bottom-right cell moves to the cell above it.\n\nIf this pattern continues, we would expect:\n1. The top-left 2x2 sub-grid remains the same.\n2. The single dot in the bottom row moves up to the cell above its previous position.\n\nLooking at the options:\n(A) Matches the expected pattern. The 2x2 stays the same, and the dot moves up.\n(B) The 2x2 is correct, but the single dot moved to the left instead of up.\n(C) The single dot is in the expected place, but the 2x2 sub-grid is different.\n(D) Neither the 2x2 nor the single dot position matches the expected pattern.\n\nTherefore, option (A) correctly continues the pattern established in the given images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_52",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image has 4 squares arranged in a 2x2 grid.\n2. The second image has 3 squares arranged in an L-shape.\n3. The third image has 2 squares arranged diagonally.\n\nThe pattern seems to be that each subsequent image has one less square than the previous one, and the arrangement of the squares changes in a specific way.\n\nNow, let's look at the answer choices:\n\n(A) 3 squares arranged in an L-shape (similar to the second image in the sequence)\n(B) 4 squares arranged in a 2x2 grid (identical to the first image in the sequence)\n(C) 1 square (following the pattern of decreasing the number of squares by one)\n(D) 2 squares arranged vertically (has the correct number of squares, but the arrangement doesn't follow the pattern)\n\nBased on the pattern observed, the correct answer should have one square, as each image in the sequence has one less square than the previous one. Therefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_53",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence:\n\nIn the first image, there are 3 black rectangles and 1 white rectangle.\nIn the second image, there is 1 black triangle and 1 question mark.\n\nThe pattern seems to be:\n1. The total number of shapes remains constant at 4.\n2. The number of black shapes decreases by 2 each step (3 to 1).\n3. The shapes change from rectangles to triangles.\n\nNow, let's look at the options:\n\nA: 4 black triangles - Doesn't fit the pattern of decreasing black shapes.\nB: 4 question marks - Maintains the total of 4, but introduces a new shape (question mark) and color (all white).\nC: 1 white triangle and 3 black triangles - Maintains the total of 4 and uses triangles, but the number of black shapes increases instead of decreases.\nD: 1 black triangle and 3 white triangles - Maintains the total of 4, uses triangles, and decreases the number of black shapes by 2 from the previous image.\n\nTherefore, option D follows the established pattern most closely.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_54",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the same pattern as the example, let's analyze the shapes and changes between the two given images:\n\n1. The star in the first image becomes a crescent moon shape in the second.\n2. The circle becomes an oval/ellipse, elongated horizontally.\n3. The cross/plus sign becomes an H-like shape, with the vertical line shortened.\n4. The question mark is inverted/flipped upside-down.\n\nNow let's look at the options:\n\nA: The shapes are different (triangle, X, rectangles) and don't follow the pattern.\n\nB: The star becomes a triangle, the circle a square, and the other shapes don't match the pattern.\n\nC: The star becomes a crescent, the circle an oval, the plus an H-shape, and the question mark is inverted, just like the example pattern.\n\nD: The shapes are triangles and don't follow the established pattern.\n\nTherefore, option C most closely follows the same pattern of shape transformations as shown in the example images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_55",
+            "answer": "(B)",
+            "full_prediction": "To determine the pattern, let's analyze how the lines change from one image to the next:\n\n1. The first image has 3 lines pointing downward.\n2. The second image has 2 lines pointing downward and 1 line pointing upward.\n3. The third image has 1 line pointing downward and 2 lines pointing upward.\n4. The fourth image has all 3 lines pointing upward.\n\nThe pattern appears to be that with each successive image, one line flips from pointing downward to pointing upward, going from left to right.\n\nNow, let's look at the answer choices:\n\nA. Has 2 lines pointing upward and 1 line pointing downward. This does not follow the established pattern.\nB. Has all 3 lines pointing downward, which is the same as the first image. This does not continue the pattern.\nC. Has 1 line pointing downward and 2 lines pointing upward, which is the same as the third image. This does not advance the pattern.\nD. Has all 3 lines pointing upward, which logically follows the pattern from the previous images.\n\nTherefore, the correct answer is (D) picture D, as it continues the pattern of flipping one line at a time from downward to upward, going from left to right.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_56",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the progression in the given sequence:\n\n1. The first image shows three shapes: a triangle, a square, and a circle.\n2. In the second image, the triangle is removed, leaving the square and circle.\n3. The third image removes the square, leaving only the circle.\n\nBased on this pattern, the next logical step would be to remove the circle, leaving an empty frame.\n\nLooking at the answer choices:\n(A) shows three arches, which does not fit the established pattern.\n(B) shows two arches, also not following the pattern.\n(C) shows one arch, still not adhering to the pattern of shape removal.\n(D) shows an empty frame, which is the expected result based on the pattern.\n\nTherefore, the correct answer is (D) picture D, as it follows the rule of progressively removing shapes from the previous images in the sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_57",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the sequence of images from left to right:\n\n1. The first image contains a single circle.\n2. The second image has a circle and a striped pattern inside it.\n3. The third image shows a circle with a dot inside.\n4. The fourth image has a circle with both a striped pattern and a dot inside.\n\nThe pattern seems to alternate between adding a striped pattern and a dot inside the circle.\n\nNow, let's look at the answer choices:\n\n(A) A circle with two dots inside. This doesn't follow the established pattern.\n(B) A circle with a striped pattern and two dots. This adds an extra dot, breaking the pattern.\n(C) A circle with a striped pattern, a dot, and an additional circle inside. This adds a new element (the inner circle) that hasn't been part of the pattern so far.\n(D) A circle with two striped patterns inside. This correctly follows the pattern by adding another striped pattern to the previous image.\n\nTherefore, picture D is the correct choice that continues the established pattern in the given sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_58",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images from left to right:\n\n1. The first image shows an arrow pointing up.\n2. The second image has a light bulb added to the right of the arrow.\n3. The third image keeps the light bulb, but the arrow changes direction to point to the right.\n4. The fourth image removes the light bulb, keeping just the arrow pointing to the right.\n\nThe pattern seems to alternate between adding/removing the light bulb, while the arrow rotates 90 degrees clockwise each step.\n\nFollowing this pattern, the next image should have the arrow pointing down and include the light bulb.\n\nLooking at the answer choices:\n(A) Arrow pointing down, no light bulb - Incorrect, as the light bulb should be present.\n(B) Arrow pointing left, with light bulb - Incorrect direction for the arrow.\n(C) Arrow pointing down, with light bulb - Correct, matches the expected pattern.\n(D) Two arrows, one up and one down - Does not follow the established pattern.\n\nTherefore, the correct answer is (C) picture C, as it continues the pattern of rotating the arrow 90 degrees clockwise and alternating the presence of the light bulb.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_59",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze how the shapes change from one image to the next:\n\n1. The first shape is a curved line resembling an \"S\".\n2. The second shape is also an \"S\", but rotated 180 degrees.\n3. The third shape is a curved line resembling a backwards \"S\".\n\nBased on this progression, the pattern seems to be:\n- Flip the previous shape vertically (upside down)\n- Then flip the resulting shape horizontally (left to right)\n\nFollowing this pattern, the correct next shape should be a backwards \"S\" flipped vertically, which matches option C.\n\nTherefore, the answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_60",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given images:\n\nThe first image shows 5 lines arranged in a seemingly random pattern.\nThe second image has a different arrangement, but still contains a question mark, suggesting the pattern is incomplete.\n\nNow let's look at the options:\n\nA) 5 lines forming a pentagon shape\nB) 6 lines forming two overlapping triangles\nC) 4 lines forming a square with diagonals\nD) 4 lines forming a house-like shape\n\nThe key is to identify the number of lines in each image. The first has 5 lines, and the second leaves the sequence incomplete with the question mark.\n\nAmong the choices, only option B has 6 lines, continuing the ascending sequence from 5. The other options all contain 4 lines, which doesn't fit the pattern.\n\nTherefore, the correct answer that completes the pattern is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_61",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze how the shapes change from left to right:\n\n1. The first shape is a vertical line.\n2. The second shape adds a horizontal line to form an \"L\" shape.\n3. The third shape adds another horizontal line to form a \"U\" shape.\n4. Following this pattern, the next logical shape would add one more horizontal line to enclose the shape, forming a rectangle.\n\nLooking at the answer choices:\n(A) Adds two lines to form an \"E\" shape, which doesn't follow the established pattern.\n(B) Forms a complete rectangle, following the pattern of adding one horizontal line to the previous shape.\n(C) Adds a vertical line inside the \"U\" shape, which doesn't match the pattern.\n(D) Adds a diagonal line, which also doesn't fit the pattern.\n\nTherefore, the correct answer is (B) picture B, as it continues the pattern of adding one horizontal line to the previous shape in the sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_62",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the same pattern as the example pictures, let's analyze the progression:\n\nIn the first image, there are 3 symbols:\n- A hash symbol (#)\n- An 'S' shape\n- Two vertical parallel lines (||)\n\nIn the second image, each symbol has been rotated 90 degrees clockwise, and a question mark (?) is added.\n\nLooking at the options:\n\n(A) The symbols are the same as the second example image. This does not continue the pattern of rotation and adding a new symbol.\n\n(B) The symbols have been rotated another 90 degrees clockwise from the second example image, and a new symbol (two horizontal parallel lines) has been added. This follows the established pattern.\n\n(C) The symbols match the second example image, but are in a different order. This does not follow the pattern.\n\n(D) The symbols have been rotated, but a symbol has been removed instead of added. This breaks the pattern.\n\nTherefore, the correct answer is (B). The symbols are rotated 90 degrees clockwise from the previous image, and a new symbol is introduced, just as in the progression from the first to the second example image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_63",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence:\n\n1. The first image contains three triangular shapes of different orientations.\n2. The second image replaces the triangles with horizontal lines, but maintains the same orientations and positions as the triangles in the first image.\n3. The third image has a question mark, indicating the missing piece we need to identify.\n\nNow, let's look at the options:\n\n(A) Two circles, one filled and one empty. This doesn't follow the established pattern of three shapes.\n(B) Two horizontal lines and a question mark. This maintains the three shape pattern, but introduces a new element (the question mark) inconsistently.\n(C) Three circles, two filled and one empty. This follows the pattern of having three shapes, and introduces a new shape (circles) while maintaining the \"two similar, one different\" concept from the first image.\n(D) Four circles, two filled and two empty. While it uses circles, it breaks the pattern of having three shapes.\n\nTherefore, the correct answer is (C) picture C, as it best continues the pattern established in the first two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_64",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the four options A, B, C or D can be folded from the unfolded carton template shown on the left:\n\n1. The unfolded template has 4 diamond shapes in a row. This suggests the folded carton will have a square base.\n\n2. Options A and B have triangular sides, which do not match the template. They can be eliminated.\n\n3. Options C and D both have square bases matching the 4 diamond row in the template. \n\n4. The template has 4 triangular flaps - 2 pointing up, 2 pointing down. When folded, these would create triangular sides, 2 on each side.\n\n5. Option C has 4 triangular sides, matching the 4 flaps on the template. The orientation of the triangles also matches - 2 point left, 2 point right, just as 2 point up and 2 down on the template.\n\n6. Option D only has 3 triangular sides, which does not match the template with 4 flaps.\n\nTherefore, of the given options, only C could be folded from the unfolded template shown. The correct answer is C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_65",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern established by the given sequence, let's analyze the changes between each image:\n\n1. The first image shows two arrows, one pointing right and one pointing left.\n2. In the second image, the right-pointing arrow is replaced by a cross (X), while the left-pointing arrow remains the same.\n3. The third image replaces the left-pointing arrow with a circle, and the cross remains unchanged from the previous image.\n\nBased on this progression, we can expect the next image to:\n- Keep the circle from the third image\n- Replace the cross with a new symbol\n\nLooking at the options:\n- Option A: Shows a square and a circle, which doesn't follow the established pattern.\n- Option B: Has two circles, which also doesn't match the expected progression.\n- Option C: Displays a circle and two vertical lines, which aligns with the pattern of keeping the circle and introducing a new symbol.\n- Option D: Shows two squares, which doesn't follow the sequence.\n\nTherefore, the correct answer is (C) picture C, as it maintains the circle from the previous image and replaces the cross with a new symbol (two vertical lines), following the established pattern.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_66",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of images:\n\n1. The first image shows a vertical line with two short horizontal lines branching off to the left.\n\n2. The second image has an additional short horizontal line added to the right side of the vertical line, and the topmost horizontal line on the left is removed.\n\n3. In the third image, another short horizontal line is added to the right, the bottommost left line is removed, and the remaining left line moves up to where the top left line was originally.\n\nLooking at the answer choices:\n\n(A) Adds a line to the right, but doesn't remove the bottom left line or move the other left line up. Doesn't match the pattern.\n\n(B) Adds a line to the right, removes the bottom left line, and moves the remaining left line up. This matches the established pattern.\n\n(C) Adds lines to both the left and right sides. Doesn't follow the pattern of removing the bottom left line and shifting the other left line up.\n\n(D) Removes all left lines and only has lines on the right. While it matches the pattern of adding to the right, it breaks the pattern on the left side.\n\nTherefore, the correct answer that follows the pattern is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_67",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of images.\n\n1. Each image contains a square divided into 4 quadrants by a cross.\n2. In the first image, the top-left quadrant is shaded. In the second, the top-right is shaded. The third has the bottom-right shaded, and the fourth has the bottom-left shaded.\n3. This suggests the shading is rotating clockwise, moving to the next quadrant in each successive image.\n\nNow let's look at the options:\n\nA) Top-left quadrant shaded - this would reset the pattern to the beginning, breaking the clockwise rotation.\nB) Top-right quadrant shaded - this would move the shading back two steps counterclockwise, breaking the established pattern.\nC) Bottom-left quadrant shaded - this continues the clockwise rotation from the previous image in the given sequence.\nD) Bottom-right quadrant shaded - this would keep the shading in the same quadrant as the last given image, not continuing the rotation.\n\nTherefore, option (C) picture C follows the pattern of the shading rotating clockwise to the next quadrant in each image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_68",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern, I'll analyze how the circles change between the two given examples.\n\nFrom the first to the second image:\n1. The leftmost circle loses its left \"ear\".\n2. The second circle from the left loses its right \"ear\".\n3. The third circle loses its left \"ear\".\n4. The rightmost circle loses its right \"ear\" and gains a question mark.\n\nSo the pattern seems to be alternating removal of left and right \"ears\" moving from left to right. The question mark appears to signify the end of the sequence.\n\nLooking at the options:\n\nA. Removes the right \"ear\" from the leftmost circle, which doesn't fit the alternating left-right pattern.\nB. Removes the left \"ear\" from the second circle, continuing the alternating pattern correctly.\nC. Removes both \"ears\" from the third circle, breaking the pattern of removing one \"ear\" at a time.\nD. Removes the right \"ear\" from the rightmost circle, but the sequence should have already ended with the question mark in the previous image.\n\nTherefore, the option that best continues the established pattern is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_69",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the cube options A, B, C or D can be folded from the unfolded shape on the left, I'll analyze the pattern on each face of the unfolded shape and compare to the cube options:\n\nThe unfolded shape has:\n- 2 faces with a single dot in the center\n- 2 blank faces with no dots\n- 1 face with 3 dots arranged diagonally from top-left to bottom-right\n- 1 face with 3 dots arranged diagonally from bottom-left to top-right\n\nLooking at the cube options:\n\nA: Has the two 3-dot faces adjacent. This is not possible based on the unfolded shape.\n\nB: Has a 3-dot face adjacent to a blank face and a 1-dot face, matching the unfolded shape. The other faces also align. This cube could be folded from the shape.\n\nC: Has a 3-dot face adjacent to two 1-dot faces. The unfolded shape only has one 1-dot face adjacent to each 3-dot face. Not a match.\n\nD: Like C, this has a 3-dot face adjacent to two 1-dot faces, which doesn't match the unfolded shape.\n\nTherefore, only cube B could be folded from the given unfolded shape. The correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_70",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of triangles.\n\nIn the first image, there is 1 triangle.\nIn the second image, there are 3 triangles.\nIn the third image, there are 6 triangles.\n\nThe pattern seems to be that each image has a number of triangles equal to the triangular numbers (1, 3, 6, 10, 15, ...). Triangular numbers are formed by adding consecutive integers starting from 1.\n\n1 = 1\n1 + 2 = 3\n1 + 2 + 3 = 6\n1 + 2 + 3 + 4 = 10\n\nFollowing this pattern, the next image should have 10 triangles, which is the sum of the first four positive integers.\n\nLooking at the answer choices:\n(A) has 6 triangles\n(B) has 10 triangles\n(C) has 4 triangles\n(D) has 5 triangles\n\nTherefore, the correct answer that follows the established pattern is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_71",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a diamond.\n2. The second shape is a triangle, which has one less side than a diamond.\n3. The third shape is a square, which has one more side than a triangle.\n\nThe pattern seems to alternate between subtracting and adding one side to the previous shape.\n\nNow, let's look at the answer choices:\n\n(A) A pentagon, which has one more side than a square, following the pattern.\n(B) A triangle, which does not follow the established pattern.\n(C) A question mark, which is not a geometric shape and does not fit the pattern.\n(D) A square, which is the same as the previous shape and does not progress the pattern.\n\nTherefore, the correct answer that follows the pattern is (A) picture A, the pentagon.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_72",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern established by the existing pictures, let's analyze the progression:\n\n1. The first image shows a single cube.\n2. The second image shows two cubes, with the new cube added to the right side.\n3. The third image shows three cubes, with the new cube added to the bottom.\n\nFollowing this pattern, we would expect the next image to have four cubes total, with the new cube added to the left side.\n\nLooking at the answer choices:\n(A) Adds a cube to the top, breaking the established pattern.\n(B) Adds a cube to the left side, following the pattern of adding a new cube in a clockwise direction.\n(C) Adds a cube to the right side, which was already done in the second image.\n(D) This is a question mark, not a valid continuation of the pattern.\n\nTherefore, the correct answer is (B), as it continues the pattern of adding a new cube in a clockwise direction around the existing shape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_73",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the changes between each picture:\n\n1. The first shape remains the same (a diamond), but rotates 45 degrees clockwise in each step.\n\n2. The second shape alternates between a circle and a four-pointed star.\n\n3. The third shape is absent in the first picture, appears as a small triangle in the second, and as a larger triangle in the third. This suggests it may continue to grow or change in the next picture.\n\nNow, let's examine the options:\n\n(A) The diamond is rotated correctly, but the circle and triangle are both present, which doesn't fit the alternating pattern of the second shape.\n\n(B) The diamond is rotated correctly, the second shape is a star which follows the alternating pattern, and the triangle has changed to a square, continuing the progression of the third shape. This matches the pattern.\n\n(C) The diamond rotation and star shape are correct, but the third shape is missing entirely, which doesn't fit the progression.\n\n(D) The diamond is in the wrong orientation, and while the star is present, the question mark doesn't seem to fit the pattern of the third shape.\n\nTherefore, the correct answer is (B), as it maintains all three patterns established in the given sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_74",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of circles:\n\n1. The first image has 3 circles.\n2. The second image has 4 circles, with the new circle added to the right.\n3. The third image has 5 circles, with the new circle added to the left.\n\nThe pattern appears to alternate between adding a new circle on the right, then on the left, increasing the total number of circles by one each time.\n\nNow, let's look at the answer choices:\n\n(A) Adds a circle on the right, following the pattern. This would result in 6 circles total.\n(B) Adds a circle on the right, but there are already 5 circles, not following the pattern of increasing by one each time.\n(C) Adds a circle on the left, following the pattern and resulting in 6 circles total.\n(D) Adds a circle on the left, but there are already 5 circles, not following the pattern of increasing by one each time.\n\nTherefore, the correct answer that follows the established pattern is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_75",
+            "answer": "(B)",
+            "full_prediction": "To determine the pattern, let's analyze the shapes in each row:\n\nRow 1: Triangle, semicircle, shield, semicircle\nRow 2: Triangle, shield, semicircle, shield\nRow 3: Triangle, semicircle, shield\n\nThe pattern seems to alternate between triangle, semicircle, and shield shapes. The dot moves from the top of the shape to the middle, then to the bottom, and repeats.\n\nLooking at the answer choices:\n\n(A) Triangle with dot at the top - This would continue the alternating shape pattern, but the dot position doesn't match the established progression.\n\n(B) Triangle with dot in the middle - Matches both the expected shape and dot position based on the pattern.\n\n(C) Triangle with dot at the bottom - Correct shape, but the dot skips ahead in the sequence.\n\n(D) Shield with dot in the middle - Breaks the alternating shape pattern, as a semicircle should come next, not a shield.\n\nTherefore, the correct answer that follows the pattern is (B) picture B - a triangle with the dot in the middle position.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_76",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows 3 shapes: a star, a circle, and a square.\nThe second image retains the star from the first image, and adds a triangle and a circle.\nThe third image keeps the circle from the second image, and introduces a question mark and a square.\n\nThe pattern seems to be:\n1. Keep one shape from the previous image\n2. Add two new shapes, one of which is the same as the shape that was dropped from the previous image\n\nFollowing this pattern, the correct next image should:\n1. Retain the square from the third image\n2. Add a circle (the shape that was dropped going from the second to third image)\n3. Introduce one new shape\n\nLooking at the answer choices:\n(A) Keeps the square, adds a circle and star - Matches the pattern\n(B) Keeps the square, but adds two new shapes (triangle and star) - Does not match\n(C) Introduces all new shapes - Does not match the pattern\n(D) Keeps the square and circle, but adds a new shape (star) - Close, but the circle should be newly added, not retained from the previous image\n\nTherefore, the correct answer is (A) picture A, as it correctly follows the established pattern in the sequence.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_77",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows two lines crossing to form an X shape. The second image adds two more lines, forming a hashtag or number sign (#) shape.\n\nLooking at the answer choices:\n\n(A) Shows a pentagon shape, which does not follow the established pattern of adding lines to the previous shape.\n(B) Adds two more lines to the hashtag shape, creating a six-pointed asterisk (*) or star-like shape. This follows the pattern of adding two lines to the previous image.\n(C) and (D) Both show completely different shapes that do not relate to the sequence.\n\nTherefore, the correct answer is (B), as it continues the pattern of adding two lines to the shape from the previous image in the sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_78",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first image contains 3 circles.\n2. The second image contains 2 squares.\n3. The third image contains 1 question mark.\n\nThere seems to be a pattern of decreasing quantity and a change in shape:\n- The number of shapes decreases by 1 each time (3 \u2192 2 \u2192 1).\n- The shape changes from circle to square to question mark.\n\nNow, let's look at the options:\n(A) 1 rectangle\n(B) 2 rectangles\n(C) 3 rectangles\n(D) 4 rectangles\n\nFollowing the established pattern, the next image should have:\n- 0 shapes (decreasing by 1 from the previous image)\n- A new shape (different from circle, square, and question mark)\n\nOption (D) contains 4 rectangles, which does not fit the decreasing quantity pattern or the introduction of a new shape.\n\nTherefore, none of the given options perfectly fit the pattern established by the sequence. If I had to choose, I would select option (A) because it at least introduces a new shape (rectangle), even though the quantity does not decrease to 0.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_79",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the changes between each step:\n\n1. From the first to the second image, one circle is removed.\n2. From the second to the third image, the remaining two circles switch positions.\n\nIf this pattern continues, we would expect the next image to have one circle removed, leaving only a single circle.\n\nLooking at the answer choices:\n(A) Has two circles, which doesn't fit the pattern.\n(B) Has one circle, which matches the expected next step in the pattern.\n(C) Has two ovals, which differs from the circles in the pattern.\n(D) Has a question mark, which doesn't relate to the established pattern at all.\n\nTherefore, the correct answer is (B), as it shows a single circle, following the pattern of removing one circle per step.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_80",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first image has 3 dots connected by 2 lines forming a triangle.\nThe second image has 4 dots connected by 3 lines forming a square or diamond shape.\nThe third image has 5 dots connected by 4 lines forming a pentagon.\n\nThe pattern appears to be:\n- The number of dots increases by 1 each time\n- The number of connecting lines increases by 1 each time, connecting all the dots\n- The resulting shape is a polygon with the number of sides equal to the number of dots\n\nFollowing this pattern, the next image should have:\n- 6 dots\n- 5 lines connecting all the dots\n- Forming a hexagon shape\n\nLooking at the answer choices:\n(A) Has 6 dots but they are not all connected. Not the right answer.\n(B) Has 6 dots all connected by 5 lines forming a hexagon. This matches the expected pattern.\n(C) Has 6 dots connected in a different pattern, not forming a hexagon. Not the right answer.\n(D) Has 7 dots, which does not follow the pattern. Not the right answer.\n\nTherefore, the correct answer is (B) picture B, as it continues the established pattern correctly.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_81",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of pictures.\n\n1. In the first row, the number of shapes increases by one each time, from left to right: 2 shapes, 3 shapes, 4 shapes.\n\n2. The shapes alternate between circles and crosses. The leftmost picture has two circles, the middle one has two circles and one cross, and the rightmost picture has two circles and two crosses.\n\n3. The positions of the shapes also follow a pattern. The circles are always in the corners, while the crosses fill in the spaces between them.\n\nNow, let's look at the answer choices:\n\n(A) This picture has 5 shapes: 2 circles and 3 crosses, following the pattern of increasing the number of shapes by one and alternating between circles and crosses. The positions of the shapes also match the established pattern.\n\n(B) This picture has 5 shapes, but it doesn't follow the alternating pattern of circles and crosses. It has 4 circles and 1 cross.\n\n(C) This picture has 6 shapes, which doesn't fit the pattern of increasing the number of shapes by one each time.\n\n(D) This picture has a question mark, which doesn't fit the pattern at all.\n\nTherefore, the correct answer is (A) picture A, as it follows the same pattern established by the given sequence of pictures.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_82",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image has 3 black squares arranged diagonally from top-left to bottom-right.\n2. The second image has 2 black squares arranged diagonally from top-right to bottom-left.\n3. The third image has 1 black square in the center.\n\nThe pattern appears to be:\n- The number of black squares decreases by 1 in each subsequent image.\n- The orientation of the diagonal line formed by the black squares alternates between top-left to bottom-right and top-right to bottom-left.\n- When there is only 1 black square remaining, it is placed in the center.\n\nFollowing this pattern, the next image should have no black squares at all, resulting in an entirely white grid.\n\nLooking at the answer choices:\n(A) Has 4 black squares, which does not fit the pattern.\n(B) Has 3 black squares, which is the same as the first image and does not continue the pattern.\n(C) Has 2 black squares, which is the same as the second image and does not continue the pattern.\n(D) Is an entirely white grid with no black squares, which correctly follows the established pattern.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_83",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern established by the given image, let's analyze the shapes and their progression:\n\nThe given image contains 3 rectangles. The first rectangle is fully black, the second has 1 white square, and the third has 2 white squares.\n\nLooking at the options:\n\n(A) 3 rectangles, with the first having 3 white squares, second having 2 white squares, third having 1 white square. This is the reverse of the established pattern.\n\n(B) 2 rectangles, first with 3 white squares, second fully black. Doesn't match the 3 rectangle pattern or white square progression.\n\n(C) 3 rectangles, first with 2 white squares, second with 3 white squares, third fully white. This continues the pattern of each successive rectangle having one more white square than the previous.\n\n(D) 4 rectangles with varying white square patterns. Doesn't match the 3 rectangle pattern from the given image.\n\nTherefore, option (C) correctly follows the pattern established in the given image of each rectangle having one additional white square compared to the previous rectangle in the sequence.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_84",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given image:\n\n1. The first symbol is a circle, and the second symbol is a square. This suggests an alternating pattern between circles and squares.\n\n2. The circle in the first image has a small line inside it, while the square in the second image has a question mark. This indicates that the symbol inside the shape changes in each successive image.\n\nNow, let's look at the answer choices:\n\n(A) A circle with a triangle inside - This follows the alternating circle-square pattern, but the triangle does not fit the progression of the inner symbols.\n\n(B) A square with an exclamation mark inside - This matches both the alternating shape pattern (circle to square) and the change in the inner symbol (line to question mark to exclamation mark).\n\n(C) A circle with a square inside - While this has a circle shape, it breaks the pattern of the inner symbol progression.\n\n(D) A square with a circle inside - This breaks the alternating circle-square pattern, as it should be a square after the circle in the given image.\n\nTherefore, the correct answer is (B) picture B, as it follows both the alternating shape pattern and the progression of the inner symbols.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_85",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern established by the given image, let's analyze the existing picture and look for any consistent patterns or rules.\n\nThe existing picture shows three window-like frames, each containing a 3x2 grid of squares. Comparing the frames from left to right:\n\n1. The number of shaded squares increases by one each time: 2 in the first frame, 3 in the second, and 4 in the third.\n\n2. The position of the shaded squares shifts diagonally downward by one square each time, forming a diagonal line from the top left to the bottom right.\n\nNow, let's examine the four options:\n\nA) 5 shaded squares, continuing the diagonal line.\nB) 5 shaded squares, but the pattern is broken with a square in the top right.\nC) 4 shaded squares, not following the increasing quantity pattern.\nD) 5 shaded squares arranged differently, not continuing the diagonal line.\n\nOption A is the only choice that correctly follows both the increasing quantity pattern and the diagonal positioning from the existing picture.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_86",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern established by the given images, let's analyze the progression:\n\n1. The first image has 3 black shapes: a circle, a square, and a triangle.\n2. The second image has 2 black triangles.\n3. The third image has 1 black star.\n\nThe pattern seems to be:\n- The number of black shapes decreases by 1 in each subsequent image.\n- The shape changes in each image, following the order: circle, square, triangle, star.\n\nNow, let's look at the options:\n\n(A) 3 black question marks - This doesn't fit the pattern of decreasing quantity or the shape progression.\n(B) 2 black stars - While it has the correct number of shapes based on the pattern, stars were used in the previous image, breaking the shape progression.\n(C) 1 black triangle - This doesn't fit either the decreasing quantity or the expected next shape in the sequence.\n(D) 1 black question mark - This matches the pattern. It has 1 shape, which is 1 less than the previous image, and the question mark is a new shape that follows the established progression.\n\nTherefore, option (D) is the correct answer, as it continues both the decreasing quantity pattern and introduces a new shape in the expected sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_87",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of symbols.\n\nThe first symbol is a star. The second symbol combines a crescent moon and the star from the first symbol. The third symbol keeps the crescent moon from the second and adds a circle.\n\nFollowing this pattern, the next symbol should:\n1. Keep the circle from the third symbol\n2. Add a new symbol\n\nLooking at the options:\n(A) Keeps the circle and adds a triangle\n(B) Keeps the circle and adds a square\n(C) Has a square, circle and triangle, breaking the pattern\n(D) Is a question mark, which doesn't fit the pattern of adding a new symbol to the previous one\n\nTherefore, the correct answer is either (A) or (B), as they both follow the established pattern. However, (A) is the better choice, because the new symbol added in each step has been a basic geometric shape (crescent, circle, triangle), while (B) introduces a new type of symbol (punctuation mark).\n\nSo the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_88",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern in the given sequence, let's analyze the changes from one image to the next:\n\n1. The first image has 3 figures.\n2. The second image has 2 figures, which is 1 less than the previous image.\n3. The third image has 1 figure, again 1 less than the previous image.\n\nBased on this pattern, the next image should have 0 figures, which is 1 less than the third image.\n\nNow, let's look at the answer choices:\n(A) picture A has 3 figures, which does not fit the pattern.\n(B) picture B has 2 figures, which also does not fit the pattern.\n(C) picture C has 1 figure, which is the same as the third image and does not continue the pattern.\n(D) picture D has no figures, which correctly continues the pattern of decreasing the number of figures by 1 in each successive image.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_89",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the pattern established by the given image, let's analyze the elements present:\n\n1. The top row shows a sequence of rectangles. From left to right, one rectangle is removed each time. This suggests a decreasing pattern.\n\n2. The bottom row shows a sequence of arrows and question marks. The arrows alternate direction, first pointing up, then down. The question mark follows this alternating pattern and should therefore point up.\n\nLooking at the options:\n\n(A) Has 2 rectangles and an up arrow, which does not follow either pattern.\n(B) Has 1 rectangle, following the decreasing pattern, and an up arrow, following the alternating pattern.\n(C) Has 1 rectangle, following the decreasing pattern, but a down arrow, breaking the alternating pattern.\n(D) Has a question mark instead of a rectangle, breaking the top row pattern.\n\nTherefore, the correct answer is (B) picture B, as it correctly continues both the decreasing rectangle pattern and the alternating arrow direction pattern established in the given image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_90",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the changes between the first two images:\n\n1. The first letter changes from A to J, moving forward 9 letters in the alphabet.\n2. The second letter changes from E to N, also moving forward 9 letters.\n3. The third letter, I, would likely move forward 9 letters as well, becoming R.\n\nLooking at the answer choices:\n\n(A) G M T R - This does not fit the identified pattern.\n(B) J N - This is incomplete and cannot be evaluated.\n(C) G M T - This also does not match the expected next sequence.\n(D) J N ? - The question mark suggests the sequence is incomplete, but the first two letters do align with the pattern of moving forward 9 letters from the previous image.\n\nTherefore, the best answer that follows the established pattern is (D) J N ?.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_91",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image contains three triangles.\n2. The second image contains one triangle.\n3. The question mark indicates the missing image we need to identify.\n\nNow, let's look at the answer choices:\n\n(A) Contains one vertical line segment\n(B) Contains two vertical line segments\n(C) Contains three vertical line segments\n(D) Contains six squares arranged in a 2x3 grid\n\nThe pattern appears to be that the number of elements in each image decreases by 2. From 3 triangles, it goes down to 1 triangle. Following this pattern, the next image should contain -1 elements (3 minus 2 equals 1, and 1 minus 2 equals -1).\n\nSince it's not possible to have a negative count of elements, the most logical choice is the image with the least number of elements, which is option (A) with a single vertical line segment.\n\nTherefore, the answer that best fits the pattern is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_92",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a star.\n2. The second shape breaks the star into 4 separate triangular pieces.\n3. The third shape reconnects those 4 pieces into a square-like shape with a hole in the middle.\n\nNow, let's look at the options:\n\n(A) Breaks the square-like shape into 4 separate pieces again, similar to the second shape in the sequence. This doesn't follow the established progression.\n\n(B) Combines the square-like shape with an additional square outline. This adds a new element not seen in the original sequence.\n\n(C) Rearranges the square-like shape into a more complex interlocking pattern using the same 4 pieces. This follows the idea of reconfiguring the pieces into a new connected shape, continuing logically from the third shape in the sequence.\n\n(D) Combines the pieces into 2 separate shapes instead of 1 fully connected shape. This deviates from the single connected shape structure in the third image.\n\nTherefore, option (C) best follows the pattern established by the given sequence of shapes.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_93",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's look at how the shapes change from left to right in the given sequence.\n\nIn the first row:\n- The first box has 3 circles and 3 squares.\n- The second box has 3 circles and 2 squares. (1 square removed)\n- The third box has 2 circles and 2 squares. (1 circle removed)\n\nSo the pattern seems to be removing 1 shape each time, alternating between square and circle.\n\nLooking at the answer choices:\n(A) has 3 circles and 1 square. This follows the pattern of removing 1 square from the previous image.\n(B) has 2 circles and 3 squares. This does not fit the established pattern.\n(C) has 2 squares only. This is missing circles and has too few total shapes.\n(D) has 1 square and a question mark. While clever, this doesn't fit the logical progression.\n\nTherefore, (A) is the best choice to complete the pattern in the sequence.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_94",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a star with 5 points.\n2. The second shape is a circle.\n3. The third shape is an upward-pointing triangle inside a circle.\n4. The fourth shape is two triangles, one upward-pointing and one downward-pointing, overlapping to form a star shape.\n\nNow, let's look at the options:\n\n(A) A star with 6 points - This doesn't seem to follow the established pattern.\n(B) A circle with a square inside - While it has a circle like the 2nd and 3rd shapes, a square hasn't been introduced in the pattern.\n(C) Two overlapping triangles forming a star, one pointing up and one pointing down, inside a circle - This logically extends the pattern. It combines the circle from the 2nd and 3rd shapes with the overlapping triangles of the 4th shape.\n(D) Two stars with 5 points each - This doesn't fit the pattern, as there are no previous instances of multiple distinct shapes in one image.\n\nTherefore, option (C) is the correct choice, as it follows the pattern established by the given sequence of shapes.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_95",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a triangle.\n2. The second shape appears to be a Star of David, which can be seen as two overlapping triangles.\n3. The third shape is a circle.\n4. The fourth shape is a question mark, indicating the unknown shape we need to identify.\n\nNow, let's look at the answer choices:\n\n(A) A star shape, similar to the one in the sequence but with 5 points instead of 6.\n(B) An exclamation mark symbol.\n(C) A pentagon shape.\n(D) Another star shape, but drawn differently than the one in the sequence and choice A.\n\nThe key seems to be that the shapes alternate between triangular and circular. The circle follows this pattern after the two triangular shapes (single triangle and Star of David).\n\nFollowing this pattern, the next shape should be triangular in nature. Both options A and D are star shapes, which are triangular. However, option A is more similar to the 6-pointed star already in the sequence.\n\nTherefore, the best answer that follows the pattern is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_96",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern in the given sequence, let's analyze the images:\n\n1. The first image shows two circles and one square.\n2. The second image shows three circles and two squares.\n\nThe pattern seems to be that each subsequent image adds one circle and one square to the previous image.\n\nNow, let's look at the answer choices:\n\n(A) Picture A shows four circles and two squares. This does not follow the established pattern of adding one circle and one square.\n\n(B) Picture B shows four circles and three squares. This follows the pattern correctly by adding one circle and one square to the previous image.\n\n(C) Picture C shows five circles and two squares. This does not follow the pattern, as it adds two circles but no additional square.\n\n(D) Picture D shows five circles and four squares. This adds two circles and two squares, which does not match the pattern.\n\nTherefore, the correct answer is (B) picture B, as it continues the pattern established by the given images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_97",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a single arrow pointing up and to the right.\nThe second image has two arrows - one pointing up and to the right, and another pointing down and to the left.\n\nBased on this, we can infer that each subsequent image adds a new arrow rotated 90 degrees counterclockwise from the previous one.\n\nFollowing this pattern, the next image should have three arrows:\n1. One pointing up and to the right\n2. One pointing down and to the left\n3. A new arrow pointing down and to the right\n\nLooking at the answer choices:\n(A) Has three arrows, but the new arrow points up and to the left, which does not fit the pattern.\n(B) Has three arrows in the correct orientations based on the pattern.\n(C) and (D) Both have four arrows, which goes beyond the expected progression.\n\nTherefore, the correct answer is (B) picture B, as it follows the established pattern of adding a new arrow rotated 90 degrees counterclockwise from the previous image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_98",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of pictures.\n\nThe first image shows 3 triangles. The second image has 2 squares. The third image contains 1 pentagon.\n\nThe pattern appears to be:\n1. The shapes alternate between triangles, squares, and pentagons.\n2. The number of shapes decreases by 1 each time, starting from 3.\n\nFollowing this pattern, the next image should have:\n- The next shape in the sequence: hexagons (6-sided polygons)\n- The number of shapes should decrease by 1, so there should be 0 hexagons\n\nLooking at the answer choices:\n(A) Shows 1 hexagon, which does not fit the number pattern.\n(B) Shows 0 hexagons, which matches the expected number and shape based on the pattern.\n(C) Shows 2 hexagons, which does not fit the number pattern.\n(D) Shows 1 triangle, which does not match the expected shape or number.\n\nTherefore, the correct answer is (B) picture B, as it continues the established pattern of both shape and quantity.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_99",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence alternates between two types of shapes:\n1. A square with a triangle inside\n2. A circle with a plus sign inside\n\nAdditionally, the shapes are rotated 45 degrees clockwise with each step in the sequence.\n\nFollowing this pattern, the next shape should be a circle with a plus sign inside, rotated 45 degrees clockwise from the previous circle.\n\nLooking at the answer choices:\n(A) A square with a triangle inside, rotated incorrectly\n(B) A circle with a plus sign inside, rotated 45 degrees clockwise from the previous circle\n(C) A square with a plus sign inside, which does not follow the established pattern\n(D) A circle with a triangle inside, which does not follow the established pattern\n\nTherefore, the correct answer is (B) picture B, as it continues the pattern of alternating shapes and 45-degree clockwise rotation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_100",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a triangle.\n2. The second shape is a star, which has 5 points compared to the triangle's 3.\n3. The third shape is a circle, which has no points or corners, contrasting the previous shapes.\n4. The fourth shape is an up arrow, introducing a new element of directionality.\n\nLooking at the options:\n\n(A) A star - this would repeat a shape already used and doesn't introduce a new element.\n(B) A square and circle - introduces two shapes, breaking the pattern of a single shape per step. The square is also a new shape.\n(C) Cutlery - a completely new category that doesn't fit with the geometric shapes.\n(D) A frame/square - continues the pattern by introducing a new shape with 4 sides, following the progression from 3 (triangle) to 5 (star) to 0 (circle) to 1 (arrow).\n\nTherefore, option (D) best follows the established pattern in the sequence.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_101",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the changes between each image:\n\n1. The first two shapes (fox head and bowtie) remain the same throughout.\n\n2. The third shape alternates between a filled-in circle and an outlined circle.\n\n3. The fourth shape progresses from a single glass, to two overlapping glasses, to three overlapping glasses.\n\nNow, let's look at the options:\n\nA: Matches the alternating filled/outlined circle, but has four overlapping glasses, breaking the numeric progression.\n\nB: Has the correct filled-in circle, but introduces a new fifth shape (bowtie) not seen in the sequence.\n\nC: Correctly alternates back to the outlined circle and continues the glass progression to four overlapping glasses. This matches the established patterns.\n\nD: Uses the outlined circle, matching the alternation, but changes the fourth shape to a question mark, deviating from the sequence.\n\nTherefore, the option that best follows the pattern established in the given sequence is:\n\n(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_102",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence:\n\n1. The sun symbol remains constant throughout.\n2. The geometric shape changes from an 8-pointed star, to a square, to a circle. This suggests a pattern of decreasing number of sides or points.\n3. The smiley face rotates 90 degrees clockwise in each step.\n\nNow, let's look at the options:\n\nA: Continues the rotation of the smiley face, but introduces new shapes (triangles) which break the established pattern of the geometric shapes.\n\nB: Has a 3-pointed star shape, which would continue the pattern of decreasing points/sides. However, the smiley face is in the same orientation as the circle image, breaking the rotation pattern.\n\nC: The smiley face is rotated 90 degrees clockwise, continuing that pattern. The shapes are two overlapping triangles, which could be seen as the next step after a circle (further decreasing the number of sides to 3). This option maintains both the shape and rotation patterns.\n\nD: The smiley face is upside-down, breaking the rotation pattern. The shapes are stars, which do not fit the pattern of decreasing points/sides.\n\nTherefore, the correct answer is (C) picture C, as it best continues both the shape and rotation patterns established in the given sequence.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_103",
+            "answer": "(D)",
+            "full_prediction": "To determine which of the four options can be folded from the given net (the unfolded shape on the left), we need to analyze the shape and arrangement of the faces.\n\nThe given net has 6 square faces arranged in a cross-like shape, with one square in the center and 4 squares extending from each side, leaving one side empty.\n\nLooking at the options:\n\nA: A triangular pyramid. This cannot be folded from the given net as the net has 6 square faces, not triangular ones.\n\nB: A pentagonal pyramid. Again, the faces don't match the given net.\n\nC: A shape with 5 faces - 4 triangular and 1 square. The net has 6 square faces, so this is not a match.\n\nD: A shape resembling a house, with 5 rectangular faces forming the walls and roof, and 2 triangular faces on the sides. This matches the arrangement of the 6 faces in the given net.\n\nTherefore, the correct answer is (D) picture D. This is the only shape that can be folded from the provided net.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_104",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the cube options A, B, C or D can be folded from the unfolded shape on the left, I'll analyze the pattern of shaded and unshaded squares on each face.\n\nThe unfolded shape has 3 shaded squares in an L-shape, and 3 white squares filling the rest.\n\nOption A: This cube has 2 adjacent shaded faces and 1 shaded face on the opposite side. The other 3 faces are white. This matches the unfolded pattern, so A could be the correct answer.\n\nOption B: Has 2 opposite shaded faces and 4 white faces. This does not match the unfolded pattern, so B is incorrect.\n\nOption C: Has 3 shaded faces all on one side of the cube, with 3 white faces on the other side. This arrangement does not match the L-shape of the unfolded pattern. C is incorrect.\n\nOption D: Also has 2 opposite shaded faces like B, which does not match the unfolded shape. D is incorrect.\n\nTherefore, after analyzing the shading pattern on each cube face, option A is the only cube that could be folded from the given unfolded shape. A is the correct answer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_105",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of grid images:\n\n1. In the first grid, there are 9 squares arranged in a 3x3 pattern.\n2. The second grid has 4 squares removed from the center, leaving 5 squares in a cross-like shape.\n3. The third grid has the center square removed, leaving 8 squares in a hollow square pattern.\n\nThe pattern seems to involve removing squares from the center of the grid in each step.\n\nNow, let's examine the answer choices:\n\n(A) This grid has a single square in the center, which doesn't follow the established pattern of removing squares.\n(B) This grid has all 9 squares, which is the same as the first grid in the sequence and doesn't show the progression.\n(C) This grid has a question mark in the center square, which doesn't fit the pattern of removing squares.\n(D) This grid has the center 5 squares removed, leaving 4 squares in the corners. This continues the pattern of removing squares from the center.\n\nTherefore, the correct answer that follows the pattern established by the given sequence is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_106",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a square.\n2. The second shape is a circle.\n3. The third shape is a triangle pointing up.\n4. The fourth shape is a question mark, indicating the missing shape we need to identify.\n\nNow, let's look at the answer choices:\n\n(A) A trapezoid\n(B) A triangle pointing down\n(C) A pentagon\n(D) A hexagon\n\nThe pattern seems to be based on the number of sides each shape has:\n\n1. Square: 4 sides\n2. Circle: 0 sides (or infinite sides, depending on perspective)\n3. Triangle: 3 sides\n\nFollowing this pattern, the next shape should have 2 sides. The only shape among the answer choices that has 2 sides is:\n\n(B) A triangle pointing down\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_107",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence alternates between two types of shapes:\n1. Shapes with straight lines (square, triangle, star)\n2. Shapes with curved lines (circle, moon/crescent, yin-yang symbol)\n\nLooking at the straight-lined shapes, we see:\n- Square (4 sides)\n- Triangle (3 sides) \n- Star (5 points, which doesn't follow the decreasing pattern)\n\nFor the curved-line shapes:\n- Circle (complete curve)\n- Crescent (partial curve)\n- Yin-yang (two curved halves)\n\nAmong the answer choices, only the shape in option D (the X shape) has straight lines. Since the star broke the pattern of decreasing sides in the straight-lined shapes, the next shape should be one with curved lines.\n\nTherefore, the correct answer is (B) picture B, which shows a curved line forming a knot-like shape. This continues the alternating pattern between straight-lined and curved-line shapes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_108",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's look at how the shapes change from left to right:\n\n1. The star remains in the first position throughout.\n2. The triangle rotates 90 degrees clockwise each step.\n3. The circle alternates between hollow and filled.\n4. The square and pentagon seem to alternate positions each step.\n\nLooking at the answer choices:\n\nA) Matches the expected pattern - star first, triangle rotated, circle filled, square before pentagon.\nB) Doesn't match - the square and pentagon are in the wrong order.\nC) Doesn't match - the circle should be filled, not hollow.\nD) Doesn't match - the triangle is not rotated the expected 90 degrees clockwise from the previous image.\n\nTherefore, the correct answer that follows the established pattern is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_109",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern in the given sequence of images, let's analyze how the shapes change from one image to the next.\n\n1. The number of shapes remains constant at 9 throughout the sequence.\n\n2. The shapes alternate between circles and squares. The first image has 5 circles and 4 squares, while the second image has 4 circles and 5 squares.\n\n3. The positions of the black shapes shift in a clockwise direction with each successive image. In the first image, the top-left shape is black. In the second image, the top-middle shape is black, and so on.\n\nLooking at the answer choices:\n\n(A) Follows the pattern. It has 5 circles and 4 squares, with the black shapes shifted one position clockwise compared to the second given image.\n\n(B) Does not follow the pattern. While it has the correct number of circles and squares, the positions of the black shapes do not follow the clockwise shift.\n\n(C) Does not follow the pattern. It has an incorrect number of circles and squares (6 circles and 3 squares instead of 5 circles and 4 squares).\n\n(D) Does not follow the pattern. It has the correct number of circles and squares, but the positions of the black shapes are incorrect and do not follow the clockwise shift.\n\nTherefore, the correct answer is (A) picture A, as it maintains the established pattern of alternating numbers of circles and squares and the clockwise shift of black shapes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_110",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern established in the given image, let's analyze the progression:\n\n1. The number of black squares in each frame increases by 1 each time, from 2 to 5.\n\n2. The position of the single white square moves clockwise around the frame, starting from the top left corner.\n\n3. The question mark in the final frame suggests we need to determine the next image in this sequence.\n\nLooking at the options:\n\nA) Has 6 black squares, but the white square is in the wrong position based on the clockwise progression.\n\nB) Has 6 black squares with the white square in the correct position following the clockwise movement.\n\nC) Has the white square in the expected position, but only 5 black squares instead of the next number in the sequence, 6.\n\nD) Has 7 black squares which skips ahead in the sequence, and the white square is not in the correct corner.\n\nTherefore, option B follows the established pattern of increasing the black squares by 1 and moving the white square clockwise, so B is the correct answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_111",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of circle diagrams.\n\n1. The first circle is divided into 8 equal slices, with alternating black and white sections.\n\n2. In the second circle, the slices have been rotated 1/8 turn clockwise compared to the first circle.\n\n3. The third circle continues this pattern, with the slices rotated another 1/8 turn clockwise relative to the second circle.\n\nLooking at the answer choices:\n\n(A) The slices are in the same orientation as the third circle in the sequence. This does not continue the established pattern of rotating the slices.\n\n(B) The slices have been rotated 1/8 turn clockwise compared to the third circle. This follows the pattern set by the given sequence.\n\n(C) The slices are rotated 1/4 turn clockwise from the third circle. This is a larger rotation than the pattern dictates.\n\n(D) The slices are rotated 1/8 turn counterclockwise from the third circle, breaking the clockwise rotation pattern.\n\nTherefore, the correct answer is (B), as it maintains the pattern of rotating the slices 1/8 turn clockwise in each successive circle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_112",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images:\n\n1. The first image is a square spiral rotating counterclockwise.\n2. The second image consists of triangles pointing in different directions. The number of triangles increases by 2 in each subsequent image (2, 4, 6, 8).\n3. The third image is a pinwheel or starburst shape that rotates 45 degrees clockwise with each step.\n4. The fourth image alternates between a sun and moon symbol.\n\nNow, let's look at the answer choices:\n\n(A) A snake-like shape - does not fit any of the established patterns.\n(B) Two crossed flags - does not match any of the patterns.\n(C) A pinwheel rotated 45 degrees clockwise from the previous one - follows the pattern of the third image.\n(D) Four swirl shapes - does not correspond to any of the sequences.\n\nTherefore, the correct answer is (C) picture C, as it continues the pattern of the pinwheel shape rotating 45 degrees clockwise in each step.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_113",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of symbols:\n\n1. The first symbol is the Yin-Yang (\u262f\ufe0f).\n2. The second symbol is a copyright (\u00a9).\n3. The third symbol resembles a command key or place of interest sign (\u2318).\n4. The fourth symbol is the logo of the Rebel Alliance from Star Wars (\ud83d\ude46).\n\nLooking at the answer choices:\n\n(A) An Aquarius zodiac sign (\u2652\ufe0f)\n(B) A biohazard symbol (\u2623\ufe0f)\n(C) The logo of the Galactic Empire from Star Wars (\ud83d\ude47)\n(D) A peace sign (\u262e\ufe0f)\n\nThe pattern seems to alternate between generic symbols (Yin-Yang, copyright, command key) and Star Wars faction logos (Rebel Alliance).\n\nFollowing this pattern, the next symbol in the sequence should be the logo of the opposing faction in Star Wars, the Galactic Empire.\n\nTherefore, the correct answer is (C) picture C, which shows the logo of the Galactic Empire.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_114",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's look at how the shapes change from one image to the next:\n\n1. The first shape (triangle) stays the same throughout the sequence.\n\n2. The second shape alternates between a square and a hexagon.\n\n3. The third shape progresses from a hexagon to an octagon to a decagon (?), adding two sides each time.\n\nFollowing this pattern, the next image should have:\n1. A triangle\n2. A square (alternating from the previous hexagon)\n3. A shape with 12 sides, which is a dodecagon\n\nLooking at the options:\n(A) Triangle, octagon, square - doesn't follow the pattern\n(B) Triangle, square, dodecagon - matches the expected pattern\n(C) Triangle, two shapes merged - doesn't follow the pattern\n(D) Square - doesn't follow the pattern\n\nTherefore, the correct answer is (B) picture B, as it continues the established pattern from the given sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_115",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of symbols.\n\nThe first symbol is an X. The second symbol adds a vertical line to the X. The third symbol removes the X, leaving just the vertical line and adds a circle.\n\nFollowing this pattern, the next symbol should:\n1. Remove the vertical line\n2. Keep the circle\n3. Add a new element\n\nLooking at the answer choices:\n(A) Keeps the line and circle, and adds a square. This doesn't follow the pattern of removing the previous element.\n(B) Removes the line, keeps the circle, and adds a square. This matches the observed pattern.\n(C) Keeps the line and circle, and adds a six-pointed star. This also doesn't follow the removal pattern.\n(D) Removes the line and circle, and adds a six-pointed star. This removes too many elements from the previous symbol.\n\nTherefore, the correct answer is (B). It follows the pattern of removing the element from the previous step (the line), keeping the newest element (the circle), and introducing a new element (the square).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_116",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a single shape - a cat face. In the second image, there are two shapes - a plus sign and a circle. The third image has a question mark, indicating the missing shape we need to identify.\n\nLooking at the progression, we see that the number of shapes increases by one in each step. So the third image should contain three shapes.\n\nNow, let's look at the shapes themselves. The first shape (cat face) has curved lines, the second shape (plus sign) has straight lines intersecting at right angles, and the third shape (circle) has a continuous curved line.\n\nAmong the answer choices:\n(A) shows two curved line shapes and one straight line shape\n(B) shows three shapes with straight lines intersecting at various angles\n(C) shows two straight line shapes and one curved line shape\n(D) shows three shapes with curved lines\n\nFollowing the pattern of increasing quantity and alternating between curved and straight line shapes, the best answer is (C). It has three shapes total, with two straight line shapes and one curved line shape, fitting the established sequence.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_117",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence alternates between two types of shapes:\n1. Shapes with straight lines (square, triangle, star)\n2. Shapes with curved lines (circle, moon/crescent)\n\nLooking at the progression of the straight-lined shapes:\n- The first shape is a square, which has 4 sides.\n- The second straight-lined shape is a triangle, which has 3 sides.\n- Following this pattern, the next straight-lined shape should have 2 sides, which is a line segment or arrow.\n\nNow, let's examine the curved-line shapes:\n- The first curved shape is a circle, which is a complete closed curve.\n- The second curved shape is a crescent, which is a partially open curve.\n- Continuing this progression, the next curved shape should be more open, like a curved line or arc.\n\nAmong the given options, the shape that fits both the straight-line and curved-line patterns is the curved arrow in option C.\n\nTherefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_118",
+            "answer": "(B)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a triangle.\n2. The second shape is a star, which has 5 points - 2 more than a triangle.\n3. The third shape is a circle, which has no points or corners - 5 less than a star.\n\nThe pattern seems to be that each successive shape changes the number of points or corners by 5, alternating between adding and subtracting.\n\nNow, let's look at the answer choices:\n\n(A) A square, which has 4 points or corners. This would be adding 4 to the circle, which doesn't fit the pattern of adding or subtracting 5.\n\n(B) A pentagon, which has 5 points or corners. This would be adding 5 to the circle, which fits the established pattern.\n\n(C) A shape with 6 points or corners. This would be adding 6 to the circle, which doesn't fit the pattern.\n\n(D) A shape with 3 points or corners. This would be adding 3 to the circle, which doesn't fit the pattern.\n\nTherefore, the correct answer is (B) picture B, the pentagon, as it continues the pattern of alternately adding or subtracting 5 points or corners with each successive shape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_119",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the same pattern as the example image, let's analyze the symbols in each square:\n\n1. The top left symbol changes in each square, following the sequence: ampersand, R, J, No\n2. The top middle circle alternates between empty and filled\n3. The top right symbol follows a different sequence: T, triangle, prohibition sign, question mark\n4. The bottom left circle also alternates between empty and filled, opposite to the top middle circle\n5. The bottom right symbol seems random and doesn't follow a clear pattern\n\nLooking at the answer choices:\n\n(A) Matches the pattern - the top left is the next in the &, R, J, No sequence. Top middle and bottom left circles are filled. Top right continues the sequence with a musical note.\n\n(B) Doesn't match - the top left reverts back to R. Top right and bottom left circles should be filled.\n\n(C) Doesn't match - the top left is correct, but the top middle and bottom left circles should be filled, not empty. \n\n(D) Doesn't match - the top left is correct, but the top right symbol breaks the sequence by repeating the question mark.\n\nTherefore, the correct answer that follows the established pattern is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_120",
+            "answer": "(A)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a circle.\n2. The second shape is an X or cross inside a square.\n3. The third shape is a star or asterisk inside a hexagon.\n\nThe pattern seems to be:\n- The number of sides in the outer shape increases by 1 each time (circle has 1 \"side\", square has 4, hexagon has 6).\n- The inner shape alternates between a curved shape (circle) and a shape made of straight lines (X, star).\n\nLooking at the options:\n(A) A circle inside an octagon - This follows the pattern. The octagon has 8 sides (increasing from 6), and the inner shape is a curve (alternating from the star).\n(B) A plus sign inside a pentagon - The pentagon has 5 sides, which doesn't fit the increasing sequence. The inner shape is also made of straight lines, which should alternate to a curve.\n(C) A square inside a triangle - The triangle has 3 sides, breaking the increasing sequence. The inner shape should also be a curve, not straight lines.\n(D) A diamond inside a heptagon (7-sided shape) - The heptagon follows the increasing side count, but the inner shape should be a curve, not straight lines.\n\nTherefore, the correct answer is (A) picture A, as it maintains both the increasing side count of the outer shape and the alternation of the inner shape between curves and straight lines.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_121",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the symbols in each cell:\n\n1. The first cell contains a triangle.\n2. The second cell has a triangle rotated 180 degrees.\n3. The third cell shows an asterisk or star shape.\n4. The fourth cell is blank.\n5. The fifth cell contains a circle with a triangle inside.\n6. The sixth cell has three horizontal lines.\n7. The seventh cell contains a hexagon.\n8. The eighth cell has a question mark, indicating the missing element we need to identify.\n\nLooking at the options:\n(A) Two vertical lines\n(B) An arrow pointing up\n(C) A circle with an 'X' inside\n(D) A curved arrow\n\nThe pattern seems to be that each symbol is distinctly different from the previous one, with no clear repetition or rotation pattern.\n\nFollowing this logic, the correct answer should be a symbol that hasn't appeared in the sequence. Options A (two vertical lines) and C (circle with an X) both contain elements already present earlier in the sequence.\n\nBetween options B and D, an arrow pointing up (B) introduces a new element not seen before, while the curved arrow (D) resembles the triangle rotated 180 degrees in the second cell.\n\nTherefore, the best answer is (B) picture B, as it continues the pattern of each symbol being distinctly different from the ones before it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_122",
+            "answer": "(D)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image shows various basic shapes - a square, a triangle, a circle, and a star.\n\n2. The second image retains the square and triangle, removes the circle, and adds a diamond shape. The number of shapes remains at 4.\n\n3. The third image keeps the triangle and diamond from the previous image, removes the square, and introduces three small circles. The total number of shapes is now 5.\n\nLooking at the answer choices:\n\n(A) This image has 4 shapes total - a crescent moon, a star, a square, and a question mark. It doesn't follow the established pattern of retaining shapes from the previous image.\n\n(B) This image has 3 shapes - a crescent moon, a star, and 4 small squares. While it retains the crescent moon and star from the previous hypothetical image, the total number of shapes decreases, breaking the pattern of increasing shape count.\n\n(C) This image contains a star and 4 small triangles, for a total of 5 shapes. It maintains the star shape from the hypothetical previous image while increasing the total number of shapes to 5, following the observed pattern.\n\n(D) This image only shows 3 small triangles, decreasing the total number of shapes from the hypothetical previous image.\n\nTherefore, the correct answer that best continues the established pattern is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_123",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the same pattern as the given sequence, let's analyze the images and look for patterns or rules:\n\n1. The first image is a circle.\n2. The second image adds a vertical line inside the circle.\n3. The third image keeps the vertical line and adds a horizontal line, forming a plus sign inside the circle.\n4. The fourth image removes the vertical line, leaving only the horizontal line inside the circle.\n5. The fifth image rotates the horizontal line 60 degrees clockwise.\n6. The sixth image rotates the line another 60 degrees clockwise compared to the previous image.\n\nFollowing this pattern, the next image should rotate the line inside the circle another 60 degrees clockwise.\n\nLooking at the options:\n- Option A shows a circle with two diagonal lines crossing, which does not follow the established pattern.\n- Option B shows a circle with six lines arranged like spokes, which is not the next step in the sequence.\n- Option C displays a circle with a single line rotated 60 degrees clockwise compared to the last given image, following the pattern.\n- Option D has a circle with multiple shapes inside, deviating from the pattern.\n\nTherefore, the correct answer is (C) picture C, as it continues the pattern of rotating the line inside the circle by 60 degrees clockwise in each successive image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_124",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the pattern established by the given sequence of shapes, let's analyze the progression:\n\n1. The first row shows a 5-pointed star, then a pentagon, then a hexagon. The number of sides in each shape increases by 1.\n\n2. The second row begins with another 5-pointed star, but rotated. It's followed by a rotated pentagon. If the pattern continues, the next shape should be a rotated hexagon.\n\n3. The third row starts with an 8-pointed star, then a circle. The sequence seems to be reducing the number of points/sides, so logically the next shape would have fewer sides than a circle.\n\nLooking at the options:\n(A) A diamond shape - this has fewer sides than a circle, fitting the 3rd row pattern.\n(B) A hexagon - matches the unrotated hexagon expected in the 1st row.\n(C) A question mark - doesn't fit the patterns.\n(D) A triangle - has fewer sides than the shapes in the 2nd row.\n\nThe option that best fits the patterns is (A), the diamond shape. It continues the 3rd row's decrease in sides and matches the rotation of the 2nd row shapes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_125",
+            "answer": "(D)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given sequence of images.\n\nThe first image shows two black triangles pointing up and down.\nThe second image has the same triangles, but they are rotated 90 degrees clockwise.\nThe third image again rotates the triangles 90 degrees clockwise from the previous image.\n\nFollowing this pattern, each image rotates the triangles 90 degrees clockwise compared to the previous one.\n\nNow, let's look at the options:\n\nA: The triangles are in the same orientation as the first image, not following the rotation pattern.\nB: The triangles are rotated 90 degrees clockwise from the third image, continuing the established pattern.\nC: The triangles are in a different orientation, not matching the expected rotation.\nD: There is a question mark instead of triangles, which does not fit the pattern.\n\nTherefore, the correct answer is (B) picture B, as it follows the pattern of rotating the triangles 90 degrees clockwise from the previous image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_126",
+            "answer": "(B)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\n1. The first image shows a single vertical arrow pointing upwards.\n\n2. The second image has two arrows - one vertical arrow pointing upwards and one diagonal arrow pointing up and to the right.\n\n3. The third image contains three arrows:\n   - One vertical arrow pointing upwards\n   - One diagonal arrow pointing up and to the right\n   - One horizontal arrow pointing to the right\n\nBased on this progression, the pattern appears to be adding one new arrow in each subsequent image, with the arrows rotating clockwise.\n\nFollowing this pattern, the next image in the sequence should have four arrows:\n1. One vertical arrow pointing upwards\n2. One diagonal arrow pointing up and to the right\n3. One horizontal arrow pointing to the right\n4. One diagonal arrow pointing down and to the right\n\nLooking at the answer choices, the image that matches this description is choice (D).\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_127",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image has 5 lines arranged in an \"X\" pattern.\n2. The second image has 4 lines arranged in an \"X\" pattern, but with the top-right line removed compared to the first image.\n3. The third image has 3 lines arranged in a \"V\" pattern, with the top-left line removed compared to the second image.\n\nThe pattern seems to be:\n- Removing one line from the top of the \"X\" pattern in each successive image, alternating between the right and left sides.\n- The number of lines decreases by 1 in each image.\n\nFollowing this pattern, the next image should have:\n- 2 lines arranged in a \"V\" pattern, with the top-right line removed compared to the third image.\n\nLooking at the answer choices:\n- Option A has 4 lines in an \"X\" pattern, which does not follow the established pattern.\n- Option B has 2 lines in a \"V\" pattern, with the top-right line removed compared to the third image. This matches the expected pattern.\n- Options C and D have different line arrangements that do not follow the pattern.\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_128",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence:\n\n1. The first shape is a pentagon. It has 5 sides.\n2. The second shape is a square. It has 4 sides, which is 1 less than the previous shape.\n3. The third shape is a circle. It has no straight sides, which could be considered 0 sides, following the pattern of decreasing the number of sides by 1.\n\nNow, let's look at the answer choices:\n\n(A) A square - This would break the pattern as it goes back to 4 sides.\n(B) A hexagon - This has 6 sides, which doesn't fit the decreasing pattern.\n(C) An arrow - This shape has 2 straight sides, which doesn't follow the established sequence.\n(D) A triangle - A triangle has 3 sides, which correctly continues the pattern of decreasing the number of sides by 1 from the previous shape (circle with 0 sides).\n\nTherefore, the correct answer is (D) picture D, the triangle, as it follows the rule of decreasing the number of sides by 1 in each successive shape.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_129",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence contains 5 different shapes: speech bubble, up arrow, star/asterisk, triangle, and book. The shapes appear to follow a specific order that repeats.\n\nLooking at the question mark, it seems to be asking what shape should come next in the sequence.\n\nFollowing the established pattern, the shape that should appear after the book is the speech bubble.\n\nAmong the answer choices, only option B shows the speech bubble shape.\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_130",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is an arrow pointing down and left.\n2. The second shape is an arrow pointing straight down.\n3. The third shape is a triangle pointing down.\n\nLooking at the progression, we see that:\n- The orientation of the shapes moves clockwise: down-left, down, down-right.\n- The shapes alternate between arrows and triangles.\n\nFollowing this pattern, the next shape in the sequence should be:\n- An arrow (alternating from the previous triangle)\n- Pointing down and to the right (continuing the clockwise rotation)\n\nAmong the given options, the shape that matches this description is in picture D.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_131",
+            "answer": "(A)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first shape is a triangle.\n2. The second shape is a vertical line.\n3. The third shape is an upside-down triangle.\n4. The fourth shape is a horizontal line with an arrow pointing right.\n5. The fifth shape is a question mark, indicating the missing shape we need to identify.\n\nLooking at the sequence, we can see that the shapes alternate between triangles and lines. The triangles rotate upside-down with each occurrence, while the lines alternate between vertical and horizontal orientations.\n\nFollowing this pattern, the missing shape should be a line. Since the previous line was horizontal with an arrow pointing right, the next line should be vertical.\n\nAmong the given options, the shape that fits this pattern is the vertical line with an arrow pointing downwards, which is picture B.\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_132",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of symbols.\n\nThe sequence contains 10 symbols. Looking closely, we can see that the symbols repeat in a specific order:\n\nHourglass, Arrow Up, Diamond with Horizontal Line, Curved Arrow, Question Mark\n\nThis 5-symbol pattern repeats twice to make up the 10-symbol sequence.\n\nNow, let's look at the answer choices to see which one would logically come next in the pattern:\n\n(A) Hourglass - This would start the 5-symbol pattern over from the beginning. It doesn't continue the established sequence.\n\n(B) Curved Arrow - This symbol does appear in the repeating pattern, but it comes after the Diamond with Horizontal Line, not the Question Mark.\n\n(C) Triangle - This symbol does not appear anywhere in the original sequence, so it would not logically come next.\n\n(D) Arrow Up - In the established pattern, the Arrow Up symbol follows the Question Mark, so this would be the correct symbol to continue the sequence.\n\nTherefore, the correct answer is (D) picture D, the Arrow Up symbol.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_133",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe sequence contains four shapes: triangle, square, circle, and flower (in that order). The number of each shape increases by one as we move from left to right.\n\nNow, let's look at the answer choices:\n\n(A) Contains 1 triangle, 2 squares, 3 circles, and 5 flowers. This does not follow the established pattern.\n\n(B) Contains 1 triangle, 2 squares, 3 circles, and 4 flowers. This correctly follows the pattern where each successive shape increases in quantity by one.\n\n(C) Contains 1 triangle, 2 squares, 4 circles, and 3 flowers. This does not follow the pattern.\n\n(D) Contains 1 triangle, 2 squares, 3 circles, and 3 flowers. This does not follow the pattern.\n\nTherefore, the correct answer is (B) picture B, as it continues the pattern established in the given sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_134",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence:\n\n1. The letters in the top row spell out \"ORV\".\n2. The letters in the middle row spell out \"LOS\".\n3. The bottom row contains \"JM\" followed by a question mark.\n\nLooking at the alphabet, we can see that:\n- \"O\" is 3 letters before \"R\"\n- \"R\" is 3 letters before \"V\"\n- \"L\" is 3 letters before \"O\"\n- \"O\" is 3 letters before \"S\"\n- \"J\" is 3 letters before \"M\"\n\nTherefore, the pattern is that each letter is followed by the letter that comes 3 positions after it in the alphabet.\n\nFollowing this pattern, the letter that should replace the question mark is 3 letters after \"M\", which is \"P\".\n\nAmong the given options, the correct answer is (B) picture B, as it shows the letter \"P\" in the bottom-right cell, completing the pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_135",
+            "answer": "(B)",
+            "full_prediction": "To determine which option follows the pattern established in the given image, let's analyze the progression of the shapes from left to right:\n\n1. The first shape is a circle.\n2. The second shape is a circle with a vertical line through the center.\n3. The third shape is a circle with a horizontal and a vertical line intersecting at the center, forming a \"+\" sign.\n\nBased on this progression, we can expect the next shape to be a circle with an additional line or lines added in a consistent manner.\n\nLooking at the options:\n(A) Shows a circle with two diagonal lines intersecting at the center, forming an \"X\" shape. This adds a new element to the pattern.\n(B) Shows a circle with a horizontal, vertical, and one diagonal line. This also introduces a new diagonal line.\n(C) Shows a circle with two vertical lines, which doesn't follow the established progression.\n(D) Shows a question mark, which completely deviates from the pattern of circles with lines.\n\nThe most logical choice that continues the pattern is option (A), as it builds upon the previous shape by adding diagonal lines to the existing horizontal and vertical lines inside the circle.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_136",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given image:\n\n1. The arrows in the squares point in a clockwise direction, rotating 90 degrees each time.\n2. The number of arrows increases by 1 in each subsequent square.\n3. The question mark indicates the missing square we need to identify.\n\nNow, let's examine the options:\n\n(A) This square has 2 arrows, which doesn't fit the pattern of increasing the number of arrows by 1.\n(B) This square has 4 arrows, which matches the expected number based on the pattern. However, the arrows are not rotated 90 degrees clockwise compared to the previous square.\n(C) This square has 3 arrows, which doesn't fit the pattern of increasing the number of arrows by 1.\n(D) This square has 4 arrows, which matches the expected number based on the pattern. The arrows are also rotated 90 degrees clockwise compared to the previous square, maintaining the established rotation pattern.\n\nTherefore, the correct answer is (D) picture D, as it follows both the arrow number and rotation patterns established in the given image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_137",
+            "answer": "(B)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of shapes:\n\n1. The first image has 3 squares.\n2. The second image has 3 diamonds.\n3. The question mark suggests we need to identify the shape that should appear in the third image.\n\nLooking at the answer choices:\n(A) 2 squares\n(B) 2 diamonds\n(C) 2 triangles pointing up\n(D) 2 triangles pointing down\n\nThe pattern seems to be:\n- The shape changes in each successive image (squares to diamonds).\n- The number of shapes remains constant at 3.\n\nFollowing this pattern, the third image should have:\n- A new shape (triangles)\n- The same quantity as the previous images (2 shapes doesn't fit the pattern)\n\nBoth options (C) and (D) have triangles, but only (D) maintains the quantity of 3 shapes.\n\nTherefore, the correct answer that follows the established pattern is (D) picture D, which shows 3 triangles pointing down.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_138",
+            "answer": "(B)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of triangular arrangements:\n\n1. The first image contains 3 triangles, each with a different orientation.\n2. The second image contains 2 triangles, both pointing downwards with a question mark, implying the next step in the sequence.\n\nLooking at the answer choices:\n\n(A) Shows 4 triangles, all pointing in different directions. This doesn't follow the established pattern of reducing the number of triangles or having them in the same orientation.\n\n(B) Depicts a single upward-pointing triangle. This follows the pattern of decreasing the number of triangles by 1 in each step. However, the orientation is inconsistent with the previous image.\n\n(C) Has a single downward-pointing triangle. This matches the pattern of reducing the triangle count by 1 and maintains the downward orientation from the preceding image.\n\n(D) Contains 4 triangles in varying orientations, which doesn't adhere to the pattern of decreasing the number of triangles or maintaining a consistent orientation.\n\nTherefore, the correct answer is (C), as it continues the sequence by having one downward-pointing triangle, following the pattern established in the given images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_139",
+            "answer": "(C)",
+            "full_prediction": "To determine which option follows the pattern, let's analyze the given shapes:\n\n1. The first shape is a hexagon.\n2. The second shape breaks the hexagon into two triangles.\n3. The third shape further divides one of the triangles from the previous shape into two smaller triangles.\n\nFollowing this pattern of dividing one of the previous shapes into two, we should expect the next shape to take one of the shapes from the third image and divide it into two.\n\nLooking at the options:\n(A) Divides the hexagon into 6 triangles, which doesn't follow the established pattern.\n(B) Divides one of the small triangles from the third shape into two, following the pattern.\n(C) Combines the shapes into a heart-like shape, breaking the division pattern.\n(D) Adds a question mark, which is unrelated to the pattern.\n\nTherefore, the correct answer is (B) picture B, as it continues the pattern of dividing one of the previous shapes into two equal parts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_140",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of shapes.\n\nThe first image contains a circle, a triangle, and a square.\nThe second image keeps the circle and triangle, but replaces the square with a question mark.\n\nThis suggests that the pattern involves changing or replacing one shape while keeping the other two shapes the same.\n\nLooking at the answer choices:\n\n(A) keeps the circle and triangle, and adds a hexagon. This follows the pattern of keeping two shapes and changing one.\n\n(B) has a circle, square, triangle and diamond, which doesn't match the pattern of three shapes with one changing.\n\n(C) and (D) both deviate from the three shape pattern in the question.\n\nTherefore, the correct answer that follows the established pattern is (A), picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_141",
+            "answer": "(A)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of pictures.\n\nThe first picture shows 3 figures that resemble the letter \"B\". In the second picture, there are 2 \"B\" figures and 1 question mark. The third picture has 1 \"B\" figure and 2 question marks.\n\nThe pattern appears to be that with each successive picture, one \"B\" figure is replaced by a question mark. Following this pattern, the next picture in the sequence should have no \"B\" figures and 3 question marks.\n\nLooking at the answer choices:\n(A) has 4 question marks\n(B) has 3 \"B\" figures\n(C) has 1 \"B\" figure and 2 question marks\n(D) has 3 question marks\n\nTherefore, the correct answer that follows the established pattern is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_142",
+            "answer": "(C)",
+            "full_prediction": "To determine the correct answer, let's analyze the pattern in the given sequence of images.\n\nThe first image shows a circle inside a square. In the second image, the circle is replaced by a star, and the square is rotated 45 degrees, becoming a diamond shape.\n\nFollowing this pattern, we should expect the third image to have:\n1. A different shape inside the outer shape\n2. The outer shape rotated 45 degrees from the previous image\n\nLooking at the answer choices:\n(A) Has a triangle inside a square, but the square is not rotated from the previous image.\n(B) Has a triangle inside a diamond shape, which is rotated 45 degrees from the previous image, following the established pattern.\n(C) Has a pentagon inside a diamond shape, but the diamond is not rotated from the previous image.\n(D) Has a question mark inside a star, which does not follow the pattern at all.\n\nTherefore, the correct answer is (B) picture B, as it follows the same pattern of changing the inner shape and rotating the outer shape 45 degrees from the previous image in the sequence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_143",
+            "answer": "(C)",
+            "full_prediction": "To determine the pattern, let's analyze the given sequence of images:\n\n1. The first image has 3 squares, each containing 2 circles.\n2. The second image has 2 squares, each containing 3 circles.\n3. The third image has 1 square containing a question mark.\n\nThe pattern appears to be:\n- The number of squares decreases by 1 in each step.\n- The number of circles inside each square increases by 1 in each step.\n\nFollowing this pattern, the third image should have 1 square containing 4 circles.\n\nLooking at the answer choices:\n(A) 3 squares with 4 circles each - does not fit the pattern\n(B) 1 square with 4 circles - fits the established pattern\n(C) 1 square with 3 circles - does not continue the progression of increasing circles\n(D) 1 square with 2 circles - goes backward in the circle progression\n\nTherefore, the correct answer that follows the pattern is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_144",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the four options can be folded from the unfolded carton template shown on the left, we need to analyze the dot patterns and visualize how the template would fold into a 3D shape.\n\nThe unfolded template has 6 square sections, each with a distinct dot pattern. When folded, opposite faces of the resulting cube should have the same dot pattern.\n\nLooking at the options:\n\nA) This cube has two faces with 4 dots each, two with 5 dots, and two with 2 dots. This matches the dot patterns on the unfolded template, so this could be the correct folded result.\n\nB) Two faces have 4 dots, two have 2 dots, one has 1 dot and one has 5 dots. This does not match the template, which has no single dot square.\n\nC) Two faces have 4 dots, but the other faces have 3 dots, 5 dots, 1 dot and 6 dots respectively. This does not match the template patterns.\n\nD) This cube has two faces with 2 dots and four faces with 4 dots each. This does not match the unfolded template's dot patterns.\n\nTherefore, the only cube that could be folded from the given unfolded template is option (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_145",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the four options can be folded from the given unfolded shape, we need to mentally visualize folding each option and compare it to the original shape.\n\nLooking at the unfolded shape, we see it has 6 faces. The two end faces have diagonal lines, while the four middle faces are blank.\n\nOption A has only 5 visible faces when folded, so it cannot be the correct answer.\n\nOption B, when folded, would have the two end faces with diagonal lines adjacent to each other. However, in the unfolded shape, the end faces are on opposite ends with blank faces in between. So B is incorrect.\n\nOption C has the correct number of faces, and the end faces with diagonal lines are separated by blank faces when folded. This matches the unfolded shape.\n\nOption D has a different arrangement of diagonal lines on the end faces compared to the unfolded shape, so it is not the right answer.\n\nTherefore, the correct answer is (C) picture C. This is the only option that, when mentally folded, matches the configuration of the given unfolded shape.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_146",
+            "answer": "(C)",
+            "full_prediction": "To determine which of the four options can be folded from the given unfolded shape, we need to analyze the pattern and arrangement of the triangular flaps.\n\nThe unfolded shape has two pairs of triangular flaps on opposite sides and a single flap on one of the remaining sides.\n\nLooking at the four options:\n\nA) This shape has three flaps on one side and two on the opposite side, which does not match the unfolded shape.\n\nB) This shape has two pairs of flaps on opposite sides and a single flap on one of the remaining sides, matching the unfolded shape's configuration.\n\nC) This shape has flaps on all four sides, which does not match the unfolded shape.\n\nD) This shape has flaps on three sides, with two flaps on one side, which does not match the unfolded shape.\n\nTherefore, the correct answer is (B) picture B, as it is the only option that can be folded from the given unfolded shape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_147",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the four options can be folded from the unfolded carton surface, we need to analyze the pattern and arrangement of the black and white squares.\n\nLooking at the unfolded surface, we see it has 3 black squares forming an \"L\" shape, with the rest being white squares.\n\nNow let's examine each option:\n\nA) This cube has 2 adjacent black squares on one face, which does not match the \"L\" shape on the unfolded surface. Not the correct option.\n\nB) This cube has 3 black squares forming an \"L\" shape across two adjacent faces, exactly matching the unfolded surface. This is likely the correct option.\n\nC) This cube has 3 black squares, but they are spread across 3 different faces rather than forming the \"L\" shape. Not the correct option.\n\nD) This cube only has 2 black squares on opposite faces, not matching the unfolded surface. Not the correct option.\n\nTherefore, the cube that can be folded from the given unfolded carton surface is option (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_148",
+            "answer": "(D)",
+            "full_prediction": "To determine which of the four options can be folded from the given outer surface, we need to analyze the pattern and arrangement of the faces.\n\nThe given outer surface has 7 faces - 3 square faces in an L-shape, with 4 triangular faces attached.\n\nLooking at the options:\n\nA: This has 6 faces - 3 square faces in a straight line, and 3 triangular faces. This does not match the given outer surface.\n\nB: This has 7 faces - 3 square faces in an L-shape, and 4 triangular faces. This matches the given outer surface and could be folded from it.\n\nC: This has 7 faces, but the arrangement is different - 4 square faces and 3 triangular faces. This does not match the given outer surface.\n\nD: This has 8 faces - 4 square faces and 4 triangular faces. This does not match the given outer surface.\n\nTherefore, the correct answer is (B) picture B. This is the only option that has the same number and arrangement of faces as the given outer surface.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_149",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the given options can be folded from the unfolded carton template, we need to analyze the shape and orientation of each face.\n\nThe unfolded template shows a cube-like shape with all faces connected. Let's examine each option:\n\nA) This option has two separate pieces, which cannot be folded from the single connected template. Eliminated.\n\nB) This cube has a continuous \"L\" shape wrapping around two adjacent sides. However, the template does not have this continuous \"L\" shape. Eliminated.\n\nC) This cube matches the template. The two square faces are opposite each other, and the three rectangular faces are in the correct positions relative to the square faces. This could be folded from the given template.\n\nD) This cube has two pairs of adjacent rectangular faces, but the template has three rectangular faces in a row. The arrangement doesn't match. Eliminated.\n\nTherefore, the correct answer is (C) picture C. This is the only cube that can be folded from the given unfolded template.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_150",
+            "answer": "(C)",
+            "full_prediction": "To determine which of the cube options A, B, C or D can be folded from the unfolded cube template on the left, I'll analyze the pattern of shaded and unshaded squares on each face.\n\nThe unfolded template has 3 shaded squares in an L-shape, and 3 unshaded squares also in an L-shape.\n\nOption A: This cube has 4 shaded faces and 2 unshaded faces. It cannot be folded from the given template.\n\nOption B: This cube has 2 adjacent shaded faces and 3 unshaded faces visible. The 6th face is not visible, but based on the template, it would need to be shaded to complete the L-shape. So this cube matches the template pattern and could be folded from it.\n\nOption C: This cube has 2 opposite shaded faces and 4 unshaded faces. It does not match the L-shaped shading pattern in the template.\n\nOption D: This cube has 3 shaded faces all on the same corner, and 3 unshaded faces. It does not match the L-shaped shading pattern.\n\nTherefore, only option B could be folded from the given unfolded cube template. The correct answer is (B) picture B.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": []
+}

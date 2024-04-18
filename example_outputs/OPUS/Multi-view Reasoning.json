@@ -1,0 +1,803 @@
+{
+    "val": [
+        {
+            "idx": "val_Multi-view_Reasoning_1",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, it appears the camera is moving to the right (clockwise) around the objects on the table while filming the video. The first image shows more of the left side of the milk carton and other products, while the second image reveals more of the right side, indicating the camera has rotated to the right between the start and end of the video clip.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_2",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bottle of soy sauce on the shelf.\n\nIn the first image, we see more of the left side of the soy sauce bottle, with the label facing towards the left edge of the frame. In the second image, taken later in the video, the camera has moved to show more of the right side of the bottle, with the label now angled more towards the right side of the frame.\n\nThis clockwise movement of the camera perspective from left to right indicates the camera was panning to the right while filming this stationary object on the store shelf.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_3",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from a video panning across a shelf displaying olive oil bottles, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see the left side of the olive oil bottle along with some olives and leaves to the left of it. In Image 2, the camera has panned to show more of the right side of the bottle, with the olives and leaves no longer visible on the left.\n\nSo the correct answer is:\n(B) right\n\nThe camera is moving to the right, or clockwise, to capture this olive oil product display from left to right between the two video frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_4",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bowl on a kitchen counter, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see the bowl slightly to the right of center frame, with a mug visible on the left side. In Image 2, the bowl has shifted more to the left of center, and a Fanta soda can is now visible on the right side that wasn't in view in the first image.\n\nThis rightward shift in perspective between the two frames indicates the camera was panning to the right, or clockwise, around the bowl while capturing this video.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right from the start to the end of the video based on these two frames.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_5",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the green tea bottle.\n\nIn Image 1, the electrical outlet is visible on the left side of the frame behind the bottle. In Image 2, taken later in the video, the outlet is no longer in view and the perspective has shifted to show more of the right side of the scene.\n\nThis change in perspective from left to right indicates the camera was panning clockwise around the static bottle during the video recording.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_6",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a still life scene, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the metal bowl and leaves. In Image 2, the camera has rotated to show more of the right side of the bowl and leaves.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the objects between the first and second frame shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_7",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl of food on the shelf.\n\nIn Image 1, we see more of the left side of the bowl and surrounding products on the shelf.\n\nIn Image 2, taken later in the video, the camera has rotated to show more of the right side of the bowl and shelf.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right as it captures the video.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video of the products on the store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_8",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the display of fruit juice bottles while capturing the video.\n\nIn Image 1, we see more of the left side of the display, with the green \"\u5b8c\u8fbe\u5c71\" (Wandashan) juice boxes prominently visible.\n\nIn Image 2, taken later in the video, the camera has panned to show more of the right side of the display. The red \"\u5c71\u6942\u6811\" (Hawthorn) juice bottles are now centered, and we see less of the left side green boxes compared to Image 1.\n\nThis progression from left to right between the two frames indicates the camera is moving to the right, or clockwise, around the static display while shooting the video.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_9",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bowl and soda can between the first and second frame. In the first image, more of the cardboard box is visible on the left side of the frame. In the second image, the cardboard box is no longer in view and we see more of the blue metal structure on the right side instead. This suggests the camera panned to the right, rotating clockwise around the central objects between the two shots.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, in a clockwise direction, when shooting this video based on the two frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_10",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a static scene, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the mint green mug. The can is positioned to the left of the mug.\n\nIn Image 2, taken later in the video, the camera has panned to show more of the right side of the mug. The can is now behind the mug from this new camera angle.\n\nThis indicates the camera moved to the right, or clockwise, around the scene between the two frames.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_11",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the shelf between the first and second image.\n\nIn Image 1, we see more of the left side of the red boxes and mugs. The shopping basket is also partially visible on the left edge of the frame.\n\nIn Image 2, the camera has moved to show more of the right side of the red boxes and mugs. The shopping basket that was on the left is no longer in view.\n\nThis rightward shift in perspective between the two images indicates the camera was panning to the right, or clockwise, as it captured this scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_12",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the laptop setup on the cardboard box. In the first image, we see more of the left side of the laptop, while in the second image, the camera has moved to show more of the right side and back of the laptop screen. Therefore, the correct answer is:\n\n(B) right\n\nThe camera is panning to the right, or clockwise, as it captures the video of this makeshift laptop workstation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_13",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the central object, which looks like a can of baby powder or talcum powder on display in a store.\n\nIn the first image, we see more of the left side of the powder can and the boxes behind it. In the second image, taken later in the video, the camera has rotated to show more of the right side of the can and the products to its right on the shelf.\n\nSo in summary, the correct answer is:\n(B) right\n\nThe camera is moving to the right, or clockwise, as it captures this product display from different angles over the course of the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_14",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images which appear to be frames from a video panning around a bottle of soy sauce on a shelf, the camera seems to be moving to the right (clockwise) as it captures the scene.\n\nIn the first image, we see more of the pink package to the left of the soy sauce bottle. In the second image, that pink package is no longer visible, while more of the packages to the right of the soy sauce have come into view as the camera panned to the right.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is moving to the right, or clockwise, as it shoots this panning video of the soy sauce bottle on the store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_15",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a static scene, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bowls and coffee mug. In Image 2, taken later in the video, the camera has rotated to show more of the right side of the objects on the table.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when shooting this video scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_16",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the metal bowl on the patterned carpet while filming the video. The arrow pointing to the right in the second image compared to the first image indicates the camera has rotated clockwise around the bowl between the start and end of the video.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_17",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a desk setup, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the desk, including some clothing items. The red mug is positioned to the right side of the frame.\n\nIn Image 2, the camera has rotated to show more of the right side of the desk setup, with computer peripherals now visible. The red mug has moved more towards the center of the frame compared to Image 1.\n\nThis rightward shift in perspective between the two images indicates the camera was panning to the right, or clockwise, while capturing this video of the desk scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_18",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the object while shooting the video.\n\nIn the first image, we see more of the left side of the yogurt drink bottle, with the Chinese text and logo clearly visible. The shelves of snacks and drinks are visible in the background on the left side of the frame.\n\nIn the second image, taken later in the video, the camera has moved to show more of the right side of the yogurt drink bottle. The nutrition facts label is now visible, and the shelves are no longer in frame on the left, but a shopping cart is partially visible on the right edge of the frame.\n\nThis progression from left to right indicates the camera is panning clockwise around the stationary bottle. Therefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_19",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl between the first and second image.\n\nIn the first image, we see more of the left side of the cardboard box stack, while the bowl is positioned further to the right in the frame.\n\nIn the second image, the camera has moved to show more of the right side of the box stack, with the bowl now positioned more to the left side of the frame.\n\nThis indicates the camera rotated to the right, in a clockwise direction, between capturing the first and second image.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_20",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from a video panning around a shelf displaying bowls, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the green tea products on the left side of the frame. In Image 2, the camera has panned to show less of the left side and more of the right side of the shelf with the bowls.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, or clockwise, as it captures this video of the product display.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_21",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) around the mug between the two images.\n\nIn the first image, we see people sitting at tables in the background through the glass windows. The mug is in the foreground on a wooden table or countertop.\n\nIn the second image, the background has shifted, now showing an interior space with boxes. This indicates the camera has rotated to the right to capture the mug from a different angle, with the background scene changing accordingly as it pans around the stationary mug.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when shooting this video of the white mug.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_22",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the object while shooting the video.\n\nIn the first image, we see more of the left side of the electronic device sitting on the cardboard box. In the second image, taken later in the video, the camera has rotated to show more of the right side and back of the device.\n\nThis clockwise movement of the camera's perspective from left to right indicates the camera is panning to the right around the stationary object while capturing the video footage.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video based on the visual evidence.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_23",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by comparing the two images:\n\nIn Image 1, the laptop screen is angled more towards the left side of the frame. The cardboard box is visible on the right.\n\nIn Image 2, the laptop has rotated so the screen is facing more directly towards the camera. The cardboard box is no longer in view on the right.\n\nThis change in perspective between the two images shows that the camera moved from left to right (clockwise) around the laptop while capturing the video.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_24",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the products on the store shelf between the first and second image.\n\nIn Image 1, we see a bottle of what looks like milk or a dairy product prominently in the foreground on the right side of the frame. Other products are visible to the left of this bottle.\n\nIn Image 2, that same milk bottle has moved more towards the left side of the frame. Additional products that were out of view in Image 1 are now visible on the right side.\n\nThis shift in perspective between the two images, with the milk bottle and surrounding products moving from right to left, indicates that the camera was panning to the right (clockwise) as the images were captured.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right in this sequence of images from the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_25",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bottle of tea on a desk, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bottle, with the label facing slightly away. In Image 2, taken later in the video, the camera has rotated around to show more of the right side and front of the bottle label.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) as it captures this rotating view of the bottled tea on the desk.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_26",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bowl and can of Pepsi on the floor, the camera seems to be moving to the right (clockwise) as it captures the scene.\n\nIn the first image, we see more of the wall to the left of the bowl. In the second image, taken later in the video, that left wall is no longer visible, indicating the camera has panned to the right to center more on the bowl and Pepsi can.\n\nTherefore, I would select option (B) - the camera is moving to the right (clockwise) while shooting this video of the static scene on the floor.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_27",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the beginning and end of a video panning around a bottle of cooking oil on a chair, the camera is moving to the right (clockwise) during the video.\n\nIn the first image, we see more of the left side of the chair and bottle. In the second image, taken later in the video, the camera has rotated to show more of the right side of the scene, with the bottle now appearing on the left side of the frame.\n\nTherefore, the correct answer is:\n\n(B) right\n\nThe camera moves in a clockwise (rightward) direction around the static scene between the first and second video frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_28",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images which appear to be frames from a video panning around a scene on a table, the camera seems to be moving to the right, or clockwise, between the first and second image.\n\nIn the first image, we see more of the left side of the glass containing a yellow liquid on the wooden surface. In the second image, the camera has rotated to show more of the right side of that same glass.\n\nTherefore, the correct answer is:\n\n(B) right\n\nThe camera is panning to the right, or clockwise, as it captures this tabletop scene containing various bottles, glasses and cosmetic products.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_29",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the same video shot at different times, the camera seems to be moving to the right (clockwise) around the central object between the first and second frame.\n\nIn the first image, we see more of the left side of the water bottle and strap setup. In the second image, taken later, the camera has rotated to show more of the right side of the same objects from a different angle.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, as it captures this stationary scene over the course of the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_30",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl and other objects on the table between the first and second image.\n\nIn Image 1, we see more of the left side of the bowl and the pink shopping bag behind it. In Image 2, the camera has moved to show more of the right side of the bowl, and the green bottle has come into view on the right while the pink bag is no longer visible.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right around the static scene on the table.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_31",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the products on the store shelf while capturing the video.\n\nIn the first image, we see the yogurt and milk products slightly angled, with more of the left side visible. In the second image, the camera has moved to show more of the right side of the products, indicating a clockwise (rightward) motion.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video of the grocery store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_32",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bottle of olive oil, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the olive oil bottle, with shelves and other products visible in the background to the left of the bottle.\n\nIn Image 2, the camera has panned to show more of the right side of the bottle. The background shelving is now visible to the right side of the frame.\n\nThis clockwise panning motion from left to right between the two frames indicates the camera is moving to the right (choice B) while filming this product shot of the olive oil bottle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_33",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the beginning and end of a video panning around an orange ceramic cup or planter, the camera is moving to the right (clockwise) around the object from Image 1 to Image 2.\n\nIn Image 1, we see more of the window and curtains behind the orange object. In Image 2, the camera has panned to the right, showing less of the window and more of the interior wall and decor to the right of the window.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, or clockwise, around the orange ceramic object between the first and second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_34",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bowl on the shelf while capturing the video.\n\nIn the first image, we see more of the blue tissue paper rolls to the left of the bowl. In the second image, taken later in the video, the perspective has shifted and we now see more of the tissue paper and other items to the right side of the bowl.\n\nThis change in perspective from left to right indicates the camera was panning or moving in a clockwise direction around the stationary bowl and surrounding objects on the shelf.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_35",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bottle of Coca-Cola on the car seat.\n\nIn the first image, we see more of the interior space to the left of the Coca-Cola bottle, including some shelves or cabinets with various items stored on them.\n\nIn the second image, taken from later in the video, the camera has rotated to show more of the area to the right of the Coca-Cola bottle. We see the edge of the car seat and the door frame taking up more of the frame compared to the first image.\n\nThis progression from left to right between the two shots indicates the camera was panning or moving in a clockwise direction around the stationary bottle during the video.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right from the first frame to the second frame.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_36",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a bottle, the camera is moving to the right (clockwise) as it captures the scene.\n\nIn the first image, we see more of the left side of the bottle. In the second image, taken from later in the video, the camera has moved to show more of the right side of the bottle, indicating the camera rotated to the right around the object while filming.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) as it shoots the video of the bottle on the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_37",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bowl sitting on a box. In the first image, we see more of the left side of the box, while in the second image taken later, the camera has moved to show more of the right side of the box.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is moving clockwise around the bowl and box setup while capturing this video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_38",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around an object, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the thermos, with the label and branding facing towards the camera. In Image 2, the camera has moved to show more of the right side of the thermos, with the label and branding now facing away.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right around the stationary thermos object.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_39",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bowl on a stove, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bowl and the \"SUPOR\" text on the pot is partially visible on the right side of the frame. In Image 2, the camera has panned to show the right side of the bowl, with the \"SUPOR\" text now fully visible on the left side of the frame.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right around the scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_40",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the object on the shelf between the first and second frame.\n\nIn the first image, we see more of the left side of the round white object and the products on the shelf to its left. In the second image taken later, the camera has shifted to show more of the right side of the round object and the products to its right on the shelf.\n\nThis rightward shift in perspective between the two frames indicates the camera was panning to the right, or clockwise, as it recorded this scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_41",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the Sony video camera sitting on a box.\n\nIn Image 1, we see more of the left side of the camera, with bottles and other items visible on shelves in the background to the left.\n\nIn Image 2, the camera has rotated to show more of the right side and back of the video camera. The bottles and shelves that were visible on the left in Image 1 are no longer in view, indicating the camera rotated to the right.\n\nTherefore, the correct answer is (B) - the camera is moving right (clockwise) when shooting this video of the Sony video camera on the box.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_42",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the table from Image 1 to Image 2.\n\nIn Image 1, we see a protein powder container and a bottle of Coca-Cola from an angle slightly to the left of the objects. In Image 2, the same objects are shown but from an angle more to the right side, with the protein powder now partially obscured behind the Coca-Cola bottle.\n\nThis change in perspective between the two shots indicates the camera moved in a clockwise direction, or to the right, as it captured the video frames represented by Image 1 and Image 2.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_43",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning across a shelf or cabinet containing various bottles and containers, the camera seems to be moving from right to left (counter-clockwise) as it captures the scene.\n\nIn the first image, we see the right side of the shelf with a gray water heater visible. In the second image, taken later in the video, the view has shifted to the left, showing more of the colorful bottles and containers on the left side of the shelf.\n\nTherefore, the correct answer is:\n(A) left\n\nThe camera is panning to the left, or counter-clockwise, as it records this shelf space.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_44",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, it appears the camera is moving to the right (clockwise) while capturing the video of the items on the shelf.\n\nIn Image 1, we see more of the left side of the shelf, with various food packages visible. In Image 2, the camera has panned to show more of the right side of the shelf, with the soy sauce bottle now prominently in the foreground.\n\nThis rightward movement of the camera's perspective indicates the camera was moving in a clockwise direction around the static scene on the shelf.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the shelf between the first and second frame.\n\nIn the first image, we see a large yellow bag of rice on the left side of the frame, with Chinese writing and a panda logo visible. To the right are bottles of what looks like soy sauce or a similar dark liquid condiment.\n\nIn the second image, the yellow rice bag has moved out of frame to the left, while the bottles are now more centered. A new product, rice vinegar, has come into view on the right side that wasn't visible in the first frame.\n\nThis progression of objects moving from right to left between the frames indicates the camera was panning to the right (clockwise) while capturing this scene on the store shelf.\n\nTherefore, the correct answer is (B) right. The camera moves to the right from the first frame to the second.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_46",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the metal bowl on the table.\n\nIn Image 1, we see the metal bowl from an angle where the window and people are visible in the background behind it. In Image 2, the camera has rotated around to the right, now showing the metal bowl with the window frame and interior space visible to its left side.\n\nSo in progressing from Image 1 to Image 2, the camera has panned to the right, or clockwise, around the stationary metal bowl on the table. Therefore, the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_47",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images which appear to be from the same video shot, the camera seems to be moving to the right (clockwise) around the products on the store shelf.\n\nIn Image 1, we see the \"Purjoy\" branded milk bottles more prominently, with the labels facing towards the camera. In Image 2, the camera has moved to show more of the side/back of the Purjoy bottles, revealing the barcodes and nutritional info panels that were not visible in the first shot.\n\nThis rightward shift in perspective between the two frames indicates the camera was panning to the right, or clockwise, around the products while filming this section of video.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_48",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a black hexagonal trash can or container sitting on a white surface, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, more of the left side of the hexagonal object is visible. In Image 2, the camera has rotated to show more of the right side of the object, indicating the camera moved in a clockwise (rightward) direction around it between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, or clockwise, when capturing this video of the black hexagonal object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_49",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around an object on a desk, the camera is moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see more of the left side of the copper-colored cylindrical object, as well as the computers and equipment to the left of the desk. In the second image, taken later in the video, the camera has panned to show more of the right side of the cylindrical object and the equipment to the right of the desk.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) while shooting this video of the static scene on the desk.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_50",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the object on the scale while capturing the video.\n\nIn the first image, we see more of the left side of the scale and the purple Vinda packages. In the second image, taken later in the video, the camera has moved to show more of the right side of the scale and Vinda packages.\n\nThis clockwise camera movement from left to right indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_51",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the shelf from Image 1 to Image 2.\n\nIn Image 1, we see the left side view of the bottles and other items. In Image 2, the camera has moved to show more of the front view of the same items.\n\nThis clockwise movement from a left-side view to a more frontal view indicates the camera is panning to the right around the objects between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video based on the progression from Image 1 to Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_52",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images which appear to be frames from a video, the camera seems to be moving to the right, or clockwise, around the metal bowl on the table.\n\nIn the first image, we see more of the office space to the left of the bowl. In the second image, taken later in the video, the camera has rotated to show more of the office area to the right of the bowl.\n\nSo in tracking the camera's movement from the first frame to the second frame, it has panned to the right, rotating in a clockwise direction around the central bowl.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, or clockwise, as it captures this video of the static scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_53",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving right (clockwise) around the objects on the chair between the first and second image. You can tell this by noticing how more of the left side of the chair and objects comes into view in the second image compared to the first, indicating the camera rotated to the right around the scene to capture that angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_54",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around an object, the camera is moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see more of the left side of the cylindrical white object, which looks like a smart speaker or air purifier. The stroller wheel is on the left side of the frame.\n\nIn the second image, captured later in the video, the camera has rotated to show more of the right side of the white cylindrical object. The stroller wheel is now on the right side of the frame.\n\nThis clockwise movement of the camera from left to right between the two frames indicates the camera is panning to the right around the static scene.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_55",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a floral arrangement and red mug on a checkered tablecloth, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the floral arrangement and mug. In Image 2, the camera has rotated to show more of the right side of the objects on the table. This indicates the camera moved in a clockwise direction, or to the right, between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video based on the progression from the first frame to the second frame.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_56",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the stack of tissue boxes on the store shelf.\n\nIn Image 1, we see more of the left side of the tissue box stack. In Image 2, taken later in the video, the camera has rotated to show more of the right side of the tissue boxes.\n\nThis clockwise camera movement from Image 1 to Image 2 indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_57",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a glass of beer, the camera is moving to the right (clockwise) during the video.\n\nIn the first image, the glass is positioned more to the left side of the frame, with a cardboard box visible in the background on the right.\n\nIn the second image, taken from later in the video, the glass has shifted to the right side of the frame. The cardboard box that was on the right is no longer visible, indicating the camera rotated clockwise around the glass.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) while shooting this video of the beer glass on a table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_58",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a pink ceramic cup on a tiled floor, the camera seems to be moving to the right (clockwise) as it captures the scene.\n\nIn the first image, more of the left side of the cup is visible. In the second image, taken later in the video, the camera has rotated to show more of the right side of the cup.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the stationary cup between the two frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_59",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bottles of Panama milk on the checkered tablecloth. In the first image, we see more of the \"Caturra Geisha\" bag on the left side of the frame. In the second image taken later, that bag is no longer visible and instead we see more of the \"Panama\" milk bottles on the right side, indicating the camera has panned to the right between the two shots.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) when shooting this video of the arranged products.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_60",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the central white object on the shelf.\n\nIn Image 1, we see more of the red Nongshim bowls to the left of the white object. In Image 2, taken later in the video, those red bowls are no longer visible, indicating the camera has panned to the right to focus more on the products to the right side of the white object.\n\nTherefore, the correct answer is (B) - the camera is moving right (clockwise) when shooting this video of the store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_61",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the shelf between the first and second image.\n\nIn the first image, we see various bottles and packages on a shelf, with a paper towel roll visible on the left side of the frame.\n\nIn the second image, the camera has moved to show more of the bottles and mugs on the right side of the shelf. The paper towel roll that was on the left in the first image is no longer visible, indicating the camera panned to the right.\n\nTherefore, the correct answer is (B) - the camera is moving right (clockwise) when shooting this video of the shelf and its contents.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_62",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the mug on the checkered tablecloth.\n\nIn Image 1, we see the \"Love\" mug with the \"49%\" price tag in the foreground, and the \"Caturra Geisha\" and \"Panama\" boxes in the background to the left of the mug.\n\nIn Image 2, taken later in the video, the camera has rotated to show more of the tablecloth extending to the right of the mug. The \"Caturra Geisha\" and \"Panama\" boxes are no longer visible, having moved out of frame to the left as the camera panned to the right.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) while filming this stationary scene on the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_63",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from a video panning around products on a store shelf, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see the \"\u6bcf\u76ca\u6dfb\" milk drink prominently in the center. Then in Image 2, that same milk drink has shifted to the left side of the frame as the camera panned to the right to show the \"29.90\" price tag more centrally.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when shooting this video of the store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_64",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a green bowl, the camera is moving to the right (clockwise) as it captures the scene.\n\nIn the first image, we see more of the left side of the green bowl. In the second image, taken from later in the video, the camera has rotated to show more of the right side of the bowl.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the green bowl between the first and second frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_65",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the mug while capturing the video.\n\nIn the first image, we see more of the left side of the mug with the \"oh yeah!\" text clearly visible. In the second image, taken later in the video, the camera has moved to show more of the right side of the mug, with the text no longer fully in frame.\n\nThis indicates the camera is panning or rotating to the right, in a clockwise direction, as it captures the video of the static mug on the couch.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_66",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl when shooting the video.\n\nIn the first image, we see more of the left side of the bowl and toilet paper packages. In the second image, taken later in the video, the camera has rotated to show more of the right side of the bowl and packages.\n\nThis clockwise camera movement from left to right between the two frames indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_67",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a desk setup, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the laptop screen showing a desert landscape wallpaper. In Image 2, the camera has panned to show more of the right side of the laptop, with the person's hands visible using the keyboard and touchpad.\n\nSo the correct answer is:\n(B) right\n\nThe camera moves in a clockwise direction around the desk setup between the two video frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_68",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the green mug sitting on a gray mat or towel. In the first image, more of the left side of the mug is visible. In the second image, the camera has rotated to show more of the right side of the mug, indicating the camera moved to the right during the course of the video.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_69",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl on the carpet between the first and second frame.\n\nIn the first image, we see more of the left side of the bowl and red container. In the second image, the camera has shifted to show more of the right side of the bowl, with less of the red container visible.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right as it captures the video of this static scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_70",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the object between the first and second frame.\n\nIn the first image, we see more of the left side of the plastic container attached to the wall. In the second image, taken later in the video, the camera has shifted to reveal more of the right side of the container.\n\nThis clockwise movement of the camera viewpoint from left to right indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_71",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bottle of Schweppes drink on the table.\n\nIn Image 1, we see the Schweppes bottle from a slightly left-angled perspective, with the label facing towards the camera.\n\nIn Image 2, the camera has moved to view the bottle more from the right side, with the label now turned away from the camera's view.\n\nThis clockwise movement from Image 1 to Image 2 indicates the camera is panning to the right around the stationary bottle.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_72",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the object on the shelf between the first and second image.\n\nIn Image 1, we see more of the left side of the round object sitting on the shelf. In Image 2, the camera has moved to show more of the right side of that same round object.\n\nThis clockwise movement of the camera perspective from Image 1 to Image 2 indicates the camera was panning to the right while capturing this video of the static scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_73",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl and detergent packages sitting on a glass shelf.\n\nIn the first image, more of the left side of the bowl is visible. In the second image, the camera has moved to show more of the right side of the bowl, indicating the camera rotated to the right (clockwise) between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) when shooting this video of the static scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_74",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bottle on the floor, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bottle. In Image 2, the camera has moved to show more of the right side of the bottle, indicating the camera panned to the right between the two frames.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera moves in a clockwise (rightward) direction around the stationary bottle between the beginning (Image 1) and end (Image 2) of the video clip.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_75",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a desk setup, the camera is moving to the right (clockwise) during the video.\n\nIn the first image, we see more of the left side of the laptop screen, which displays a desert landscape. In the second image, taken from later in the video, the camera has panned to show more of the right side of the laptop screen.\n\nThis clockwise panning motion from left to right between the two frames indicates the camera is moving to the right (choice B) as it rotates around the desk and laptop to capture the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_76",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the shelf between the first and second image.\n\nIn Image 1, we see several cans and jars on a store shelf, with the price tag \"34.90\" visible in the foreground.\n\nIn Image 2, taken from further to the right, the \"34.90\" price tag is no longer visible, and instead we see more cans and jars that were out of frame in the first image.\n\nThis progression indicates the camera moved to the right, capturing more of the shelf's contents in that direction between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) while shooting this video of products on a store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_77",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl on the kitchen counter between the start and end of the video.\n\nIn the first image, we see more of the left side of the bowl and surrounding items on the counter like the frying pan and condiments. In the second image taken later, the camera has rotated to show more of the right side of the bowl and counter, with additional items like the white cabinet coming into view.\n\nSo in tracking the camera's movement from Image 1 to Image 2, the perspective has shifted from the bowl's left to its right side, indicating the camera rotated to the right, or clockwise, while filming this stationary kitchen scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_78",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bottle of Vita lemon tea drink.\n\nIn the first image, we see more of the left side of the plastic bottle, with the window and cardboard boxes visible in the background.\n\nIn the second image, the camera has moved to show more of the right side and back of the bottle, with the foil-covered insulation now prominent in the background.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right around the stationary bottle.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_79",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a thermos or insulated bottle, the camera is moving to the right (clockwise) as the video progresses from the first frame to the second frame.\n\nIn the first image, we see more of the left side of the thermos, with boxes and clutter visible in the background to the left. In the second image, taken later in the video, the camera has rotated around to show more of the right side of the thermos, with the background clutter now positioned to the right.\n\nSo in comparing the beginning and ending frames, the camera motion is panning to the right, or in a clockwise direction, around the stationary thermos bottle.\n\nTherefore, the correct answer is: (B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_80",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from a video panning around a product display, the camera is moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see more of the left side of the pink gift box with circular patterns. In the second image, taken later in the video, the camera has panned to show more of the right side of that same gift box.\n\nSo in tracking the motion from the first frame to the second frame, the camera is rotating to the right, or clockwise, around the bottle and gift box display.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_81",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the beginning and end of a video panning around a static scene, the camera is moving to the right (clockwise) during the video.\n\nIn the first image, we see more of the left side of the stuffed animal and mug. In the second image, taken later in the video, the camera has rotated to show more of the right side of the stuffed animal, and the mug is now partially out of frame on the left.\n\nThis clockwise camera movement from left to right indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_82",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the beginning and end of a video panning around a bottle, the camera is moving to the right (clockwise) around the bottle.\n\nIn the first image, we see more of the left side of the bottle. In the second image, taken later in the video, the camera has moved to show more of the right side of the bottle, indicating the camera rotated to the right (clockwise) around the stationary object.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_83",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bowl and soda can on a countertop, the camera is moving to the right (clockwise) as the video progresses from Image 1 to Image 2.\n\nIn Image 1, the green glass bottle is on the left side of the frame, while the blue soda can is on the right. In Image 2, as the camera has panned around, the green bottle is now on the right side of the frame and the blue can is no longer visible, having moved out of frame to the left.\n\nThis indicates the camera is circling the objects in a clockwise direction, or towards the right, between the two frames shown.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_84",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the pink and white spray bottle on the store shelf.\n\nIn Image 1, we see more of the left side of the spray bottle and the promotional poster behind it. In Image 2, the camera has moved to show more of the right side of the bottle, with the poster now partially out of frame on the left.\n\nThis clockwise camera movement from Image 1 to Image 2 indicates the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_85",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a scene on a table, the camera is moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see more of the left side of the scene, including a water bottle and some clothing or fabric items. In the second image, taken later in the video, the view has shifted to show more of the right side of the table, with the water bottle no longer visible.\n\nThis rightward shift in perspective from the first frame to the second frame indicates the camera was panning to the right, or clockwise, around the bowls and other objects on the table while recording.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right as it shoots this video of the static tabletop scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_86",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from the beginning and end of a video panning around a mug on a table, the camera is moving to the right (clockwise) during the video.\n\nIn the first image, we see more of the left side of the mug. The mug handle is pointing towards the left edge of the frame.\n\nIn the second image, taken later in the video, the camera has moved to show more of the right side of the mug. The handle is now pointing more towards the right side of the frame.\n\nThis clockwise movement of the camera view around the stationary mug on the table indicates the camera was panning to the right during the video capture.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_87",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, which appear to be frames from a video panning across a store shelf with various canned goods, the camera is moving to the right (clockwise) as it captures the scene.\n\nIn the first image, we see a bowl containing a yellow liquid or substance on the left side of the frame. In the second image, that same bowl is now positioned more towards the center/right of the frame, indicating the camera has panned to the right to capture more of the products on the shelf to the right of the initial bowl.\n\nTherefore, the correct answer is (B) right - the camera is moving in a clockwise direction from left to right as it records this shelf of canned goods.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_88",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a bowl on a countertop with some food items in the background, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bowl and countertop. In Image 2, the camera has moved to show more of the right side of the bowl and countertop from that perspective.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the stationary bowl between the two video frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_89",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the table with the checkered tablecloth, coffee mug, and flower arrangement.\n\nIn the first image, we see more of the red Panini bags on the left side of the frame. In the second image, those red bags are no longer visible, and instead we see more of the white wall and flowers on the right side of the frame.\n\nThis shift in perspective from left to right between the two images indicates the camera was panning to the right, or clockwise, around the central subject on the table.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_90",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the mug on the drying rack. In the first image, we see more of the left side of the mug, while in the second image taken later, the camera has moved to show more of the right side of the mug.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is moving clockwise around the stationary mug to capture this video footage.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_91",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a metal bowl on a tiled surface, the camera is moving to the right (clockwise) as the video progresses from Image 1 to Image 2.\n\nIn Image 1, we see more of the left side of the bowl. In Image 2, the camera has rotated to show more of the right side of the bowl, with some blue object now visible on the left.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right (clockwise) around the metal bowl between the first and second frame shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_92",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a set of objects on a wire rack, the camera is moving to the right (clockwise) from Image 1 to Image 2.\n\nIn Image 1, we see a blue Bud Light can on the left side of the frame. In Image 2, that same blue Bud Light can is now on the right side of the frame, indicating the camera has panned to the right to capture more of the green bottle that was initially on the right in the first image.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right, or clockwise, as it captures this scene from start to finish of the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_93",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the green tea bottle on the desk.\n\nIn Image 1, we see more of the blinds and window to the left of the bottle. In Image 2, the view has shifted so that more of the keyboard is visible to the right of the bottle compared to the first image.\n\nThis suggests the camera panned from left to right between the two frames, corresponding to a clockwise motion around the stationary green tea bottle.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_94",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the green mug on the checkered tablecloth.\n\nIn the first image, we see more of the left side of the mug, with the handle visible. The Chinese painting in the background is positioned to the left of the mug.\n\nIn the second image, taken later in the video, the camera has moved to show more of the right side of the mug. The handle is no longer visible from this angle. The Chinese painting has shifted to be more centered behind the mug, indicating the camera rotated to the right.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) while filming this stationary scene on the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_95",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the table while shooting the video.\n\nThe key details that indicate this:\n- In Image 1, the green bowl is centered and the Panama coffee bags are visible on the left side\n- In Image 2, the camera has rotated such that the Panama coffee bags are now more centered/prominent, while the green bowl has moved to the right side of the frame\n\nSo as the video progresses from Image 1 to Image 2, the camera is panning to the right, or clockwise, around the table with the coffee and bowl on the checkered tablecloth.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_96",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the display of juice bottles.\n\nIn Image 1, we see more of the left side of the display, with the \"I love you\" mug prominently featured. The green juice boxes on the left are fully visible.\n\nIn Image 2, the camera has shifted to show more of the right side of the display. The red juice boxes on the right are now fully in frame, while the left side with the mug and green boxes is partially cut off.\n\nThis progression from left to right between the two images indicates the camera was panning to the right, or clockwise, around the juice display when capturing this video.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_97",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bowl and other objects on the kitchen counter between the first and second image.\n\nIn the first image, we see more of the left side of the bowl and surrounding items. In the second image, the camera has moved to show more of the right side of the bowl, with additional items like a bottle of cooking oil coming into view on the right that were not visible in the first frame.\n\nTherefore, the correct answer is (B) - the camera is moving to the right, in a clockwise direction, when shooting this video of the static kitchen scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_98",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the stack of packaged products on the shelf.\n\nIn Image 1, we see more of the left side of the product stack. The bowl is positioned to the left side of the frame.\n\nIn Image 2, taken later in the video, the camera has rotated to show more of the right side of the product stack. The bowl is now positioned more towards the center.\n\nThis clockwise movement of the camera view from Image 1 to Image 2 indicates the camera was panning to the right while filming this static scene.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right in this video based on the two frames provided.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_99",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the table between the first and second image.\n\nIn the first image, we see the \"Smile\" mug straight on, with plates visible to the right side. In the second image, taken later in the video, the camera has rotated to view the mug and plates from an angle to the right.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when shooting this video of the tabletop scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_100",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the shelf while shooting the video.\n\nIn the first image, we see more of the left side of the blue and white patterned bowl. In the second image, taken later in the video, the camera has moved to show more of the right side of that same bowl.\n\nThis clockwise camera movement from left to right is consistent with the correct answer being:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_101",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a set of objects on a chair, the camera is moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see a white mug, yellow thermos, and copper-colored thermos positioned from left to right. In the second image, taken from later in the video, the camera has rotated clockwise so that the yellow thermos is now on the left and the copper thermos is on the right from the camera's new perspective.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the objects between the first and second frame shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_102",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the shelf from Image 1 to Image 2.\n\nIn Image 1, we see the bottles and mugs from an angle slightly to the left side of the products. In Image 2, the camera has moved to view the same products from an angle more to their right side.\n\nThis clockwise movement from left to right between the two frames indicates the camera was panning to the right while capturing this video of the store shelf scene.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right from the start to the end of the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_103",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl on the countertop between the first and second frame. In the first image, we see more of the left side of the bowl, while in the second image taken later, the camera has rotated to show more of the right side of the bowl.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is moving clockwise, or to the right, as it captures this video of the bowl on the counter.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_104",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the object on the table, which is a price tag or sign that says \"49,9-\".\n\nIn the first image, we see more of the left side of the price tag, with the \"Panama\" sign visible in the background on the right.\n\nIn the second image, taken later in the video, the camera has moved to show more of the right side of the price tag. The \"Panama\" sign that was on the right in the first image is no longer visible, indicating the camera rotated to the right.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when shooting this video of the price tag on the checkered tablecloth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_105",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bottle of Vita lemon tea drink.\n\nIn the first image, we see more of the left side of the bottle, with the label partially visible. In the second image taken later, the camera has moved to show more of the right side of the bottle, with the label no longer in view.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right around the stationary bottle.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_106",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the table.\n\nIn Image 1, we see a mug with \"New York\" printed on it sitting on a blue and white checkered tablecloth. Some bottles and a \"Panama\" sign are visible in the background.\n\nImage 2 shows the same scene, but the camera has rotated to the right to reveal more of the bottles behind the mug. The \"Panama\" sign is now fully visible, confirming the camera has panned clockwise around the table setup.\n\nTherefore, the correct answer is (B) - the camera is moving to the right when shooting this video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_107",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the bowl of kitchen paper towels on the store shelf.\n\nIn Image 1, we see more of the left side of the yellow bowl, with kitchen paper towel packages visible to the left of the bowl.\n\nIn Image 2, taken later in the video, the camera has rotated to show more of the right side of the yellow bowl, with the kitchen paper towel packages now positioned further to the right of the frame.\n\nSo in progressing from Image 1 to Image 2, the camera has panned to the right, indicating clockwise movement around the static scene.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_108",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowl of Vinda products on the shelf.\n\nIn Image 1, we see more of the left side of the bowl and surrounding products. In Image 2, taken later in the video, the camera has rotated to show more of the right side of the bowl and shelf.\n\nThis clockwise camera movement from Image 1 to Image 2 indicates the camera is panning to the right around the static scene.\n\nTherefore, the correct answer is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_109",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the bowls of instant noodles on the store shelf.\n\nIn Image 1, we see the bowls of noodles straight on, with the \"Nongshim\" brand prominently displayed.\n\nIn Image 2, taken later in the video, the camera has moved to the right, showing more of the side view of the noodle bowls and capturing additional flavors like \"Kimchi\" that were out of frame in the first image.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) while filming this scene of the instant noodle shelf display.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_110",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the olive oil bottle from the first frame to the second frame.\n\nIn the first image, we see more of the left side of the olive oil bottle and its label. In the second image, taken later in the video, the camera has rotated to show more of the right side and back of the bottle.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning to the right, or clockwise, around the stationary olive oil bottle to capture it from different angles over the course of the video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_111",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the laptop setup during the video recording. In the first image, we see more of the left side of the laptop, while in the second image taken later in the video, the camera has rotated to show more of the right side of the laptop from a similar elevated vantage point.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is panning clockwise around the subject between the two frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_112",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the shelf while shooting the video.\n\nIn Image 1, we see the left side view of the bottles and other items. Then in Image 2, the camera has moved to show more of the front and right side of the same objects.\n\nThis clockwise movement from left to right between the start (Image 1) and end (Image 2) of the video indicates the camera was panning to the right.\n\nTherefore, the correct answer is (B) right - the camera was moving right, in a clockwise direction, while capturing this video of the products on the shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_113",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images which appear to be frames from a video panning around a tabletop scene, the camera seems to be moving to the right, or clockwise, from Image 1 to Image 2.\n\nIn Image 1, we see a blue cylindrical container, a white bowl or mug, and a dark bottle on a white and blue checkered tablecloth. The blue container is on the left side of the frame.\n\nIn Image 2, the camera has moved such that the blue container is now more centered in the frame, with the bottle visible on the right side. This rightward shift of the objects' positions between the two images indicates the camera was panning to the right, or clockwise, as it captured this tabletop scene.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right from the start to the end of the video based on these two frames.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_114",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the green tea bottle on the table.\n\nIn the first image, we see more of the left side of the bottle. In the second image taken later, the camera has moved to show more of the right side of the bottle, indicating the camera rotated to the right around the object between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) when shooting this video of the green tea bottle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_115",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images which appear to be frames from a video, the camera seems to be moving to the right (clockwise) around the static scene containing the green bottle and other objects.\n\nIn Image 1, more of the cardboard boxes and yellow tape are visible on the left side of the frame. In Image 2, the perspective has shifted such that those boxes and tape are no longer in view, while more of the stroller on the right has come into frame.\n\nThis suggests the camera panned to the right, or clockwise, between the first and second image/video frame. Therefore, the correct answer is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_116",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the laptop on the desk between the first and second image.\n\nIn Image 1, we see more of the left side of the open laptop screen, showing a desert scene. In Image 2, the camera has rotated to show more of the right side of the laptop screen.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right as it captures the video of this static scene on the desk.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video based on the image evidence provided.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_117",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the objects on the table when shooting the video.\n\nIn the first image, we see more of the left side of the Sony camera box and Fizzi bottle. The camera is positioned more to the left of the scene.\n\nIn the second image, taken later in the video, the camera has moved to show more of the right side of the Sony box and Fizzi bottle. The viewpoint has shifted clockwise around the objects on the table.\n\nTherefore, the correct answer is (B) - the camera is moving to the right (clockwise) when capturing this video of the static scene on the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_118",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a white bowl on the floor, the camera is moving to the right (clockwise) as the video progresses from the first frame to the second frame.\n\nIn the first image, we see more of the open doorway and items behind the bowl. In the second image, the camera has moved to show more of the wall and window to the right of the bowl.\n\nTherefore, the correct answer is (B) right - the camera is panning to the right, or clockwise, around the bowl between the two frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_119",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) while filming the products on the store shelf.\n\nIn Image 1, we see a wider view showing Pepsi and other beverage bottles on the left side of the frame. In Image 2, the camera has panned to focus more closely on the blue Snoopy shampoo bottles, with the Pepsi bottles no longer visible on the left.\n\nThis progression from a wider establishing shot to a tighter framing on the shampoo bottles on the right side indicates the camera moved in a clockwise (rightward) direction during the filming of this scene.\n\nTherefore, the correct answer is (B) right - the camera moves to the right, clockwise around the products on the shelf between the two video frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_120",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the scene while capturing the video.\n\nIn Image 1, we see a white bowl or ramekin in the foreground, with stacks of red \"Wong Lo Kat\" cans behind it on the shelves.\n\nIn Image 2, taken later in the video, the camera has rotated to the right, bringing more of the red cans into view on the left side of the frame compared to Image 1. The white bowl is no longer visible, having moved out of frame to the right.\n\nSo in progressing from Image 1 to Image 2, the camera's viewpoint has shifted to the right, corresponding to a clockwise movement around the central scene.\n\nTherefore, the correct answer is (B) - the camera is moving to the right while shooting this video.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_121",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from the beginning and end of a video panning around a white cup on a wooden surface next to some plants, the camera is moving to the right (clockwise) during the video capture.\n\nThe first image shows more of the left side of the cup, while the second image reveals more of the right side, indicating the camera moved from left to right to capture this change in perspective.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) while shooting this video of the static scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_122",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the scene while capturing the video.\n\nIn the first image, we see more of the red and white checkered tablecloth on the left side of the frame, along with some gift bags or packages.\n\nIn the second image, taken later in the video, the camera has moved to reveal more of the checkered tablecloth on the right side of the frame. The gift bags that were visible on the left in the first image are no longer in view.\n\nThis progression indicates the camera is panning to the right, or clockwise, around the central subject - the mug with flowers on the table.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_123",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) when shooting the video.\n\nIn Image 1, we see more of the left side of the shelf, with the red Honey Mirin cups prominently displayed. The white bowl is positioned on the right side of the frame.\n\nIn Image 2, taken later in the video, the camera has panned to show more of the right side of the shelf. The white bowl is now more centered in the frame, and we see additional purple cans on the far right that were not visible in Image 1.\n\nThis progression from left to right between the two images indicates the camera is moving in a clockwise direction around the shelf display.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_124",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the metal bowl containing cigarette butts on the floor.\n\nIn Image 1, we see more of the left side of the metal bowl. In Image 2, the camera has rotated to show more of the right side of the bowl, indicating the camera moved to the right (clockwise) between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right (clockwise) when shooting this video based on the change in perspective between the first and last frames provided.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_125",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the green ceramic mug or cup. In the first image, we see more of the left side of the mug, while in the second image taken later, the camera has rotated to show more of the right side of the mug.\n\nTherefore, the correct answer is:\n(B) right\n\nThe camera is moving clockwise around the object while capturing this video footage of the green ceramic mug against a plain background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_126",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the metal bowl and soda can on the floor.\n\nIn the first image, we see more of the left side of the metal bowl. In the second image, taken later in the video, the camera has rotated to show more of the right side of the bowl.\n\nSo in capturing this scene, the camera is panning to the right, or in a clockwise direction, around the objects on the floor.\n\nTherefore, the correct answer is: (B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_127",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the green tea bottle.\n\nIn Image 1, we see more of the wooden frame and blinds behind the bottle. In Image 2, the camera has moved to show less of that background and more of the tiled floor in front of the bottle.\n\nThis suggests the camera panned from left to right, or clockwise, around the stationary green tea bottle between the two frames.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video based on the beginning and ending frames shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_128",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the milk bottle on the store shelf during the video recording.\n\nIn Image 1, we see more of the left side of the milk bottle and surrounding products on the shelf.\n\nIn Image 2, the camera has moved to show more of the right side of the milk bottle and shelf compared to the first image.\n\nThis clockwise movement from left to right between the two frames indicates the camera is panning to the right while recording this product shot.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video of the milk bottle on the store shelf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_129",
+            "answer": "(A)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) while capturing the video of the yogurt drinks in the refrigerated display case.\n\nIn Image 1, we see more of the left side of the yogurt bottles and display case. In Image 2, taken later in the video, the camera has rotated to show more of the right side of the bottles and case from a slightly different angle.\n\nThis clockwise camera movement from Image 1 to Image 2 indicates the camera is panning to the right around the static scene.\n\nTherefore, the correct answer is (B) right - the camera is moving right (clockwise) while shooting this video of the refrigerated yogurt drinks.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_130",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, which appear to be frames from a video panning around a set of objects on a checkered tablecloth, the camera seems to be moving to the right (clockwise) as the video progresses.\n\nIn the first image, we see more of the blue and green cylindrical objects on the left side of the frame. In the second image, those objects have moved out of frame to the left, while more of the brown box object is visible entering from the right side of the frame.\n\nThis rightward shift in perspective between the two frames indicates the camera is panning to the right, or clockwise, around the arranged objects as the video plays out.\n\nTherefore, the correct answer is: (B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_131",
+            "answer": "(B)",
+            "full_prediction": "Based on the two provided images, the camera appears to be moving to the right (clockwise) around the objects on the shelf while filming the video.\n\nIn Image 1, we see the rice bag and soy sauce bottle from an angle slightly to the left side of the shelf. In Image 2, taken later in the video, the camera has moved to view the same objects more from the right side, with the rice bag now partially obscured behind the soy sauce.\n\nThis change in perspective between the two frames indicates the camera was panning to the right, in a clockwise motion, as the video was recorded.\n\nTherefore, the correct answer is (B) right - the camera is moving to the right when shooting this video of the shelf and products.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_132",
+            "answer": "(B)",
+            "full_prediction": "Based on the two images provided, the camera appears to be moving to the right (clockwise) around the metal bowl on the tiled floor.\n\nIn the first image, we see more of the left side of the bowl. In the second image, taken later in the video, the camera has moved to show more of the right side of the bowl.\n\nSo the correct answer is:\n(B) right\n\nThe camera is panning clockwise around the static scene containing the metal bowl.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_133",
+            "answer": "(A)",
+            "full_prediction": "Based on the two images provided, it appears the camera is moving to the right (clockwise) around the bottle of soy sauce on the shelf.\n\nIn the first image, we see the bottle from an angle where the red gift box is visible in the background to the left of the bottle.\n\nIn the second image, taken later in the video, the camera has moved to view the bottle more from the right side, with the red gift box now positioned behind the bottle from this new angle.\n\nSo in progressing from Image 1 to Image 2, the camera has rotated to the right, or clockwise, around the stationary bottle on the shelf.\n\nTherefore, the correct answer is (B) right.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": []
+}

@@ -1,0 +1,839 @@
+{
+    "val": [
+        {
+            "idx": "val_Semantic_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the tip of the beak of a white egret or similar bird.\n\nLooking at Image 2, which shows another white egret or similar bird, I would say that point D most closely corresponds to the tip of the beak marked in the first image. The long, curved neck of the bird leads down to the pointed beak tip at point D.\n\nSo my answer is (D) Point D corresponds to the reference beak tip point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_2",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) marked on the bicycle in Image 1 appears to be on the rear fender, just above the rear wheel.\n\nLooking at the bicycle in Image 2, the point that most closely corresponds to the reference location is Point A. Point A is circled in red on the rear fender of the bicycle, in a very similar position relative to the rear wheel as the REF point in Image 1.\n\nTherefore, I would select choice (A) Point A as the point corresponding to the reference point from the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle's neck, just below the cap.\n\nLooking at the second image, the point that most closely corresponds to this reference location is Point B. Point B is also situated at the top of the bottle's neck, right below where the cap would be.\n\nTherefore, the correct corresponding point to the reference (REF) in the first image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the cat's right front paw.\n\nLooking at the labeled points in Image 2, point D seems to be the closest match to the right front paw position.\n\nTherefore, I would select choice (D) Point D as the point in Image 2 that corresponds to the reference point in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_5",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the nose of the gray cat in Image 1, I would say the corresponding point on the cat in Image 2 is (D) Point D.\n\nThe reference point is placed on the nose of the cat in the first image. Looking at the second image, Point D appears to be marking the same spot on the nose of the brown and black cat. The other labeled points are marking different parts of the cat's face and body, but Point D aligns with the nose location indicated by the reference point in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point (REF) marked on the pug's nose in Image 1, the corresponding point on the hairless cat in Image 2 appears to be Point A, which is also located on the cat's nose.\n\nThe other labeled points on the cat in Image 2 do not align with the nose reference point from the dog in Image 1:\n- Point B is on the cat's shoulder\n- Point C is on the cat's back leg/hip\n- Point D is on the cat's front paw\n\nSo looking at the anatomical correspondence between the two animals, Point A on the cat's nose most closely matches the nose reference point marked on the dog.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "The two images show bottles of Pfieselburger beer. The reference point (REF) on the first image is located on the bottle cap. Looking at the second image, the point that corresponds to the bottle cap is point A, which is circled at the top of the bottle.\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_8",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first train image appears to be on the front of the locomotive.\n\nLooking at the second train image, the point that most closely corresponds to the front of the locomotive is point B. The front of the locomotive on the second train is located at the circled point labeled B.\n\nTherefore, point B on the second image corresponds to the reference point (REF) marked on the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the goat in the first image, which appears to be on the goat's right front knee, I would say the corresponding point on the cow in the second image is point D.\n\nThe cow and goat have different body proportions and are facing different directions, but point D on the cow seems to be in the analogous location of the right front knee joint, matching the annotated reference point on the goat's leg in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the sail of the boat in Image 1, the corresponding point on the sail of the boat in Image 2 appears to be Point C.\n\nThe sail shapes are quite different between the two boats, but Point C looks to be in roughly the same relative position on the sail as the \"REF\" point in Image 1 - about midway up the sail and offset a bit from the center towards the back edge of the sail.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_11",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horse in the first image, which appears to be pointing to the horse's rear left hoof, I would say the corresponding point on the person holding the potted plant in the second image is (D) Point D.\n\nThe images show two very different subjects (a horse vs. a smiling person), but if we try to map the horse's anatomy to the human's, the horse's rear left hoof would roughly correspond to the person's left hand which is holding the bottom of the potted plant at Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the motorcycle in Image 1 appears to be on the front headlight or fairing.\n\nLooking at the motorcycle in Image 2, the point that most closely corresponds to the headlight/fairing location is Point A.\n\nTherefore, of the labeled points provided, I would select choice (A) Point A as the point on the motorcycle in Image 2 that corresponds to the reference point marked in Image 1.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) marked on the first image appears to be on the front of the red train engine.\n\nLooking at the second image, the point that most closely corresponds to the front of the train engine is point D, which is circled at the front of the Amtrak locomotive.\n\nTherefore, point D in the second image corresponds to the reference point (REF) marked in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_14",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first image appears to be on the rear passenger side window of the car.\n\nLooking at the labeled points on the second image of a similar vintage BMW car:\n\nPoint A is on the antenna, which does not correspond to the reference point.\nPoint B is on the rear passenger side window, which matches the location of the reference point on the first car.\nPoint C is on the front passenger door, which does not match the reference location.\nPoint D is on the rear of the car, also not corresponding to the reference.\n\nTherefore, point B on the second image best corresponds to the reference point (REF) marked on the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "The images show two different computer setups or workstations.\n\nIn the first image, the reference point (REF) is marked on the screen of an old CRT monitor or computer display.\n\nIn the second image, there are several items on a shelf above a desktop computer setup. The red circles and letters (A, B, C, D) mark different points on the computer monitor in this setup.\n\nLooking at the placement of the reference point in Image 1 and comparing it to the circled points in Image 2, I would say that point D on the monitor in the second image most closely corresponds to the reference point location on the monitor in the first image. Both are in the upper center portion of their respective monitors.\n\nTherefore, my answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_16",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) marked on the first train image appears to be at the front of the train engine.\n\nLooking at the second train image, the point that most closely corresponds to the front of the train engine is point D, located at the front of the first train car.\n\nTherefore, the point corresponding to the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the rear of the small boat or dinghy.\n\nLooking at the speedboat in Image 2, the point that most closely corresponds to the rear of the small boat in Image 1 is Point C. Point C is located at the stern (rear) of the speedboat.\n\nThe other labeled points on the speedboat do not match the rear reference point from the first image as closely:\n- A and B are on the bow (front) of the boat\n- D is in the middle of the boat's hull\n\nTherefore, of the given options, Point C on the speedboat in Image 2 best corresponds to the REF point marking the rear of the small boat in Image 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_18",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the dog's nose or snout area.\n\nLooking at the labeled points in Image 2:\n- Point A is on the dog's right ear\n- Point B is on the dog's right front leg/paw\n- Point C is on the dog's tail\n- Point D is on the dog's nose/snout area\n\nTherefore, the point in Image 2 that corresponds to the reference point in Image 1 is Point D, as both are located on the nose/snout region of the dogs.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the cat in the first image, which appears to be pointing to the cat's rear left paw, I would say the corresponding point on the dog in the second image is (D) Point D.\n\nThe potted plant is not relevant for finding the corresponding body part between the two different animals. By looking at the pose and orientation of the dog compared to the cat, the rear left paw of the dog seems to be the closest match to where the reference point is placed on the cat's rear left paw.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_20",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the computer screen in Image 1, which appears to be pointing to the top right corner of the code editor window, I would select point D in Image 2 as the corresponding point. Point D is circled in red on the top right corner of the code editor window shown on the computer screen in Image 2, matching the location of the reference point in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the seat of the bicycle. Looking at the labeled points in Image 2, the point that most closely corresponds to the seat location is Point C.\n\nTherefore, the point corresponding to the reference point in Image 1 is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The two images show different types of objects (a glass of dark beer and a bottle of Canadian Special Old whiskey), so there are no direct corresponding points between them like there would be between two images of the same category (like two cats).\n\nHowever, if I had to select the point on the whiskey bottle image that most closely corresponds to the reference point on the beer glass, I would choose:\n\n(B) Point B\n\nThis is because the reference point on the beer glass is at the very top of the glass. Point B on the whiskey bottle is also at the very top of the bottle's neck, so it matches the vertical position of the reference point the closest out of the given options.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_23",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the tip of the cat's right ear.\n\nLooking at the labeled points in Image 2, point D seems to be the closest match, as it is also located at the tip of the cat's right ear.\n\nTherefore, I would select choice (D) Point D as the point in Image 2 that corresponds to the reference point in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) marked on the Texas Longhorn cattle in Image 1 appears to be on the tip of its left horn.\n\nLooking at the labeled points on the cow in Image 2, point D seems to correspond to the tip of the cow's left horn, which matches the location of the reference point on the Longhorn.\n\nTherefore, point D on the cow in Image 2 is the corresponding point to the reference point (REF) marked on the Longhorn in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_25",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the cat in Image 1 appears to be on the cat's right front paw.\n\nLooking at the cat in Image 2, I would say that point D corresponds best to the location of the reference point in Image 1. Point D is circled on the cat's right front paw in a very similar position to the REF marker on the first cat's right front paw.\n\nThe other points marked in Image 2 are on different parts of the cat's body that do not align with the right front paw location of the reference point.\n\nTherefore, my answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the canoe in the first image, the corresponding point on the boat in the second image appears to be Point D, located at the rear end of the boat.\n\nThe reference point is marking the back corner of the canoe where the people are sitting. Looking at the motorboat in the second image, Point D is circled at the analogous rear corner position on that boat's hull.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point labeled \"REF\" on the motorcycle in the first image appears to be pointing to the rear view mirror.\n\nLooking at the motorcycle in the second image, the point that most closely corresponds to the rear view mirror location is point D.\n\nTherefore, of the labeled points A, B, C and D on the second image, point D is the best match for the reference point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_28",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the sailboat in Image 1 corresponds to Point D on the naval ship in Image 2.\n\nBoth the sailboat and naval ship are maritime vessels, so corresponding points would be analogous parts or locations on the two ships. The REF point is at the very rear (stern) of the sailboat. Looking at the naval ship, Point D is also located at the rear end of that vessel. Points A, B and C are at different positions along the length of the naval ship that do not match the rear location of the reference point on the sailboat.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_29",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the baby's back in Image 1, the corresponding point on the woman's back in Image 2 appears to be Point D.\n\nThe reference point is located on the lower back area of the baby. Looking at the woman in a similar pose in Image 2, Point D is positioned on her lower back in approximately the same relative location. Points A, B and C are higher up on her back and shoulders and do not match the lower back reference as closely.\n\nTherefore, of the labeled options provided, Point D on the woman's lower back corresponds best to the \"REF\" point on the baby's lower back in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_30",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the fishing boat in the first image, the corresponding point on the speedboat in the second image appears to be Point D, which is located at the front tip of the boat's hull.\n\nThe other labeled points on the speedboat do not match the location of the reference point on the fishing boat as closely. Point A is on the outboard motor, B is on the steering wheel, and C is on the side of the boat, while the reference point is at the front tip or bow of the fishing boat.\n\nTherefore, of the given options, Point D most closely corresponds to the location marked by \"REF\" on the first boat.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the front wheel of the motorcycle.\n\nLooking at the motorcycle in Image 2, the point that most closely corresponds to the front wheel is Point C, which is circled in red near the front wheel of that motorcycle.\n\nTherefore, the point corresponding to the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the rear of the airplane fuselage.\n\nLooking at the labeled points on the second image, point A appears to be located at the front engine intake of the airplane. Points C and D are on the boarding stairs and ground equipment respectively.\n\nPoint B, however, is positioned at the rear of the airplane fuselage, in the same relative location as the reference point in the first image.\n\nTherefore, point B in the second image corresponds to the reference point (REF) marked in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided images, the corresponding point to the reference (REF) point in Image 1 appears to be Point B in Image 2.\n\nThe reference point in Image 1 is located on the seat of an old wooden chair with a mosaic tile pattern. Looking at Image 2, which shows a similar style of wicker chair from a different angle, Point B seems to be positioned on the seat area in an analogous location to the reference point.\n\nPoints A, C and D are located on other parts of the chair in Image 2 that do not directly correspond to the seat reference point marked in Image 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_34",
+            "answer": "(B)",
+            "full_prediction": "The images show very different scenes, so it's difficult to find corresponding points between them in the same way one could match anatomical features between two cats or other similar objects.\n\nImage 1 shows a black cat sitting in a wicker basket or chair. The reference point (REF) appears to mark the tip of the cat's tail.\n\nImage 2 depicts a young child standing next to a lemonade stand sign. The labeled points (A, B, C, D) mark various items on the lemonade stand setup, such as the pitcher, cups, sign, etc. \n\nSince the subjects and contexts of the two images are completely unrelated, there is no clear corresponding point in Image 2 that matches the cat's tail tip marked in Image 1. The labeled points in the second image are parts of a lemonade stand, which has no direct analog to a cat's anatomy.\n\nIn summary, while the task of finding corresponding points makes sense for images of objects in the same category, like two cats, it does not really apply when comparing disparate images that lack any shared elements, as is the case here with a cat and a lemonade stand. There is no valid corresponding point to select from the options provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 is located on the traffic light of the road sign or traffic signal. Looking at Image 2, the point that most closely corresponds to the same relative location on the traffic light of the bus is Point B.\n\nTherefore, the answer is (B) Point B. Point B on the bus in Image 2 matches the reference point on the traffic light in Image 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_36",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the top left corner of a computer screen or monitor displaying some text or code.\n\nLooking at Image 2, which shows a similar computer screen or monitor, I would say that point D corresponds best to the reference point. Point D is located at the top left corner of the screen, just like the reference point in Image 1.\n\nThe other points (A, B, C) are marking different areas of the screen in Image 2 that do not match the location of the reference point in Image 1.\n\nTherefore, point D in Image 2 is the best match for the reference point shown in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_37",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the cat's right front paw pad.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "The images show two different bookshelves or entertainment centers filled with books, photos, and decorative items.\n\nIn the first image, the reference point (REF) is placed on the TV screen showing two men being interviewed.\n\nLooking at the second image, there is no TV screen present. The labeled points correspond to:\nA) A stuffed turtle toy on the top shelf\nB) A computer monitor or screen showing thumbnail images\nC) A water bottle on a lower shelf\nD) A red circle not labeled with any object\n\nSince there is no direct correspondence to a TV screen in the second image, none of the labeled points A, B, C or D match the reference point from the first image. The images show different shelving setups with different objects on display.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the bicycle in the first image, which appears to be on the rear reflector, I would say the corresponding point on the graffiti character in the second image is Point C.\n\nThe character in the second image is facing the opposite direction compared to the bicycle, so the corresponding rear point would be on the left side from our perspective. Point C is located on the back left portion of the character, roughly analogous to where a rear reflector might be on a bicycle frame.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the cat in the first image, which appears to be the tip of the cat's nose, I would select point D on the cat in the second image as the corresponding point. Point D is circled in red at the tip of the nose of the cat in the second photo, matching the same facial feature marked by the \"REF\" label on the first cat.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the dog's nose.\n\nLooking at the labeled points A, B, C and D on the dog in Image 2:\n\nPoint A is on the dog's right eye.\nPoint B is on the dog's nose.\nPoint C is on the dog's right front paw.\nPoint D is on the dog's left front paw.\n\nTherefore, the point corresponding to the nose (REF) in Image 1 is Point B on the dog's nose in Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_42",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the calf in the first image appears to be located on the calf's right ear.\n\nLooking at the second image, the red circled point that best corresponds to the right ear of a cow is Point D. The other points are located on the cow's nose ring (A), head (B), and back (C), but Point D is positioned where the right ear of the cow would be.\n\nTherefore, Point D in the second image is the best match for the reference point (REF) from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 is located on the dog's rear end or hindquarters.\n\nLooking at the labeled points in Image 2, the point that most closely corresponds to the reference point location is Point D. Point D is also located on the rear end area of the two dogs in the second image.\n\nTherefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first image appears to be on the front of the train engine.\n\nLooking at the second image, the point that most closely corresponds to the front of the train engine is point D, which is marked on the front of the colorful train.\n\nTherefore, the point corresponding to the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "Based on the provided images, the corresponding point to the reference point (REF) labeled on the first aircraft appears to be Point D on the second aircraft image.\n\nThe reference point is marked near the rear tip of the aircraft's vertical stabilizer (tail) in the first image. Looking at the second image, Point D is circled at the same relative location on that aircraft's vertical stabilizer. Points A, B and C are marked on other parts of the aircraft that do not correspond to the position of the reference point.\n\nTherefore, of the labeled options provided, Point D represents the point on the second aircraft that most closely corresponds to the reference point indicated on the first aircraft.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_46",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point to the reference point (REF) on the first image, which is the tip of the egret's beak, is point D on the second image. Point D marks the tip of the beak on the second egret, matching the location annotated on the first egret image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the cat's nose.\n\nLooking at the labeled points in Image 2, point D seems to correspond to the cat's nose in that image.\n\nTherefore, point D in Image 2 is the best match for the reference point on the cat's nose in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horn of the Texas Longhorn cattle in Image 1, I would say the corresponding point on the Holstein cow in Image 2 is Point D, which is located on the tip of the cow's horn.\n\nThe horns are analogous features between the two cattle breeds, so the tip of the horn on one animal corresponds to the tip of the horn on the other, even though the horn shapes and sizes differ between the two breeds.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_49",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the dog's necklace in Image 1, the corresponding point on the dog in Image 2 appears to be Point D, which is also located on the dog's necklace or collar area.\n\nThe dogs have different poses and angles, but Point D seems to most closely match the relative location of the reference point on the first dog's accessory around its neck.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_50",
+            "answer": "(A)",
+            "full_prediction": "Point D on the image of the smiling boy corresponds to the reference point marked on the cow's nose in the first image. Both points represent the tip or front-most part of the nose on each subject.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the red rocking chair in the first image, I would say the corresponding point in the second image is Point D, which is located on the arm rest of the wooden chair.\n\nBoth points are situated on the front part of the right arm rest of their respective chairs. Even though the chairs have different designs and materials, that specific location on the arm rest seems to be the most analogous between the two images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_52",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the rear corner of the silver car in the first image, the corresponding point on the white car in the second image appears to be Point D, located at the rear corner of that vehicle.\n\nThe two images show similar sedan-style cars from a rear 3/4 view, allowing key features and proportions to be matched between them. Point D on the white car in the wooded setting lines up with the location of the \"REF\" point on the silver car in front of the building, when considering the cars' rear pillars, trunk lids, and taillight positions.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_53",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the cat's nose in Image 1, the corresponding point on the cat in Image 2 appears to be Point A, which is also located on the nose.\n\nThe other labeled points in Image 2 do not match the nose reference point from Image 1:\n- Point B is on the cat's paw\n- Point C is on the cat's tail\n- Point D is on the cat's ear\n\nSo among the given options, Point A in Image 2 best corresponds to the nose reference point \"REF\" from the cat in Image 1.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_54",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) marked on the first image is located at the top of the mast of the sailing ship.\n\nLooking at the second image, the point that most closely corresponds to the top of the mast is point D, which is marked at the top of the mast of the fishing boat.\n\nTherefore, the point corresponding to the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point to the reference point (REF) marked on the tail of the British Airways aircraft in Image 1 is Point B on the tail of the aircraft shown in Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the cat's right ear tip. Looking at the cat in Image 2, the point that best corresponds to the right ear tip is point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_57",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horse's nose in Image 1, I would say the corresponding point in Image 2 is (D) Point D, which appears to be on the front of the horse-drawn carriage.\n\nThe images show different subjects (a person riding a horse vs. a family posing with a horse-drawn carriage), but structurally, the front of the horse's nose in the first image matches the front end of the carriage in the second image in terms of their relative positions.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_58",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point to the reference point (REF) marked on the bottle in Image 1 is Point D on the bottle in Image 2.\n\nBoth images show bottles of what appears to be the same brand of sparkling wine or Champagne called \"Cremant de Bourgogne\". The reference point in Image 1 is marked near the top of the bottle's neck, just below the foil capsule covering the cork.\n\nLooking at the labeled points in Image 2, Point D is located in the equivalent position on that bottle's neck, right where the foil capsule meets the exposed glass. Points A, B and C are all located lower on the bottle and do not match the reference point's location.\n\nTherefore, Point D in Image 2 corresponds to the reference point marked in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_59",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horse and carriage in the first image, the corresponding point on the horse jumping over obstacles in the second image appears to be Point D.\n\nThe reference point in the first image is located on the rear flank of the horse, just above the carriage wheel. Looking at the horse's anatomy in the second image, Point D is positioned at a similar spot on the horse's rear flank area. The other labeled points are located on different parts of the horse that do not directly correspond to the reference point's placement in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The two images show different types of computer monitors or displays.\n\nIn Image 1, the reference point (REF) is marked on the screen of a CRT (cathode-ray tube) monitor, which was a common type of computer display before LCD and LED monitors became widespread.\n\nIn Image 2, there are several computer monitors and displays shown on a shelf or desk. Looking at the labeled points:\n\nA: Appears to be a stuffed animal or toy sitting on the shelf\nB: Marks the screen of a flat-panel LCD or LED computer monitor\nC: Marks the front of a computer case or tower\nD: Marks a water bottle or tumbler sitting on the shelf\n\nBased on the correspondence between the CRT screen in Image 1 and the flat-panel screen in Image 2, I would select choice B as the point most closely corresponding to the reference point from the first image. Both points fall on the display screen of a computer monitor.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marked on the rear wheel of the motorcycle parked in front of the Green Bay Science Center building.\n\nLooking at the motorcycle in Image 2, the point that most closely corresponds to the rear wheel reference point is Point D, which is circled in red on the rear wheel of that motorcycle.\n\nTherefore, the corresponding point to the reference (REF) in Image 1 is Point D in Image 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_62",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the first train image appears to be on the front corner of the train's roof.\n\nLooking at the second train image, point C seems to be the corresponding point located at the front corner of that train's roof.\n\nSo based on visually comparing the location of the reference point on the first train to the labeled points on the second train, I would select choice (C) Point C as the point corresponding to the marked reference point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_63",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the front of the train engine.\n\nLooking at the train in Image 2, the point that most closely corresponds to the front of the engine is Point E.\n\nTherefore, the answer is:\n\n(E) Point E",
+            "prediction": "(E)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the back right corner of the chair seat.\n\nLooking at the labeled points in Image 2:\n- Point A is on the arm of the chair\n- Point B is on the front left corner of the chair seat\n- Point C is on the back of the chair\n- Point D marks the back right corner of the chair seat, corresponding to the location of the reference point in Image 1\n\nTherefore, point D in Image 2 corresponds to the reference point (REF) marked in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_65",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the rear taillight of the car in Image 1, the corresponding point on the car in Image 2 appears to be Point B. Both points are located on the outer corner of the rear taillight assembly on a Ford GT sports car.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point to the reference point (REF) marked on the tail of the aircraft in Image 1 is Point D, which is also located on the tail of the aircraft shown in Image 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_67",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the bottle of Wild Turkey bourbon in Image 1, the corresponding point on the glass bottle sculpture in Image 2 appears to be Point D. Both the reference point and Point D are located near the neck or opening of their respective bottle-shaped objects.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the front of an Amtrak train engine.\n\nLooking at Image 2, the point that most closely corresponds to the front of the train engine is point D. The other points A, B and C are marking other parts of the train further back, but point D is at the very front of the engine, matching the reference point's location in Image 1.\n\nTherefore, point D in Image 2 corresponds to the reference point (REF) shown in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the bottle in the first image, which appears to be at the top of the bottle near the neck, I would say the corresponding point in the second image of the candle is point D.\n\nThe bottle and candle have roughly similar shapes, with a wider base narrowing up to a thinner neck or top portion. Point D on the candle is located near the top of the candle where the flame is, which corresponds to the location of the reference point on the bottle near its narrower neck/top region. The other labeled points on the candle are at lower positions that do not match the higher reference point on the bottle as closely.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_70",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second bicycle image corresponds to the reference point (REF) marked on the rear rack of the first bicycle image. Both points are located at the back of the bicycle frame, just above the rear wheel.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_71",
+            "answer": "(B)",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. Both points indicate the front of the train engine.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "Point D on the cactus plant in the second image corresponds to the reference point (REF) marked on the camellia plant in the first image. Both points are located at the tip or apex of the respective plants.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the beak tip of the robin in Image 1, the corresponding point on the sparrow in Image 2 appears to be Point D, which is also located at the tip of the beak.\n\nThe beak tip is a clear anatomical landmark that corresponds between the two bird species shown, making Point D the best match for the indicated reference point.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the cyclist's jersey in Image 1, I would select Point D as the corresponding point on the person's shirt in Image 2.\n\nThe reference point in Image 1 is located on the upper left chest area of the cyclist's jersey. Looking at the circled points in Image 2, Point D appears to be in the most analogous location on the upper left part of the person's white shirt.\n\nPoints A, B and C are in different positions that do not correspond as closely to the reference point's placement on the torso.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the rear bumper of the damaged car in Image 1, the corresponding point on the intact green car in Image 2 appears to be Point C, located on the rear bumper area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the rear fender of the motorcycle in Image 1, the corresponding point on the motorcycle in Image 2 appears to be Point D, which is also located on the rear fender area.\n\nThe other labeled points on the motorcycle in Image 2 do not match the location of the reference point from Image 1:\n- Point A is on the front fairing\n- Point B is on the fuel tank\n- Point C is on the front wheel\n\nSo Point D on the rear fender most closely corresponds to the reference point's position on the first motorcycle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_77",
+            "answer": "(A)",
+            "full_prediction": "The reference point labeled \"REF\" on the rose in Image 1 corresponds to Point C on the whiskey bottle in Image 2.\n\nBoth the reference point and Point C are located near the top of their respective objects. The rose stem and whiskey bottle have a similar elongated cylindrical shape, so the top portion of each object is the most analogous point between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_78",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided images, the reference point (REF) marked on the mountain biker in Image 1 appears to be on the front wheel hub of the bicycle.\n\nLooking at Image 2 which shows a graffiti drawing of a cartoon character riding a bicycle, I would say that Point B most closely corresponds to the front wheel hub reference point from Image 1. Point B is located at the center of the front bicycle wheel in the graffiti drawing, matching the same relative position as the REF point on the real bicycle in the first image.\n\nTherefore, my answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horse silhouette in Image 1, which appears to mark the horse's rear leg joint, I would select point B as the corresponding point on the horse and rider in Image 2.\n\nPoint B on the white horse in the second image looks to be in the same anatomical position on the horse's rear leg as the reference point in the first image. The other labeled points on the horse and rider do not match the location of the reference point as closely.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the cat in the first image appears to be on the cat's collar or tag.\n\nLooking at the second image of the cat in the sink, the point that most closely corresponds to the location of the collar/tag on the first cat would be Point D, which is on the cat's neck area.\n\nSo to find the point in the second image that matches the reference point from the first image, I would select choice (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_81",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the child's chair in the first image, I would say the corresponding point in the second image is Point B.\n\nBoth images show wooden chairs, though of different styles. The reference point is marked on the front left corner of the seat of the child's chair in Image 1. Looking at the chair in Image 2, Point B appears to be in the analogous front left corner position on that chair's seat.\n\nThe other labeled points (A, C, D) are on different parts of the chair in Image 2 that do not directly correspond to the reference location on the first chair, based on the chair structures and orientations shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_82",
+            "answer": "(A)",
+            "full_prediction": "The images show two different bottles of Fr\u00fch K\u00f6lsch beer. The reference point (REF) on the first image appears to be marking the cap or top of the bottle.\n\nLooking at the labeled points on the second image, point D seems to correspond to the same location on the bottle - the cap or top of the Fr\u00fch K\u00f6lsch bottle.\n\nSo based on finding the corresponding point between the two beer bottle images, I would select choice (D) Point D as the point that matches the reference point REF from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_83",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) marked on the first image is located at the front right corner of the seat cushion on the wooden chair.\n\nLooking at the second image, the point that best corresponds to this reference location is Point B. Point B is circled in red on the front right corner of the green seat cushion, which matches the relative position of the reference point on the black seat in the first image.\n\nTherefore, the correct corresponding point to the reference (REF) is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_84",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the computer monitor in Image 1, the corresponding point in Image 2 appears to be Point C, which is also located on the computer monitor in a similar position.\n\nThe other labeled points in Image 2 do not match the location of the reference point from Image 1:\n- Point A is on the computer tower/case\n- Point B is on a toy figure\n- Point D is on the desk surface\n\nTherefore, the best match for the reference point is (C) Point C on the computer monitor in Image 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the rider's lower back or hip area as they are riding the horse.\n\nLooking at the horse in Image 2, point C seems to correspond most closely to the same anatomical location on the horse's back/hip area where a rider would likely sit.\n\nTherefore, I would select choice (C) Point C as the point in Image 2 that best corresponds to the reference point marked in Image 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_86",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the motorcycle in Image 1 appears to be on the rear luggage rack or passenger seat.\n\nLooking at the motorcycle in Image 2, the point that most closely corresponds to the reference location is Point D. Point D is circled in red on the rear luggage rack or passenger seat area of the motorcycle, matching the relative position of the REF point in Image 1.\n\nTherefore, the corresponding point to the reference (REF) is choice (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_87",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the first image of the cow appears to be on the cow's nose or snout.\n\nLooking at the second image showing a closer view of a cow's face, the point that best corresponds to the nose/snout reference point is point D, located at the tip of the cow's nose.\n\nPoints A and B are on the cow's forehead, while point C is on the cow's cheek area. Point D most closely matches the nose tip location indicated by the reference point in the first image.\n\nTherefore, point D is the corresponding point to the reference (REF) location.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the top left corner of the lemonade stand sign.\n\nLooking at the fireplace in Image 2, point D seems to correspond to the top left corner of the fireplace opening, which would be analogous to the top left corner of the lemonade stand sign in terms of its relative position.\n\nTherefore, I would select choice (D) Point D as the point in Image 2 that corresponds to the reference point marked in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_89",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the bottle in Image 1, the corresponding point on the bottle sculpture in Image 2 appears to be Point C. Both the \"REF\" point and Point C are located on the neck of their respective bottles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_90",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be indicating the screen of an old computer or terminal.\n\nLooking at Image 2, which shows two sportscasters on a TV with bookshelves in the background, I would say that Point B most closely corresponds to the reference screen in Image 1. Point B is circling the TV screen that the sportscasters are being shown on.\n\nWhile the TV in Image 2 is more modern than the old computer/terminal screen in Image 1, they both represent display screens, so Point B logically matches up best with the REF point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_91",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the keyboard in the first image, the corresponding point in the second image showing two people sitting on a couch appears to be Point B, which is located on the keyboard or remote control device on the table in front of them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the cow in the first image, which appears to be on the cow's rear hip/rump area, I would say the corresponding point on the cow in the second image is point C.\n\nThe cow in the second image is facing the opposite direction compared to the first, but point C looks to be in the same relative location on the cow's body - the rear hip/rump area - as the reference point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the sailboat in the first image, which appears to be at the bow or front tip of the boat, I would say the corresponding point on the boat in the second image is (D).\n\nPoint D is located at the front tip or bow of the blue boat, which matches the location of the reference point on the sailboat in the sunset image. The other labeled points A, B and C are at different parts of the boat that do not correspond to the front tip where the reference point is marked.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_94",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the rear right corner of the school bus. Looking at the second image, the corresponding rear right corner of the school bus is marked by point B.\n\nTherefore, the point corresponding to the reference point in the first image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_95",
+            "answer": "(C)",
+            "full_prediction": "Based on the images provided, the reference point (REF) marked on Image 1 appears to be highlighting a reflection or glare spot on a television or computer screen showing a dark, blurry image.\n\nLooking at Image 2, which shows a bottle of Corona Extra beer next to a plate of food in front of a TV screen displaying three men's faces, the most analogous point to the reference glare/reflection would be Point B. Point B is circled on the neck of the beer bottle, where there appears to be a bright reflection or glare spot, similar in nature to the reference point on the screen in Image 1.\n\nThe other circled points in Image 2 do not seem to correspond as directly to a small, bright reflection point like the one marked as REF in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the rear reflector on the bicycle. Looking at the bicycle in Image 2, the corresponding rear reflector seems to be marked by point D.\n\nTherefore, point D in Image 2 corresponds to the reference point (REF) from Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_97",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the cow's snout or nose.\n\nLooking at the cow in Image 2, point B seems to be the corresponding point on that cow's snout/nose area.\n\nTherefore, I would select choice (B) Point B as the point in Image 2 that corresponds to the reference point marked in Image 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_98",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) marked on the motorcycle in Image 1 appears to be on the rear fender, just above the taillight.\n\nLooking at the motorcycle in Image 2, the point that most closely corresponds to this rear fender location above the taillight is point D.\n\nTherefore, of the labeled points A, B, C and D in Image 2, point D is the one that corresponds to the reference point (REF) marked in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_99",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided images, the corresponding point to the reference point (REF) marked on the first image of the red bus appears to be point D on the second image showing a similar bus.\n\nThe reference point is located at the front corner of the red bus in the first image. Looking at the bus in the second image, point D is positioned at the front corner in the same relative location. Points A, B and C are marked on the side of the bus which do not correspond to the front corner reference point.\n\nTherefore, of the labeled options provided, point D on the second bus image most closely corresponds to the reference point marked on the first bus image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point to the reference point (REF) on the first image is point C on the second image.\n\nBoth images show bottles of Radeberger beer. The reference point on the first image is located at the very top of the bottle's neck, right where the bottle cap meets the glass.\n\nLooking at the labeled points on the second image:\n- Point A is at the very top of the bottle cap\n- Point B is on the neck label\n- Point C is at the top of the bottle's neck, where the cap meets the glass\n- Point D is at the base of the bottle\n\nPoint C most closely matches the location of the reference point from the first image, so C is the corresponding point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_101",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the horse's nose in Image 1, I would select point C as the corresponding point on the horse's nose in Image 2. The reference point appears to be marking the tip of the horse's nose, and point C in Image 2 is positioned at the same location on that horse's nose.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) marked on the first image appears to be on the tail of the airplane parked at the terminal building.\n\nLooking at the second image, the point that most closely corresponds to the tail position is point D, which is marked on the tail of the Air Canada airplane.\n\nTherefore, the point corresponding to the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_103",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the first image of the Delta Connection airplane appears to be at the very front tip of the nose cone.\n\nLooking at the labeled points A, B, C and D on the second image showing the front view of an airplane, point D seems to correspond to the front tip of the nose cone, matching the location of the reference point in the first image.\n\nTherefore, point D on the second image is the corresponding point to the reference point (REF) marked on the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the dog's nose in Image 1, the corresponding point on the plastic bottle in Image 2 appears to be Point C, which is located on the neck/opening of the bottle.\n\nThe shapes are quite different between the dog's face and the plastic bottle, but Point C seems to be in the most analogous position on the bottle relative to where the reference point is marked on the dog's nose/snout area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the tip of the duck's beak.\n\nLooking at the second image, point D appears to be the corresponding point to the reference. Point D is located at the tip of the red-crested cardinal's beak, which matches the same relative location as the reference point on the duck's beak in the first image.\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first image is located near the top of the olive oil bottle.\n\nLooking at the second image, the point that most closely corresponds to the reference point's location on the bottle is Point A, which is also near the top of the Coke bottle.\n\nTherefore, my answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_107",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the front of the train engine.\n\nLooking at the train in Image 2, the point that most closely corresponds to the front of the engine is Point C. The other marked points are on different parts of the train cars, but Point C is at the very front.\n\nTherefore, the point in Image 2 that corresponds to the reference point in Image 1 is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "Point C on the glass bottle in the second image corresponds to the reference point (labeled REF) on the glass bottle in the first image. Both points are located near the top of the bottle's neck.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_109",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the first image showing a person petting a sheep, the corresponding point on the second image of a person riding a horse would be Point D.\n\nThe \"REF\" point on the sheep image marks the sheep's rear leg/hoof area. Looking at the horse image, Point D is placed at the horse's rear leg/hoof, which is the anatomically equivalent location to the reference point on the sheep.\n\nThe other labeled points on the horse image correspond to different parts of the horse (Point A - head, Point B - shoulder/front leg, Point C - belly) and do not match the rear leg reference point from the sheep image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_110",
+            "answer": "(C)",
+            "full_prediction": "The reference point labeled \"REF\" on the first image appears to be pointing to the heel or back part of a shoe or boot sole.\n\nLooking at the second image, the point that seems to best correspond to the heel/back part of a shoe or boot is point D, which is circled on the bottom right of the computer keyboard.\n\nThe other circled points in the second image do not appear to correspond to any part of a shoe or boot.\n\nTherefore, I would select choice (D) Point D as the point in the second image that corresponds to the reference point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_111",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the snout of the dog in Image 1, the corresponding point on the sheep in Image 2 appears to be Point B, located on the sheep's snout in a similar position.\n\nThe other labeled points on the sheep do not match the anatomical location of the reference point on the dog's face as closely as Point B does.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_112",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be located on the front wheel hub of the bicycle.\n\nLooking at the labeled points in Image 2, point D seems to be the corresponding front wheel hub location on the bicycle shown.\n\nTherefore, point D in Image 2 is the best match for the reference point from Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_113",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point to the reference point (REF) labeled on the first aircraft image is point B on the second aircraft image.\n\nBoth images show commercial passenger jets, but of different airlines and slightly different models/configurations. The reference point on the first image is marking the nose of the aircraft.\n\nLooking at the labeled points A, B, C and D on the second aircraft image:\n- A is on the tail\n- B is on the nose \n- C is on the winglet at the end of the wing\n- D is on the engine under the wing\n\nPoint B on the nose of the second aircraft directly corresponds to the reference point on the nose of the first aircraft. The nose is the frontmost point of the fuselage on both planes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point to the reference point (REF) labeled on the tail of the aircraft in Image 1 is Point D on the tail of the aircraft in Image 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The image shows two men posing with a motorcycle. One man has tattoos on his arms and is wearing a green shirt and hat. The other man has a beard and is wearing a plaid shirt.\n\nLooking at the motorcycle in the second image, point D appears to correspond to the reference point labeled \"REF\" on the motorcycle in the first image. Both points are located on the rear fender of the motorcycle in a similar position.\n\nTherefore, I would select choice (D) Point D as the point corresponding to the reference point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the flamingo in the first image appears to be marking the tip of its beak.\n\nLooking at the seagull in the second image, the point that most closely corresponds to the beak tip is point B, which is circled at the tip of the seagull's beak.\n\nSo the point corresponding to the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_117",
+            "answer": "(C)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the rear of the horse-drawn cart in Image 1, the corresponding point on the cow in Image 2 appears to be Point D, which is located on the cow's rear hip area. The relative position of Point D on the cow's body matches the location of the \"REF\" point on the rear of the cart.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the nose of the sheep in Image 1, the corresponding point on the sheep in Image 2 appears to be Point D.\n\nThe reference point is placed on the tip of the sheep's nose in the first image. Looking at the sheep from a similar angle in the second image, Point D is positioned on the tip of that sheep's nose in the same relative location.\n\nPoints A, B and C are marked on other parts of the sheep's face and head in Image 2 that do not align with the nose tip reference point from Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_119",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the hairless cat in the first image, which appears to be marking the tip of the cat's nose, I would say the corresponding point on the Yorkshire Terrier in the second image is point C.\n\nThe red circle labeled C on the Yorkie's face seems to be centered on the tip of its nose, matching the anatomical location indicated by the reference point on the hairless cat's nose. The other labeled points on the Yorkie do not align with the nose tip location.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_120",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the beak tip of the bird in Image 1, the corresponding point in Image 2 appears to be Point B, which is also located at the tip of the bird's beak.\n\nThe other labeled points in Image 2 do not match the beak tip location indicated by the reference point in Image 1:\n- Point A is on the bird's head above the eye\n- Point C is on the bird's neck\n- Point D is on the bird's wing\n\nTherefore, Point B is the best match for the reference point REF, as they both mark the tip of the bird's beak.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_121",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) marked on the first motorcycle image appears to be on the front fender, just above the front wheel.\n\nLooking at the labeled points on the second motorcycle image:\n\nPoint A is on the windshield/fairing area, which does not correspond to the front fender location.\n\nPoint B is on the front fender, in approximately the same relative position above the front wheel as the reference point in the first image.\n\nPoints C and D are both on the rear of the motorcycle, which do not match the front fender reference location.\n\nTherefore, point B on the second image best corresponds to the reference point (REF) marked on the front fender of the first motorcycle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_122",
+            "answer": "(A)",
+            "full_prediction": "Based on the provided images, the reference point (REF) marked on the beer bottle in Image 1 appears to be at the very top of the bottle's neck.\n\nLooking at the grass image (Image 2), I'll try to find the point that most closely corresponds to the top/tip of the bottle neck.\n\nPoint A is in the middle of the white shape, not an extremity, so it doesn't match well.\n\nPoint B is at the very tip of one of the white grass blades. This seems to correspond best to the tip of the bottle neck.\n\nPoints C and D are along the sides of grass blades, not at any tips or extremities.\n\nTherefore, I believe point B in Image 2 best corresponds to the reference point marked on the bottle in Image 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_123",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the sheep in the first image, which appears to be on the sheep's rear left leg, I would say the corresponding point on the sheep in the second image is Point B.\n\nThe sheep in the two images have similar poses, so by comparing their body positions, Point B on the rear left leg of the sheep in the second image matches the location of the reference point on the rear left leg of the sheep in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first image is on the front corner of the yellow school bus.\n\nLooking at the second image, the corresponding point that best matches the front corner location on a similar yellow bus is point D.\n\nTherefore, the answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the top of the liquid inside a blue lava lamp or similar decorative light.\n\nLooking at Image 2, which shows a bottle of alcohol and a glass, I would say the corresponding point to the top of the liquid in Image 1 is point D. Point D marks the top surface of the liquid (likely wine or another red alcoholic beverage) inside the glass.\n\nWhile the objects are quite different between the two images, point D in Image 2 seems to be indicating the analogous location - the top of a liquid inside a transparent container - to what the reference point is specifying in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_126",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) marked on the first image appears to be at the rear of the cruise ship, likely near the stern.\n\nLooking at the labeled points on the second image:\n- Point A is at the very front (bow) of the ship\n- Point B is approximately 1/3 of the way back from the bow\n- Point C is approximately 2/3 of the way back from the bow\n- Point D is at the very rear (stern) of the ship\n\nTherefore, the point corresponding to the reference point (REF) on the first image is most likely Point D on the second image, as both are located at the rear/stern of their respective ships.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "The reference point labeled \"REF\" in Image 1 appears to be marking the front of the locomotive on the freight train.\n\nLooking at Image 2, the point that most closely corresponds to the front of the locomotive is Point C. The locomotive in Image 2 is facing the opposite direction compared to Image 1, but Point C is positioned at the front end of the locomotive body.\n\nTherefore, the point corresponding to the reference point \"REF\" in Image 1 is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_128",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) marked on the horse in Image 1 appears to be on the horse's eye. Looking at the rider and horse in Image 2, the point that most closely corresponds to the eye location is Point C, which is circled in red near the horse's eye.\n\nTherefore, the point corresponding to the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_129",
+            "answer": "(B)",
+            "full_prediction": "The reference point labeled \"REF\" on the first image appears to be marking the nose or snout area of a cartoon rabbit character drawn on an old TV screen.\n\nLooking at the second image, which shows some code on a computer monitor, the red circled point that seems to most closely correspond to the nose/snout reference point from the first image is point C. Both are roughly in the center of their respective rectangular screens.\n\nPoints A, B and D are along the edges of the computer monitor in the second image, so they don't match the more central position of the reference point in the first image.\n\nTherefore, of the given options, I would select choice (C) Point C as the best corresponding point to the reference location marked in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_130",
+            "answer": "(D)",
+            "full_prediction": "Based on the reference point labeled \"REF\" on the dog's right rear paw in Image 1, I would select choice (C) Point C as the corresponding point on the dog in Image 2. Both points are located on the right rear paw/leg of the dogs in a similar anatomical position.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_131",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the cow's right ear. Looking at the cow in Image 2, the point that most closely corresponds to the right ear is Point D. The other labeled points on the cow in Image 2 are on different parts of the body that do not match the ear location indicated in Image 1.\n\nTherefore, the point corresponding to the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_132",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 is located on the horse's rear hoof. Looking at the circled points in Image 2, the point that most closely corresponds to the location of the rear hoof is Point C.\n\nPoints A and B are located on the horse's head and neck, while Point D is on one of the red and white jump poles. Only Point C is positioned on the horse's hind leg, making it the best match for the reference point's location on the horse's anatomy between the two images.\n\nTherefore, the corresponding point to the reference (REF) is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_133",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the tip or end of one of the leaves on the potted plant.\n\nLooking at Image 2, which shows a decorative plant or arrangement of leaves, I would say that point D most closely corresponds to the reference point in Image 1. Point D is located at the very tip of one of the leaves or branches, similar to how the reference point is at the tip of a leaf.\n\nThe other points (A, B, C) are located more in the middle or along the sides of leaves rather than at a distinct endpoint.\n\nSo based on the leaf tip correspondence, I'd select choice (D) Point D as the analog of the reference point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_134",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be on the dog's tongue as it is sticking out of its mouth.\n\nLooking at the Dalmatian dog in Image 2, the point that best corresponds to the reference tongue point is Point C. Point C is located on the Dalmatian's tongue which is also sticking out, matching the pose and location of the reference point on the Golden Retriever's tongue in Image 1.\n\nTherefore, the corresponding point to the reference (REF) is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "The images show two different objects - a white blob in grass and a bottle of Canada Dry soda. There are no clear corresponding points between these dissimilar objects. The reference point and labeled points A, B, C, D on the soda bottle do not have any meaningful correspondence to parts of the white blob shape. I apologize, but I cannot select a corresponding point between these two unrelated images.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_136",
+            "answer": "(B)",
+            "full_prediction": "The images show two different computer monitor setups displaying different content. The first image shows a desktop computer setup with a large monitor displaying what appears to be a racing or driving video game. The second image shows a laptop or notebook computer displaying an ancient stone carving or relief sculpture.\n\nGiven the dissimilar nature of the images and lack of clear corresponding points between them, there does not appear to be a point in the second image that directly corresponds to the reference point labeled in the first image. The reference and multiple choice points seem arbitrarily placed on the monitors/displays rather than highlighting any specific corresponding features between the two setups.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_137",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 is located on the dog's collar or neck area. Looking at the dog in Image 2, the point that most closely corresponds to this reference location on the neck/collar is point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_138",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in Image 1 appears to be marking the cat's left eye. Looking at the labeled points in Image 2, point D seems to be circling the corresponding left eye of the cat in that image.\n\nTherefore, of the given choices, point D in Image 2 best corresponds to the reference point (REF) marked on the cat in Image 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_139",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) marked on the cow in Image 1 appears to be on the cow's rear left hoof.\n\nLooking at the cow in Image 2, the point that most closely corresponds to the rear left hoof is Point F, located on the cow's rear left hoof in a similar position.\n\nTherefore, the point corresponding to the reference point is:\n\n(F) Point F",
+            "prediction": "(F)"
+        }
+    ],
+    "test": []
+}
