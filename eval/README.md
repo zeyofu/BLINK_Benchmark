@@ -2,7 +2,9 @@
 We provide detailed instructions for evaluation. 
 To execute our evaluation script, please ensure that the structure of your model outputs is the same as ours.
 
-We provide two options:
+## Details Comming Soon ##
+
+<!-- We provide two options:
 1. Evaluation only: you can parse the response on your own and simply provide one file with all the final predictions.
 2. Parse and evaluation: you can leave all the responses to us with the output formats shown below.
 
@@ -117,4 +119,4 @@ CUDA_VISIBLE_DEVICES=0 nohup python run_llava.py \
 --config_path configs/llava1.5.yaml
 ```
 
-Then you can evaluate the results via the very first pipeline.
+Then you can evaluate the results via the very first pipeline. -->

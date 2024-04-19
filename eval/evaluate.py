@@ -58,8 +58,7 @@ if __name__ == '__main__':
     # save to a output path with model_name.json, replace with custom model name
     model_name = model_names[-1]
     subtasks = [
-        'Art_Style', 'Functional_Correspondence', 'Multi-view_Reasoning', 'Relative_Reflectance', 'Visual_Correspondence', 'Counting', 'IQ_Test', 'Object_Localization', 'Semantic_Correspondence', 'Visual_Similarity', 'Forensic_Detection', 'Jigsaw', 
-        'Relative_Depth', 'Spatial_Relation'
+        'Visual_Similarity', 'Counting', 'Relative_Depth', 'Jigsaw', 'Art_Style', 'Functional_Correspondence', 'Semantic_Correspondence', 'Spatial_Relation', 'Object_Localization', 'Visual_Correspondence', 'Multi-view_Reasoning', 'Relative_Reflectance', 'Forensic_Detection', 'IQ_Test'
         ]
 
     for split in ['val', 'test']:
