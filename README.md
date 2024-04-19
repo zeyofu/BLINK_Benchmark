@@ -5,7 +5,7 @@ This repo contains evaluation code for the paper "BLINK: Multimodal Large Langua
 
 
 
-This repo contains the evaluation code for the paper "[BLINK: Multimodal Large Language Models Can See but Not Perceive](arxiv?)"
+This repo contains the evaluation code for the paper "[BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390.pdf)"
 
 
 <!-- ## 🔔News
