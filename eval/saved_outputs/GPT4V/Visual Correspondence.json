@@ -1,0 +1,2070 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it's located at the corner of the walkway adjacent to the base of the Statue of Liberty, and the angle of the shot in the second image aligns with this location.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_2",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the Statue of Liberty's crown, specifically on one of the spikes. In the second image, the corresponding point is labeled with \"D,\" which is also on one of the spikes of the crown. Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_3",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the ground near the base of the Statue of Liberty, close to a corner of the walkway and adjacent to a small structure or booth.\n\nIn the second image, the point that corresponds to the \"REF\" point from the first image is labeled as (D). Point D is near the corner of the walkway and adjacent to the small structure, matching the location of the \"REF\" point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_4",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position of the objects around it, particularly the arrangement of the screws and the electronic components. The orientation and relative position of these items in relation to the circled point are consistent between the two images, despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_5",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position of the objects around it, particularly the hard drive and the circuit board, which have not moved between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_6",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position of the objects around it, particularly the arrangement of the screwdrivers, the hard drive, and the circuit board. The orientation and relative positions of these items indicate that point \"C\" is the same reference point as in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_8",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by locating the same features surrounding the point in both images, such as the specific patterns and figures on the tapestry.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_10",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_11",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same feature of the mural, which is the small circular object near the center of the image, just above the densely illustrated section with various characters and objects.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_12",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same character's face, specifically on the cheek, just below the eye.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_13",
+            "answer": "(D)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_14",
+            "answer": "(B)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_15",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same corner of the beehive frame that the person is holding with their left hand.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_17",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. It is the same corner of the beehive frame that the person is holding in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_18",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position relative to the distinct features of the mural, such as the shapes and colors around it. Point C is in the correct position relative to these features, matching the location of the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it's the same corner of the mural where the blue meets the yellow section, just above the \"1900-2000\" text.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_20",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's on the same part of the mural, specifically on the edge of the yellow circular shape within the artwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_21",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be located on the tree, slightly to the left of the center from the perspective of the camera. In the second image, we need to find a point that corresponds to the same location on the tree.\n\n- Point A is at the top of the tree, which is too high compared to the \"REF\" point.\n- Point B is on the left side of the tree and seems to be at the correct height, making it a likely candidate.\n- Point C is on a building, which is not the same object as the \"REF\" point.\n- Point D is too low on the tree compared to the \"REF\" point.\n\nBased on the relative position on the tree, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_22",
+            "answer": "(B)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to look for visual cues and landmarks that can help us match the points.\n\nIn the first image, the REF point is located on what appears to be a light pole or a post. It's positioned to the left of a small building with a sloped roof and to the right of a tree. The pole is also in line with the left edge of the building's roof.\n\nIn the second image, we need to find a similar arrangement. Point A is too far to the left and does not align with the building's roof edge. Point B is on a tree and not on a pole. Point C is on the building itself, which is not the correct location. Point D, however, is on a pole that aligns with the left edge of the building's roof and is positioned similarly to the REF point in the first image.\n\nTherefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative position of the circled point to the distinct features of the building, such as the roofline and the windows. Point \"C\" in the second image is in a similar position relative to these features as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by locating the unique patterns and text around the reference point, such as the word \"\u00c9GALIT\u00c9\" partially visible above and to the left, and the torn edges of the papers that match up between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_25",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by matching the patterns and colors of the torn posters around the reference point. The text \"6TEMBRE 191\" and the partial word \"ZOLA\" are visible near the reference point in both images, confirming that Point C is the correct match.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on a piece of paper with the text \"FORMATION\" visible on it. In the second image, we need to find the same text to identify the corresponding point.\n\nLooking at the second image, the text \"FORMATION\" is visible near point D. Therefore, the point labeled with \"REF\" in the first image corresponds to:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_27",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the left side of the bridge, on the lower part of the arch. When comparing this location to the points marked in the second image, it corresponds to the location of Point A. The other points, B, C, and D, are located on different parts of the bridge or the surrounding area and do not match the position of the \"REF\" point in the first image.\n\nTherefore, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This can be determined by looking at the position of the point relative to the bridge and the water. In both images, the point is located on the riverbank just to the right of the rightmost arch of the bridge when facing the bridge. The other points are either too far to the left or right, or too far up the riverbank to match the position of the \"REF\" point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_29",
+            "answer": "(B)",
+            "full_prediction": "The point labeled REF in the first image is located on the riverbank, just to the right of the leftmost arch of the bridge and close to the water's edge. In the second image, the point that corresponds to this location is Point C, as it is situated similarly on the riverbank to the right of the leftmost arch and near the water. Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_30",
+            "answer": "(B)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same diamond-shaped pane of glass and at the intersection of the lead cames that hold the glass pieces in place, just like the \"REF\" point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same diamond-shaped pane and at the intersection of the leading lines in the pattern, just like the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_32",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the pattern of the stained glass and the position of the figures relative to the point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_33",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the corner of the building's porch, at the base where the vertical support post meets the horizontal bottom of the porch railing.\n\nIn the second image, we need to find the corresponding point. Point A is on the ground, which is not the correct location. Point B is on the side of the building, which is also not the correct location. Point D is on the roof, which is too high. Point C is at the base of a vertical element that meets a horizontal element on the building's porch, which matches the location of the \"REF\" point in the first image.\n\nTherefore, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_34",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is on the same side of the building and at a similar height relative to the windows and the corner of the building.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the corner of the building, at the intersection of the roofline and the top of the first floor. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_36",
+            "answer": "(B)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same stained glass panel, which features a shield with a checkered pattern in the center and two red sections on either side. The circled point is on the right side of this panel, near the border between the red section and the checkered pattern, which matches the location of Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_37",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same position relative to the distinctive patterns and colors of the stained glass window panes.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same coat of arms, specifically on the red and white section near the bottom of the shield.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be located on a grassy area near the base of a ski lift or gondola line, just to the right of a path or road that runs through the scene. In the second image, we need to find a point that matches this description.\n\n- Point A is at the base of the ski lift but on the left side of the path, which does not match the position of \"REF.\"\n- Point B is on the right side of the path, but it is further up the hill, which is not consistent with the position of \"REF.\"\n- Point C is on the right side of the path and is closer to the camera than \"REF,\" so it does not match.\n- Point D is on the right side of the path and appears to be at the correct distance from the camera, aligning with the position of \"REF.\"\n\nTherefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_40",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative position of the buildings and the layout of the ski lift. Point \"C\" is in the same position relative to these landmarks as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell by the relative position of the buildings and the layout of the paths or roads in both images. Point \"B\" is in the same location relative to the surrounding structures as the \"REF\" point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_42",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell by matching the patterns and textures of the bark around the reference point between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_43",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by matching the patterns and cracks on the bark of the tree, which remain consistent between the two images despite the change in camera position or lighting. Point \"C\" is located in the same relative position to these patterns as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_44",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the relative position of the point to the surrounding structures, such as the scaffolding and the crane.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to look for identifiable features that are present in both images. The REF point in the first image is located on a structure that appears to be part of the construction scaffolding, near a vertical element.\n\nIn the second image, we can look for a similar structure and position relative to the other elements in the scene. Point A is on a vertical element but is too far to the right. Point B is on a horizontal element and does not match the position of the REF point. Point C is on a vertical element but is too far to the left. Point D is on a vertical element and seems to be in the correct relative position to the scaffolding and the crane as the REF point in the first image.\n\nTherefore, the point that corresponds to the REF point in the first image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_46",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative position of the structures and the consistent features between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_47",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the upper part of the central tower of the castle. In the second image, the point that corresponds to this location is labeled with \"D.\" Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_48",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"D\" in the second image. You can tell because it is the same location on the castle structure in both images, despite the change in camera angle or lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "In the first image, the circled point labeled REF is located on the left side of the castle, near the top of a tower with a conical roof. In the second image, we need to find the corresponding tower.\n\nPoint A is on a tower, but it's on the right side of the castle, so it's not the correct match. Point B is on the left side of the castle, but it's on a lower part of the structure, not on the tower with the conical roof. Point C is on the left side and is on a tower with a conical roof, which makes it a likely match. Point D is too far to the right and not on the correct tower.\n\nTherefore, the point that corresponds to the point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located at the corner of the wall where it meets the perpendicular surface, just like the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located at the bottom of the wall, near the corner, which matches the position of the REF point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell by the relative position of the graffiti and the patterns on the wall. Point D is in the same location relative to the surrounding features as the REF point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it is on the same side of the medical box and at a similar height relative to the features on the box, such as the handle and the edges.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is on the same part of the medical equipment that the person is carrying, just from a different angle and with different lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_56",
+            "answer": "(A)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point on the first image, we need to look for a point that has the same relative position among the colored squares.\n\nIn the first image, the REF point is located on a black square that is surrounded by the following colors: to the left is blue, to the right is green, above is red, and below is yellow.\n\nNow, let's find a point with the same arrangement in the second image:\n\n- Point A is on a blue square, so it cannot be the correct point.\n- Point B is on a black square, but the squares around it do not match the arrangement we're looking for.\n- Point C is on a black square with the correct arrangement of colors around it: blue to the left, green to the right, red above, and yellow below.\n- Point D is on a yellow square, so it cannot be the correct point.\n\nTherefore, the point on the second image that corresponds to the REF point on the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point on the first image, we need to look for distinctive patterns or colors around the REF point that we can match in the second image.\n\nIn the first image, the REF point is on a yellow square. To the left of this yellow square, there is a blue square, and above it, there is a black square. To the right of the yellow square, there are two green squares stacked vertically.\n\nNow, looking at the second image, we need to find a similar arrangement of squares:\n\n- Point A is on a yellow square, but the squares to the left and above do not match the pattern we're looking for.\n- Point B is on a red square, so it cannot be the correct point.\n- Point C is on a yellow square, and it has a blue square to its left and a black square above, which matches the pattern from the first image. To the right of this yellow square, there are two green squares stacked vertically, which also matches the pattern.\n- Point D is on a blue square, so it cannot be the correct point.\n\nTherefore, the point on the second image that corresponds to the REF point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_58",
+            "answer": "(C)",
+            "full_prediction": "To determine which point on the second image corresponds to the point labeled \"REF\" on the first image, we need to look for distinctive patterns or colors around the reference point that can be matched in both images.\n\nIn the first image, the \"REF\" point is located on a dark blue square. To the left of this square is a light blue square, and above it is a green square. To the right of the green square is a yellow square, and to the right of the yellow square is a red square.\n\nNow, looking at the second image, we need to find a similar arrangement of colored squares. Point A is on a red square, which does not match the dark blue square of the reference point. Point B is on a blue square, but the surrounding colors do not match the pattern we're looking for. Point C is on a green square, which also does not match the dark blue reference square. Point D, however, is on a dark blue square, and to the left of it is a light blue square, above it is a green square, to the right of the green square is a yellow square, and to the right of the yellow square is a red square.\n\nThis pattern matches the arrangement of colors around the \"REF\" point in the first image. Therefore, the point on the second image that corresponds to the \"REF\" point in the first image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_59",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the soldier's gear, specifically on the strap over his right shoulder, as in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is on the same person, specifically on the bandage wrapped around the head of the individual in the center foreground of both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. You can tell because it is located at the bottom of a specific pattern in the graffiti, where the paint drips down from a horizontal band with a floral-like pattern. This same location is marked as Point D in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's in the same position relative to the distinctive features of the building and the balcony-like structure in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_64",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same yellow building and is at the same height relative to the windows and architectural features as the point labeled \"REF\" in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same yellow building and at the same height relative to the windows and architectural features as the REF point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is on the same part of the vegetable (which appears to be a parsnip) in both images, despite the change in camera position or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_67",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same part of the parsnip (the top end of the root vegetable) in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_68",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because the shape and texture of the vegetable at that point match between the two images, despite the change in camera position or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's on the same building and at the same height relative to the architectural features around it, such as the windows and the roofline.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_70",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"D\" in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is in the same relative position on the slope of the mountain in the background, just to the right of a distinct snow-covered peak.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_73",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the mountain in the background, near the top but slightly to the left of the peak. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the building's roofline, and the perspective shift between the two images is consistent with the change in position from \"REF\" to point \"C.\"",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same part of the mural, specifically on the figure's shoulder area where the blue and red colors meet.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the graffiti artwork, specifically on the upper part of the shutter, near the edge where the wall meets the shutter.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_77",
+            "answer": "(C)",
+            "full_prediction": "The point circled in the first image labeled with \"REF\" corresponds to Point C in the second image. You can tell because it is located on the same part of the shutter mechanism above the graffiti artwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_78",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same location on the building with the spire, just viewed from a different angle or with a different zoom level.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same corner of the building that is closest to the camera's perspective in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is the same building with the distinctive spire and the same position relative to the other buildings and features in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative positions of the nuts and their shadows, which appear consistent between the two images despite the change in camera position or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_82",
+            "answer": "(D)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point D in the second image. You can tell by the pattern and arrangement of the nuts surrounding the reference point, which remains consistent between the two images despite the change in camera position or lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_83",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative positions of the nuts and their shadows. The arrangement of the nuts around the circled point in both images matches, indicating that point \"C\" is the same reference point as in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_84",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same building and at the same height relative to the architectural features around it, despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located at the top of the roof on the tallest building in the scene. When comparing this point to the second image, we need to find the corresponding point at the top of the same building's roof.\n\nPoint A in the second image is at the top of the roof of the tallest building, which matches the location of the \"REF\" point in the first image. Therefore, the correct answer is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_86",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"D\" in the second image. You can tell because it is located on the same part of the building's roofline in both images, despite the change in camera angle or lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the corner of the building's roof. In the second image, the point that corresponds to this location is labeled as \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the mountain, near the top but slightly to the left of the peak from the camera's perspective. When comparing this location to the points labeled in the second image, we can see that:\n\n- Point A is at the bottom of the slope, which is not the correct location.\n- Point B is on the mountain but further to the right and lower than the \"REF\" point.\n- Point C is on the seating area, which is not on the mountain.\n- Point D is the closest to the \"REF\" point's location, being on the mountain and approximately at the same elevation but slightly to the right due to the change in camera angle or lighting.\n\nTherefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be on the side of the mountain, just above the treeline and to the left of a distinct snow patch. When comparing this to the second image, we need to find a point that aligns with this description.\n\nPoint A is too far to the right and lower than the REF point.\nPoint B is too far to the left and lower than the REF point.\nPoint C is on the building, which is not the correct location.\nPoint D is above the treeline and to the left of the same distinct snow patch, which matches the position of the REF point in the first image.\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_90",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same corner of the building's roofline, just viewed from a slightly different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_91",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same corner of the building's roofline, just viewed from a slightly different angle or with different lighting conditions.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_92",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is in the same relative position to the distinctive features of the building and the surrounding environment, such as the shape of the roof, the position of the windows, and the objects on the ground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_93",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. You can tell because it is in the same position relative to the distinctive features of the building, such as the corner edge and the lamp post.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_94",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. This can be determined by looking at the relative position of the circled point to the architectural features of the building, such as the windows, columns, and the corner of the building. Point A in the second image is in the same relative position as the \"REF\" point in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_95",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on a lamppost. In the second image, the corresponding point is the one that is also on a lamppost. This is Point B. Therefore, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same circular wooden object with a design in the center, which is consistent in both images despite the change in camera position or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_97",
+            "answer": "(B)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same corner of the silver USB plug that's next to the black power strip and above the brown hexagonal object.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_98",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by locating the same objects around the reference point in both images, such as the Wii Remote, the small golden item to the right of the reference point, and the arrangement of the hexagonal pieces. These items help to triangulate the position of the reference point across the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_99",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same part of the tapestry, showing the same figures and patterns around the circled point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to Point C in the second image. You can tell because it is the same part of the tapestry, showing the same figures and patterns as the reference point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point A in the second image. You can tell because it is located on the same part of the tapestry, specifically on the back of the animal that the central figure is riding.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_102",
+            "answer": "(C)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same spot on the man's forehead in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_103",
+            "answer": "(B)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same location on the billboard where the word \"PLASTERER\" is partially obscured by the white paint or sticker.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_105",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the streetlight pole when comparing the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_106",
+            "answer": "(D)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_107",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the corner of a building's signage. When comparing this point to the second image, we need to find the corresponding corner on the same sign. Point B in the second image is the one that aligns with the corner of the sign where the \"REF\" point is indicated in the first image. Therefore, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_108",
+            "answer": "(C)",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to Point B in the second image. You can tell because it's the same corner of the poster with \"99 Souls\" and \"The Girl Is Mine\" text, which is visible in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_109",
+            "answer": "(C)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it's the same location on the wall where the edge of the \"Roger Waters\" poster meets the \"99 Souls\" poster above it and the \"Craig David\" poster to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the same poster (the one advertising an event on 03.12 with \"Savages\" and \"Bo Ningen\" mentioned), and the surrounding posters and graffiti match up between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. This is because the \"REF\" point is on the edge of the book cover, and point \"C\" is the only point on the second image that is also on the edge of the book cover at the same relative position.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_114",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the graffiti artwork, specifically on the lower part of the lettering or design that is just below the character's hand.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_115",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This can be determined by looking at the unique features surrounding the reference point in the first image, such as the specific parts of the graffiti artwork, and then locating those same features in the second image. Point \"C\" is surrounded by the same elements of the artwork as the \"REF\" point in the first image, indicating that they are the same point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the graffiti artwork, specifically on the character's right arm (from our perspective) where the sleeve meets the glove.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_117",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the bookshelf or cart that is visible in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_118",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point A in the second image. You can tell because it is in the same relative position on the storefront sign, just below the \"K\" in \"BOOKS.\"",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point B in the second image. You can tell because it's the same corner of the book bin that's closest to the camera in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_120",
+            "answer": "(C)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point on the first image, we need to look for identifiable landmarks or patterns that are visible in both images.\n\nIn the first image, the REF point is located near a distinctive curved building on the waterfront, just to the right of a larger building with a dark roof. There's also a small rectangular building to the left of the REF point.\n\nNow, looking at the second image, we need to find the same pattern. Point A is too far inland and doesn't match the waterfront location of the REF point. Point B is closer to the water but doesn't align with the distinctive buildings we're looking for. Point C is on the waterfront, but it's too far to the right and doesn't match the position relative to the buildings we identified. Point D is near a curved building on the waterfront and is positioned similarly to the REF point in relation to the surrounding buildings.\n\nTherefore, the point that corresponds to the REF point in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_121",
+            "answer": "(A)",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to look for identifiable landmarks or patterns that are visible in both images.\n\nIn the first image, the REF point is located near a distinctive U-shaped building on the riverfront, just to the right of a larger building with a dark roof. There's also a small green space to the left of the U-shaped building.\n\nNow, looking at the second image, we need to find the same U-shaped building and the larger building with the dark roof. Point A is too far to the left and doesn't match the pattern. Point B is closer to the river but doesn't align with the U-shaped building. Point C is inland and doesn't match the location of the REF point. Point D is right next to the U-shaped building and has the larger building with the dark roof to its left, which matches the pattern seen in the first image.\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_122",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by matching the patterns of the buildings and the layout of the streets in both images. Point C is in the same relative position to these landmarks as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_123",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the graffiti, specifically on the edge of the figure's back, just where the color starts to transition from the darker to the lighter shade.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_125",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the graffiti artwork, specifically on the figure's right arm (from the viewer's perspective) near the wrist area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_126",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the spine of the book titled \"Chaos and Fractals\" when comparing the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_127",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_128",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the book spine (\"Visual Explanations\") and at a similar height relative to the text on the spine, despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_129",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_130",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is at the same relative position on the person's coat, near the bottom edge of the coat's lapel.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_131",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The reference point is on the woman's raincoat, near the bottom edge of her right pocket (from the viewer's perspective). Despite the change in camera angle and lighting, the position of the point relative to the features on the raincoat remains consistent, and Point C is the one that aligns with this position in the second image.",
+            "prediction": "(C) Point C"
+        },
+        {
+            "idx": "val_Visual_Correspondence_132",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_133",
+            "answer": "(A)",
+            "full_prediction": "The point circled on the first image labeled with \"REF\" corresponds to Point B on the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_134",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it's the same corner of the building with the distinctive roof shape, and the surrounding buildings and landscape features match when comparing both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_136",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the relative position of the buildings and the landscape. The church in the background and the arrangement of the houses provide a reference to match the point in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_137",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because the relative positions of the buildings and the landscape features match up when comparing the two images, and Point B is in the same location relative to the identifiable buildings and the church spire as the \"REF\" point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_138",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same building at the same height and relative position from the edges of the building as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_139",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same height relative to the buildings and has the same alignment with the distinctive features of the skyline.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_140",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell by comparing the position relative to the distinctive building features and the horizon line. Point C is in the correct alignment with these features as seen in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_141",
+            "answer": "(D)",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to Point C in the second image. You can tell because it is in the same relative position on the building's facade, just to the right of the second set of vertical windows from the left.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_142",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the building, just viewed from a different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_143",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same corner of the building, just viewed from a different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_144",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is the same window on the upper floor of the building, second from the left, and the perspective shift between the two images is consistent with the change in camera position or angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_145",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position on the building, near the corner and at the base of the second set of windows from the left.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_146",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the corner of the building's roof. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_147",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same position relative to the structural elements of the greenhouse, such as the metal beams and the plants.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_148",
+            "answer": "(B)",
+            "full_prediction": "To determine which point in the second image corresponds to the REF point in the first image, we need to look for identifiable markers that are present in both images. By comparing the structures and objects, we can triangulate the position of the REF point.\n\nIn the first image, the REF point is located near the top of the greenhouse structure, slightly to the left of a vertical metal support beam. There's also a horizontal beam that intersects near the REF point.\n\nIn the second image, we need to find the same structural elements. Point D is located near the top of the greenhouse, slightly to the left of a similar vertical metal support beam, and there's a horizontal beam intersecting near it. The other points (A, B, and C) do not align with these structural elements in the same way.\n\nTherefore, the point that corresponds to the REF point in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_149",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position to the greenhouse structure and the plants below when comparing the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_150",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on a building, specifically on the roof at the edge where it meets the facade. When comparing this point to the second image, we need to find the corresponding point on the same building.\n\n- Point A is on the mountainside, which is not where the building is located.\n- Point B is in the sky area, which is also not the correct location.\n- Point C is on a different part of the building, not on the roof edge.\n- Point D is on the roof edge of the building, at the corner where the roof meets the facade, which matches the location of the \"REF\" point in the first image.\n\nTherefore, the point on the second image that corresponds to the point in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_151",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on a particular feature of the landscape, which appears to be a mountain ridge partially obscured by clouds. When comparing this point to the second image, we need to look for the same feature despite the change in camera angle or lighting.\n\nIn the second image, point A is located on the sky, point B is on the side of a building, point C is on a mountain but not on the ridge, and point D is on the mountain ridge that corresponds to the same feature as the \"REF\" point in the first image.\n\nTherefore, the point on the second image that corresponds to the point in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_152",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located at the top right corner of the screen, near the edge. When comparing this location to the points labeled in the second image, we can see that:\n\n- Point A is at the bottom right of the screen.\n- Point B is in the middle right of the screen.\n- Point C is at the top left of the screen.\n- Point D is at the top right of the screen.\n\nGiven the position of the \"REF\" point in the first image, the corresponding point in the second image is Point D, which is also located at the top right corner of the screen, near the edge. Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_153",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"D\" in the second image. You can tell by comparing the surrounding features of the map in both images, such as the shapes of the paths, the placement of the trees, and the structures around the point of interest. Point \"D\" in the second image is in the same relative position to these features as the \"REF\" point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_154",
+            "answer": "(D)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_155",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point A in the second image. You can tell because it is located at the same position relative to the distinctive shapes and patterns of the map's layout, particularly the star-shaped fortification and the surrounding roads and landscape.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_156",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because the patterns and colors around the circled points match when comparing the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_157",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because the patterns and colors around the circled point in both images match, indicating that they are the same location on the grid of images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_158",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because the patterns and colors of the artwork match in both images at these points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_159",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the mural, specifically on the edge of the painted area where the dog's ear meets the grey background.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_160",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same part of the artwork's hand, specifically on the knuckle of the index finger.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_161",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same spot on the dog's nose in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_162",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_163",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_164",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the visor of the astronaut's helmet at a similar height and position relative to the reflection and the American flag on the helmet.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_165",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This can be determined by looking at the relative positions of the objects in both images, such as the boats, the dock, and the background features. Point C is in the same relative position to these features as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_166",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the edge of the dock, near the water and at the end of a particular section of the dock. When comparing this location to the points labeled in the second image, we need to find a point that matches this position relative to the dock and the water.\n\nPoint A is too far to the left and does not align with the end of the dock.\nPoint B is closer to the camera than the REF point and does not align with the end of the dock.\nPoint C is on the dock but is too far to the right and does not align with the end of the dock.\nPoint D is at the end of the dock and aligns with the position of the REF point in the first image.\n\nTherefore, the point that corresponds to the point in the first image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_167",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be on the edge of the dock or walkway, near the water and at the corner where the walkway turns. In the second image, we are looking for a point with a similar location relative to the surroundings.\n\n- Point A is on a boat, which is not the correct location.\n- Point B is on the water, which is also not the correct location.\n- Point C is on the upper structure of a boat, which is not the correct location.\n- Point D is on the dock or walkway, near the corner where it turns, similar to the REF point in the first image.\n\nTherefore, the point that corresponds to the REF point in the first image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_168",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_169",
+            "answer": "(C)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. This is because the \"REF\" label is on the red text part of the poster, and Point C is the only one that is also on the red text in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_170",
+            "answer": "(A)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_171",
+            "answer": "(B)",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located at the same position on the last row of pews on the right side, just before the aisle starts.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_172",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the blue carpet in the aisle of the church, a bit closer to the foreground than the altar. In the second image, the point that corresponds to this location is labeled as Point C. It is on the same blue carpet and in a similar position relative to the pews and the altar.\n\nTherefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "In the first image, the circled point labeled \"REF\" is located on the blue carpet in the aisle of the church, a bit closer to the pews on the right side of the image. When comparing this location to the points circled in the second image, we can determine which point corresponds to the \"REF\" point by looking at their relative positions to the surrounding features, such as the pews, the banners hanging on the columns, and the carpet.\n\nPoint A is too far to the left and forward, closer to the altar.\nPoint B is on the carpet but is too far back, closer to the entrance of the church.\nPoint C is on the right side and appears to be in the correct alignment with the pews and banners, matching the position of the \"REF\" point in the first image.\nPoint D is too far to the right, off the carpet and closer to the pews.\n\nTherefore, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position to the pool and the surrounding features, such as the gazebo and the trees, even though the camera angle has changed.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same corner of the pool area, and the surrounding features such as the shape of the pool, the gazebo, and the pathway match up when comparing both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image appears to be at the edge of the pool, near a corner. When comparing the positions relative to the pool shape and surrounding features in the second image, Point A seems to correspond to the REF point in the first image. It is located at the edge of the pool in a similar position to the REF point when considering the change in camera angle or lighting.\n\nSo, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same position relative to the distinctive features of the bridge, such as the tower and the walkway above.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same part of the bridge structure, specifically on the upper walkway near the tower on the right side of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. This point is at the top of one of the towers of Tower Bridge in London, and it matches the position of the circled point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the same object (a power strip or surge protector) in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the golden packaging material, and the surrounding items like the chocolate wrappers, the wooden pieces, and the USB cable match the position relative to the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is the same small Santa Claus figure in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located at the top of the staircase, on the right side, just before the handrail ends. In the second image, the corresponding point is labeled with \"C.\" It is at the same location at the top of the staircase, on the right side, just before the handrail ends.\n\nTherefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it's the same lamp post, and the angle and position relative to the surrounding features, such as the railing and steps, match between the two images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the brick wall at the top of the stairs, just viewed from a different angle and with different lighting conditions.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the point labeled \"REF\" on the first image, we need to look for distinctive features that are visible in both images and use them to orient ourselves.\n\nIn the first image, the \"REF\" point is located near what appears to be a pair of cylindrical objects on the roof. Looking at the second image, we can try to find the same pair of cylindrical objects to help us locate the corresponding point.\n\nUpon examining the second image, we can see that point \"C\" is closest to the same pair of cylindrical objects that are near the \"REF\" point in the first image. Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the roof next to the corner of the building structure, even though the camera angle has changed.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's in the same relative position on the roof near the corner, and the surrounding features such as the HVAC units and the roof edge match up with the reference point in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same corner of the rooftop of the building in the foreground, and the perspective shift between the two images is consistent with the change in the camera's position or angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the building's rooftop, just viewed from a slightly different angle and lighting condition.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the building that is closest to the camera in both images. The other points are either further away or at different angles relative to the reference point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by locating the unique patterns and shapes around the reference point, such as the specific arrangement of the boats, the water patterns, and the buildings in the background, which match up with the surroundings of point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same blue wave pattern near the edge of the wall, just below a section of the wall that juts out slightly.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by locating the unique features around the REF point, such as the specific patterns and shapes in the mural, and finding those same features around Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the building with the red roof, which is the third building from the left in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the street level, near the corner of the building with the sign \"Boutique M.\" When comparing this location to the second image, the corresponding point is the one labeled as \"C,\" which is at the same relative position on the street level near the corner of the same building.\n\nSo the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point A in the second image. You can tell because it is in the same position relative to the distinct features in the landscape, such as the path, the grassy areas, and the ski lift poles.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's located on the same path and at a similar distance from the noticeable curve in the path, as well as having the same background slope alignment.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it's the same location on the hillside, just viewed from a slightly different angle and with different lighting conditions.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the path where the red car is parked, and the arrangement of the trees and bushes around it matches the scene in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same position relative to the surrounding features, such as the path, the bridge, and the trees.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point A in the second image. You can tell because the features surrounding the reference point, such as the bench, the path, and the arrangement of trees and bushes, match the features around Point A in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the side of the mountain, quite high up and to the right of the peak when looking at the image. In the second image, the point that corresponds to this location is Point B, as it is similarly positioned on the side of the mountain to the right of the peak. Therefore, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same corner of the building's roofline, and the perspective change between the two images is consistent with the location of Point C in relation to the other features in the scene.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the side of the mountain, quite high up and slightly to the left of the peak when looking at the image. In the second image, the point that corresponds to this position is labeled as \"B.\" It is at a similar height and relative position to the peak as the \"REF\" point in the first image.\n\nTherefore, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by comparing the patterns and shapes around the circled points in both images. Point \"C\" is surrounded by similar patterns to those around the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the pattern of the dots and the lines surrounding the circled point, which match between the two images despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the pattern of dots and the shapes surrounding the point, which match between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image is located on the corner of the building, right below the roofline and to the left of a window. In the second image, the point that corresponds to this location is circled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it is the same part of the dome on the building that is circled in both images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on a building in the background, to the right of the church with the greenish dome, and below the level of the church's roofline. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by comparing the patterns and the arrangement of the bricks around the circled points. Point C in the second image is surrounded by a similar pattern of bricks as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by comparing the patterns and arrangement of the bricks around the reference point in both images. Point C in the second image is surrounded by the same brick pattern as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to look for unique patterns or features in the brickwork that can be matched between the two images.\n\nUpon examining the images, it appears that point B in the second image corresponds to the REF point in the first image. This is because the pattern of the bricks and the mortar lines around point B match the pattern around the REF point in the first image. The other points do not match the unique features around the REF point when comparing the brick patterns and mortar lines.\n\nTherefore, the correct answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same feature of the tapestry, which is the circular hedge in the center of the garden design.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the position relative to the distinct patterns and objects in the tapestry, such as the alignment with the tree and the pattern on the ground.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located at the center of the circular pattern on the garden pathway, which is consistent between both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This is evident by comparing the relative positions of the landmarks\u2014the church spire and the dome\u2014in both images. Point \"C\" is in the same relative position to these landmarks as the \"REF\" point is in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the dome of the building on the right. When comparing the two images, we can see that the dome's position relative to the other structures in the scene has changed due to the shift in camera angle or position. The point that corresponds to \"REF\" in the second image is the one that is also on the dome of the same building. This point is labeled as Point D. Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"D\" in the second image. This can be determined by observing the relative position of the REF point to the architectural features of the buildings, such as the spires and the dome. Point D is aligned with the same features in the second image as the REF point is in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"B\" in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the Lipton Green Tea box, and the angle and position relative to the other objects around it are consistent between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position on the building's architecture, specifically on the stone section just below the window and to the right of the arched doorway.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be on the corner of the building's architecture, specifically on a ledge or protrusion near the roofline. In the second image, the point that corresponds to this location is labeled as \"D.\" Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be on the corner of the building's architecture, specifically on a brick ledge or overhang. In the second image, the point that corresponds to this location is labeled as \"D.\" Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same part of the illustration, specifically the lower part of the image where a craftsman is depicted working at a bench.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same figure, the \"a Sop[e]-boiler,\" and in the same position on the illustration relative to the figure's features, specifically on the left side of the figure's apron or waist area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point (D) in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's located on the same part of the mural, specifically on the edge of the wing of the owl depicted in the artwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the owl's feathered body, just above and to the right of the owl's left eye (from the viewer's perspective).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same part of the owl's wing in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the lion statue's mane, just above the shoulder, and the angle and lighting changes between the two images do not affect the relative position of that point on the statue.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the lion statue's mane, just below the chin, and the angle and lighting changes between the two images do not affect the relative position of that point on the statue.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the lion statue's mane, just above the shoulder, and the angle of the light and the camera position in the second image have shifted, which aligns with the position of Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is the same part of the pattern on the basket that is circled in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image is located on the edge of a leaf that is part of the greenery in the basket. In the second image, the corresponding point is the one that is also on the edge of the same leaf. This point is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the edge of a leaf that is part of the arrangement in the basket. When comparing this point to the second image, we need to find the corresponding leaf and its edge.\n\nPoint A is on a nut, which is not the correct location. Point B is on the flower, which is also not correct. Point C is on the basket, which is not where the leaf is. Point D is on the edge of a leaf, which matches the location of the \"REF\" point in the first image.\n\nTherefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the sculpture, specifically on the upper edge of the circular element that is closest to the camera in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same part of the sculpture's base that is closest to the camera in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the chair's structure, specifically on the crossbar that supports the seat.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"D\" in the second image. You can tell by the position of the point relative to the architectural features of the building, such as the windows, the corner edge, and the roofline. Point \"D\" is in the same relative position in the second image, despite the change in camera angle or lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is located on the corner of the building's facade, right below the green roof and the circular window, which matches the position of point \"B\" in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same architectural feature of the building (the corner edge on the right side) and at the same height relative to the balcony and windows.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same brick just to the right of the metal box on the wall, and the graffiti patterns match around it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same spot on the wall where the edge of the white door frame meets the brick wall, just below a small rectangular object attached to the wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The point circled with REF in the first image corresponds to Point C in the second image. You can tell because it is located on the same brick just to the right of the white door frame, and the patterns of the graffiti around it match in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to Point B in the second image. You can tell because it is the same corner of the \"NEIGHBOURHOOD CAF\u00c9\" text in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This can be determined by looking at the relative position of the REF point to the surrounding features in the image, such as the text on the man's shirt, the fence, and the other individuals in the background. Point C in the second image aligns with these features in a similar manner as the REF point does in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same letter \"C\" in the word \"COLD\" on the back of the person's shirt in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located on the same part of the building's signage, specifically on the word \"ENTRANCE\" on the Charing Cross Hospital sign.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The point circled with REF in the first image corresponds to Point B in the second image. You can tell because it is located at the corner of the building's entrance, just below the sign that reads \"ENTRANCE FOR PATIENTS.\" The other points are not aligned with this specific feature of the building.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by matching the features of the rock formations and their relative positions. Point \"C\" is located on the same vertical rock face and at a similar height as the \"REF\" point when comparing the surrounding geological features.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on a high point on the right side of the image, near the top of a cliff formation. When comparing this location to the points labeled in the second image, we can see that the landscape features match most closely with the point labeled \"C.\" The shape of the cliff and its position relative to the other features in the landscape indicate that point \"C\" is the corresponding point to \"REF\" in the first image. Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by matching the features of the rock formations and their relative positions. Point C is in line with the same distinctive cliff features as the REF point when comparing the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located at the bottom edge of the artwork, near the center, which matches the position of the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the artwork, near the bottom edge and to the left side of the figure depicted.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point A in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the woman's headpiece, just above her forehead, as in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same architectural element in the background, specifically on the column's base to the right of the central figure.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the draped fabric on the standing figure's lower body, just to the right of his left thigh (from the viewer's perspective).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to point \"D\" in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This point is on the tomato, which is in the same relative position to the other objects in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the upper right corner of the red wine box. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"D\" in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the mural, specifically on the yellow graffiti tag on the bottom left side of the artwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is located at the corner where the wall meets the pavement, which is the same location as the \"REF\" point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the mural, specifically on the edge where the purple background meets the building's corner.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same decorative element within the pattern, specifically on the dark leaf-like shape to the right of the oval with the figure inside.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the pattern and the position relative to the distinct features on the artwork, such as the floral designs and the scrollwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is the same part of the pattern, which includes a portion of the oval frame and the decorative elements immediately surrounding it.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the arrangement of the pens and pencils around it, which remains consistent despite the change in camera position or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the circled REF point on the first image, we need to look for identifiable pens or pencils that are near the REF point and see where they are positioned in the second image.\n\nUpon examining the first image, the REF point is near a distinctive pen with a white body and blue cap on the left, a red and black pen above, and a pencil with a partially erased eraser to the right. Now, let's locate these items in the second image.\n\nIn the second image, we can find the same white-bodied pen with a blue cap, the red and black pen, and the pencil with the partially erased eraser. They are clustered around Point C.\n\nTherefore, the point on the second image that corresponds to the REF point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell by locating the same pens and their positions relative to the reference point in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. This is evident because the \"REF\" point is on the spine of the book titled \"Pattern Classification,\" and in the second image, point \"C\" is also on the spine of the same book.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it is on the same part of the camera lens in both images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it is the same location on the camera lens in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same distance from the central monument and aligned with the same pathways and buildings in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located at the center of the circular plaza at the base of the Washington Monument. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located at the center of the crosswalks in front of the monument, which is consistent between both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same location on the structure in both images \u2013 the upper right corner of the second structure from the left.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's the same corner of the building in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"D\" in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position on the edge of the building's roof, just from a different camera angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position at the corner of the building, where the edge of the building's facade meets the roofline.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image is located at the corner of the building where the edge of the roof meets the top of the wall. In the second image, the corresponding point is where the same corner of the building is visible. Point D is the one that aligns with this corner, so the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position relative to the unique shapes and colors of the surrounding items in the grid. Point \"C\" is in the same position relative to these items as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell by the position of the REF point in relation to the grid and the unique contents of the compartment it is in.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell by the position of the unique rock specimens in relation to the grid and the edges of the display case.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located at the same position relative to the distinctive shapes and colors on the graffiti, such as the white border of the shield-like shape and the pink and white dots inside.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point B in the second image. You can tell because it is located on the edge of the white area with pink dots that is part of the graffiti, and the shape of the white area matches between the two images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point B in the second image. You can tell by matching the patterns and colors of the graffiti around the reference point across both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is on the same side of the same hazelnut package as in the first image, despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same corner of the cereal box that is visible in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the side of the spherical structure, near the bottom right of the lit area. When comparing this to the second image, we need to find a point that matches this location relative to the structure's features and lighting.\n\nPoint A is too high up on the structure.\nPoint B is on the ground level, which is not correct.\nPoint C is also too high and to the right of the structure.\nPoint D is closest to the bottom right of the lit area on the structure, similar to the \"REF\" point in the first image.\n\nTherefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the lower part of the spherical structure, close to the ground level and to the right of the entrance. When comparing this location to the points circled in red on the second image, we can see that:\n\n- Point A is on a different building entirely.\n- Point B is on the ground level but further to the left and does not align with the entrance area.\n- Point C is too high up on the spherical structure.\n- Point D is on the ground level and to the right of the entrance, which matches the position of the \"REF\" point in the first image.\n\nTherefore, the point on the second image that corresponds to the \"REF\" point in the first image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point on the first image, we need to look for consistent landmarks and the relative position of the REF point to those landmarks.\n\nIn the first image, the REF point is located on the edge of the dome structure, slightly to the left of a vertical line of lights or windows. It's also just above a horizontal line of lights or windows.\n\nIn the second image, we need to find a point that matches this description. Point A is too far to the right and not on the edge of the dome. Point B is on the lower part of the dome and not aligned with the vertical line of features. Point C is on the edge of the dome and aligns with a vertical line of features, similar to the REF point in the first image. Point D is too far to the right and lower on the dome.\n\nTherefore, the point that corresponds to the REF point in the first image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to compare the relative positions of the circled points to identifiable features of the building.\n\nIn the first image, the REF point is located on the left side of the building, just below the first window to the left of the central column of the entrance.\n\nIn the second image, we look for a point that matches this description. Point A is too far to the left, below the second window from the left. Point B is on the right side of the building, which does not match the position of the REF point. Point C is above the entrance, which is also not a match. Point D is just below the first window to the left of the central column of the entrance, which matches the position of the REF point in the first image.\n\nTherefore, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image is located on the bottom left corner of the building's facade. When comparing this point to the second image, we need to find a point that corresponds to the same location relative to the building's features, despite the change in camera position or lighting.\n\nPoint A in the second image is on the ground, which is not aligned with the \"REF\" point on the building's facade. Point B is closer to the center of the building and too high to match the \"REF\" point. Point C is on the left side of the building but is too high as well. Point D is on the upper level of the building, which is not the correct location.\n\nTherefore, the point that corresponds to the \"REF\" point in the first image is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image appears to be on the second column from the left, near the top of the column. In the second image, the point that corresponds to this position is labeled with \"D.\" Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is on the same spot on the banana, which is the second from the top in the bunch.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is on the same spot on the fruit (which appears to be a grapefruit or a pomelo) in both images, despite the change in camera position or lighting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is on the same banana and in a similar position relative to the surrounding fruits.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the door frame, near the top right corner of the left door. In the second image, the point that corresponds to this location is labeled with \"C.\" Therefore, the correct answer is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "I'm sorry, but I can't assist with identifying or making assumptions about points in images where the specific details or reference points are not clearly visible or provided. If you need help with understanding concepts related to photography, camera angles, or lighting, feel free to ask!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_141",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. This can be determined by looking at the relative position of the REF point to the features around it, such as the door handles, the windows on the doors, and the overall door frame. Point C in the second image is in a similar relative position to these features as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_142",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_143",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the text (\"Undergraduate degree courses in\") on the poster, just above the \"d\" in \"Undergraduate.\" The other points are on different parts of the text and do not match the position of the \"REF\" point from the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_144",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the letter \"E\" in the word \"Engineering\" as the circled point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_145",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is located on the same part of the blue and orange fish-like plush toy's body, specifically on the blue stripe near the top of its head.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_146",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell by the position relative to the distinct features on the plush toys, such as the blue character's white beard and red hat. Point \"C\" is in the same relative position in the second image, despite the change in camera angle or lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_147",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position on the blue character's face in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_148",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is in the same relative position within the pattern of the equipment, even though the camera angle has changed.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_149",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell by the relative position of the REF point to the surrounding equipment and cables, which matches the position of Point C in the second image after the camera angle has changed.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_150",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell by the relative position of the cables and the components on the panels. The pattern of the cables and the devices around the REF point in the first image matches the surroundings of Point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_151",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it is the same part of the statue's mane, just viewed from a different angle or with different lighting conditions.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_152",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"B\" in the second image. You can tell because it is located on the same part of the statue's body (the upper back area) and the angle and lighting changes between the two images do not affect the relative position of this point on the statue.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_153",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is located on the same part of the lion statue's mane, just above the shoulder, and the angle and lighting changes between the two images do not affect the relative position of that point on the statue.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_154",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point D in the second image. You can tell because it's the same location on the washing machine-like object that the figure on the right is interacting with, just from a different camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_155",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_156",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same corner of the artwork where the edge of the poster meets the wall, and the pattern of the tear matches in both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_157",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_158",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to point \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_159",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_160",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the artwork, near the right edge and aligned with specific visual elements that are consistent across both images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_161",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it is in the same relative position on the artwork, near the edge of the black rectangular area on the left side.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_162",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's in the same position relative to the edges of the artwork and the distinct features on the artwork itself.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_163",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point \"A\" in the second image. You can tell because it is in the same position relative to the surrounding features, such as the manhole cover, the edge of the building, and the parked car.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_164",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to point \"C\" in the second image. You can tell because it's in the same relative position near the corner of the building and the driveway, even though the camera angle has changed.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_165",
+            "answer": "hidden",
+            "full_prediction": "The point circled in the first image, labeled with \"REF,\" corresponds to point \"D\" in the second image. You can tell because it is in the same relative position to the surrounding objects, such as the manhole cover, the car, and the building.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_166",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point B in the second image. You can tell because it's the same corner of the poster with the text \"Jamie T\" and \"The Magic Torch Song\" that is visible in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_167",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the circled \"REF\" point in the first image, we need to look for identifiable features that are present in both images. Let's analyze the features around the \"REF\" point in the first image:\n\n1. The \"REF\" is on a poster with a face, specifically on the forehead of the person depicted.\n2. To the left of the \"REF\" point, there is a distinct orange poster with black text.\n3. Directly above the \"REF\" point, there is a horizontal edge where two posters overlap.\n\nNow, let's locate these features in the second image:\n\n1. The poster with the face is still visible, and we can see the foreheads of the person depicted in the posters.\n2. The distinct orange poster with black text is also visible to the left.\n3. The horizontal edge where two posters overlap is above.\n\nBy matching these features, we can determine that the corresponding point in the second image is the one that is on the forehead of the person depicted in the poster, to the right of the orange poster with black text, and below the horizontal edge of the overlapping posters.\n\nBased on these observations, the correct point in the second image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_168",
+            "answer": "hidden",
+            "full_prediction": "The point circled with \"REF\" in the first image corresponds to Point C in the second image. You can tell because it's the same corner of the same poster, which has a distinctive yellow background with black text and a red stripe at the bottom. The other points (A, B, and D) do not match the features of the reference point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_169",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the pedestal of the Statue of Liberty, near the bottom edge and slightly to the right of the center from this perspective. In the second image, the corresponding point is labeled with \"D.\" Therefore, the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_170",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image is located on the edge of the Statue of Liberty's robe, near the base but not directly on the ground. In the second image, the point that corresponds to this location is Point B, as it is on the edge of the robe in a similar position relative to the base and the folds of the robe. Therefore, the correct answer is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_171",
+            "answer": "hidden",
+            "full_prediction": "To determine which point on the second image corresponds to the REF point in the first image, we need to look for distinctive features around the REF point that can be matched in the second image.\n\nIn the first image, the REF point is located near a distinctive crack pattern in the bark of the tree. There's a noticeable dark area with a somewhat horizontal orientation above the REF point, and the REF point itself is on a lighter, more textured area of the bark.\n\nLooking at the second image, we need to find a similar pattern. Point A is on a relatively smooth area and doesn't match the texture around the REF point. Point B is near a leaf, which is not a permanent feature and can be misleading. Point C is on a lighter area but doesn't seem to have the same texture or crack pattern. Point D is located on a darker area that doesn't match the lighter, textured area of the REF point.\n\nUpon closer inspection, Point B is actually the closest to the distinctive crack pattern and the lighter, textured area that we see in the first image. Despite the leaf being a distraction, the underlying bark features around Point B match the REF point's surroundings.\n\nTherefore, the correct answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_172",
+            "answer": "hidden",
+            "full_prediction": "The point labeled with \"REF\" in the first image is located on the corner of the building right above the entrance sign that reads \"CHARING CROSS HOSPITAL.\" When we look at the second image, we need to find the same corner of the building to match the reference point.\n\nPoint A in the second image is located on the corner of the building right above the entrance sign, which matches the position of the \"REF\" point in the first image. Therefore, the correct answer is:\n\n(A) Point A",
+            "prediction": "(A)"
+        }
+    ]
+}

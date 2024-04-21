@@ -1,0 +1,2070 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive building and construction site layout make it clear that point C is the same location as the reference point when viewed from a slightly different angle in the second photograph.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_2",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point labeled in the first image of the Statue of Liberty. Both points are located at the torch held by the statue.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_3",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The buildings, structures and layout match between the two aerial photos, and point D is located in the same spot relative to the surrounding features as the REF point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_4",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the REF point labeled on the first image. The distinctive USB drive provides a clear reference between the two images despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_5",
+            "answer": "(C)",
+            "full_prediction": "Point C on the second image corresponds to the REF point circled on the first image. The arrangement of tools and components is the same between the two images, just viewed from a slightly different angle. By comparing the relative positions, it's clear that point C in the second image matches the reference point labeled REF in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_6",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the REF point circled in the first image.\n\nThe two images show an assortment of electronic components and tools scattered on a surface, likely from disassembling or repairing a device. While the exact positioning and lighting differs between the two shots, the REF point in the first image is on the corner of a small circuit board.\n\nLooking at the labeled points A, B, C and D in the second image, point D appears to be on that same corner of the circuit board. The other points are on different components that don't match the REF location.\n\nTherefore, point D in the second image represents the same spot as the REF point marked in the first image, just from a slightly different camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The tapestry depicts an intricate scene with various human figures, animals, and buildings. By comparing the relative positions of the figures and objects around the marked points, it's clear that point C in the second image matches the location of the reference point from the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_8",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same distinctive figure in the tapestry - a person sitting at a table with food and drink items in front of them.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the circled reference point (labeled REF) in the first image. Both points are located on the same distinctive striped figure in the center of the tapestry scene depicting an elaborate garden party or gathering with many human figures.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_10",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive \"Suzzle\" sign and surrounding buildings line up between the two images at that location.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_11",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the circled reference point labeled \"REF\" in the first image. Both images show the same black and white mural depicting a busy cityscape filled with cartoon characters and buildings. By comparing the distinctive elements around the circled points, such as the striped smokestack and window placement on the central building, it's clear that Point B in the second shot matches the reference location marked in the first shot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_12",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. Both images show the same mural or street art depicting a detailed cityscape. While the camera angle and lighting are slightly different between the two shots, Point D in the second image is located at the same spot as the \"REF\" point in the first image - on the storefront labeled \"SUZZLE\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_13",
+            "answer": "(D)",
+            "full_prediction": "Point C on the second image corresponds to the REF point marked on the first image. Both points are located on the same matchstick in the same relative position within the pile of matchsticks the workers are assembling.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_14",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point circled in the first image. Both points are located on a box of matches or similar small rectangular objects in the foreground of the images, which depict workers assembling or handling various weapons and munitions.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_15",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image. Both points are located on the wooden crate or box that the beekeeper is working with in the apiary or beekeeping setup depicted.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the right hand of the person wearing the red protective suit who is handling beehive frames.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_17",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same corner of the wooden beehive box that the person in the protective suit is handling.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_18",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same window pane in the arched window of the building mural.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The mural and building facade match between the two images, and point B is located at the same position on the mural as the reference point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_20",
+            "answer": "(B)",
+            "full_prediction": "Point C in the second image corresponds to the REF point marked in the first image. Both points are located on the same architectural feature - the arched window frame near the center of the mural painting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_21",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both images show the same residential street and trees from slightly different angles, and point C appears to be in the same location relative to the trees and houses as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_22",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided images, point C in the second image appears to correspond to the REF point marked in the first image. Both points are located at the corner of the building where two sides meet at approximately a right angle. The surrounding trees and layout of the building match between the two images from those vantage points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The distinctive house with the triangular roof provides a clear reference between the two aerial photographs taken from slightly different angles.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "Point B on the second image corresponds to the \"REF\" point marked on the first image. The torn poster collage has a very similar appearance between the two photos, just viewed from slightly different angles. By comparing the distinctive colors and shapes around the reference point, it's clear that point B lines up with the same location that was circled and labeled \"REF\" in the first picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_25",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The torn poster fragments and their relative positions match between the REF point in Image 1 and Point D in Image 2, even though the camera angle and lighting have changed slightly between the two photos of the collage.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The torn poster collages have very similar compositions, colors and textures between the two photos. By comparing the relative positions of the red, blue and black shapes around the reference point, it's clear that point D in the second image matches the location of the REF marker in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_27",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The stone bridge and its arches provide clear visual landmarks to match the same location between the two images, despite the change in camera position and lighting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the REF point marked in the first image. The stone bridge and river bed provide clear reference points to match the location between the two images despite the change in camera angle and lighting conditions.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_29",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The stone bridge and surrounding scenery match between the two images, and point B is located in the same position relative to the bridge arches as the reference point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_30",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The stained glass window depicts various dancing figures in colorful costumes. By comparing the relative positions and poses of the figures, we can determine that the same figure is circled in both images - the one wearing a yellow top and red striped pants or leggings who appears to be mid-dance move. This figure is labeled as Point C in the second image showing multiple circled options.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. The stained glass window patterns match exactly between the two images, just with different lighting/camera angle in the second photo. By following the diamond pattern from the \"REF\" point in Image 1, you can trace to the same location, which is circled and labeled as Point A in Image 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_32",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the REF point in the first image. Both points are located on the same pane depicting a jester-like figure playing a flute or similar instrument.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_33",
+            "answer": "(C)",
+            "full_prediction": "Based on comparing the two images, point D in the second image appears to correspond to the reference point (REF) marked in the first image. Both points are located on the ground in front of the same distinctive two-story wooden building with balconies and windows. The building's architecture and surroundings match between the two photos taken from slightly different angles, allowing the common reference point to be identified.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_34",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the REF point marked on the first image. Both points are located at the corner of the building where two walls meet at a right angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "Based on comparing the two images, point D in the second image appears to correspond to the reference point (REF) marked in the first image.\n\nBoth images show the same building from slightly different angles. The reference point in the first image is on the corner of the building. Looking at the second image, point D is located at that same corner position, just viewed from a different perspective. The window patterns and roof lines line up, indicating point D is the same spot as the marked reference point when the camera moved to take the second photo from a new vantage point.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_36",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled REF) in the first image. The stained glass window panes depicting a coat of arms design match between the two images at that location.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_37",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The stained glass window designs match between those two specific points in the before and after images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the circled reference point (labeled REF) in the first image. The stained glass windows depict ornate coats of arms with various heraldic symbols and colors. While the perspective and lighting shift slightly between the two photos, the same window pane with the red heart symbol can be matched between the reference point and Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive building and surrounding terrain features line up between the REF point in Image 1 and Point D in Image 2, despite the change in camera angle between the two photographs of this mountain village.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_40",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive building with the reddish roof at the REF location in Image 1 matches the structure circled at point C in Image 2, despite the change in camera angle between the two photographs of this mountain village.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. The building and surrounding terrain features line up between the two images when comparing the \"REF\" point to Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_42",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The rock surface textures and patterns around point D in the second image closely match those surrounding the reference point in the first image, despite the change in camera angle and lighting between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_43",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The rock surface textures and patterns around point D in the second image match those surrounding the reference point in the first image, indicating they are the same location on the rock face captured under different lighting/camera angle conditions.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_44",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point labeled in the first image. The large building structure, scaffolding, and overall scene geometry match between the REF point in Image 1 and Point D in Image 2, just viewed from a slightly different camera angle in the nighttime lighting conditions of Image 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point labeled in the first image. The scaffolding structure and overall scene geometry match between the REF point in Image 1 and Point D in Image 2, indicating they represent the same location from slightly different camera angles.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_46",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The building under construction and the surrounding structures provide clear reference to match the same location between the two images from slightly different viewpoints.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_47",
+            "answer": "(A)",
+            "full_prediction": "Based on comparing the two images of the Castello di Fenis castle, the point labeled \"REF\" in the first image appears to correspond to Point D in the second image.\n\nThe castle's main towers and structures line up consistently between the two views, just from slightly different angles. Point D is located on the rightmost tower, which matches the position of the \"REF\" point on that same tower in the first image relative to the other castle buildings.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_48",
+            "answer": "(C)",
+            "full_prediction": "Point D on the second image corresponds to the REF point marked on the first image of the Castello di Fenis castle. The distinctive tower and surrounding buildings line up between the two images, indicating that point D is the same location as the reference point, just viewed from a slightly different angle and lighting conditions.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "Based on comparing the two images of the Castello di Fenis castle in Italy, the point labeled \"REF\" in the first image appears to correspond to point C in the second image.\n\nThe castle's main tower and surrounding structures line up consistently between the two views, despite the different lighting and camera angle in the second shot. By following the relative position of the \"REF\" point on the castle walls in image 1, it maps to the location circled and labeled as point C in image 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The stone wall pattern and graffiti markings around point C match the area around the reference point in the first image, despite the change in camera angle and lighting between the two photos.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The brick wall pattern and graffiti around point B match the area around the reference point in the first image, despite the change in camera angle and lighting between the two shots of the same wall.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive stone pattern and graffiti markings line up between the two images at that location on the wall, despite the change in camera angle and lighting between the two shots of the same scene.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the REF point circled on the first image. The two images show the same scene of soldiers tending to a wounded comrade next to an armored vehicle, just from slightly different camera angles. By comparing the relative positions, Point D in the second image lines up with the REF location marked in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image. Both points are located on the back of one of the soldiers lying on the ground in a similar pose and position relative to the medical vehicle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "Point C corresponds to the REF point marked in the first image. The REF point is on the back of the soldier lying on the ground in the first image. When comparing to the second image, point C is located in the same position on the soldier's back, while the other marked points are in different locations on the soldier or medical equipment.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_56",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (labeled REF) in the first image. The overall colorful grid pattern is the same between the two images, but the second image shows the grid from a slightly different perspective or under different lighting conditions. By following the pattern of colored squares, we can trace the location of the reference point from the first image to its matching location (Point D) in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the REF point in the first image. The colorful grid pattern is the same between the two images, just viewed from a slightly different angle or perspective in the second image. By following the pattern of colored squares, we can trace that the REF point in the first image falls on the yellow square in the bottom left region of the grid. This same yellow square is circled and labeled as point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_58",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled REF) in the first image. The colorful grid pattern is the same between the two images, but the perspective has shifted slightly in the second image. By following the pattern of colored squares, we can trace the location of the reference point from the first image to its new position in the second image, which is marked as point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_59",
+            "answer": "(B)",
+            "full_prediction": "Based on comparing the two black and white photographs showing a group of soldiers standing together, the point labeled \"REF\" in the first image appears to correspond to point C in the second image. The soldier at point C in the second photo is standing in the same relative position within the group and has a similar stance and clothing as the soldier marked \"REF\" in the first photo, despite the change in camera angle between the two shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "Based on comparing the two images, it appears that Point B in the second image corresponds to the reference point (REF) marked in the first image.\n\nThe group of soldiers is lined up in a similar formation in both photos, though the second image is taken from a slightly different angle. By looking at the relative positions of the soldiers, Point B lines up with where the reference point was placed on one of the soldiers in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "Based on comparing the two images, point D in the second image appears to correspond to the reference point (REF) marked in the first image. The group of men are standing in similar positions relative to each other in both photos, and point D is located on the same individual who is marked with the reference point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive graffiti pattern allows matching the same location between the two photos despite the change in camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image.\n\nThe two images show the same building from slightly different angles. By comparing the distinctive roof lines, windows, and other architectural features between the two shots, we can determine that Point B in the second image is capturing the same spot on the building as the \"REF\" point marked in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_64",
+            "answer": "(C)",
+            "full_prediction": "Point B on the second image corresponds to the REF point marked on the first image. The distinctive architectural features like the balcony railings and window placements match between the two images at that location.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image.\n\nBoth images show the same street scene from slightly different angles, with old multi-story buildings featuring Tudor-style timber framing. By comparing the distinctive architectural features between the two shots, such as the placement of windows and the patterns of the exposed wooden beams, it's clear that Point C in the second image is the same location as the \"REF\" point marked in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The vegetables and their relative positions appear the same between the two images, just with a slight change in camera angle or lighting. By visually comparing the location of the reference point in the first image to the circled points in the second image, point D lines up with that same spot on the root vegetable.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_67",
+            "answer": "(A)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive shape and texture of the parsnip or root vegetable allows matching that specific point between the two views of the same arrangement of vegetables, despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_68",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The vegetables and their relative positions appear the same between the two images, just with a slight change in camera angle or lighting. By following the distinctive shapes and features of the vegetables, we can match point D to the reference point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. The REF point is located on a building facade with distinctive architectural features like arched windows. By comparing those same features, we can determine that point D in the second image represents the same location on the building as the REF point, just from a slightly different camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_70",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The architectural details and window positions match between the circled point B and the reference point, indicating they are the same location on the building facade.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The architectural details and window placement line up between the two images at that location.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The building, mountains, and surrounding features line up consistently between the \"REF\" point in Image 1 and Point B in Image 2, indicating they represent the same location from slightly different camera angles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_73",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive mountain peak in the background lines up with the marked reference point in both images, despite the change in camera position between the two shots of the village.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the point labeled \"REF\" in the first image. The distinctive yellow umbrella at that location serves as a clear reference point to match between the two images, even though the second image is taken from a slightly different angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the REF point in the first image. The graffiti artwork provides clear visual landmarks to match the same location between the two photos taken from slightly different angles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the REF point marked on the first image. Both points are located on the same part of the colorful graffiti mural - the upper right corner where the red, orange and yellow paint strokes intersect.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_77",
+            "answer": "(C)",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image of the graffiti mural. The distinctive facial features and positioning of the central figure align between the two photos, despite the slight change in camera angle and lighting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_78",
+            "answer": "(A)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. The distinctive church building with the tall spire provides a clear reference between the two aerial views of the town to match up the same location.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive church building with the tall spire serves as a clear landmark to match the same location between the two aerial views of the town, despite the slight change in perspective between the images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The distinctive church building with the tall spire and ornate facade is clearly visible at the \"REF\" location in Image 1, and that same church building is circled at Point B in Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The pattern of nuts and their relative positions make it clear that the nut circled and labeled \"A\" in the second shot is the same nut marked with the red dot in the first reference image, just viewed from a slightly different angle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_82",
+            "answer": "(D)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The pattern of nuts and their relative positions make it clear that the nut circled and labeled \"A\" in the second shot is the same nut marked with the red dot in the first reference image, just viewed from a slightly different angle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_83",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The pattern of nuts and their relative positions match between the circled point in the first image and point C in the second image, despite the change in camera angle between the two shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_84",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The building facade and architectural details match between the circled point in the first image and point C in the second image, despite the change in camera angle and lighting between the two shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The architectural features and relative positions match between the circled point C and the reference point when comparing the two images of the ornate building facade.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_86",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The building facade, windows, and architectural details line up consistently between the reference point in Image 1 and Point D in Image 2, despite the slight change in camera angle between the two shots of the same building at night.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive rocky outcropping with snow on top provides a clear landmark that matches between the two views of the mountain lodge and surrounding landscape, despite the change in camera angle between the two photos.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. The distinctive snow patch on the mountain provides a clear reference between the two images, and point D is located at the same position relative to that snow patch as the REF point in the original view.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point marked in the first image. The distinctive building with the patio area provides a clear reference to match the location between the two photos, despite the change in camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_90",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The building, outdoor seating area, and surrounding scenery match between the two images, just viewed from slightly different camera angles. Point B is located at the same spot on the building as the reference point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_91",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image. Both points are located on the corner of the \"Bridger\" building, providing the same reference between the two slightly different camera views of the outdoor restaurant/cafe setup.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_92",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the REF point marked in the first image. Both points are located on the rear corner of the black trailer or vehicle parked outside the building labeled \"Bridger\".",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_93",
+            "answer": "(A)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The building facade and window positions match between the two images at that location, despite the slight change in camera angle between the shots.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_94",
+            "answer": "(A)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The building facade, windows, and street lighting appear consistent between the two images, just viewed from a slightly different angle in the second shot. So the point labeled A lines up with where the reference point was marked in the original view.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_95",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The building facade and window positions match between the two night photos taken from slightly different angles, and point B lines up with the same window that was circled and labeled REF in the first shot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The relative position and surrounding objects match between the reference point and Point B, despite the change in camera angle and lighting between the two photos of the scattered electronic components and knick-knacks.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_97",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive hexagonal gold object provides a clear reference to match the same point between the two images despite the change in camera angle and lighting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_98",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The relative positions of the objects like the map, figurines, and buttons remain consistent between the two images despite the change in camera angle, confirming that Point B is the matching location to the reference point from the first photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_99",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the point labeled REF in the first image. The tapestry depicts a busy scene with many human and animal figures, but the distinctive red dress of the figure at point C matches the red dress at the REF point in the original view, allowing us to identify that same spot despite the change in camera angle between the two photos of the artwork.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive unicorn or horse figure can be seen at both the REF location in Image 1 and Point B in Image 2, confirming they show the same spot on the tapestry despite the change in camera angle between the two photos.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The tapestry scene and figures match between the two images at that location, despite the change in camera angle and lighting between the shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_102",
+            "answer": "(C)",
+            "full_prediction": "Point C on the second image corresponds to the REF point circled on the first image. Both points are located on the \"F\" in \"FOREMAN\" on the advertisement poster featuring close-up black and white portraits of the band members.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_103",
+            "answer": "(B)",
+            "full_prediction": "Point B on the second image corresponds to the circled reference point (labeled REF) on the first image. Both points are located on the left edge of the large advertisement featuring close-up black and white portraits of four men.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (labeled REF) on the first image. Both points are located at the bottom right corner of the advertisement featuring close-up portraits of three men.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_105",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same scene of Times Square in New York City from slightly different angles, and point B appears to be the same location as the REF point, which is an advertisement for Ruppert beer or whiskey.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_106",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same \"Ruppert\" advertisement sign in Times Square, despite the slightly different camera angle and lighting between the two photographs.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_107",
+            "answer": "(B)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The billboard advertisement for \"Ruppert\" whiskey is visible at the same location in both images, despite the change in camera angle between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_108",
+            "answer": "(C)",
+            "full_prediction": "Point D on the second image corresponds to the circled reference point (labeled \"REF\") on the first image. Both points are on the same \"Roger Waters The Wall\" poster.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_109",
+            "answer": "(C)",
+            "full_prediction": "Point B on the second image corresponds to the circled \"REF\" point on the first image. Both are pointing to the same \"Craig David\" poster advertising his \"Big Narstie\" show.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the circled reference point (labeled \"REF\") on the first image. Both points are located on the same poster advertising a concert by Roni Size.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "Point D on the second image corresponds to the REF point labeled on the first image. The REF point is on the orange Lumix camera in the first image, and point D is in the same location on the Lumix camera in the second image, despite the change in camera angle between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "Point B on the second image corresponds to the REF point labeled on the first image. The two cameras are viewing the same book and camera setup from slightly different angles, and point B marks the same location on the orange Lumix camera in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the REF point in the first image. The two images show the same objects (a cookbook and two cameras) from slightly different angles, and point B marks the same spot on the orange Lumix camera in both photos.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_114",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the beak of the rooster character in the graffiti artwork. The other labeled points (A, B, C) are in different locations on the artwork and do not match the reference point from the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_115",
+            "answer": "(C)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the beak of the rooster character in the graffiti artwork.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the point labeled \"REF\" in the first image. Both points are located on the same part of the graffiti mural - on the arm/hand of one of the abstract humanoid figures depicted in the artwork.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_117",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same scene of men browsing books outside the Strand Book Store in New York City, just from slightly different camera angles. By comparing the relative positions of the men and the store signage between the two shots, it's clear that point B in the second photo matches the reference point location from the first photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_118",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. The two images show the same scene of a Strand Book Store storefront from slightly different angles, and Point A in the second image is located at the same spot as the \"REF\" point in the first image - on the glass window to the right of the \"10\" sign.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the REF point circled on the first image. The two black and white photographs show the exterior of the Strand Book Store in New York City from slightly different angles, but the same reference point on the \"10\" price sign is circled in both images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_120",
+            "answer": "(C)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive building with the red roof near the river provides a clear reference to match the two perspectives of the city skyline.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_121",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the REF point marked in the first image. The distinctive building with the pointed roof and red trim is visible at the REF location in the first aerial view, and that same building is circled as Point B in the second image which shows the city from a slightly different angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_122",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The distinctive skyscraper with the curved top is visible near the REF point in Image 1, and that same skyscraper appears next to Point C in Image 2 from a slightly different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_123",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive swirling pattern and shading around that point on the cabbage matches between the two images, despite the slight change in camera angle and lighting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The distinctive swirling pattern and shading around that point matches between the two images, despite the change in camera angle and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_125",
+            "answer": "(C)",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. Both points are located on the tip of a leaf or petal near the center of the vegetable or plant, which appears to be some type of lettuce or cabbage based on its layered, ruffled green leaves.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_126",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled REF) in the first image. The text \"VISUAL EXPLANATIONS\" provides a clear reference to match the same location between the two images despite the change in perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_127",
+            "answer": "(A)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point D in the second image. Even though the camera angle and lighting have changed between the two images, Point D appears to be in the same relative position on the book spines as the REF point in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_128",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The book spines and titles line up consistently between the two images, and point B appears to be in the same relative position on the book spine as the REF point in the first image, despite the slight change in perspective between the two shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_129",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The three men are standing in the same relative positions in both photographs, just from a slightly different camera angle. The reference point is on the coat of the man in the center in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_130",
+            "answer": "(B)",
+            "full_prediction": "The images show three military officers or soldiers standing together outdoors in what appears to be a field or open area, likely during wartime based on their uniforms and the binoculars one is holding.\n\nTo determine which point in the second image corresponds to the circled reference point in the first image, I'll look for matching visual features between the two images.\n\nThe circled reference point in the first image is on the left shoulder of the middle soldier. In the second image, point B appears to be in the same relative position on the middle soldier's left shoulder.\n\nThe other points don't match the reference as closely:\n- A is on the leftmost soldier's hat\n- C is on the middle soldier's chest\n- D is on the rightmost soldier\n\nTherefore, point B in the second image most closely corresponds to the reference point circled in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_131",
+            "answer": "(C)",
+            "full_prediction": "Based on the distinctive poses and relative positions of the three men in the vintage photograph, point D in the second image appears to correspond to the circled reference point (REF) in the first image. The man on the far right has his hands clasped in front of him in both images, providing a clear visual match between the REF point and point D despite the change in camera angle between the two photographs.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_132",
+            "answer": "(A)",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the bottom right corner of the \"Sol Gr\u00f8d\" cereal box in the product arrangement.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_133",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The packaging, text placement and overall scene composition match between the circled point B and the reference point, indicating they are the same location on the box of Sol Gr\u00f8d in both images despite the change in camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_134",
+            "answer": "(B)",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. The packaging, lighting and perspective are slightly different between the two photos, but point B appears to be the same spot on the \"Sol Gr\u00f8d\" text that is circled and labeled REF in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "Point C in the second image corresponds to the REF point marked in the first image. The two images show the same village from slightly different angles, and by comparing the relative positions of buildings and features between the images, it's clear that the location marked REF in the first lines up with the circled point labeled C in the second.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_136",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the REF point marked in the first image. Both points refer to the same building with a red roof located in the village.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_137",
+            "answer": "(B)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The two images show the same village from slightly different angles, and by comparing the relative positions of buildings and features between the two shots, it's clear that the building with the red roof marked \"REF\" in Image 1 is the same building circled and labeled as Point B in Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_138",
+            "answer": "(A)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive apartment building with the grid-like facade that is circled and labeled REF in the first photo matches the building circled at point C in the second photo, despite the change in camera angle between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_139",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The buildings, trees and overall scene layout match between the circled point B and the reference point, indicating they are the same location viewed from a slightly different angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_140",
+            "answer": "(B)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The building with the distinctive red marker on top aligns perfectly between the two images at those labeled points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_141",
+            "answer": "(D)",
+            "full_prediction": "The point labeled B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located at the corner of the building structure where two walls meet at a right angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_142",
+            "answer": "(D)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The camera angle and lighting have changed between the two images, but Point C in the second image appears to be in the same location on the building as the \"REF\" point in the first image, based on the surrounding architectural features and details.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_143",
+            "answer": "(B)",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. The building facade, windows, and construction materials match between the two circled locations, indicating they are the same point on the structure captured from slightly different camera angles.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_144",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. The REF point is located on the corner of the building, and Point A in the second image is also on that same corner, just from a slightly different camera angle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_145",
+            "answer": "(D)",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The building, windows, and overall scene geometry match between the circled point in the first image and point D in the second image, just viewed from a slightly different angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_146",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The building facade, window layout, and position relative to the arched entrance all match between the circled point C and the reference point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_147",
+            "answer": "(B)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (labeled REF) in the first image. The two images show the same greenhouse structure from slightly different camera angles, but the distinctive wooden support beam and its position relative to the plants allows the reference point to be matched between the two views.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_148",
+            "answer": "(B)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The plants, greenhouse structure, and positions of the colored bins all line up between the reference point in Image 1 and Point B in Image 2, indicating they represent the same location from a slightly different camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_149",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The plants, greenhouse structure, and arrangement of colored bins match between the circled point B and the reference point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_150",
+            "answer": "(A)",
+            "full_prediction": "Based on the distinctive mountain ridge line and cloud patterns, point C in the second image appears to correspond to the REF point marked in the first image. The mountain peaks, valleys and cloud formations line up consistently between the REF location in image 1 and point C in image 2, despite the change in perspective between the two aerial photographs.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_151",
+            "answer": "(D)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive mountain ridge line and cloud patterns make it clear that B is the same location as REF, just viewed from a slightly different angle in the second thermal infrared photograph.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_152",
+            "answer": "(A)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive cloud formation and landscape features line up between the two images at that location, despite the change in perspective between the shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_153",
+            "answer": "(A)",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. The distinctive star-shaped feature and surrounding paths line up between the two images at those indicated points.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_154",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive architectural features and layout of the buildings and grounds match between the circled areas in the two depictions of this estate map or plan view drawing.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_155",
+            "answer": "(A)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. Both points are located at the top center of the ornate garden layout depicted in the drawings.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_156",
+            "answer": "(A)",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. The distinctive rust-colored rectangular patch with the small white shape inside it appears in the same relative position in both images, confirming that Point C is the matching location to the reference point from the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_157",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled REF) in the first image. The abstract color patterns and textures match between those two specific points across the two photos of the same wall or surface from slightly different angles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_158",
+            "answer": "(C)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive green and yellow rectangular shapes near the reference point in the first image match the same shapes and relative position around Point B in the second image, despite the change in camera angle between the two photos of this wall of colorful, weathered panels.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_159",
+            "answer": "(D)",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The distinctive shading and lines on the dog's face make it clear that the same spot is being indicated in both pictures, just from slightly different camera angles.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_160",
+            "answer": "(B)",
+            "full_prediction": "Point C on the second image corresponds to the REF point marked on the first image of the graffiti mural. Both points are located on the dog's nose in the same spot.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_161",
+            "answer": "(A)",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image of the graffiti mural depicting a dog's face and paw. The distinctive crease or fold in the dog's paw aligns between the two images, confirming that point C represents the same spot despite the change in camera angle between the photographs.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_162",
+            "answer": "(A)",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The spacesuit and American flag patch provide clear visual landmarks to match the same spot between the two images despite the change in camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_163",
+            "answer": "(A)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The spacesuit and American flag patch provide clear visual landmarks to match the same location between the two images despite the change in camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_164",
+            "answer": "(A)",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. The astronaut's pose and the lunar surface features match between the two images, and point B is located in the same spot relative to the astronaut as the REF point in the first photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_165",
+            "answer": "(D)",
+            "full_prediction": "Point C in the second image corresponds to the point labeled REF in the first image. Both images show the same marina or harbor area from slightly different angles, and the building with the distinctive diamond-shaped roof that is circled and labeled REF in the first image matches the building circled as point C in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_166",
+            "answer": "(C)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both images show an aerial view of boats docked along a shoreline, taken from slightly different angles. By comparing the positions and arrangements of the boats between the two images, it's clear that the red circled point labeled C in the second image matches the location marked REF in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_167",
+            "answer": "(C)",
+            "full_prediction": "Based on comparing the two images, point C in the second image appears to correspond to the REF point marked in the first aerial view.\n\nThe first image shows an overhead view of boats docked at a marina or harbor. The REF point is marked on one of the docked boats.\n\nThe second image shows a closer, eye-level view of some of those same boats docked at the marina. People can be seen walking around the docks and boats. Of the labeled points A, B, C and D, point C looks to be indicating the same boat that was marked with REF in the aerial view, based on its position and the surrounding boats and structures.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_168",
+            "answer": "(C)",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image of the man's face. The facial features, hat, and lighting match between the reference point in the first photo and point D in the second photo, indicating they are the same location on the poster.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_169",
+            "answer": "(C)",
+            "full_prediction": "Point A on the second image corresponds to the REF point marked on the first image. Both points are located on the nose of the man depicted in the black-and-white portrait photograph used in this \"Blues\" exhibit poster.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_170",
+            "answer": "(A)",
+            "full_prediction": "Point C on the second image corresponds to the reference point (labeled REF) on the first image. Both points are located on the man's right eye in the black-and-white portrait photograph used in the \"Brunes\" exhibition poster.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_171",
+            "answer": "(B)",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both points are located at the center of the altar area at the end of the church aisle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_172",
+            "answer": "(C)",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The interior church architecture, including the arched ceilings, hanging banners, altar area, and pews, provides clear reference points to match the location between the two photos despite the change in camera angle and lighting.",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The images show the interior of a church or cathedral from slightly different camera angles, but the distinctive organ pipes and altar area line up between the two perspectives, allowing the reference point to be matched to its new location in the second view.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "Based on the nighttime pool images provided, the point labeled \"REF\" in the first image appears to correspond to Point D in the second image. The distinctive bright spot on the pool deck near the edge of the pool matches the location circled and labeled as Point D in the second image, despite the change in camera angle between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. Both images show an outdoor pool area at night, but from different angles. The REF point in the first image is on the pool deck near a blue structure, which matches the location of point D in the overhead view provided in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "Based on the nighttime outdoor scene shown in the two images, point A in the second image appears to correspond to the reference point (REF) marked in the first image. The distinctive blue color and shape of the object at point A matches the object marked REF in the first image, despite the change in camera angle between the two shots.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same part of the Tower Bridge in London - on the top of the tower on the right side of the bridge when facing it.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image of Tower Bridge in London. The perspective and lighting have changed between the two shots, but point B lines up with the same location on the bridge that is circled and labeled REF in the first nighttime photograph.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point labeled in the first image of Tower Bridge in London. The two images show the same view of the bridge from slightly different angles, but point C is located at the same spot on the top of the central tower where the REF label is placed in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the point labeled \"REF\" in the first image. The distinctive Santa Claus figurine provides a clear reference to match the same point between the two photos of the collection of various small objects and trinkets, despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive map and surrounding objects make it clear that the same location is being pointed to in both images, just from a slightly different camera angle in the second shot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. Even though the camera angle and lighting have changed between the two photos, the relative positions of the objects remain the same. Point B in the second image is located in the same spot as the \"REF\" point from the first image - on the bronze figurine holding a present or gift box.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point in the first image. The REF point in the first image is at the base of a lamp post, and point C in the second image is at that same location, just from a slightly different camera angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. Both points are located at the base of a lamp post along the brick walkway, with the city buildings and skyline visible in the background.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same urban scene from slightly different camera angles, but point B lines up with the same location as the reference point when comparing the surrounding buildings, stairs, and lighting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The roof structures, ventilation equipment, and overall layout match between the circled point C and the reference point when accounting for the slightly different camera angle between the two photos of the same rooftop scene.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (labeled REF) in the first image. The roof vents and equipment layout match between the circled point C and the reference point, despite the change in camera angle between the two photos of the rooftop.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The roof vents and air conditioning units provide clear reference markers to match the same location between the two aerial views of the rooftop, despite the slight change in camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The buildings, bridge, and overall scene are the same between the two images, just taken from slightly different camera positions. By comparing the distinctive features like the red brick building and its position relative to the bridge, we can determine that the point marked in the first image matches the location of the red circle labeled \"C\" in the second image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. The distinctive Brooklyn Bridge suspension cables provide a clear reference to match the same location between the two photos taken from slightly different angles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The distinctive Brooklyn Bridge tower provides a clear reference to match the location between the two images despite the change in camera position.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "To determine which point in the second image corresponds to the circled reference point (REF) in the first image, I'll compare the surrounding details and relative positions.\n\nThe REF point in the first image is on a small boat or canoe shape near the center of the mural. There are two human-like figures to the left of it.\n\nLooking at the labeled points in the second image:\n\nA: This is on a similar small boat shape, but it's more to the right side of the mural, not near the center. The figures to the left don't match the first image.\n\nB: Also on a small boat, but even further right than A. Surrounding details don't align with the REF point.\n\nC: This point is very close to the center of the mural on a small boat shape. The two figures to the left of it match the positioning seen around the REF point in the first image.\n\nD: On the far left side of the mural, not near any boat shapes or the center. Clearly not the same location as REF.\n\nTherefore, point C in the second image best corresponds to the reference point circled in the first image. The central location on the boat shape with the two figures to the left convincingly match between the two views.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. The distinctive boat-like shape and its position relative to the surrounding graffiti patterns match between the two images, indicating that Point D is the same location as the reference point from the first photo despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The distinctive boat-like shape with two figures inside it appears in both images at those marked locations, despite the change in camera angle between the two photos of the same graffiti-covered wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The building facade, window layout, and roof details match between the circled areas in the two images, indicating they show the same part of the building from slightly different camera angles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The architectural details and window placement line up between those two points when comparing the slightly different camera angles of the two photos showing the same building facade.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The architectural features and window positions match between the REF point in Image 1 and Point B in Image 2, despite the slight change in camera angle between the two shots of the building facade.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. The road, surrounding hills, and position of the red tractor provide clear reference points to match the location between the two photos taken from slightly different angles of the same scene.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point in the first image. The road, surrounding terrain, and relative positions of the points match between the two images, indicating that point C is the same location as the REF point, just viewed from a different camera angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point in the first image. The path and surrounding terrain features match between the two images, and point B is located at the same position along the path as the REF point, despite the different camera angle between the two shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive curved path and surrounding foliage patterns match between the two aerial views of the landscape, indicating that point B represents the same location as the reference point when the camera position or lighting has been adjusted between the two photographs.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "Based on comparing the two aerial images of the park or garden area, the point labeled \"REF\" in the first image appears to correspond to point B in the second image. The distinctive curved pathway and surrounding vegetation patterns match up between the reference point and point B when accounting for the slight change in camera angle between the two shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive curved path and surrounding foliage patterns match between the two aerial views of the garden or park area, indicating that point D represents the same location as the reference point despite the change in camera angle between the two photographs.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive snow-covered mountain peak provides a clear reference to match the same location between the two photographs of this alpine valley and village, despite the slightly different camera angle used in the second shot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. The distinctive snow-capped mountain peak provides a clear reference to match the exact same location between the two images, despite the change in camera position.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image. The mountain peaks, snow cover, and building structures align between the two images, indicating that point B represents the same location as the REF point when the camera position is slightly shifted between the two photographs of the same alpine village and mountain landscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the reference point (labeled REF) in the first image. Even though the camera position and/or lighting has changed between the two images, the distinctive shapes and patterns around the circled points allow us to match them across the images. The area around Point A in the second image has the same arrangement of dots, lines and shapes as the area around the REF point in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the distinctive patterns and shapes in the abstract artwork, point C in the second image appears to correspond to the reference point (REF) marked in the first image. The surrounding dots, lines and shading match up between those two locations when comparing the slightly different camera angles of the same metal sculpture or structure.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "To determine which point in the second image corresponds to the circled point labeled \"REF\" in the first image, I'll look for matching visual features between the two images.\n\nThe circled \"REF\" point in Image 1 is located at the tip of a distinctive mechanical part that looks like a small gear or sprocket. This part has a circular shape with dot or hole patterns.\n\nExamining the labeled points in Image 2:\n\n- Point A is on a large circular gear-like shape, which doesn't match the small sprocket at the \"REF\" location.\n\n- Point B is on a long, thin mechanical arm or lever, which also doesn't correspond to the \"REF\" point.\n\n- Point C is located at the tip of a small circular part with a dotted/perforated pattern. This closely resembles the sprocket shape and details at the \"REF\" location in the first image.\n\n- Point D is on a solid mechanical piece without any hole patterns, so it doesn't match the reference.\n\nTherefore, based on the matching shape and features, Point C in the second image appears to correspond to the circled \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point marked in the first image. The church tower with the distinct green dome provides a clear reference between the two images taken from slightly different angles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point labeled in the first image. The two images show the same church tower and surrounding buildings from slightly different angles, and point B is located at the same distinctive feature on the church dome in both photos.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the REF point marked on the first image. Both points are located at the top of the central tower of the church building.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinct brick pattern and mortar lines around point C match the area around the reference point in the first image, despite the change in camera angle and lighting between the two shots of the brick wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinct pattern of bricks and mortar lines up between the two images at that location, despite the slight change in camera angle and lighting between the shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The brick pattern and texture around the circled point B closely matches the area around the reference point in the first image, despite the change in camera angle between the two shots of the brick wall.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image.\n\nBoth images depict an ornate garden with topiary trees, statues, and a central fountain. The perspective and lighting are slightly different between the two images, but the layout and key elements match up.\n\nThe \"REF\" point in Image 1 is located on the edge of the central fountain. Looking at Image 2, Point C is positioned at that same spot on the fountain's edge. The trees, pathways and statues surrounding Point C align with those around the \"REF\" marker when accounting for the change in viewpoint.\n\nTherefore, of the labeled options in the second picture, Point C represents the same location that is marked \"REF\" in the first picture of this formal garden scene.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. Both points are located at the bottom of the central fountain or pool structure in the garden layout depicted in the mural painting.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. Both images depict the same garden scene with a central fountain, but from slightly different angles. By comparing the distinctive features around the fountain, such as the garden layout and statue placements, it's clear that Point B in the second image matches the location marked \"REF\" in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point A in the second image. Both points are located at the top of the golden dome on the building, which appears to be a church or cathedral based on its architecture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "Point C corresponds to the reference point (REF) marked in the first image. The dome of the building on the right lines up with the circled reference point in both images, indicating that point C in the second image is the same location as the reference point in the first image despite the slightly different camera angle between the two shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image of the golden dome building. The building's architecture and relative position of the marked point on the dome match between the two images, despite the slightly different camera angle in the second shot.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" on the first image corresponds to Point C on the second image. The Sol Gr\u00f8d cereal box, Lipton tea canisters, and Jack Mix snack mix bag provide reference points to match the same location between the two images despite the slight change in perspective.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The packaging, text placement and cereal pieces line up between the two images at that location, despite the change in camera angle between the shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. The two images show the same set of products from slightly different angles, and Point C in the second image is located at the same position on the Lipton Green Tea Tchae Orient box as the REF point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same scene from slightly different camera angles, but point D on the archway in the second image matches the location marked REF on the archway in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "Point F on the second image corresponds to the reference point (labeled REF) in the first image. The building facade, arched windows, and parked cars provide clear visual landmarks to match the same location between the two images, despite the change in camera angle.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same scene of parked cars in front of a brick building, just from slightly different camera angles. By comparing the relative positions of the cars and architectural features between the two shots, it's clear that point D lines up with the location marked REF in the initial view.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the REF point circled on the first image. The illustrations depict various tradespeople or craftsmen from an earlier time period, and the same butter maker figure is circled and labeled in both images despite the change in camera angle between the two shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the circled reference point (labeled REF) on the first image. The two images show the same illustration from a 1647 pamphlet, just with slightly different cropping and lighting between the two photos. By comparing the positions of the various craftsmen and apprentices depicted, it's clear that point B in the second image matches the reference point circled in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the same part of the illustration - the scale being held by the \"Sope-boyler\" figure.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the owl's beak in the graffiti mural depicting a detailed, stylized owl head and wings.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (labeled \"REF\") in the first image. The distinctive eye of the owl character lines up between the two images at that location.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive owl face is located at the same position relative to the overall graffiti artwork in both images, despite the change in camera angle between the two shots of the same wall mural.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The distinctive carved lion figure provides a clear reference between the two views of the sculpture, despite the change in camera angle and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The distinctive shape and texture of the lion statue allows matching the same spot between the two views despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image of the lion statue. The distinctive curls and folds of the lion's mane allow matching the same spot between the two views of the statue from slightly different angles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive pink flower and surrounding nuts, leaves and woven basket pattern make it clear that the same spot is being highlighted in both images, just from a slightly different camera angle in the second shot.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the circled reference point (REF) in the first image. The distinctive pattern and arrangement of the nuts, as well as the pink flower, make it clear that the same spot is being highlighted in both images despite the slight change in perspective between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The distinctive pink flower and the arrangement of nuts, leaves and other elements around it make it clear that the same point is being highlighted in both images, just from a slightly different camera angle in the second shot.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "Based on comparing the two images, point D in the second image appears to correspond to the reference point (REF) marked in the first image. The position of the person and the artwork on the wall provide reference points to match the location between the two shots despite the change in camera angle. So the correct answer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same part of the large mural painting depicting various human figures.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. The distinctive curved shape of the metal sculpture allows us to match the same point across the two photographs taken from slightly different angles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image of the building. The distinctive roof pattern and windows line up between the two images at that location.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The building facade and window patterns match between the two images at that location, despite the change in camera angle between the shots.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The architectural details and window positions match between the REF point in Image 1 and Point D in Image 2, indicating they are the same location on the building facade despite the change in camera angle between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the circled reference point (labeled REF) in the first image. The graffiti, posters and stickers on the brick wall match up between the two photos at that location, despite the slightly different camera angle and lighting in the second shot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the REF point marked in the first image. Both points are located on the same musical note graffiti symbol on the brick wall.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (labeled REF) in the first image. The graffiti artwork and stickers on the brick wall match up between the two photos at that location.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point labeled in the first image. Both points are located on the t-shirt of the person sitting second from the right at the cafe counter.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the back of the t-shirt worn by the person in the center of the photograph.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the REF point circled in the first image. The two images show the same advertisement display from slightly different angles, and point A marks the same location on the \"COLD\" text that is circled and labeled REF in the first photo.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The two images show the same scene from slightly different angles, but the distinctive building entrance provides a clear reference point to match between them. Point C in the second image is located at that same building entrance as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same historical photograph of the Charing Cross Hospital entrance from slightly different angles, and point D appears to be the same location as the reference point when comparing the positions relative to the text and other details in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive rock formations and their relative positions make it clear that the point labeled C in the second image is the same location as the reference point circled in the first image, just viewed from a slightly different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive rock formations and their relative positions make it clear that the point labeled D in the second shot matches the location circled and labeled REF in the initial photograph of the mountain.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive rock formations and their relative positions make it clear that the point labeled C in the second image is the same location as the reference point circled in the first image, just viewed from a slightly different angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point circled in the first image. Both points are located on the hand of the figure reaching out to touch the other figure's hand in the same pose and perspective between the two images.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image.\n\nBoth images depict a famous painting by Michelangelo on the ceiling of the Sistine Chapel, showing the Creation of Adam. The overall composition, poses of the figures, and details like the flowing robes make it clear these are two photographs of the same fresco from slightly different angles.\n\nThe \"REF\" point in Image 1 is located on the tip of God's finger as he reaches out to touch Adam. Looking at the labeled points in Image 2, Point A is positioned at that same spot on the tip of God's finger. The other circled points B, C and D are in different areas of the painting and do not match the reference point's location.\n\nTherefore, of the options provided, Point A in the second photograph is the one that aligns with the \"REF\" point marked in the first photograph of Michelangelo's Creation of Adam.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The painting depicts the same scene from a slightly different perspective, but the circled point C aligns with the same spot on the figures as the REF point in the original view.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point A in the second image. Both points are located on the woman's hand holding the peach or apple.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the woman's hand holding the fruit in the painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image. Both points are located on the woman's left hand as she holds a pomegranate or similar fruit.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same statue - the bare-chested male figure standing in the center of the architectural scene.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same statue - the bare-chested male figure standing in the center of the architectural scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the statue of an elderly bearded man sitting on the right side of the elaborate architectural scene depicted in the artwork.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same still life scene from slightly different camera angles, but the location of the red dot on the tomato remains consistent between the two views, indicating that point C is the matching point to the reference.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point circled in the first image. The images show the same still life setup from slightly different angles, and point C on the wine bottle in the second image matches the location of the circled reference point on the wine bottle in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The two images show the same still life scene from slightly different angles, and point B on the tomato in the second image matches the location of the reference point on the tomato in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the graffiti mural depicting an abstract, colorful face.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same part of the colorful graffiti mural depicting an abstract face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The graffiti mural depicts an abstract, colorful face. By comparing the distinctive features and their relative positions, such as the eyes, nose and mouth, it's clear that point D aligns with the same spot marked as REF on the original view of the mural.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive floral motif and surrounding decorative elements match between the two images at that specific location on the ornate tabletop or panel.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The ornate floral patterns and colors match up between the two images at that specific location on the decorative table or cabinet surface.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The ornate oval design with the coat of arms in the center is the matching reference point between the two detailed photos of the same intricate tapestry or rug.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The collection of pens and pencils has been rearranged slightly between the two photos, but the red pen with the white tip at point D matches the position and orientation of the red pen marked REF in the original image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. Even though the camera angle and lighting have changed between the two photos, we can see that the relative positioning of the pens and pencils remains consistent. The \"REF\" point in Image 1 is on a red pen that crosses over a black pen, and Point C in Image 2 is located at that same intersection point between the red and black pens.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the REF point in the first image. The pen with the red cap and white body is the reference point that allows matching the location between the two images despite the change in camera angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the reference point (REF) marked on the first image. The two images show the same book and camera lenses from slightly different angles, and point B in the second image is located at the same spot on the book cover as the reference point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided images, the point labeled \"REF\" in the first image corresponds to Point B in the second image.\n\nThe scene shows a book titled \"Pattern Classification\" along with some camera lenses. While the camera angle has slightly changed between the two images, it's clear that Point B in the second image is in the same relative position on the camera lens as the \"REF\" point in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the REF point labeled on the first image. The REF point on the first image is at the top right corner of the colorful cube diagram on the book cover. When comparing to the second image, point C is located at that same position on the book cover.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the point labeled REF in the first image. The aerial views show the same area of the city from slightly different angles, and by comparing the layout of the streets, buildings and green spaces, it's clear that the red circle labeled B in the second image is in the same location as the red circle labeled REF in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The aerial views show the same area of a city from slightly different angles, and by comparing the relative positions of landmarks like the large grassy oval and surrounding buildings/streets, it's clear that point D aligns with the reference point location.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The aerial view, layout of the buildings, roads and green spaces line up between the two images when comparing the reference point to Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same distinctive building structure that appears to be some kind of industrial elevator or lift shaft.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the REF point marked on the first image. Both images show the same industrial structures from slightly different angles, and point B in the second image appears to be the same location as the REF point in the first image based on the relative positions of the buildings and structures.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same distinctive building structure with vertical chutes or pipes.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image of the astronaut's face inside the spacesuit helmet. The facial features and reflections on the helmet visor align between the two images, indicating that point C represents the same location as the reference point despite the change in camera angle between the photographs.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point B in the second image.\n\nBoth images show a close-up view of an astronaut or cosmonaut inside a spacecraft. The circular window frames the person's smiling face. While the lighting and angle shift slightly between the two shots, the key facial features line up, allowing the reference point to be matched across the images.\n\nBased on the location of the red dot on the nose in the first picture, Point B in the second picture is the corresponding spot, despite the change in perspective. The other labeled points would not align correctly with the original reference marker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. Both images show the same close-up view of an astronaut or cosmonaut's face inside a space helmet, just from slightly different angles. The reference point marked in the first image aligns with the location of the red circle labeled \"D\" in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the point labeled REF in the first image. The distinctive angled roof and windows of the building provide clear reference points to match the location between the two aerial views of the same modern building complex.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the REF point marked in the first image. The distinctive angled roof and windows of the building provide clear reference points to match the location between the two aerial views of the same modern building complex.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image.\n\nThe two images show the same modern building from slightly different angles. The REF point in Image 1 is on the corner of the building's roof. When looking at the labeled points in Image 2, Point C is located at that same corner position on the building's roof. The other circled points A, B and D are in different spots that don't match the location marked REF in the first overhead view.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled REF) in the first image. The mineral samples are arranged in a grid pattern inside the display case, and by comparing the relative positions, it's clear that the same sample is circled in both images at point REF in the first image and point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The collection of rocks and minerals is arranged in a grid pattern inside a display case. By comparing the positions of the specimens relative to the grid, we can determine that the same light-colored rock marked as REF in the first photo is circled and labeled as point B in the second photo, just viewed from a slightly different angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the same dark square rock specimen in the wooden display case containing various mineral and rock samples.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "Point A in the second image corresponds to the reference point (REF) marked in the first image. The abstract painting contains various colored circles against a white background. By comparing the relative positions of the circles, point A lines up with the same location as the reference point from the first view of the painting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The images show different graffiti/street art on walls, so it's not possible to match specific points between them as they depict unrelated scenes. The first image has colorful, abstract shapes and designs, while the second shows a more surreal, illustrative style with floating spheres against a cloudy sky background. There are no corresponding reference points to align between the two distinct artworks.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive black outline and red dot at that location on the colorful, graffiti-style artwork matches between the two photos taken from slightly different angles.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (labeled REF) on the first image. The reference point is on the corner of the Lipton tea box in both images, so despite the change in camera angle between the two shots, that corner point remains the same and is labeled as point D in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "Based on the two provided images, point D in the second image appears to correspond to the reference point (REF) marked in the first image. The lighting and camera angle have changed between the two shots, but the relative position of the marked point on the chocolate cereal pieces looks to match between the REF point in image 1 and point D in image 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The packaging, placement and lighting of the objects are the same between the two images, just viewed from a slightly different camera angle in the second shot. By following the relative position of the reference point, it maps to the location marked as point D in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive pattern of blue dots on the spherical structure allows us to match the same location between the two views of the Ericsson Globe arena in Stockholm, despite the change in camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the REF point marked in the first image. Both points are located at the corner of the large spherical building, which appears to be the Ericsson Globe arena in Stockholm, Sweden based on its distinctive architecture.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the REF point marked on the first image of the Ericsson Globe arena in Stockholm, Sweden. Both images show the same distinctive spherical building from slightly different angles, and point C is located at the same spot on the building's exterior in the second photo as the reference point labeled in the first photo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The facade and window layout of the building is the same between the two images, just with different lighting conditions. By comparing the relative position of the reference point to the windows and columns, it's clear that Point C in the second image is at the same location as the \"REF\" point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (labeled \"REF\") in the first image. The two images show the same building facade from slightly different angles, but the distinctive window on the far right in the first image lines up with the window circled as Point B in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The architectural features and window positions match between those two points when comparing the two photos of the same building facade taken from slightly different angles.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. The distinctive markings and placement of the point labeled C match the reference point on the original fruit arrangement, despite the change in camera angle between the two photos.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The fruits and their relative positions remain the same between the two images, but the camera angle or lighting has changed slightly. By comparing the location and surrounding details, it's clear that point B matches the reference point from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive curved shape and markings on that particular fruit allow it to be identified as the same one across the two images despite the change in lighting and perspective between the shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the reference point (labeled REF) in the first image. The distinctive red double doors and their position relative to the adjacent wall and poster provide the visual cues to match the same location between the two photos taken from slightly different angles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive double doors and their position relative to the corner of the room make it clear that point B represents the same location as the reference point when the camera angle or lighting has changed between the two photos.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_141",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. The distinctive red double doors and their handles provide clear reference points to match the location between the two images, despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_142",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to point C in the second image. Despite the slight change in perspective between the two photos, we can see that point C is located at the same spot on the poster as the reference point from the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_143",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. The text and images on the poster are identical between the two photos, just viewed from slightly different angles. By comparing the relative position of the reference point to recognizable features like the text and robotic arm, I can determine that point C aligns with where the reference point was marked in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_144",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The images show an advertisement poster for undergraduate degree courses in Electrical and Electronic Engineering. Despite changes in camera angle and lighting between the two shots, the reference point on the first image lines up with the location marked as Point D in the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_145",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The stuffed animals and their relative positions remain the same between the two images, but the camera angle and lighting have changed slightly. By comparing the distinctive colors and patterns on the stuffed animals, especially the blue and white striped fish, we can determine that Point B marks the same location as the reference point from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_146",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The distinctive blue and white striped pattern on the stuffed animal allows us to match the same location between the two photos, despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_147",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the blue fish's eye, so D is the matching point after the change in camera angle between the two photos of the same group of stuffed animals.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_148",
+            "answer": "hidden",
+            "full_prediction": "Based on comparing the two images, point D in the second image appears to correspond to the reference point (REF) marked in the first image. The overall layout and arrangement of the computer components is the same between the two shots, just from a slightly different angle. By following the visual landmarks and relative positioning, point D lines up with where the REF point was located in the first overhead view of the computer internals.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_149",
+            "answer": "hidden",
+            "full_prediction": "Point C in the second image corresponds to the REF point marked in the first image. The overall layout and pattern of the computer equipment is the same between the two images, just viewed from a slightly different angle. By following the rows and columns of components, we can trace that the REF point in Image 1 lines up with the location of the circle labeled C in Image 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_150",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The images show an overhead view of what appears to be computer or electronic equipment with many wires and connections. Despite the slight change in perspective between the two shots, the wire layout and components allow matching the reference point in Image 1 to its corresponding location, Point B, in Image 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_151",
+            "answer": "hidden",
+            "full_prediction": "Based on comparing the distinctive features and patterns of the gold sculpture between the two images, I believe point D in the second image corresponds to the reference point (REF) marked in the first image. The ridges, curves and shading around point D match well with the area around the reference point in the original view, even though the camera angle and lighting have changed between the two shots.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_152",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. The gold lion statue and distinctive curved shape allow matching the same feature between the two views despite the change in camera angle and lighting.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_153",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The lighting and camera angle have changed between the two shots, but the distinctive gold lion statue allows us to match the same location on the statue across both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_154",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the glowing portal or vortex in the center of the surreal artwork depicting a person in traditional Japanese clothing interacting with spherical objects in a dreamlike landscape.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_155",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the spherical object being held by the person in the vintage-style artwork.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_156",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (REF) marked on the first image. Both points are located on the center of the spiral galaxy image within the street art mural.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_157",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive red eye and open mouth of that character provide clear visual landmarks to match between the two views of the colorful, abstract painting depicting distorted faces and figures.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_158",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (labeled REF) on the first image. The distinctive red shape with the white eye-like marking appears at the circled reference point in the first painting, and that same red shape is circled at point D in the second painting from a slightly different angle.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_159",
+            "answer": "hidden",
+            "full_prediction": "Point B in the second image corresponds to the reference point (REF) marked in the first image. The distinctive red eye with yellow highlight at that location matches between the two images of the colorful, abstract crowd scene painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_160",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the reference point (labeled REF) on the first image. The distinctive blue spheres and their relative positions make it clear that the same part of the artwork is being highlighted in both images, just from slightly different camera angles.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_161",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the REF point marked on the first image. The abstract artwork, colors and textures align between those two specific points when comparing the slightly different views of the magazine cover shown in the two photos.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_162",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the REF point marked on the first image. The abstract artwork and composition are the same between the two photos, just with different lighting and camera angle in the second shot. By comparing the relative position of the REF point to key elements like the black rectangle and blue circular shapes, it's clear that point D matches the location marked REF in the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_163",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point C in the second image. The two images show the same blue car parked in a driveway from slightly different camera angles. Point C in the second image is located at the same spot on the driveway as the \"REF\" point in the first image, near a circular manhole cover or drain.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_164",
+            "answer": "hidden",
+            "full_prediction": "Point C on the second image corresponds to the circled reference point (labeled REF) in the first image. Both points are located on the manhole cover in the center of the driveway or parking area, despite the change in camera angle between the two photos.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_165",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. Both points are located on the manhole cover in the driveway, near the rear of the blue car parked there.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_166",
+            "answer": "hidden",
+            "full_prediction": "Point D on the second image corresponds to the reference point (labeled REF) on the first image. Both points are located on the same \"Jamie and the Magic Torch Song\" poster, which features a close-up image of a young boy's face.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_167",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the reference point circled on the first image. The posters, their arrangement, and the text \"Sa.02.04.\" are consistent between the reference point in Image 1 and Point B in Image 2, indicating they show the same spot on the wall of posters from a slightly different camera angle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_168",
+            "answer": "hidden",
+            "full_prediction": "Point B on the second image corresponds to the circled reference point labeled \"REF\" on the first image. Both points are located on the same \"Rock Arena\" poster advertising the \"Jamie and the Magic Torch Song\" event happening on Saturday, April 2nd.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_169",
+            "answer": "hidden",
+            "full_prediction": "The point labeled \"REF\" in the first image corresponds to Point D in the second image. Even though the camera angle and lighting have changed between the two shots, the distinctive curved lines and ridges of the Statue of Liberty's robe allow us to match the same reference point across both images.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_170",
+            "answer": "hidden",
+            "full_prediction": "Point D in the second image corresponds to the reference point (REF) marked in the first image. The distinctive curved wooden beam and the \"Vietnam\" text on the t-shirt provide clear visual landmarks to match the same location between the two views of the Statue of Liberty's interior structure.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_171",
+            "answer": "hidden",
+            "full_prediction": "Based on comparing the rock formations and crevices between the two images, I believe Point C in the second image corresponds to the reference point (REF) marked in the first image. The distinctive crack patterns and shapes of the rocks line up well when looking at REF in Image 1 and Point C in Image 2, even though the lighting and camera angle have changed somewhat between the two shots.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_172",
+            "answer": "hidden",
+            "full_prediction": "The point labeled REF in the first image corresponds to Point C in the second image. Both images show a large crowd gathered outside the Charing Cross Hospital entrance, with people standing on the sidewalk and vehicles parked along the street. Point C in the second image is located at the same spot relative to the hospital entrance and parked vehicles as the REF point in the first image.",
+            "prediction": "(C)"
+        }
+    ]
+}

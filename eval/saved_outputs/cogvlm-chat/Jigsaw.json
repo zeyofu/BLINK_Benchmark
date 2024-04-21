@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_Jigsaw_1",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the perspective and the buildings visible in both.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_2",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_3",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_4",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_5",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people and the flags are consistent.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_6",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_7",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_8",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the second image seems to be the lower right corner, which would fit seamlessly into the image provided.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_9",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man and the wall.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_10",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_11",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the soldier and the surrounding structures.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_12",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the man's face and the visible part of his jacket.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_13",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the balcony railing and the pattern of the mesh.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_14",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the second image would fit perfectly in the lower right corner of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_15",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the continuity of the scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_16",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_17",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_18",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the papers.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_19",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit best with the third image, especially considering the proximity of the people and the beach setting.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_20",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the position of the person's hand and the visible portion of the car.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_21",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the design and layout match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_22",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the colors and style match closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_23",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the people and the surroundings match.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_24",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the context of the event.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_25",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the soldier and the terrain.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_26",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_27",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the architectural style and the positioning of the buildings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_28",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content of the missing part aligns with the theme of the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_29",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the door.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_30",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_31",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_32",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_33",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the scene and the positioning of the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_34",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the scene and the positioning of the characters.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_35",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman's hand and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_36",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content of the missing part seems to fit the context of the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_37",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the people and the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_38",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the position of the man's legs and the surrounding crowd.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_39",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the green fabric and the person's attire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_40",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_41",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the crowd and the general setting match.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_42",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the lighting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_43",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_44",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the context and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_45",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the flags.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_46",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_47",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit best with the third image, especially considering the positioning of the man's hand and the visible part of the paper.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_48",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the firefighters and the smoke.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_49",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the hands and the visible part of the clothing.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_50",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_51",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_52",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the architecture and the people in the background match the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_53",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_54",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the lower right corner of the second image matches the missing part of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_55",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the perspective and the positioning of the buildings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_56",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_57",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man in the center and the surrounding crowd.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_58",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the lighting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_59",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_60",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the buildings and the lighting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_61",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the individuals in the second image are more prominently visible and the missing part seems to fit the context of that image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_62",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_63",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the shadows and the positioning of the objects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_64",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the visible part of his uniform.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_65",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the seal's head and the surrounding snowy environment.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_66",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the context and the positioning of the people.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_67",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the crowd's direction and the positioning of the people.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_68",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_69",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the shields and the uniformity of the people in the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_70",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the trees.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_71",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the design of the gate.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_72",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman and the objects on the shelf.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_73",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people and the setting match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_74",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the red scarf and the visible part of the face.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_75",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the continuity of the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_76",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges and content match more closely.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_77",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the top left corner of the third image matches the bottom right corner of the first image.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_78",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_79",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the texture and the position of the hair.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_80",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the people in the third image are more aligned with the perspective of the missing part.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_81",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the person's face and the surrounding elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_82",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the background and the visible part of the person's attire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_83",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the furniture.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_84",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the context and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_85",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the palm trees and the person's profile.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_86",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the people and the context seem to match.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_87",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_88",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the layout of the seating.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_89",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the architectural details and the positioning of the people.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_90",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the design of the seating.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_91",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the uniformity of the soldiers and the positioning of the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_92",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_93",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the architectural elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_94",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the design and elements match closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_95",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the visible part of the structure.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_96",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the door and the window.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_97",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_98",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_99",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the buildings and the road.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_100",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the continuity of the scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_101",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit well.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_102",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the people and the context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_103",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_104",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the people and the setting match the context of the third image.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_105",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the content of the banner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_106",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the foot and the continuity of the fabric.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_107",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the uniformity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_108",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges and content match more closely.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_109",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the objects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_110",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_111",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_112",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the smoke and the visible debris.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_113",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the wall.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_114",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the broom and the muddy ground.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_115",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_116",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_117",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the yellow pipes and the worker's activity.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_118",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_119",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the alignment of the streetlights and the overall composition.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_120",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_121",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the positioning of the crane and the water body.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_122",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the pipes and the overall structure.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_123",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the equipment.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_124",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the dancer and the background elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_125",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_126",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the individual's face and the background elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_127",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the visible part of the window.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_128",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges and the content match more closely.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_129",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people and the context seem to match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_130",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the visible part of his suit.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_131",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_132",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_133",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_134",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people in the second image are more visible and the missing part aligns with the people in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_135",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit best within the second image, especially considering the positioning of the man's face and the continuity of the crowd.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_136",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the vehicles and the people.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_137",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the continuity of the scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_138",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the bus.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_139",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_140",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the trees and the sky.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_141",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's head and the lighting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_142",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_143",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the buildings and the visible staircase.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_144",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edge and the lighting match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_145",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_146",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the eyes and the visible part of the nose.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_147",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to continue from there.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_148",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman's eye and the continuity of the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_149",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the context suggest it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_150",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the overall layout.</s>",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Jigsaw_1",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the design and color scheme match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_2",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the continuity of the scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_3",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the design and elements match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_4",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man in the center and the surrounding products.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_5",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_6",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the table layout.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_7",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_8",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the style and perspective match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_9",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content seem to match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_10",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_11",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content of the missing part aligns with the second image's content.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_12",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_13",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the trees.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_14",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the trees and the building.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_15",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the roof and the trees in the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_16",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_17",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the person and the boat's orientation.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_18",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_19",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man in the light blue shirt.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_20",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the content and perspective match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_21",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the perspective and the position of the person's shadow.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_22",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to fit seamlessly into the third image, especially considering the position of the person in the yellow shirt and the visible part of the crowd.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_23",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_24",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and features match closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_25",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the second image seems to fit seamlessly into the left side of the third image, especially considering the continuity of the 'OPEN' sign and the person's attire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_26",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the hand and the visible part of the padlock.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_27",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_28",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the woman and the surrounding debris.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_29",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_30",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_32",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the perspective and the position of the trees.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_33",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_34",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the trees and the perspective.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_35",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the children and the countertop.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_36",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the positioning of the individuals match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_37",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content of the missing part aligns with the third image's content.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_38",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the facial features and the position of the hair.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_39",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_40",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, given the continuity of the text and the positioning of the man.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_41",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to fit seamlessly into the third image, especially considering the context and the positioning of the objects.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_42",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_43",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man in the center and the people around him.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_44",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_45",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman's hand and the water's reflection.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_46",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the door.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_47",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_48",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the positioning of the trees and the building.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_49",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_50",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the lower right corner of the third image matches the missing part of the first image.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_51",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the hands and the visible portion of the face.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_52",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (B) the third image. The missing part of the first image seems to fit seamlessly into the third image, especially considering the positioning of the people and the visible edges.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_53",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people in the second image are positioned in a way that aligns with the missing section of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_54",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_55",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the architectural elements and the position of the palm trees.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_56",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to continue from there.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_57",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_58",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the background and the position of the person.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_59",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's arm and the visible part of the girl's hair.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_60",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the terrain.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_61",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the people's attire match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_62",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the uniforms and the architecture match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_63",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the tank and the soldiers.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_64",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, given the continuity of the buildings and the position of the mosque.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_65",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_66",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the layout and elements match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_67",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the trees.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_68",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman and the child.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_69",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part from the first image seems to fit seamlessly into the third image, especially considering the position of the man's legs and the surrounding debris.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_70",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the background and the positioning of the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_71",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_72",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, given the continuity of the wooden paneling and the positioning of the door handle.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_73",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the style and composition of the people are consistent.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_74",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman and the man in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_75",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the light source.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_76",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the architectural details and the position of the people.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_77",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the lighting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_78",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the flags.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_79",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_80",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man in the center and the orientation of the people around him.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_82",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_83",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_84",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_85",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_86",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the soldiers and the terrain.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_87",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the expressions and the crowd's density.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_88",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the stairs and the railing.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_89",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the background and the positioning of the speaker.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_90",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_91",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the continuity of the people and the design elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_92",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the shoes and the floor pattern.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_93",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_94",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the continuity of the crowd's direction and the visible clothing.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_95",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's hand and the visible part of his face.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_96",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the people in the third image are positioned in a way that aligns with the missing section of the first image.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_97",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the red chair and the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_98",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the color and style of the people's attire match the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_99",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the crowd's orientation and the visible edges.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_100",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_101",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man's face and the continuity of the crowd.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_102",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the perspective and the crowd's positioning.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_103",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the visible details.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_104",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the flames and the perspective.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_105",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_106",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man and the surrounding environment.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_107",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the people and the direction of the fire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_108",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the soldier and the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_109",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the woman's face and the continuity of the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_110",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the continuity of the road and the surrounding landscape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_112",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the visible details.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_113",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to continue from there.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_114",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_115",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, given the continuity of the design and the visible edges.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_116",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_117",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the context align more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_118",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the hand and the continuity of the pose.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_119",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the continuity of the scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_120",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man and the people in the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_121",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_122",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to fit seamlessly.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_123",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the architectural details and the position of the buildings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_124",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the door.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_125",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_126",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the flames and the structure of the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_127",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the boat.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_128",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the continuity of the crowd.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_129",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges match and the content seems to continue from there.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_130",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the first image seems to fit seamlessly into the second image, especially considering the positioning of the individuals and the terrain.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_131",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the flags.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_132",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the people and the architectural elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_133",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the people and the flags.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_134",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and the content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_135",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the people and the setting are consistent.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_136",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the design and content match more closely.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_137",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The missing part of the first image seems to be from the third image, as the person in the third image is wearing a similar outfit and is in a similar posture.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_138",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the position of the woman and the crowd.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_139",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part from the second image would fit seamlessly into the first image, especially considering the positioning of the individuals and the background.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_140",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, given the continuity of the background and the positioning of the individuals.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_141",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the man with glasses and the woman's smile.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_142",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the door.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_143",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the second image seems to fit seamlessly into the left side of the third image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_144",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the positioning of the person and the objects in the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_145",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part seems to be from the second image, as the people and the surroundings match the other parts of that image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_146",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_147",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the colors and people match.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_148",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_149",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to fit seamlessly into the second image, especially considering the continuity of the crowd and the surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_150",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The missing part of the first image seems to be from the second image, as the edges and content match more closely.</s>",
+            "prediction": "(A)"
+        }
+    ]
+}

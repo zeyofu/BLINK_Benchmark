@@ -7,6 +7,17 @@ model_name = 'gpt-3.5-turbo'
 
 
 def build_prompt(question, options, prediction):
+    """
+    Builds the prompt for the GPT-3.5 turbo model to match an answer with several options of a single-choice question.
+
+    If the GPT-3.5 model is unable to find a match, it will output (Z).
+    Also, if the original prediction does not clearly lean towards any of the options, it will output (Z).
+
+    Parameters:
+    - question: String, the question.
+    - options: String, the options. E.g. ['(A)', '(B)']
+    - prediction: String, the answer. E.g. '(B)'
+    """
     tmpl = (
         "You are an AI assistant who will help me to match an answer with several options of a single-choice question. "
         "You are provided with a question, several options, and an answer, and you need to find which option is most similar to the answer. "

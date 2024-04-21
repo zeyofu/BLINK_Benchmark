@@ -3,6 +3,16 @@ import os
 
 
 def get_prediction_file(split, model_name):
+    """
+    Combine the task-specific prediction files for a model on split into one single final-prediction json file.
+
+    Parameters:
+    - split: String, the split to evaluate on.
+    - model_name: String, the name of the model.
+
+    Returns:
+    - save_path, the path to the saved final prediction json file.
+    """
     save_path = f'{split}_predictions/{model_name}.json'
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     saved = {}
@@ -12,9 +22,20 @@ def get_prediction_file(split, model_name):
         for d in outputs:
             saved[d['idx']] = d['prediction']
     json.dump(saved, open(save_path, 'w'), indent=4)
+    return save_path
 
 
 def eval_prediction(split, model_name):
+    """
+    Evaluate the model on the split and return the accuracy for all tasks and also total accuracy.
+
+    Parameters:
+    - split: String, the split to evaluate on.
+    - model_name: String, the name of the model.
+
+    Returns:
+    - accu_by_task, the accuracy for all tasks and also total accuracy (averaged over all subtasks).
+    """
     accu_by_task = {}
     task_numbers = {}
     errors = {}
@@ -39,9 +60,9 @@ def eval_prediction(split, model_name):
         accu_by_task[task] = accu_by_task[task] / task_numbers[task]
         average_accu += accu_by_task[task]
     average_accu = average_accu / len(subtasks)
+    accu_by_task["Total"] = average_accu 
     print(f'Average Accuracy of model {model_name} on BLINK split {split} over all tasks is {round(100 * average_accu, 2)}%')
-    return average_accu
-
+    return accu_by_task
 
 if __name__ == '__main__':  
     dataset_name = 'BLINK-Benchmark/BLINK'
@@ -56,11 +77,11 @@ if __name__ == '__main__':
                     'QwenVLMax', 'GeminiProVision', 'GPT4V', 'OPUS'
                     ]
     # save to a output path with model_name.json, replace with custom model name
-    model_name = model_names[-1]
+    model_name = model_names[-2]
     subtasks = [
         'Visual_Similarity', 'Counting', 'Relative_Depth', 'Jigsaw', 'Art_Style', 'Functional_Correspondence', 'Semantic_Correspondence', 'Spatial_Relation', 'Object_Localization', 'Visual_Correspondence', 'Multi-view_Reasoning', 'Relative_Reflectance', 'Forensic_Detection', 'IQ_Test'
         ]
 
-    for split in ['val', 'test']:
-        get_prediction_file(split, model_name)
-        eval_prediction(split, model_name)
+    split = 'val'
+    get_prediction_file(split, model_name)
+    eval_prediction(split, model_name)

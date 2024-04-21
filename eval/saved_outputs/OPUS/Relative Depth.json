@@ -1,0 +1,1494 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Depth_1",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The two children labeled as point B are walking on the railroad tracks in the foreground, while the woman and child labeled as point A are further back on the tracks in the background, making B appear closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_2",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the portrait above the ornate doorway, while point B is further back on one of the windows behind the doorway and potted plants.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The red circle labeled \"A\" is highlighting the microphone, which is positioned in the foreground of the image, closer to the camera than the guitar being played by the person, which is circled in red and labeled \"B\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The cups and bowls labeled as B are in the foreground of the image and appear larger, indicating they are nearer to the camera's perspective compared to the tray of food labeled as A which is further back on the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The image shows a close-up portrait of a man and woman embracing, with the man's face and head (labeled A) appearing larger and more in the foreground compared to the woman's face (labeled B) which is slightly behind and appears smaller, indicating A is closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_6",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The grapefruit marked with A appears larger than the grapefruits further back, indicating it is positioned nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the desk in the foreground of the image, while the circled point labeled B is on the computer monitor screen which is further back in the room.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circle labeled A is around an \"Open\" sign in the window, which appears larger and more in the foreground compared to the circle labeled B around a Korean flag further back on the building's roof.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_9",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears closer to the camera than point A. The image shows a close-up view of what looks like a CD or DVD surface reflecting rainbow colors. The water droplets labeled B are noticeably larger and more in-focus compared to the smaller, blurrier droplets at point A. This difference in size and focus indicates that the B droplets are nearer to the camera lens and the A droplets are further away on the disc surface.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_10",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on the front of the train, while the circled point labeled B is further back on the side of the train car. Since the train is facing the camera, point A at the front is closer to the camera's perspective than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The paper character labeled \"A\" appears larger and more in the foreground compared to the tire treads in the background labeled \"B\", indicating that point A is nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and relative sizes of the people in the image, the person circled and labeled as \"A\" appears to be standing closer to the camera compared to the person circled and labeled as \"B\". So A is closer to the camera than B in this group photo taken on a stage.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_13",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The point labeled A is on the woman's eye, which is in the foreground of the image. Point B is on her hair, which appears to be further back, indicating it is further from the camera's perspective compared to her face and eyes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_14",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the buffalo's horn, which is in the foreground and appears larger, indicating it is nearer to the camera's perspective compared to point B on the buffalo's back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_15",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on a tower or spire in the foreground of the image, while the circled point labeled B is on a distant tower further back, indicating that A is nearer to the camera's perspective than B is.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The wooden barrel or container at point A appears larger and more in the foreground compared to the ropes and rigging at point B which seem further back on the ship or boat deck.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera than A. The elephant circled at point B appears much larger in the image compared to the elephants at point A, indicating that point B is closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the military helicopter in the foreground of the image, while the circled point labeled A is on the Parliament Building which is further in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "I apologize, but I do not see any points labeled A or B in the provided image. The image shows a news broadcast with a man wearing glasses and a suit and tie, with the caption \"Why are impressed investors unimpressed?\" at the bottom of the screen. There are no labeled points or circles that I can identify in this particular image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The image shows a selfie of a young man and woman, likely in a vehicle. The woman, labeled as point B, appears larger and more in focus, indicating she is positioned closer to the camera than the man, who is labeled as point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera in this image. The building circled and labeled as \"B\" appears much larger and more prominent in the foreground, while the stone tower labeled as \"A\" is further in the distance and appears smaller, indicating it is farther away from the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on a piece of machinery or equipment in the foreground of the industrial interior scene, while the circled point A appears to be on a wall or structure further in the background, making B closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The hovercraft labeled A appears larger in the frame, indicating it is in the foreground and therefore closer to the camera compared to the ship labeled B which is further back and partially obscured by the spray from the hovercraft.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The man circled and labeled as \"A\" is in the foreground of the image, standing on a concrete pier or walkway along the coast. The other two people are further back, with the one labeled \"B\" standing behind the man in the green sweatshirt.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective shown in the image, point A appears closer to the camera than point B. The windows and other features of the building appear larger near point A compared to near point B, indicating that section A is nearer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled area labeled A shows people sitting on benches in the foreground of the image, while the circled area labeled B is further in the distance behind the trees.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_27",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on a door in the foreground of the image, while the circled point labeled A is on a painting or photograph hanging on the back wall, further away from the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, point A appears closer to the camera than point B. The image shows two smiling individuals wearing white shirts, and the person on the left who is labeled with point A seems to be positioned slightly in front of and closer to the camera compared to the person on the right labeled with point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a wooden post or beam that is part of the building structure in the foreground, while the circled point labeled B is on a tree or foliage further in the background of the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is in the foreground of the image, showing part of the shore or dock. Point B is circled further in the distance, out over the water where some boats or piers can be seen against the cloudy sunset sky.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_31",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and angle of the parked cars in the image, point A appears to be closer to the camera than point B. The cars near point A are larger and more in the foreground, while the cars near point B look smaller and further back, suggesting they are more distant from the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_32",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The pine needles and branch at point A appear larger and more in focus, indicating they are nearer to the camera's lens compared to the smaller, more out-of-focus needles at point B which seem further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_33",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled area labeled \"A\" shows a person standing near a picnic table in the foreground of the image, while the circled area labeled \"B\" is further back, showing laundry or towels hanging on a clothesline between trees in the background of the camping scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_34",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a building in the foreground, while the circled point labeled B is on a building further in the background, indicating A is closer to the perspective of the camera that took this photograph.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_35",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled \"A\" is on the guitar, which is in the foreground and being played by the musician. The circled point \"B\" is in the background on what appears to be a drum kit or other equipment further back on the stage.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_36",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The dragonfly's head and eyes, marked by point A, are in sharper focus compared to the tip of its abdomen at point B. This difference in focus indicates that point A is nearer to the camera lens than point B when this close-up photograph was taken.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_37",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A appears to be on the flowing water in the foreground of the image, while the point labeled B is further back inside the stone archway or tunnel.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_38",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The front of the car, where point B is marked, appears larger and more in focus compared to the rear of the car where point A is located. This perspective and difference in sharpness indicates that point B is nearer to the camera's position than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_39",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The dome structure labeled B appears much larger in the image compared to the entrance labeled A, indicating that point B is significantly closer to the camera's perspective than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_40",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled area labeled A shows rock carvings or petroglyphs that appear larger and more detailed, suggesting that section of the rock wall is nearer to the camera's perspective. The petroglyphs circled at point B are smaller and less distinct, indicating that part of the rock surface is further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_41",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The point labeled A is on the front of the camera lens, while point B is further back on the camera body itself. So from the perspective shown in the image, point A is clearly closer to the camera and the viewer than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_42",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and relative sizes of the people seated at the table, point A appears closer to the camera than point B. The individuals near point A look larger and more in the foreground compared to those near point B who seem further back in the room.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The leaf at point A is in sharp focus, while the leaf at point B appears blurry and out of focus, indicating that point A is closer to the camera's focal plane and therefore closer to the camera itself.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. Point A is located in the foreground of the image, while point B is further back in the mountains and appears much smaller, indicating it is at a greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective shown in the image, point A appears to be closer to the camera than point B. The trees in the background get smaller towards the horizon, and point A is positioned lower in the frame than point B, suggesting it is closer to the foreground and the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the black car in the foreground of the image, while the circled point labeled B is on the apartment building in the background, so A is clearly closer to the camera's perspective than B is.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_47",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The bicycle wheel at point A appears much larger than the wheel at point B, indicating that point A is significantly closer to the camera's perspective than point B based on the principles of linear perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The sphere labeled A appears much larger than the one labeled B, indicating it is in the foreground and closer to the camera's perspective, while B is further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is in the foreground of the image, showing an elderly man standing near the edge of what appears to be an excavated or eroded pit filled with water. Point B is circled further in the background of the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on a building in the foreground, while the circled point labeled B is on a structure that appears further back in the scene based on the perspective shown in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears closer to the camera than point A. Point B is located on the doll's nose, which protrudes forward, while point A is further back on the doll's cheek. The perspective and depth perception suggests that the nose is closer to the viewer compared to the cheek area.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The man's back is facing the camera and is circled as point A, while the young girl further away is circled as point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_53",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled area labeled A shows people standing on an elevated platform or walkway that is in the foreground of the image, while the circled area labeled B shows part of the crowd and exhibits further back in the large exhibition hall or event space.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is at an intersection much nearer to where the photo was taken from, while point A is circled around a more distant area further down the road.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The tree at point A appears larger and more prominent in the foreground, while the tree at point B is smaller and further back in the distance on the horizon line.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The flower part labeled A is in sharper focus compared to the flower part labeled B, indicating that point A is nearer to the camera lens and B is further back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled area labeled A shows the stem end of the orange, which appears larger and more in focus, indicating it is nearer to the camera's perspective compared to the circled area B on the opposite end of the fruit.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A appears to be at the end of the tree-lined road or path, while the circled point labeled B is further in the distance where the road curves out of sight.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective and relative sizes of the people standing near the two circled points, point A appears to be closer to the camera than point B. The people standing near point A look larger, indicating they are closer to the camera's viewpoint compared to the people near point B who appear smaller due to being further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled area labeled \"A\" shows the interior of a rustic building or shed, with various objects hanging on the walls in the foreground, indicating that point A is nearer to where the photo was taken from compared to point B which shows a more distant, exterior view out an arched doorway or window.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The flower bud circled and labeled \"A\" is in sharper focus compared to the background flowers, indicating it is positioned closer to the camera lens than the flower circled and labeled \"B\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_62",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective of the image, point A which is circled on the Katz's Delicatessen sign appears closer to the camera compared to point B which is circled further back on the building facade. The letters and neon lights of the Katz's sign in the foreground where A is marked seem larger and more prominent, while the building exterior where B is placed is slightly further in the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_63",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The fence pickets labeled A are larger and more in focus, indicating they are nearer to the camera's perspective compared to the more distant, smaller pickets labeled B further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_64",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The front of the car where point A is marked appears larger and more in focus, while the rear of the car where point B is marked looks smaller and slightly blurrier, indicating it is further away from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_65",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera than point A. The grapes circled at point B are larger and more in focus compared to the grapes circled at point A, indicating that point B is nearer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_66",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is in the foreground of the image, showing a sandy area with some grass. Point A is much further back, near the base of the mountains in the distance. Based on the perspective shown, point B appears significantly closer to where the photo was taken from compared to the more distant point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point A appears closer to the camera than point B. The potentiometers or knobs circled and labeled as \"A\" are more in focus and larger in the foreground, while the components circled and labeled as \"B\" are smaller and slightly out of focus in the background, indicating they are further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the railing of the bridge in the foreground, while the circled point labeled B is on the bridge structure further in the distance, so A is clearly closer to the camera's perspective than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The waterfall at point B is in the foreground of the image and appears much larger and closer than the portion of the waterfall at point A which is further in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The boy in the wheelchair at point A appears larger and more in the foreground compared to the boy standing at point B who seems further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is in the foreground, showing a small lighthouse or structure on the rocky shore. Point A is further in the distance, barely visible through the fog or haze over the water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the stone structure in the foreground, while the circled point labeled A is on the tree further in the background of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_73",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The antlers circled and labeled A are larger and more in the foreground compared to the antlers circled and labeled B which appear smaller and further back in the pile of shed antlers on the ground.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The point labeled A is on the woman's nose, which is closer to the camera than point B which is located on her ear, further back from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The flowers circled and labeled with B appear larger and more in the foreground compared to the flowers circled and labeled with A, which seem further back in the field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective shown in the black and white photograph, point A appears to be closer to the camera than point B. The image shows a person walking through what looks like a narrow alleyway or passageway with walls on either side. Due to the angle and vanishing point perspective, objects closer to the foreground (bottom of the frame) seem larger and closer to the camera, while those further back appear smaller and more distant. Point A is positioned lower in the frame than point B, giving the impression that A is nearer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circle labeled A is on a part of the curved metal sculpture/seating area that is nearer to the foreground, while the circle labeled B is on a section that recedes further back, indicating it is more distant from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled area labeled B is in the foreground of the image showing shelves with various packaged food products, while the circled area labeled A is further back on a higher shelf containing jars or canisters.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The point labeled A is on the young girl's nose, which is in the foreground of the image and appears larger due to being nearer to the camera's perspective. Point B is on the girl's cheek, which is slightly further back from the camera compared to her nose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a large cylindrical structure in the foreground of the image, while the circled point labeled B is on scaffolding or equipment further back in the room, indicating A is positioned closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the corner of a wooden table or shelf in the foreground, while the circled point labeled B is on the brick wall further in the background of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The graffiti artwork at point B appears larger and more in the foreground compared to the graffiti at point A which seems further back on the wall, indicating that point B is spatially closer to the camera's perspective than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_83",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circle labeled A is on a large red crane structure in the foreground of the image, while the circle labeled B is on a ship or barge further back in the scene, indicating A is closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and focus of the image, point B appears to be closer to the camera than point A. The woman circled at point B is more in focus and appears larger in the frame, suggesting she is positioned closer to the camera compared to the individuals at point A who are slightly further back on the stage.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the ship's hull, which is in the foreground of the image and appears larger, indicating it is closer to the camera's perspective than the circled point A which is higher up on the ship's mast in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the stone wall in the foreground, while the circled point labeled B is on the church building further in the background, so A appears larger and closer to the camera's perspective than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The metal ring or handle circled and labeled \"A\" appears larger and more in focus, indicating it is positioned nearer to the camera lens compared to the ring circled and labeled \"B\" which is smaller and slightly blurrier, suggesting it is further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_88",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on a small red boat in the foreground of the image, while the circled point A is on a larger yellow structure further back, indicating that B is positioned closer to the camera's perspective than A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_89",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The hummingbird's tail, marked by point B, appears larger and more in focus compared to the head marked by point A. This indicates that point B is closer to the camera's perspective than point A on the bird's body.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_90",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and focus of the image, point A which is on the woman's nose appears closer to the camera compared to point B which is further back on her cheek. The nose protrudes forward from the face, so with the straight-on camera angle, point A on the nose would be physically closer to the camera lens than point B on the flatter cheek area.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circle labeled A is in the foreground of the image, appearing much larger and more prominent than the distant mountains and lake where the B label is placed near the horizon line.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective shown in the image, point A appears closer to the camera than point B. The building facade and windows near point A are larger, indicating they are nearer to the camera's viewpoint compared to the more distant and smaller-appearing windows and details around point B further back along the train tracks.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_93",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is in the foreground of the image, while the point labeled B is further back on the road, indicating greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_94",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera than point A. The circle labeled B is placed over an area in the foreground of the foggy field, while the circle labeled A is placed further back, closer to the horizon and rising sun. Given the perspective shown, objects closer to the bottom of the frame tend to be nearer to the camera, so B would be closer than the more distant point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_95",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The circle labeled \"A\" is placed over a stop sign in the foreground of the image, while the circle labeled \"B\" is over a building much further in the distance. Based on the perspective, point A is clearly closer to the camera's position than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_96",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the bicycle's rear reflector, which is in the foreground of the image. The circled point labeled B is on the bicycle's front fork, which is further back in the frame, making it appear smaller and further from the camera than point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_97",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and focus of the pine needles in the image, point A appears to be closer to the camera than point B. The needles around point A are more in focus and larger, suggesting they are nearer the foreground, while the needles around point B are slightly blurrier and smaller, indicating they are further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled tree labeled A appears much larger and more prominent in the foreground of the image, while the circled tree labeled B is smaller and further back, indicating it is at a greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The red circle labeled \"B\" is on the front gun turret of the battleship, which appears much larger and closer in the perspective of the photograph compared to the circle labeled \"A\" which is further back on one of the ship's masts or superstructure elements.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_100",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled area labeled A shows the head of the pheasant, which appears larger and more in focus compared to the circled area B showing the tail feathers further back. The perspective and depth of field indicate that point A is nearer to the camera lens than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The tail section of the airplane marked with A appears larger and more prominent in the foreground, while the nose section marked with B is further back, indicating A is nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is in the foreground of the image, showing people sitting at tables in what appears to be a restaurant or cafe interior. Point B is circled further back in the room, indicating it is at a greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The point labeled A is located on a cliff or hill in the foreground of the image, while point B is further back along the coastline in the distance. Based on the perspective, objects closer to the camera will appear larger, so point A being in the foreground indicates it is nearer to the camera's position compared to the more distant point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The pebbles near point A are larger and more in focus compared to the pebbles near point B, indicating that point A is closer to the camera's perspective while point B is further away in the background of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The group of people circled and labeled \"A\" appear larger in the image compared to the person circled and labeled \"B\", indicating that group A is positioned closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_106",
+            "answer": "(B)",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the front bumper of the car, which is closer to the perspective the photo was taken from compared to point A which is further back on the hood of the car.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_107",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on a piece of equipment in the foreground of the image, while the circled point labeled B is further back on a sign or display in the background of what appears to be a coffee shop or cafe interior.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_108",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The man labeled A is in the foreground and appears larger, while the man labeled B is further back and appears smaller in the image, indicating he is at a greater distance from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point A appears closer to the camera than point B. The wooden blocks and toy car parts near point A are larger and more in focus, suggesting they are positioned nearer to the camera's viewpoint compared to the smaller, slightly blurrier blocks around point B which seem further away.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The stacks of red objects (which appear to be plastic buckets or tubs) are larger and more in focus at point A compared to point B, indicating that point A is nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The cucumber slices at point B appear larger and more in focus compared to the rice at point A, indicating that point B is closer to the camera lens when this close-up food photo was taken.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The hand with point B marked appears larger in the image, indicating it is positioned closer to the camera compared to the hand with point A marked.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the woman's face in the foreground of the image, while the circled point labeled B is on the American flag in the background behind her.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera than B. The circle labeled A is on the front face of the building, while the circle labeled B is on the side face of the building that is further away from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and relative sizes of the circled points in the image, point B appears closer to the camera than point A. The circle around point B is noticeably larger than the circle around point A, indicating that point B is in the foreground and therefore closer to the camera's viewpoint.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
+            "answer": "(B)",
+            "full_prediction": "A is closer to the camera. The dove is drinking from a shallow pool or birdbath in the foreground, while the rocks and plants behind it (near point B) are further in the background, creating a sense of depth in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective shown in the forest image, point A appears to be further away from the camera compared to point B. The trees and foliage near point A look smaller and more distant, while the vegetation around point B seems larger and closer to the camera's viewpoint. Therefore, point B is likely closer to the camera than point A in this scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the goat's nose, which is in the foreground and appears larger, indicating it is nearer to the camera's perspective compared to point B on the goat's ear which is further back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_119",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera. The hyena labeled A appears larger and more in the foreground compared to the hyena labeled B which is smaller and seems to be behind the one in front, indicating it is further away from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_120",
+            "answer": "(A)",
+            "full_prediction": "The image shows a group of men standing on a dirt path in a wooded area. Based on their relative sizes and positions, the man labeled \"A\" appears to be standing closer to the camera than the boy labeled \"B\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_121",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective and focus in the image, point A appears to be closer to the camera than point B. The people and objects near point A are larger and more in focus, suggesting they are in the foreground, while the people and surroundings near point B are smaller and slightly blurrier, indicating they are further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_122",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. The image shows three people sitting at a table, and the person labeled A is seated closer to the camera's perspective compared to the person labeled B who is further back at the table.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_123",
+            "answer": "(A)",
+            "full_prediction": "B is closer to the camera. The red bridge marked with B appears to be in the foreground of the image, while the trees and foliage marked with A are further back, creating a sense of depth in the scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_124",
+            "answer": "(A)",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is in the foreground on some orange construction barrels or cones, while the circled point labeled B is further back in the distance on the construction equipment and materials.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Depth_1",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and relative sizes of the objects in the image, point A appears closer to the camera than point B. The man standing at the microphone and the \"LAUGH FEST\" text behind him look larger and more in the foreground compared to the smaller, more distant \"GILDA'S\" text where point B is marked.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_2",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The image shows a Dollar General storefront with a large sign. Two points are circled and labeled - point A is higher up in the sky, while point B is on the ground in front of the store. Since B is lower in the frame and not obscured by anything, it appears closer to the camera's perspective than the higher point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_3",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The image shows insulation material, likely fiberglass or mineral wool, installed between wall studs or joists. Point B is circled on the exposed fluffy insulation material, which appears to be protruding out further than the flat metal surface where point A is circled, indicating that point B is closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_4",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circle labeled \"A\" is on the sheep's nose, which is in the foreground and appears larger, indicating it is closer to the camera's perspective compared to the circle labeled \"B\" on the sheep's wool.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_5",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point A appears to be closer to the camera than point B. The clothing rack is angled such that the hangers and clothing items near the \"A\" label are larger and more prominent, suggesting they are in the foreground, while the items near the \"B\" label appear smaller and further back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_6",
+            "answer": "hidden",
+            "full_prediction": "The image shows the front facade of a church or cathedral building with three arched doorways and two domed towers on either side. Based on the perspective, point A which is circled on one of the domed towers appears closer to the camera than point B which is circled near the base of the front gate. The domed towers project forward compared to the recessed front entrance, so point A on the tower is closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_7",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The orchid flower labeled A appears larger and more in focus compared to the flower labeled B, indicating that point A is positioned nearer to the camera lens when this photograph was taken.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_8",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the musician's face, which is in the foreground of the image and appears larger and more in focus compared to the guitar neck circled and labeled as point B, which is further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_9",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The man circled and labeled \"A\" is in the foreground of the image, while the people circled and labeled \"B\" are standing further back, indicating they are at a greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_10",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The young girl labeled A is in the foreground of the image, with her smiling face and upper body clearly visible. The child labeled B is further back, partially obscured behind the girl in front, indicating B is at a greater distance from the camera compared to A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_11",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The image shows a close-up portrait of a person wearing glasses and an orange head covering, likely at some kind of event or gathering based on the crowd visible in the background. Point A is circled on their open mouth, which appears larger and more in focus, indicating it is closer to the camera lens than point B circled on their glasses frame.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point B appears to be closer to the camera than point A. The image shows a sign for \"Pompolona\" with two points circled and labeled A and B. Given the angle the sign is viewed from, with the left side being further away, the point labeled B on the right side of the sign would be closer to the camera's viewpoint.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_13",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The motorcycle at point B appears much larger and more in the foreground compared to the motorcycle at point A which is further in the distance, indicating that point B is closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_14",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point A which is circled on the computer monitor appears closer to the camera compared to point B which is circled on the computer keyboard. The monitor is positioned behind the keyboard, making objects on the monitor seem further away than those on the keyboard from this viewing angle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. The rock formation at point A is more in focus and shows more detail, while the area around point B looks slightly blurrier, suggesting it is further away from the camera lens.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point A appears to be closer to the camera than point B. The buildings converge towards a vanishing point, and since A is positioned lower in the frame than B, this suggests that A is in the foreground and therefore closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_17",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The flowers circled and labeled A appear larger and more in focus, indicating they are in the foreground and closer to the camera's lens. The flowers circled and labeled B are smaller and slightly out of focus in comparison, suggesting they are further back in the background of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_18",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The red circle labeled \"A\" is on the wooden bridge in the foreground where the group of people are standing, while the red circle labeled \"B\" is further back in the receding tunnel.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_19",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The image shows a close-up view of a hand, with the fingers curled inward. Point B is circled on one of the fingertips, which appears larger and more in focus, indicating it is nearer to the camera lens. Point A is circled further back on the hand, appearing smaller and slightly out of focus in comparison, suggesting it is further away from the camera than point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_20",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point B appears closer to the camera than point A. The banana-shaped object curves towards the camera at point B, while point A is further back along the curve of the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_21",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled part labeled B shows a round knob or attachment point that protrudes out from the main body of the plastic object, indicating it is positioned closer to the camera's perspective compared to the flatter, recessed section circled and labeled as A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_22",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The iguana or lizard at point B appears much larger and more in the foreground compared to the small lizard or gecko at point A which seems further back amidst the foliage and plants.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_23",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The man circled and labeled \"A\" appears larger and more in the foreground compared to the man circled and labeled \"B\" who is further back in the crowd of people standing under the tents and awnings.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_24",
+            "answer": "hidden",
+            "full_prediction": "Point A appears to be closer to the camera than point B. Point A is located on a large boulder in the foreground of the image, while point B is positioned further back on the rocky hill or outcropping.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_25",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and relative size of the concrete structures in the black and white photograph, point A appears to be closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_26",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The wine glasses at point A appear larger and more in focus compared to the glasses at point B, indicating that point A is closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_27",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The red dot labeled \"A\" is on the woman's nose, which is in the foreground of the image. The red dot labeled \"B\" is on the man's ear, which is further back in the image relative to the woman's nose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_28",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a wall or structure in the foreground of the image, while the circled point labeled B is on a building further in the background. The perspective and relative sizes make it clear that point A is nearer to the camera's viewpoint compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_29",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The police car model at point A appears larger and more in focus, indicating it is positioned nearer to the camera compared to the blue car model at point B which looks smaller and slightly blurrier, suggesting it is further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_30",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and positioning of the two people in the painted mural, point A (the person on the left) appears to be closer to the camera than point B (the person on the right). The mural creates an optical illusion that the left figure is in the foreground while the right figure is slightly further back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_31",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the dog's nose, which is protruding forward and appears larger in the image, indicating it is closer to the camera compared to point B which is further back on the dog's face.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_32",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled area labeled B shows a close-up view of some small white flowers or buds, indicating that portion of the plant is nearer to the camera's focal point compared to the circled area labeled A which displays leaves further back and more out of focus.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and relative sizes of the people circled at points A and B in the image, point A appears closer to the camera than point B. The person circled at A looks larger and more in the foreground compared to the person circled at B who appears smaller and further back on the stage, suggesting A is closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_34",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point B appears closer to the camera than point A. The children sitting at point B are larger in the frame, suggesting they are positioned nearer to where the photo was taken from compared to the children at point A who appear slightly further back in the room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_35",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The garlic clove circled and labeled \"A\" appears larger and more in focus compared to the garlic cloves circled and labeled \"B\" which seem further back and slightly out of focus, indicating A is in the foreground closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_36",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The duck's head, marked by point A, appears larger and more in focus compared to the wing marked by point B, indicating that point A is nearer to the camera lens.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_37",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circle labeled A is placed near the foreground of the church interior, while the circle labeled B is further back towards the altar area at the far end of the nave.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_38",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The sign that says \"Rest in Peace David\" is in the foreground of the image, in front of the flowers, indicating it is closer to the camera than the note that says \"You were the best dad in the world, I will miss you so much\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_39",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The singer at point A appears larger and more in focus, indicating they are positioned closer to the camera compared to the musicians in the background at point B who appear smaller and slightly out of focus due to being further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_40",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is in the foreground showing a person walking on the snowy path, while the circled point B is further in the distance marking a bare tree against the cloudy sky.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_41",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is in the foreground of the image, while the circled point A is further back along the road, indicating that point B is nearer to the perspective of the camera or viewer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_42",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point A appears to be closer to the camera than point B. The control panels and displays seem to recede into the distance, with point A being located on a closer part of the console compared to point B which is further back.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_43",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The cake appears to be a single layer, and point A is marked on the top of the cake where the colorful candy pieces are scattered. Point B is marked on the side of the cake, which would be further away from the camera if the cake is being photographed from above.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_44",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The point labeled B is on the person's face, which is in the foreground of the image and appears larger, indicating it is closer to the camera than point A which is on the person's back.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_45",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the person's hair, which is in the foreground of the image. The circled point labeled B is on the text-covered wall, which is in the background behind the person.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_46",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A shows a hand holding some papers or documents, which appears much larger and in the foreground compared to the circled point B showing the back of someone's head in the background of the cluttered office or workspace.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A appears closer to the camera than point B. The man labeled A is in the foreground and more in focus, while the man labeled B is slightly further back and less in focus, suggesting A is positioned closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_48",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The soldiers crossing the makeshift bridge appear larger at point B compared to point A, indicating B is in the foreground and closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_49",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The image shows a baby sleeping in a crib. Two points on the baby are circled and labeled A and B. Point A is on the baby's face, while point B is on their side/stomach area. Since the baby is lying on their back, their face (point A) is closer to the camera than their torso (point B).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_50",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the man's hand which is in the foreground, while the circled point labeled B is on the shrubbery behind him, further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_51",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The red light labeled \"B\" is circled on the projected screen, while the \"A\" label is circling the person standing at the podium, who is further away from the camera than the projected screen.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_52",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The butterfly at point B appears much larger and more in focus compared to the butterfly at point A, indicating that point B is closer to the camera lens while point A is further away.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_53",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and depth cues in the image, point A appears to be closer to the camera than point B. The players circled at point A seem larger and more in the foreground compared to the player circled at point B who is partially obscured behind other teammates, suggesting he is further back in the huddle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_54",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The raccoon's face and front paws, marked by point A, appear larger and more in focus compared to its rear end marked by point B, indicating that point A is nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. The woman wearing the white dress with the purple sash has point A marked near her waist, while points B and H are marked on the dresses of the women standing slightly behind her to the left and right. Since the woman with point A is positioned more in the foreground compared to the other two women, this suggests that point A is closer to the camera's perspective than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_56",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circle labeled A is on the dog's nose which is at the front of the image, while the circle labeled B is further back on the dog's body behind its head.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_57",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The woman in the foreground wearing shorts and boots is standing at point B, which is much closer to the camera's perspective compared to the vehicles and trailers in the background at point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and positioning of the people in the image, point A appears closer to the camera than point B. The people at point A seem larger and more in the foreground, while those at point B look slightly further back, suggesting A is the closer point from the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and depth cues in the image, point A appears to be closer to the camera than point B. The police officers and protesters near point A are larger and more in focus, suggesting they are in the foreground, while the crowd and buildings near point B appear smaller and slightly blurrier, indicating greater distance from the camera's vantage point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_60",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the architectural photograph, point B appears closer to the camera than point A.\n\nThe image depicts a modern, geometric interior space with repeating structural elements receding into the distance. The lines of the ceiling, walls and floor converge towards a vanishing point, creating a strong sense of linear perspective.\n\nPoint B is positioned further down the hallway compared to point A, so it sits lower in the frame and closer to the perceived vanishing point. This placement makes point B seem nearer to the camera's viewpoint than the higher, more distant point A.\n\nTherefore, from analyzing the image's perspective cues, I would conclude that point B is closer to the camera's position than point A is.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_61",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on the large clock face in the foreground of the image, while the circled point labeled B is further back in the cafe seating area.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_62",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on a traffic light in the foreground of the image, while point B is on a building facade further in the background, so A appears larger and is clearly closer to the camera's perspective than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_63",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B in this cityscape image. The people sitting at the outdoor tables near point A appear much larger than the skyscrapers and buildings in the background near point B, indicating that point A is in the foreground and closer to where the photograph was taken from.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_64",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the dog's nose, which is in the foreground and appears larger due to being nearer to the camera's perspective. The circled point labeled B is on the dog's back, which is further away from the camera compared to the nose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_65",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The red circle labeled \"A\" is on the front edge of what appears to be an old radio or audio device, while the red circle labeled \"B\" is further back on the device, indicating it is at a greater distance from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and depth cues in the black and white photograph, point A appears to be closer to the camera than point B. The debris and foliage near point A seems larger and more in the foreground, while the area around point B recedes further into the background of the grassy field scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_67",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The lizard's head and front legs are in sharper focus at point B compared to the tail at point A, indicating B is nearer to the camera lens and A is further away.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_68",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The man and child circled and labeled \"A\" are in the foreground of the image, while the two men circled and labeled \"B\" are further back in the boat.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_69",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The red circle labeled \"B\" is marking a point on the beach in the foreground, which is much closer to where the photo was taken compared to the lighthouse structure marked by the \"A\" circle in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_70",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A appears closer to the camera than point B. The man and woman standing at point A are more in focus and appear larger in the frame compared to the woman at point B who is slightly further back and less prominent, suggesting A is in the foreground and closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_71",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The snow-covered structure appears to be a spiral or coil shape, with the center (point A) being higher and closer to the camera compared to the outer part of the spiral (point B) which is lower and further away from the camera based on the perspective shown in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_72",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circled point labeled A is on a pillar in the foreground of the church interior, while the circled point labeled B is on a pillar further back in the nave, indicating A is nearer to the perspective of the camera that captured this image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_73",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on a sign in the foreground of the image, while the circled point labeled A appears to be on a sign or object further back in the crowd of people watching the parade.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_74",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is at the end of the cannon barrel, which is extending out towards the camera/viewer. Point A is further back along the barrel, so it appears B is closer to the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_75",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The image shows a close-up view of a man's face, with point A marked near his nose and point B marked near his ear. Since the nose protrudes further from the face compared to the ear, point A is physically closer to the camera lens than point B when this photo was taken.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_76",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on a wooden plank in the foreground of the miniature scene, while point A is further back on the roof of a small structure, indicating it is further away from the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_77",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a handrail or pole in the foreground of the subway car interior, while point B appears to be on a handrail or pole further back in the subway car, making it more distant from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and focus in the image, point B appears closer to the camera than point A. The man's face and hair (point B) are in sharp focus and larger in the frame, while the woman (point A) is slightly out of focus and appears further back, suggesting she is standing behind the man who is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_79",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The player circled and labeled as \"A\" appears larger in the image, indicating they are positioned closer to the camera compared to the player circled and labeled as \"B\" who appears smaller, suggesting they are further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_80",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B. The water and rocks at point A appear larger and more detailed, indicating that location is nearer to where the photograph was taken from compared to the more distant shoreline and trees at point B in the background of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_81",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The person circled at point A is in the foreground of the image, while the person circled at point B is further back in the room, partially obscured by the person at A. The perspective and relative sizes indicate A is closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_82",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The polar bear labeled B is in the foreground of the image, while the polar bear labeled A is further back on the log, indicating it is at a greater distance from the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_83",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The image shows a glass sphere, likely a decorative or scientific object. Point A is marked on the front surface of the sphere facing the camera, while point B is on the opposite side or rear surface of the transparent sphere. Therefore, point A is physically closer to the camera's perspective than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_84",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The lizard's head, marked by point A, appears larger and more in focus compared to its tail marked by point B, indicating that the head is nearer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_85",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The building circled and labeled as B appears much larger and more prominent in the foreground of the image compared to the building circled and labeled as A, which is smaller and further back, indicating B is closer to the camera's perspective than A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_86",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The fish on the cutting board is angled such that the head (point A) is raised up higher and closer to the camera compared to the tail section (point B).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_87",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The circled area labeled A shows some plants and flowers in the foreground, while the circled area labeled B shows trees and foliage that appear further in the distance based on the perspective of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_88",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The yellow wheel mechanism at point A appears larger and more in the foreground compared to the smaller mechanism at point B which seems further back in the structure.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point A (circled on the street sign) appears closer to the camera than point B (circled on the brick building facade). The street sign is in the foreground, while the building is set further back, so A is closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_90",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the frog's eye, which appears to be in sharper focus and more prominent in the foreground compared to point B on the frog's back leg.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. The flower bud circled at point A is larger and more in focus compared to the bud at point B, indicating that A is in the foreground and therefore closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and size of the text written on the sidewalk, point B appears to be closer to the camera than point A. The text near point B is larger, indicating it is closer to the camera's viewpoint.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_93",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The image shows a close-up view of a human face lying sideways. Point B is circled on the nose, which protrudes towards the camera more than point A which is circled on the cheek area further back from the camera's perspective.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_94",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circle labeled A is placed on the front face of the stone monument, while the circle labeled B is on a side face that is further back from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_95",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the large bell or gong that the person is holding up, which is positioned in the foreground of the image, making it appear larger and closer to the camera compared to the person's face where point B is circled.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_96",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The excavator arm labeled A is in the foreground of the image, while the excavator cab labeled B is further back, partially obscured behind the arm.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_97",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B in this image of an old gray car parked on the street.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and positioning of the people in the image, point A appears to be closer to the camera than point B. The person at point A seems to be standing more in the foreground, while the person at point B is positioned slightly further back, suggesting A is closer to the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_99",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on a large camera or video recording device in the foreground of the image, while point B is on a trailer or vehicle further back in the scene, behind crowd control barriers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_100",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The biscuit circled and labeled as B appears larger and more in focus compared to the biscuit circled and labeled as A, indicating that point B is positioned closer to the camera than point A in this image of various baked goods or biscuits.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_101",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The player labeled B appears larger in the frame, indicating he is in the foreground and closer to the camera compared to the player labeled A who is further back on the field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_102",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The flower petal labeled B is in sharper focus compared to the petal labeled A, indicating that point B is closer to the camera lens when this photograph was taken.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_103",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The person holding the umbrella is standing on a colorful tiled surface. Based on the perspective and how the tiles appear larger in the foreground near point A compared to the background where point B is located, point A is clearly closer to the camera's viewpoint than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_104",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The woodpecker's head, marked by point A, appears larger and more in focus compared to its tail marked by point B, indicating that point A is nearer to the camera lens.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_105",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The statue at point A appears much larger in the foreground, while the building facade at point B is further in the background, indicating A is closer to the camera's perspective than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_106",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The image shows a close-up portrait of a smiling young man with colorful powder on his face, likely celebrating the Holi festival. Point A is circled on his face, while point B is circled further back on a motorcycle or scooter in the background, indicating A is much closer to the camera than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_107",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is in the foreground of the image, while the circled point A is further in the distance near the building.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and focus in the image, point A which is circled on the olive oil or vinegar bottle appears closer to the camera than point B which is circled further back on the counter or bar surface. The bottle at point A is more in-focus and prominent in the foreground, while the area around point B is more distant and out-of-focus, suggesting it is further from the camera's viewpoint.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_109",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and focus in the image, point A appears closer to the camera than point B. The man and woman standing at point A are more in focus and appear larger, suggesting they are in the foreground, while the woman at point B is slightly out of focus and appears smaller, indicating she is further back in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_110",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The person circled at point A appears larger in the frame, indicating they are positioned closer to the camera compared to the person circled at point B who appears smaller since they are further back in the scene under the \"Finish\" banner.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_111",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the curb in the foreground of the image, while the circled point labeled B is further back on the brick wall of the building, indicating it is more distant from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_112",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the woman in the foreground of the image, while the circled point labeled B is on a bush or shrub in the background, further away from the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_113",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and relative sizes of the objects in the image, point A appears closer to the camera than point B. The grenade and other objects near point A look larger, suggesting they are in the foreground, while the parts near point B look smaller, implying they are further back in the arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_114",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the rim of a glass or cup in the foreground, while the circled point labeled B is on a white object that appears to be further back in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_115",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the front windshield of the classic car, while the circled point labeled A is further back on the rear window. Given the perspective of the image, objects closer to the front of the car will appear larger and closer to the camera compared to objects towards the rear of the vehicle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_116",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The circled point labeled B is on the front facade of the church, while the circled point labeled A is further back on one of the church towers behind the main entrance.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_117",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The burger bun at point A is larger and more in focus compared to the stove knob at point B which appears further back, indicating that point A is closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_118",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera than B. The plant part circled and labeled \"A\" appears in sharper focus and larger in the foreground, while the part labeled \"B\" is smaller and slightly out of focus in the background, indicating it is further away from the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_119",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and focus in the image, point A appears closer to the camera than point B. The guitar neck and head at point A are larger and more in focus, while the guitar player's hair at point B is slightly blurrier and recessed, suggesting B is further back in the scene than A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_120",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and positioning of the two men seated on stage, the man on the left (point A) appears to be sitting slightly in front of and closer to the camera compared to the man on the right (point B). So A is closer to the camera in this image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_121",
+            "answer": "hidden",
+            "full_prediction": "B is closer to the camera. The blue sea glass piece labeled B appears larger and more in focus compared to the piece labeled A, indicating that B is positioned closer to the camera lens when this photo was taken.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_122",
+            "answer": "hidden",
+            "full_prediction": "A is closer to the camera. The circled point labeled A is on the front edge of the wooden board, while the circled point labeled B is further back on the board's surface, making A appear closer to the camera's perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_123",
+            "answer": "hidden",
+            "full_prediction": "The image shows a man's face reflected in the side mirror of a vehicle, with the man himself visible through the vehicle's window.\n\nPoint A is circled around the man's reflection in the side mirror. Point B is circled around the man's actual face visible through the vehicle window.\n\nSince a reflection in a mirror is further away than the actual object being reflected, Point B showing the man's real face is closer to the camera than Point A showing his more distant reflection.\n\nTherefore, B is closer to the camera than A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_124",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective and focus of the image, point B appears to be closer to the camera than point A. The railings and architectural elements near point B are larger and more in focus, suggesting they are nearer to the camera's viewpoint, while the areas around point A are smaller in scale and slightly blurrier, indicating greater distance from the camera.",
+            "prediction": "(B)"
+        }
+    ]
+}

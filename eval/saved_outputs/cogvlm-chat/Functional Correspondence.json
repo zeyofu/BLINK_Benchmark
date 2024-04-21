@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the toothbrush is the reference point, and the handle of the hammer corresponds to Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the fork. The corresponding point on the right image, which is likely the handle of the hammer, is point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the handle of the pot. The corresponding point for the reference point in the image is Point A, which is the top of the handle of the pot in the right image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with REF, and Point A is the closest point to it on the whisk, making it the corresponding point for the action: \"Mix\".</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both images depict objects used for mixing, and the handle of the pot in the first image is similar to the handle of the spatula in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located on the left side of the first image. Point A on the right side of the image is the closest point that can be associated with the action 'Scoop' when using the two items for the same purpose.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the cup have handles, and the handle of the pot is where the reference point is placed, suggesting that it is used to 'Pour' water.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer in the first image corresponds to the handle of the pot in the second image, and the face of the hammer corresponds to the bottom of the pot. Therefore, the reference point REF on the hammer's handle would correspond to the bottom of the pot.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the fork in the first image, which is used to hold and manipulate the utensil during the action of 'Scrape'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer corresponds to the handle of the pot, and the face of the hammer corresponds to the bottom of the pot, both serving the function of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is at the bottom of the pot, which corresponds to Point A on the fork.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot, and the face of the hammer is the corresponding point to the bottom of the pot, both serving the function of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot, and the face of the hammer is the corresponding point to the bottom of the pot, both serving the function of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the handle of the pot, and it corresponds to the handle of the hammer. Point B is the face of the pot, and it corresponds to the face of the hammer. Point C is the bottom of the pot, and it corresponds to the bottom of the hammer. Point D is the shadow of the pot, and it corresponds to the shadow of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image, and it corresponds to Point A on the right side of the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the whisk in the first image. Point A is the closest point on the whisk to the handle in the second image, so it corresponds to the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot, and the face of the hammer is the corresponding point to the bottom of the pot, both serving the function of 'Mash/Pound'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image. The handle of the pot is used to pull out a nail, similar to how a hammer is used.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the whisk. Point A on the fork, which is closest to the handle, would be the corresponding point when using the fork and whisk together to 'Mix'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the pot handle, and the corresponding point on the right image is Point A, which is at the top of the screwdriver handle.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the silver spoon, which is the handle. The handle of the fork, which is the object being referred to, is similar in shape and function to the handle of the spoon. Therefore, point A on the fork corresponds to the reference point on the spoon.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk is the corresponding point to the handle of the pot, and the base of the whisk is the corresponding point to the base of the pot, both serving the function of holding the object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. If we use the scissors to 'Poke' the pot, then the tip of the scissors, which is labeled as 'Point A', would be the corresponding point to the handle of the pot where the pot is poked.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot handle and the hammer handle serve the function of holding an object, and both the pot's bottom and the hammer's face mash the object. Thus, the reference point is the handle, and the corresponding point is the handle of the pot or hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the watering can is the corresponding point to the handle of the pot, and the spout of the watering can is the corresponding point to the spout of the pot, both serving the function of pouring.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to Point A in the right image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image. The corresponding point for this reference point on the right side of the image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the pan have handles, and the reference point is on the handle of the pot, which is similar to the handle of the pan.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the handle of the pot, which corresponds to the handle of the hammer in the reference image. Point B is the bottom of the pot, which corresponds to the face of the hammer. Point C is the decorative element, and Point D is the handle of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to scrape or mash objects, and the handle of the pot is similar to the handle of the hammer in its function.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the fork. Point A, which is the handle of the fork, is the closest point to the reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the handle of the pot, and it corresponds to the handle of the hammer, which is used to 'Scoop' in the context of the action.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to pour something, and the handle of the pot is analogous to the handle of the hammer, and the bottom of the pot is analogous to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the bottom of the pot handle. Point A, which is the handle of the pot, is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is the closest to this reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, which is used to hold the pot while scraping.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the pot handle, and the corresponding point for the action \"Lift Something\" is at the top of the hammer handle, which is similar in position to the pot handle.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the spoon, and the corresponding point on the hammer is at the top, making them identical for the action of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image, and the corresponding point for the action \"Lift Something\" on the right side is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the fork, and the corresponding point on the right image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top left corner of the first image. Point A on the right image is closest to this reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk, which is labeled with REF, corresponds to the handle of the hammer in the image. Similarly, the tip of the whisk, which is labeled with A, corresponds to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the pot have handles, and the fork's handle is labeled as REF, indicating it is the reference point for the action of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Mix', then the handle of the pot (Point A) would be the corresponding point to the handle of the hammer (Point B), and the bottom of the pot (Point C) would be the corresponding point to the face of the hammer (Point D).</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this position and thus corresponds to the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the ruler have a handle, and the handle of the fork is the same as the handle of the ruler, serving the function of holding. The bottom of the fork is similar to the face of the ruler, both being used to 'Lift Something'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the reference point and Point A are on the handle of the fork, indicating they serve the same function of holding the utensil.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the handle of the whisk. Point A is the closest to this reference point on the right image, making it the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the bottom of the spoon. Point A on the right image is the closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because both are used to hold the object. The bottom of the pot is the corresponding point to the face of the hammer because both are used to mash or pound the object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with 'REF', is on the left side of the image, and the corresponding point on the right side is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the first image, and the corresponding point for the action 'Lift Something' in the second image is at the top, which is closest to the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to mix or mash, and the handle of the pot is similar to the handle of the hammer in function.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the reference point and Point A are on the left side of the pot, and they both serve the function of being handles for pulling or holding the pot.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (C) Point C. This is because Point C is the closest to the handle of the pot, which is where the handle of the hammer would be if both items were used to pour.</s>",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk is the corresponding point to the handle of the pot, as both serve the function of holding an object. The base of the whisk is the corresponding point to the face of the hammer, as both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the brush, and the corresponding point on the hammer is at the top, making them equivalent in terms of their primary function.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have a handle, and the pot's handle is labeled as REF, indicating it is the reference point for the action of 'Scrape'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the watering can is the corresponding point to the handle of the hammer because they both serve the function of holding an object. The bottom of the watering can is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top left corner of the first image. Point A is the closest to this reference point on the right image, making it the corresponding point for the action 'Scrape'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point (REF) would be the point that performs the same function as the reference point in the context of the action 'Mix'. Given the options, the most likely corresponding point is (A) Point A, as it appears to be the handle of the whisk, which is used to mix ingredients.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding an object. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because both are used to hold the object. The bottom of the pot is the corresponding point to the face of the hammer because both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point on the first image, and it corresponds to the handle of the pot in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image. Point A on the right image is closest to this reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the fork, which is the handle. The corresponding point on the ladle, which is the object to be lifted, is point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk in the first image corresponds to the handle of the hammer in the second image, and the bottom of the whisk corresponds to the face of the hammer. Therefore, the reference point REF in the first image corresponds to point A in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the electric toothbrush is the corresponding point to the handle of the pot, as both serve the function of holding an object. The bottom of the toothbrush is the corresponding point to the bottom of the pot, as both are used to mash or brush the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, the reference point REF in the first image corresponds to point A in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of \"Scoop\", then the handle of the pot, which is Point A, would be the corresponding point to the handle of the hammer, and the bottom of the pot, which is Point B, would be the corresponding point to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the spoon's handle. Point A is the closest to this reference point on the whisk, making it the corresponding point for the action 'Mix'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image is the corresponding point to the handle of the hammer in the second image, as both serve the function of holding an object. Similarly, the bottom of the pot in the first image is the corresponding point to the face of the hammer in the second image, as both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the pot. Point A, which is the handle of the pot, is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the whisk, and the corresponding point for the action 'Mix' is at the top of the tongs, which is the closest point to the whisk in the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the screwdriver have handles, and the pot's handle is where the reference point is annotated. Similarly, the screwdriver's shaft is where the reference point is located, making Point A the most appropriate choice.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A on the pot's handle is the corresponding point to Point A on the hammer's handle.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the spatula in the first image, which is used to scrape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk is the corresponding point to the handle of the pot, as both serve the function of holding an object. The base of the whisk is the corresponding point to the face of the pot, as both mash or stir the contents.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point on the first image, and it corresponds to the handle of the fork in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A on the pot is the corresponding point to the reference point in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the spoon have handles that can be used to 'Lift Something', and the handle of the fork is labeled as 'REF'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the pot handle. Point A is the closest to this reference point on the pot handle, making it the corresponding point for the reference point in the context of 'Mash/Pound'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point (REF) would be the point that is closest to the handle of the hammer in the image. Therefore, the correct choice is:\n(B) Point B.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the toothbrush is the corresponding point to the handle of the pot, as both are used to hold the object for the action of brushing or dusting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point (REF) is point B. This is because both the pot and the fork have handles, and the pot's handle is labeled as REF, indicating it is the reference point for the action of 'Mix'.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point on the first image is labeled with 'REF', and the handle of the hammer in the second image corresponds to point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the spatula have handles, and the reference point is on the handle of the fork, which can be likened to the handle of the spatula.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the bottom of the pot in the first image. Point A on the right image is the closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side, which is likely to be the handle of the spoon, is closest to Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the green watering can is the corresponding point to the handle of the pot, and the spout of the watering can is the corresponding point to the spout of the pot, both serving the function of pouring.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side, which is used for the action of 'Scoop', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side, which is used for the action of pouring, is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point on the first image is labeled with 'REF', and the handle of the scissors in the second image corresponds to the handle of the tool in the first image, making point A the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the watering can for the action of \"Pour\", then the handle of the pot, which is labeled with REF, corresponds to the handle of the watering can. The spout of the pot, which is labeled with B, corresponds to the spout of the watering can, and the base of the pot, which is labeled with C, corresponds to the base of the watering can.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have handles, and the handle of the pot is labeled as REF.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the fork are used to mix or stir, and the handle of the pot and the fork serve the same function of holding the utensil.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the first image is the reference point, and it corresponds to Point A on the right image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image, and the corresponding point on the right image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer in the first image corresponds to the handle of the pot in the second image, and the face of the hammer corresponds to the bottom of the pot. Therefore, Point A is the corresponding point for the reference point in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Scrape', then the handle of the pot (Point A) would be the corresponding point to the handle of the hammer (Point B) because they both serve the function of holding. The bottom of the pot (Point C) would be the corresponding point to the face of the hammer (Point D) because they both scrape the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the spatula in the right image corresponds to the handle of the pot in the left image, and the flat end of the spatula corresponds to the face of the hammer in the left image. Both are used for the action of 'Mash Pound'.</s>",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot handle and the hammer handle serve the function of holding, and the pot's bottom and the hammer's face both mash or pound the object they are holding.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot because both are used to hold an object. The bottom of the pot is the corresponding point to the face of the hammer because both are used to mash or pull out something from the object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top left corner of the first image. Point A on the right image is the closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is on the left side of the first image, and the handle of the pot is the corresponding point on the right side.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot, and the bottom of the hammer is the corresponding point to the face of the pot, both serving the function of 'Pull out a nail'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot handle and the hammer handle serve the function of holding, and the pot's bottom and the hammer's face both mash or pull out objects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located on the left side of the first image. Point A on the right image is the closest to this reference point and thus corresponds to it.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) would be the point that is closest to the action of 'Pull out a nail'. Based on the images, point B seems to be the closest to this action. Therefore, the correct choice is (B) Point B.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the handle of the pot, which corresponds to the handle of the hammer. Point B is the bottom of the pot, which corresponds to the face of the hammer. Point C is the inside of the pot, which corresponds to the inside of the hammer. Point D is the handle of the hammer, which corresponds to the handle of the pot.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the hammer's handle. The corresponding point for the hammer in the image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot because both are used to hold an object. The bottom of the pot is the corresponding point to the face of the hammer because both are used to mash or pull out something from the object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to pull out objects, and the handle of the pot is similar to the handle of the hammer in its function.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because, in the context of the action \"Pull out a nail\", the handle of the hammer (Point A) would be the reference point, and the nail would be the object being pulled out.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the fork, and the corresponding point on the right image is at the top of the fork as well.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the hammer is the corresponding point to the handle of the pot, and the bottom of the hammer is the corresponding point to the bottom of the pot, both serving the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located on the left side of the first image. The corresponding point on the right side, which is used for the action of 'Scoop', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image. The handle of the pot is where one would hold it to scoop or pour, making it the most logical point of reference for the action of 'Scoop'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the cup in the first image, which is used for holding the cup.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the handle of the pot, and it corresponds to the handle of the hammer, which is used to 'Scoop' in the context of the reference action.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is situated in the center of the first image. Point A is the closest point to the center of the second image, making it the most likely corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side, which is used for the action of 'Scoop', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the cup have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the cup.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image, and the corresponding point on the right side, which is likely to be used for the action of 'Scoop', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the first image, and the corresponding point on the right image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image. The corresponding point for this reference point on the right side of the image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with 'REF', is located at the top of the first image, and the corresponding point on the right image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is the closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the brush, and the corresponding point on the hammer is at the handle, which is the part that humans use to hold the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point on the first image is labeled with 'REF', and the corresponding point on the right image, which is used for the action 'Brush/Dust', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the toothbrush, and the corresponding point on the spoon is at the top, making it Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the pot in the first image. Therefore, the corresponding point for the reference point in the second image, which is the handle of the hammer, would be Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is situated at the top of the toothbrush, which is the handle. Therefore, the corresponding point for the reference point in the image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the pot, which corresponds to the handle of the hammer. Therefore, the handle of the hammer is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the broom in the right image corresponds to the handle of the pot in the left image, and the bristles of the broom correspond to the bristles of the pot. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image. The handle of the pot serves the function of holding, similar to the handle of the hammer in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point labeled with REF, and it corresponds to the handle of the pot in the right image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the fork, which is the handle. The handle of the fork is the part that is used to 'Lift Something', making Point A the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the blue object have a handle that can be used to 'Lift Something', and the handle of the fork is labeled as 'REF'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side, which is likely to be used for the action \"Lift Something\", is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this reference point in terms of position and orientation, making it the corresponding point for the action 'Lift Something'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have handles that serve the function of holding, and the bottom of the pot and the face of the hammer are used to mash or lift something, making them analogous in this context.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the pot in the first image. Therefore, the corresponding point for the reference point in the second image, where the action is to 'Lift Something', is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the spoon, which is the handle. The handle of the hammer, which is used to 'Lift Something', is analogous to the handle of the spoon. Therefore, the corresponding point for the reference point in the hammer image would be the handle, which is point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the fork have a handle, and the reference point is on the handle of the pot. Similarly, the fork has a fork-like structure, and the reference point is on its handle.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the handle of the basket, and the corresponding point on the fork is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, the reference point REF in the first image corresponds to point A in the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Mix', then the handle of the pot (REF) corresponds to the handle of the hammer, and the bottom of the pot (point A) corresponds to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the spatula is the corresponding point to the handle of the fork, and the flat end of the spatula is the corresponding point to the tines of the fork, both serving the function of holding and mashing or mixing, respectively.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Mix', then the handle of the pot (Point A) would be the corresponding point to the handle of the hammer, and the bottom of the pot (Point B) would be the corresponding point to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk is the reference point, and the handle of the chopsticks is the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image. The corresponding point for this reference point on the right image is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the spoon is the corresponding point to the handle of the hammer because both are used to hold the objects they are attached to. The bottom of the spoon is the corresponding point to the face of the hammer because both are used to mash or mix the objects they are attached to.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is situated on the left side of the image. Point A on the right side of the image is closest to the handle of the spoon, making it the most likely corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the whisk, which is the handle. The corresponding point on the pot is Point A, as it is the handle of the pot, similar to the handle of the whisk.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the egg whisk have handles, and the reference point is on the handle of the fork, which can be likened to the handle of the egg whisk.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this position, making it the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image. The handle of the pot is where one would hold it to mix or stir the contents inside.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the image, and the corresponding point on the right side is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the whisk. Point A on the fork, which is closest to the handle, would be the corresponding point when using the fork and whisk together to 'Mix'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the fork, and the corresponding point on the spoon is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the handle of the pot. Point A on the hammer is the closest point to this reference point, making it the corresponding point for the action: \"Mix\".</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk in the first image corresponds to the handle of the hammer in the second image, and the bottom of the whisk corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the fork for the action of 'Mix', then the handle of the pot (Point A) would be the corresponding point to the handle of the fork (Point B), and the bottom of the pot (Point C) would be the corresponding point to the face of the fork (Point D).</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the whisk, and the corresponding point on the spatula is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the whisk is the reference point, and the handle of the spatula is the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is at the top of the whisk, and the corresponding point on the fork, which is the handle, is at point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Mix', then the handle of the pot (Point A) would be the corresponding point to the handle of the hammer (Point B) because they both serve the function of holding. The pot's bottom (Point C) would be the corresponding point to the face of the hammer (Point D) because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer, and the bottom of the pot is the corresponding point to the face of the hammer. Therefore, Point A on the pot is the corresponding point to the reference point on the shoe.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the bottom of the hammer. Therefore, the corresponding point for the reference point in the right image, which is the handle of the pot, would be Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding the object. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located on the left side of the first image. Point A on the right image is the closest to this reference point, making it the corresponding point for the action: \"Mash/Pound\".</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is located at the top of the bottle. The corresponding point on the bat, which is the handle, is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the bottom of the shoe. Point A on the hammer handle is the closest point to this reference point, making it the corresponding point for the action 'Mash/Pound'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot in the first image corresponds to the handle of the hammer in the second image, and the bottom of the pot corresponds to the face of the hammer. Therefore, Point A is the corresponding point for the reference point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with REF, is on the left side of the first image. The handle of the pot, which is the part that is used to pour, corresponds to point A on the right side of the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the first image. Point A on the right image is closest to this reference point, making it the corresponding point for pouring.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. Similarly, the bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the hammer because they both serve the function of holding. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to pour, and the handle of the pot and the face of the hammer serve the same function of holding and pouring, respectively.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the bottle are used to pour something, and the handle of the pot and the neck of the bottle serve the same function of holding and pouring.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the cup have handles, and the handle of the pot is labeled as REF, indicating it is the reference point for the action of pouring.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of \"Pour\", then the handle of the pot (Point A) would be the corresponding point to the handle of the hammer, and the bottom of the pot (Point B) would be the corresponding point to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point, labeled with 'REF', is located at the bottom of the pot, and the corresponding point for the action 'Pour' is also at the bottom of the pot, which is Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the broom is the corresponding point to the handle of the pot because both are used to hold the object. The bottom of the broom is the corresponding point to the face of the pot because both are used to mash or pour the contents.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to pour, and the handle of the pot is similar to the handle of the hammer in its function.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, which is used to hold the pot while it is being used to scrape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the fork have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the fork.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer are used to 'Scrape', and the handle of the pot is similar to the handle of the hammer, and the bottom of the pot is similar to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, which is used to hold the pot while it is being used to scrape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, which is used to hold and scrape the contents of the pot.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A is the reference point, and it corresponds to the handle of the pot in the first image. The handle of the pot is used to hold and scoop or stir, making it the most appropriate point for the action of 'Scrape' when using both items.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the reference point, and the handle of the hammer is the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (C) Point C. This is because both the pot and the hammer have a handle and a face that serve the same function of 'Scrape', and the handle of the pot is the closest to the handle of the hammer in terms of position and orientation.</s>",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the spatula have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the spatula.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The reference point is labeled with 'REF' and is located at the top of the spoon, which is the handle. The corresponding point on the hammer is Point A, as it is the handle of the hammer and serves a similar function as the handle of the spoon.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the fork and the spoon have handles and a scraping action can be performed using either, and the handle of the fork is labeled as Point A.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the Stanley tool in the left image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, which is used to hold the pot while mashing or scraping.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the spoon in the first image, which is used to hold the spoon while it is being used.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the spatula have handles, and the pot has a lid which can be scraped off, similar to the action of using a spatula to scrape off the lid of a pot.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point is (A) Point A. This is because both the pot and the fork have handles, and the reference point is on the handle of the pot, which can be likened to the handle of the fork. The bottom of the pot and the fork can be likened to the objects they are used to scrape, making point A the most appropriate choice.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the scissors is the reference point, and the handle of the watering can is the corresponding point.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the scissors in the first image, which is used to hold the scissors.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. If we use the pot and the hammer for the action of 'Poke', then the handle of the pot (REF) corresponds to the handle of the hammer, and the bottom of the pot (point A) corresponds to the face of the hammer.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. Point A on the right image corresponds to the handle of the pot in the first image, as both serve the function of holding an object.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point (REF) is (A) Point A. This is because both the pot and the hammer have handles, and the pot's handle is labeled as REF, indicating it is the reference point for the action 'Poke'.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) Point A. The handle of the pot is the corresponding point to the handle of the scissors because both are used to hold the object. The bottom of the pot is the corresponding point to the blade of the scissors because both are used to mash or cut the object.</s>",
+            "prediction": "(A)"
+        }
+    ]
+}

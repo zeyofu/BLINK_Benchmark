@@ -56,7 +56,7 @@ def query_model(task_name):
     """
     dataset_name = 'BLINK-Benchmark/BLINK'
     
-    output_path = f'{output_save_folder}/{model_name}/{task_name}.json'
+    output_path = f'{output_save_folder}/{model_name}/{task_name.replace("_", " ")}.json'
     os.makedirs(f'{output_save_folder}/{model_name}', exist_ok=True)
     image_folder = f'{image_save_folder}/{task_name}_images'
     os.makedirs(image_folder, exist_ok=True)
@@ -69,7 +69,7 @@ def query_model(task_name):
                 gold_answer = orig_d['answer']
                 all_choices = ['(A)', '(B)', '(C)', '(D)', '(E)'][:len(orig_d['choices'])]
                 image_paths, prompt = load_prompt(task_name, orig_d, image_folder)
-                gpt_answer = query_gpt4v(image_paths, prompt)
+                gpt_answer = model_generate_func(image_paths, prompt)
                 prediction = analyze_answer(orig_d, gpt_answer, all_choices)
                 outputs[split].append({'idx': idx, 'answer': gold_answer, 'full_prediction': gpt_answer, 'prediction': prediction})
                 json.dump(outputs, open(output_path, 'w'), indent=4)
@@ -163,9 +163,10 @@ if __name__ == '__main__':
     args = parse_args()
     model_name = args.model_name
     print(f'Using model: {model_name}')
-    
-    model_name = args.model_name
 
+    model_generate_funcs = {'GPT4V': query_gpt4v}
+    model_generate_func = model_generate_funcs[model_name]
+    
     image_save_folder = 'saved_images'
     output_save_folder = 'outputs'
     dataset_name = 'BLINK-Benchmark/BLINK'

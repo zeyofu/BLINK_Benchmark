@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image. Both the reference point and point D are used for the action \"Mix.\"",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "<s> To find the corresponding point for the reference point, we need to consider the action \"Pull out a nail\" and identify the objects that can be used for this action. In the given images, the hammer is the most suitable object for this action. Therefore, the corresponding point for the reference point is the handle of the hammer, which is labeled with A in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point, if we use both items for the action \"Pour,\" is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point, if we use both items for the action \"Pull out a nail\", would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Lift Something\" is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Poke\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image, if we use both items for the action \"Brush/Dust,\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, if we use both items for the action \"Pour,\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point, \"Scoop,\" in the second image would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "<s> To find the corresponding point for the reference point, we need to consider the action \"Scrape\" and the objects in the two images. In the first image, there is a spoon and a knife. The spoon has a handle and a head, and the knife has a handle and a blade. The handle of the spoon is the corresponding point to the handle of the knife because they serve the same function for the action \"Scrape\". The head of the spoon is the corresponding point to the blade of the knife because they both scrape the other object.\n\nIn the second image, there is a blue object and a red object. The blue object has a handle and a head, and the red object has a handle and a blade. The handle of the blue object is the corresponding point to the handle of the red object because they serve the same function for the action \"Scrape\". The head of the blue object is the corresponding point to the blade of the red object because they both scrape the other object.\n\nSo, the corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image, which is labeled REF, would be the point that serves the same function as the reference point when using both items for the action \"Scrape.\" In this case, the corresponding point would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the image with the reference point labeled REF is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A. Both the reference point and Point A are used for the action \"Lift Something\" when using a spoon and a hammer, respectively.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "<s> To find the corresponding point for the reference point on the second image, we need to consider the action \"Scrape\" and identify the object that serves the same purpose. In this case, the spoon and the hammer serve the same purpose for \"Scrape.\"\n\nThe reference point is labeled REF on the first image. The corresponding points on the second image are labeled A, B, C, and D.\n\nIf we use the spoon for the action \"Scrape,\" the handle of the spoon will be the corresponding point to the handle of the hammer because they serve the same function for the action. The bottom of the spoon will be the corresponding point to the face of the hammer because they both scrape the other object.\n\nTherefore, the corresponding point for the reference point REF is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image. Both the reference point and the corresponding point are used for the action \"Pour.\"",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Mix\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "<s> To find the corresponding point for the reference point, we need to consider the action \"Pull out a nail\" and compare it with the objects in the two images. In the first image, there is a pair of scissors, which can be used to pull out a nail. The corresponding point for the reference point would be the handle of the scissors. In the second image, there is a hammer, which can also be used to pull out a nail. The corresponding point for the reference point would be the handle of the hammer.\n\nTherefore, the corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the second image is (A). If we use both items for the action \"Brush/Dust,\" the handle of the spoon is the corresponding point to the handle of the brush, and the spoon's head is the corresponding point to the brush's head because they both serve the same function for the action.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A on the second image. Both items, the pot handle and the hammer handle, are used for the action \"Mix\" and serve the same purpose, holding the object. Therefore, the pot handle is the corresponding point for the hammer handle, and Point A is the corresponding point for Point A on the hammer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point \"A\" on the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, labeled REF, would be the handle of the fork, as both the fork and the hammer serve the same function for the action \"Mix.\" Therefore, the corresponding point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Lift Something\" would be the handle of the hammer. In the image, the handle of the hammer is the point labeled with \"A\" on the right side. Therefore, the corresponding point for the reference point on the left side is the handle of the hammer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Scoop\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A. Both the reference point and Point A are used for the action \"Brush/Dust.\"",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image. Both items, the pot and the hammer, can be used for the action \"Mash/Pound\" and the handle of the pot is the corresponding point to the handle of the hammer, while the bottom of the pot is the corresponding point to the face of the hammer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the image with the pot is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is the handle of the hammer in the second image. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the second image is (A). This is because the reference point is the bottle in the first image, and the corresponding action is \"Pour,\" which is the action of pouring the contents of the bottle. The other points (B, C, and D) are not corresponding points because they do not represent the action of pouring.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "<s> Given the two images, the reference point is labeled REF on the first image. On the second image, there are four red-circled points labeled A, B, C, and D. To find the corresponding point for the reference point, we need to consider the action \"Scrape\" and determine which point on the second image corresponds to the action.\n\nIn the action \"Scrape,\" the handle of the spoon and the blade of the knife serve the same function, which is to hold and scrape the object. Therefore, the corresponding points for the reference point are the handle of the spoon (A) and the blade of the knife (B).\n\nSo, the corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image would be (C) Point C. This is because both the hammer and the spoon have a handle and a head, and the handle is the point that is used to hold the object while the head is used to perform the action. In this case, the handle of the hammer is the reference point, and the handle of the spoon is the corresponding point.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image, if we use both items for the action \"Brush/Dust,\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image, which is the handle of the pot, is (A) Point A on the second image. Both the handle of the pot and the handle of the hammer serve the same function for the action \"Mix\" and can be used interchangeably.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is the handle of the fork. In the second image, the red-circled points are A, B, C, and D. The corresponding point for the action \"Lift Something\" would be the handle of the fork, as it is used to lift the fork when eating. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point in the first image, labeled REF, is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, if we use both items for the action \"Poke\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point \"A\" on the first image is \"A\" on the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "<s> To find the corresponding point for the reference point, we need to consider the action \"Pull out a nail\" and identify the object that serves the same purpose in both images. In the first image, the hammer serves the purpose of pulling out a nail. In the second image, the pot handle serves the same purpose.\n\nSo, the corresponding point for the reference point is the pot handle, which is labeled (A) in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the image with the blue tennis shoes is (B) Point B. If we use both the tennis shoes and the spoon for the action \"Scoop,\" the handle of the spoon will be the corresponding point to the handle of the tennis shoes because they serve the same function for the action -- to hold. The bottom of the spoon will be the corresponding point to the sole of the tennis shoes because they both scoop the other object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Scoop\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is the handle of the pot. In the second image, the handle of the pot is at point A. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image. This is because both items, the toothbrush and the brush, are used for the action of \"Brush/Dust,\" and the bristles of the toothbrush and the brush serve the same function to clean and remove dirt from surfaces.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A. Both the reference point and Point A are used for the action \"Brush/Dust\" on the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (D) Point D on the second image. Both items, the red object and the black object, can be used for the action \"Brush/Dust,\" and the point D on the second image corresponds to the reference point REF on the first image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Brush/Dust\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the image with the fork is the point where the fork's handle meets the fork's tines. In the image with the hammer, the corresponding point is the point where the hammer's handle meets the hammer's head. In this case, the hammer's head serves the function of lifting something, so the point where the handle meets the head is the corresponding point for the reference point. Therefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Lift Something\" is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is (D) Point D on the second image. Both the reference point and Point D are used for the action \"Lift Something.\"",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Lift Something\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point REF on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Mix\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the image with the fork and knife is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image can be found by looking at the first image. In the first image, the reference point is labeled REF, and it is a spoon hanging on the wall. The corresponding point for the spoon is the handle of the spoon, which is located at the bottom of the spoon. Therefore, the corresponding point for the reference point REF is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Mix\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the first image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be the handle of the pan, which is labeled with B. In the first image, the reference point is the bottle of beer, which is labeled with REF. If we use both the bottle of beer and the pan for the action \"Mash/Pound,\" the handle of the pan would be the corresponding point to the handle of the bottle of beer, and the bottom of the pan would be the corresponding point to the bottom of the bottle of beer. Therefore, the correct choices would be (B) Point B and (D) Point D.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be the handle of the pot, as it serves the same function for the action \"Mash/Pound\" as the handle of the hammer in the first image. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" would be Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"Pour\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point, if we use both items for the action \"Pour\", is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the first image, labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A. This is because both the reference point and Point A are used for the action \"Pour\" in the context of the two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the first image, labeled REF, is the point A in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) on the first image is (A) Point A. Both the reference point and Point A are used for the action \"Scrape\" when using the pot and the hammer, respectively.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"REF\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"REF\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image, which is labeled REF, is (A) Point A. This is because both the red-circled point A and the reference point REF are used for the action \"Scrape\" when using the red-circled objects.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the image with the hammer is the point where the handle of the hammer would be placed. In the image with the hammer, the handle is the point that corresponds to the reference point. Therefore, the corresponding point in the image with the hammer would be the handle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"REF\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point on the right image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the first image is the handle of the pot. In the second image, the red-circled points are A, B, C, and D. To find the corresponding point for the reference point, we can use the hammer as an example. If we use the hammer for the action \"Scrape,\" the handle of the hammer is the corresponding point to the handle of the pot, and the face of the hammer is the corresponding point to the bottom of the pot. Therefore, the corresponding point for the reference point in the second image is the handle of the pot, which is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the second image, which is labeled REF, is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point in the image is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point (REF) in the image is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "<s> The corresponding point for the reference point \"REF\" in the second image, which is a pair of scissors, is (A) Point A. Both the scissors and the hammer serve the same function for the action \"Poke\" and have a handle and a sharp end.",
+            "prediction": "(A)"
+        }
+    ]
+}

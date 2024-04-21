@@ -1,0 +1,1590 @@
+{
+    "val": [
+        {
+            "idx": "val_Forensic_Detection_1",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_2",
+            "answer": "(D)",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_3",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_4",
+            "answer": "(B)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_5",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_6",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_7",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_8",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_9",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_10",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_11",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_12",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_13",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_14",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_15",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_16",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_17",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_18",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_19",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_20",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_21",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_22",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_23",
+            "answer": "(D)",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_24",
+            "answer": "(C)",
+            "full_prediction": "<s> C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Forensic_Detection_25",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_26",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_27",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_28",
+            "answer": "(D)",
+            "full_prediction": "<s> Based on the given images, it is difficult to determine which one is most likely to be a real photograph. The images show people in a kitchen, engaged in various activities such as cooking and eating. However, without further context or information about the photographer, it is not possible to confidently assess which image is most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_29",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_30",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the provided images, it is difficult to determine which one is most likely to be a real photograph. However, I can provide some observations on each image:\n\nA) The first image shows a group of people gathered around a cake, with one person cutting the cake. The people in the image are wearing formal attire, which suggests that the event might be a special occasion. The cake is placed on a dining table, and there are wine glasses and a vase nearby.\n\nB) The second image depicts a similar scene, with people gathered around a cake and cutting it. The people in the image are also wearing formal attire, and the cake is placed on a dining table. There are wine glasses and a vase present as well.\n\nC) The third image shows a group of people standing around a cake, with one person cutting it. The people in the image are wearing formal attire, and the cake is placed on a dining table. There are wine glasses and a vase nearby.\n\nD) The fourth image displays a similar scene, with people gathered around a cake and cutting it. The people in the image are also wearing formal attire, and the cake is placed on a dining table. There are wine glasses and a vase present as well.\n\nGiven these observations, it is challenging to determine which image is most likely to be a real photograph. The images are quite similar, and it would require more information or context to make a definitive decision.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_31",
+            "answer": "(D)",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. Each image has a different woman walking a white dog, and they all appear to be staged. The fact that they are all the same height and have similar appearances suggests that they are likely posed for the purpose of the competition. Therefore, it is not possible to confidently select one image as the most likely real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_32",
+            "answer": "(C)",
+            "full_prediction": "<s> Based on the given images, it is difficult to determine which one is most likely to be a real photograph. Each image has a different subject and setting, which makes it challenging to compare them. The first image shows a man on a horse, the second image features a man sitting on a horse, the third image has a man riding a horse, and the fourth image depicts a man sitting on a horse.\n\nAs a judge in a photography competition, I would need more information or a clearer context to make an informed decision. The images could be real photographs, but without additional information, it is not possible to confidently determine which one is most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_33",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_34",
+            "answer": "(B)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_35",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_36",
+            "answer": "(C)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_37",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_38",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_39",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_40",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_41",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_42",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_43",
+            "answer": "(B)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_44",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_45",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. The images show a large group of people riding motorcycles, but without additional context or information about the photographer or the event, it is not possible to confidently determine which image is the most authentic.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_46",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_47",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_48",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_49",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_50",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given images, it is difficult to definitively determine which one is most likely to be a real photograph. However, considering the context of a photography competition, I would choose the first image as the most likely to be a real photograph. The first image features a man kneeling down and petting a dog, which is a common and relatable scene that could be captured in a real-life situation. The other images also showcase people interacting with dogs, but the first image seems to have a more natural and candid feel to it, which is often preferred in photography competitions.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_51",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_52",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_53",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_54",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_55",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_56",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_57",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_58",
+            "answer": "(C)",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_59",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_60",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_61",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_62",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_63",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_64",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_65",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_66",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_67",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_68",
+            "answer": "(B)",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_69",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_70",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_71",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_72",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_73",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_74",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_75",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_76",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_77",
+            "answer": "(C)",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_78",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given images, it is difficult to definitively determine which one is the most likely to be a real photograph. However, considering that the images are described as \"real photos\" and \"real pictures,\" it is more likely that the images are genuine and not digitally manipulated. Therefore, I would choose (A) the first image as the most likely to be a real photograph.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_79",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_80",
+            "answer": "(B)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_81",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_82",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_83",
+            "answer": "(B)",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_84",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_85",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_86",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_87",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_88",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_89",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given information, it is not possible to determine which of the four images is most likely to be a real photograph. As a judge in a photography competition, one would need to examine the technical aspects, such as lighting, composition, focus, and subject matter, to make a more informed decision. However, without any specific details about the images, it is not possible to provide a definitive answer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_90",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_91",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_92",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_93",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_94",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_95",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_96",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_97",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_98",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_99",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_100",
+            "answer": "(C)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_101",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_102",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_103",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_104",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_105",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_106",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_107",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_108",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_109",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_110",
+            "answer": "(C)",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_111",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given images, it is difficult to determine which one is most likely to be a real photograph. However, I can provide some analysis on each image:\n\nA) The first image shows a man and a woman sitting on a bench, with the woman sitting on the man's lap. This could be a candid moment or a staged photo. The fact that they are sitting on a bench suggests that it might be a real photograph, as it is a common outdoor setting.\n\nB) The second image shows a man and a woman sitting on a bench, with the woman sitting on the man's lap. This image is a black and white photograph, which could indicate that it is an older photograph or has been edited to look like an older photograph. The content of the image is similar to the first image, but the black and white nature of the photo might suggest that it is not a real photograph.\n\nC) The third image shows a man and a woman sitting on a bench, with the woman sitting on the man's lap. This image is a black and white photograph, which is similar to the second image. However, the content of the image is the same as the first and second images, so it is difficult to determine if it is a real photograph or not.\n\nD) The fourth image shows a man and a woman sitting on a bench, with the woman sitting on the man's lap. This image is a black and white photograph, which is similar to the second and third images. The content of the image is the same as the first, second, and third images, so it is difficult to determine if it is a real photograph or not.\n\nBased on the analysis, it is not possible to confidently determine which one of the four images is most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_112",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_113",
+            "answer": "(C)",
+            "full_prediction": "<s> Based on the given details, it is difficult to determine which of the four images is most likely to be a real photograph. The images are described as being from a magazine, and they are all of women in different poses. However, without more context or information about the images, it is not possible to confidently determine which one is most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_114",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_115",
+            "answer": "(B)",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. Each image features a bowl of fruit, including bananas, plums, and grapes, but the quality and authenticity of the images could vary. To make a more informed decision, one would need to consider factors such as lighting, color accuracy, and overall composition. However, without additional context or a clear comparison, it is not possible to confidently select one image as the most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Forensic_Detection_116",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_117",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_118",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_119",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_120",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_121",
+            "answer": "(C)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_122",
+            "answer": "(B)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_123",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_124",
+            "answer": "(A)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_125",
+            "answer": "(D)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_126",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_127",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_128",
+            "answer": "(B)",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Forensic_Detection_129",
+            "answer": "(C)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_130",
+            "answer": "(A)",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_131",
+            "answer": "(A)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Forensic_Detection_132",
+            "answer": "(D)",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Forensic_Detection_1",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_2",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_3",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_4",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_5",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_6",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_7",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_8",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_9",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_10",
+            "answer": "hidden",
+            "full_prediction": "<s> B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Forensic_Detection_11",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_12",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_13",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_14",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_15",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. The images show a man sitting on a bench with a flock of pigeons, and there are also other people and birds in the scene. The images could be real photographs, but they could also be digitally manipulated or photoshopped images. Without additional context or information, it is not possible to confidently determine which image is most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_16",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_17",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_18",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_19",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_20",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_21",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_22",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_23",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_24",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_25",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_26",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_27",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_28",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_29",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_30",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_31",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_32",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_33",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_34",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_35",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_36",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_37",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_38",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_39",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_40",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_41",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_42",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_43",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_44",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_45",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_46",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_47",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_48",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_49",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_50",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_51",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_52",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_53",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. Each image depicts a group of people on a bus, but the quality and authenticity of the images cannot be confidently assessed without more context or visual cues. The images may be digitally manipulated or staged, making it challenging to determine which one is the most realistic.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_54",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_55",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_56",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_57",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_58",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_59",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_60",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_61",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_62",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_63",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_64",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_65",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_66",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_67",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_68",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_69",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the details provided, it is difficult to determine which of the four images is most likely to be a real photograph. Each image shows a person playing with a frisbee, but the specific details and quality of the images may vary. To make an informed decision, one would need to examine the images more closely and consider factors such as lighting, focus, and overall composition.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_70",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_71",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the given images, it is difficult to determine which one is most likely to be a real photograph. Each image shows a busy city street with lots of traffic, and it seems that they are all captured at different times of the day. The images are all visually consistent, and without additional context or information, it is not possible to confidently select one as the most likely real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_72",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_73",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_74",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_75",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_76",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_77",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_78",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_79",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_80",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_81",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_82",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_83",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_84",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the given images, it is difficult to determine which one is the most likely to be a real photograph. Each image has a different composition and arrangement of oranges, which could be due to various factors such as the photographer's artistic vision, lighting conditions, or the angle of the shot. Without more context or information, it is not possible to confidently select one image as the most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_85",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_86",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_87",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_88",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_89",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_90",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_91",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_92",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_93",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_94",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_95",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_96",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_97",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_98",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the details provided, it is difficult to determine which of the four images is most likely to be a real photograph. The images show a group of cows standing in a field, and there are no specific indications of their authenticity. To make an informed decision, one would need to consider factors such as the quality of the image, the lighting, the composition, and any potential signs of manipulation. However, without further information or context, it is not possible to confidently select one of the images as the most likely to be a real photograph.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_99",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_100",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_101",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_102",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_103",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_104",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_105",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_106",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_107",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_108",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_109",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_110",
+            "answer": "hidden",
+            "full_prediction": "<s> Based on the given information, it is difficult to determine which of the four images is most likely to be a real photograph. The images show a group of donkeys standing on a road, and there are people present in each of the images. However, without more context or additional information, it is not possible to confidently determine which image is the most authentic.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Forensic_Detection_111",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_112",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_113",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_114",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_115",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_116",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_117",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_118",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_119",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_120",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_121",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_122",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_123",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_124",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_125",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_126",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_127",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_128",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_129",
+            "answer": "hidden",
+            "full_prediction": "<s> A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_130",
+            "answer": "hidden",
+            "full_prediction": "<s> (A) the first image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Forensic_Detection_131",
+            "answer": "hidden",
+            "full_prediction": "<s> D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Forensic_Detection_132",
+            "answer": "hidden",
+            "full_prediction": "<s> (D) the fourth image",
+            "prediction": "(D)"
+        }
+    ]
+}

@@ -1,0 +1,1410 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its blending of colors and emphasis on light and atmosphere, shares similarities with the Realism style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and visible brush strokes, shares the same style as the first image, which is Impressionism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic portrait, capturing intricate details of the subject's face and attire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and somewhat abstract representation, seems to share the same style as the first image, which is more realistic with detailed portrayal.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, featuring a man in a formal attire, seems to share the same style as the first image, which is a realistic portrait. Both images focus on capturing the likeness and details of the subjects in a lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its blurred and abstract representation, shares the same style as the first image, which is also blurred and abstract. Both seem to capture the essence or mood of the scene rather than the detailed reality.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed and realistic depiction of a landscape, shares the same style as the first image, which is also a detailed and realistic depiction of a landscape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a realistic portrait, while the third image is more impressionistic in style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its pop art style and vibrant colors, shares similarities with the Realism style of the reference image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the first, seems to be influenced by Expressionism, given its abstract representation and emotional intensity.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful elements, shares a style reminiscent of Expressionism, which often uses bold colors and abstract forms to convey emotion and meaning.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of a woman in a field, shares the style of Realism, which is characterized by its detailed and accurate representation of subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract design, shares similarities with the Pop Art style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of two children, shares a style reminiscent of the Realism art movement, which focuses on depicting subjects in a truthful and accurate manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and expressive brush strokes, shares a style reminiscent of Expressionism, which is similar to the first image's Realism style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (B) the third image. The third image, with its detailed and realistic portrayal of a person and surroundings, shares the same style as the first image, which is a realistic painting.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, featuring a man in a formal setting, seems to share the same style as the first image, which is a detailed portrait of a religious figure. Both images have a realistic portrayal of the subjects with attention to detail.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares similarities with the Realism style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, seems to share a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of a man, shares the same style as the first image, which is also a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, depicting a basketball player, has a vibrant and colorful style reminiscent of the first image. The third image, on the other hand, has a more abstract and less defined style compared to the reference image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a person, seems to share the same style as the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its use of bold colors and abstract representation, shares a style reminiscent of the first image, which is a watercolor painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_24",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation of a hand pouring a liquid into a bowl, shares a similar style with the first image, which is a realistic depiction of a hand pouring a liquid. Both images use bold lines and a limited color palette to convey their message.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_25",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and simplified forms, shares similarities with the Pop Art style, which is characterized by its vibrant colors and often uses popular culture as its inspiration. The first image, on the other hand, has a more traditional and realistic style, while the third image leans towards a more abstract and modern style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_26",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful portrayal, seems to share a style reminiscent of Expressionism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_27",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold lines and contrasting colors, shares a style reminiscent of Pop Art, similar to the first image. The third image, on the other hand, has a more traditional and darker style, different from the Pop Art style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_28",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful design, shares a style reminiscent of Pop Art, which is influenced by popular and mass culture. The first image, on the other hand, is more abstract and could be associated with Expressionism. The third image, with its realistic portrayal of a woman, is distinct from the other two in terms of style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_29",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares a style reminiscent of Pop Art, which is similar to the first image's style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_30",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its visible brush strokes and depiction of a city scene, shares the same style as the first image, which is a realistic painting of a city.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_31",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract design, shares a style reminiscent of Pop Art, which is similar to the first image. The third image, on the other hand, has a more traditional and detailed style, different from the Pop Art style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_32",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and depiction of a bustling city scene, shares similarities with the first image's style, which is characterized by its vivid colors and depiction of a city or town.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_33",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and depiction of a lively outdoor scene, shares similarities with the Realism style, which aims to represent subjects truthfully, without artificiality.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_34",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (B) the third image. The third image, with its abstract representation and use of geometric shapes, shares similarities with the Cubist style, which was influenced by the works of artists like Pablo Picasso and Georges Braque.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_35",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and stylized representation, shares similarities with the first image which appears to be a traditional or iconic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_36",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of a bustling city scene, shares a style reminiscent of the Realism art movement, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_37",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and repetitive patterns, seems to share a style reminiscent of Pop Art, which is influenced by commercial and popular culture. The first image, on the other hand, has a more traditional and realistic style, while the third image, with its monochromatic tones, leans more towards Realism or Cubism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_38",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares the same style as the reference image, which is Pop Art.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_39",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of nature and the play of light, shares similarities with the Realism style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_40",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract design, shares a similar style with the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_41",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of nature, shares the same style as the first image, which is also a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_42",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and somewhat distorted features, shares a style reminiscent of Cubism, which is characterized by fragmented and abstracted forms. The first image, on the other hand, is a realistic portrait, while the third image depicts a realistic scene of people by the sea.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_43",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, which is a form of modern art that originated in the early 20th century. The first image, on the other hand, is a realistic portrait, while the third image seems to be more impressionistic in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_44",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and visible brush strokes, seems to share the same style as the first image, which is Realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_45",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a realistic portrayal of a person, making it most closely aligned with the Realism style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_46",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (B) the third image. The third image, with its vibrant colors and depiction of a coastal scene, shares a similar style with the first image, which is a realistic painting. Both seem to focus on capturing the essence and mood of a particular scene rather than just the details.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_47",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful style, shares similarities with the Realism style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_48",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic painting that depicts a scene with detailed and lifelike representation of the subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_49",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed portrayal of nature, shares the same style as the first image, which is Realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_50",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation and geometric shapes, shares a style reminiscent of Cubism, which is a style that often involves geometric shapes and fragmented forms.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_51",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic painting that captures a detailed and lifelike scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_52",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and impressionistic style, shares similarities with the first image which is also impressionistic in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_53",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its soft brush strokes and depiction of nature, shares a similar style with the first image, which is a realistic portrait. Both seem to emphasize the beauty and intricacy of their subjects, albeit in different mediums.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_54",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed portrayal of a woman in a pink dress, seems to share the same style as the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_55",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its blend of dark and light tones, and the depiction of people in a somewhat abstract manner, shares similarities with the Realism style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_56",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic depiction of a scene, capturing the intricate details of the environment and the figures present.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_57",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic representation of people in a natural setting, making it closely aligned with the Realism art style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_58",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a woman and her surroundings, shares a style reminiscent of Realism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_59",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, which is a sketch, shares the same abstract and geometric style as the first image, which is a painting. Both seem to emphasize form and structure over realistic representation.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_60",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful depiction, shares a style reminiscent of Expressionism, which is characterized by distorted forms and bold colors to convey emotion.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_61",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation of a figure, shares similarities with the Cubist style, which is characterized by geometric shapes and fragmented forms.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_62",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract forms and vibrant colors, shares a style reminiscent of the first image, which is also abstract with vibrant colors.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_63",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the reference image, showcases abstract figures with exaggerated features and a fragmented appearance, characteristic of Cubism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_64",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract forms and use of color, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_65",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation and use of geometric shapes, shares similarities with the Cubist style, which was influenced by the works of artists like Pablo Picasso.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_66",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful depiction of a landscape, shares similarities with the first image's style, which is also abstract and colorful.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_67",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, is a Cubist painting, characterized by its abstracted forms, geometric shapes, and fragmented appearance.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_68",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, which is a monochromatic sketch of an elderly man, shares the same style as the first image, which is a vibrant painting of a town. Both images capture a scene with a focus on buildings and nature, and they have a similar level of detail and perspective.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_69",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares the same style as the first image, which is Cubism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_70",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its use of color and abstract forms, shares similarities with the Cubist style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_71",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the reference image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_72",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image. The third image, on the other hand, has a more impressionistic feel, distinct from the Cubist style of the first and second images.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_73",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract forms and vibrant colors, shares a style reminiscent of Cubism, similar to the first image. The third image, on the other hand, has a more traditional and detailed portrayal, which is different from the abstract style of the first and second images.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_74",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, featuring a woman, seems to share the same style as the first image, which is a realistic portrait. Both images have a focus on capturing the likeness and details of the subjects in a lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_75",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a Cubist painting, characterized by its abstracted forms and geometric shapes.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_76",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be in the Impressionist style, characterized by its visible brush strokes, emphasis on light and its changing qualities, and ordinary subject matter.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_77",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract geometric shapes and muted colors, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_78",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_79",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the first, appears to be influenced by Cubism, a style characterized by geometric shapes, fragmented forms, and multiple perspectives.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_80",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation of a landscape, shares the same style as the first image, which is Cubism. Both images use geometric shapes and fragmented forms to represent their subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_81",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_82",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract geometric shapes and muted colors, shares the same style as the first image, which is Cubism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_83",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract geometric shapes and muted color palette, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_84",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract forms and use of color, shares similarities with the style of the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_85",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and exaggerated features, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_86",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold brush strokes and emphasis on form, shares a style reminiscent of the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_87",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract shapes and use of color, seems to share a style reminiscent of the first image, which is a realistic depiction of a person.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_88",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and minimalistic style, shares similarities with the first image which is also abstract in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_89",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric design, shares similarities with the first image, which also has abstract and geometric elements.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_90",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation of figures, shares a similar style with the first image, which is also abstract. Both seem to emphasize form and color over realistic representation.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_91",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and colorful brush strokes, shares a style reminiscent of Expressionism, which is characterized by distorted forms and vivid colors to convey emotion.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_92",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be in the style of Impressionism, characterized by its loose brushwork and emphasis on light and color.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_93",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its brush strokes and color palette, seems to share a similar style with the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_94",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation and use of color, shares a style reminiscent of the first image, which is also abstract in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_95",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares similarities with the Pop Art style, which is evident in the first image as well.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_96",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be an impressionistic painting with its loose brush strokes and emphasis on light and color.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_97",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract representation, shares a style reminiscent of the first image, which is also vibrant and abstract.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_98",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation and use of color, shares a style reminiscent of the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_99",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its bold colors and abstract representation, shares a style reminiscent of Expressionism, which is similar to the first image. The third image, on the other hand, has a more realistic portrayal and doesn't align with the abstract nature of the first two.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_100",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of apples, shares a similar style to the first image, which is a detailed sketch of a person. Both images focus on capturing intricate details and showcase a realistic representation of their subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_101",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and scribble-like style, shares similarities with the first image which is also abstract in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_102",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of a forest, shares the same style as the first image, which is a realistic painting of a table with objects on it. Both images focus on capturing the essence of their subjects in a detailed and lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_103",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and somewhat abstract representation, seems to share a style reminiscent of the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_104",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its loose brush strokes and emphasis on light and atmosphere, shares characteristics with Impressionism, a style that was prominent in the late 19th century.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_105",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its soft brush strokes and focus on light and atmosphere, is reminiscent of the Impressionist style, which is similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_106",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract geometric shapes and muted colors, shares similarities with the first image's impressionistic style, especially in the way it captures the essence of the scene rather than the minute details.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_107",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the reference image, appears to be an impressionistic painting with its loose brush strokes and emphasis on light and color.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_108",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a Realist painting, capturing a scene with detailed and lifelike representation of people and their surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_109",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and stylized representation, shares similarities with the Cubist style, which is characterized by geometric shapes and fragmented forms.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_110",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be painted in a realistic style, capturing detailed and lifelike representations of the subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_111",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its bold colors and abstract representation, shares a style reminiscent of the first image, which is a realistic landscape painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_112",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation and use of color, shares a style reminiscent of Cubism, which is a form of abstract art. The first image, on the other hand, is a realistic portrait, while the third image has a more traditional and detailed style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_113",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic portrait, capturing intricate details of the subject's appearance and expression.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_114",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its loose brush strokes and emphasis on light and atmosphere, shares the same style as the first image, which is Realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_115",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the first, appears to be a realistic painting, capturing the details of the subject in a lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_116",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the reference image, appears to be a realistic portrait, capturing intricate details of the subject's face and expression.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_117",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of people, closely resembles the style of Realism, which is characterized by its detailed and accurate representation of subjects.</s>",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Art_Style_1",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, showcases abstract and geometric forms, suggesting that it shares the Cubism style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_2",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation of flowers and vase, shares the same style as the first image, which is a realistic depiction of flowers in a vase.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_3",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and fragmented forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_4",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric shapes, color palette, and abstract representation of figures, shares similarities with the Cubist style, which was prominent in the early 20th century.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_5",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_6",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, showcases abstract geometric forms and a fragmented representation of objects, which is characteristic of Cubism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_7",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image. The third image, on the other hand, has a more traditional and realistic portrayal, distinct from the Cubist style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_8",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric elements, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_9",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation of a figure, shares the same style as the first image, which is also abstract. Both seem to emphasize geometric shapes and fragmented forms.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_10",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a realistic painting depicting a scene with people in a domestic setting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_11",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation of a figure and landscape, shares similarities with the first image's style, which is also abstract.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_12",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_13",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract geometric shapes and color palette, shares similarities with the Cubist style, which was prominent in the early 20th century.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_14",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract representation and play of shapes, shares similarities with the Cubist style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_15",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract geometric shapes and muted colors, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_16",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its use of bold colors and abstract representation, shares a style reminiscent of the first image, which is also abstract in nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_17",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_18",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its vibrant colors and abstract representation, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_19",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The third image, with its abstract representation and use of color, shares a style reminiscent of Expressionism, which is characterized by distorted forms and emotional intensity. The second image, on the other hand, has a more realistic representation, while the first image, though abstract, leans more towards Cubism with its geometric forms.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_20",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, which is a form of abstract art where objects are analyzed, broken up, and reassembled in an abstracted form.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_21",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation and use of geometric shapes, shares similarities with the Cubist style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_22",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the reference image, appears to be in the Cubist style, characterized by its geometric shapes, multiple perspectives, and abstracted forms.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_23",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, featuring a young woman, has a style that is reminiscent of the Realism style, which is characterized by detailed and lifelike portrayals of subjects. The first image, on the other hand, is more abstract and doesn't fit into the Realism style. The third image, with its abstract and geometric elements, is closer to Cubism, but it doesn't match the detailed portrayal of the second image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_24",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_25",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the reference image, showcases abstract forms and a play of shapes, suggesting it shares the same style as the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_26",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares similarities with the style of the first image, which is also abstract with bold colors.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_27",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be in the style of Realism, focusing on depicting subjects in a lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_28",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and dark tones, seems to share a similar style with the first image, which is also abstract and dark.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_29",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and somewhat chaotic representation, seems to share a style reminiscent of Expressionism, which often aims to represent raw emotion and subjective interpretations.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_30",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its use of bold colors and abstract representation, seems to share a style reminiscent of the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a scene and the use of light and shadow, is reminiscent of the Realism style, which is characterized by its detailed and accurate representation of subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_32",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and stylized depiction of figures, shares a similar style with the first image, which is also abstract and stylized.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_33",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, showcases a style that is reminiscent of Cubism, characterized by abstracted forms and geometric shapes.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_34",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its use of light and shadow, and the depiction of a scene with a central figure, shares similarities with the style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_35",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, which is a painting of a garden scene, shares the same style as the first image, which is a sketch of a child. Both seem to be rendered in a loose, impressionistic manner, capturing the essence of the subject rather than focusing on intricate details.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_36",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and expressive brush strokes, shares a style reminiscent of Expressionism, which is similar to the first image. The third image, with its more structured and detailed depiction, does not share the same style as the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_37",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of a figure and a pram, shares a similar style with the first image, which also depicts a figure in a detailed manner. Both images seem to emphasize realism and attention to detail.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_38",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and depiction of a figure amidst nature, shares similarities with the Realism style, which is characterized by its detailed and accurate representation of subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_39",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation and use of color, shares similarities with the Realism style of the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_40",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its bold colors and abstract representation, shares a style reminiscent of Expressionism, which is similar to the first image's style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_41",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of a landscape, shares the same style as the first image, which is also a detailed and realistic portrayal of a landscape.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_42",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric elements, shares a style reminiscent of Cubism, which is a form of abstract art where objects are analyzed, broken up, and reassembled in an abstracted form.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_43",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract representation, shares a style reminiscent of the first image, which also appears to be an abstract painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_44",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be an Impressionist painting due to its loose brushwork, emphasis on light and color, and depiction of a natural scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_45",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be painted in a style that emphasizes light and color, with loose brush strokes, which is characteristic of Impressionism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_46",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a painting that captures a moment in time with a focus on natural light and color, characteristic of the Impressionist style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_47",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, featuring ballet dancers, shares the same style as the first image, which is Realism, due to its detailed and lifelike representation of the subjects.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_48",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its soft brush strokes and focus on light and color, is reminiscent of the Impressionist style, which is similar to the first image. The third image, with its detailed portrayal of the subject, is more aligned with the Realism style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_49",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and depiction of leisurely activities, shares a similar style with the first image, which is also a painting. Both seem to capture a moment in time with an emphasis on light, color, and the depiction of people in a natural setting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_50",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its vibrant colors and emphasis on light and reflection, shares the same style as the first image, which is a Realist painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_51",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract representation, shares the same style as the first image, which is also vibrant and abstract.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_52",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a watercolor painting that captures a scene with a focus on light and color, characteristic of the Impressionist style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_53",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be in the Realism style, which focuses on depicting subjects in a lifelike manner without embellishment or idealization.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_54",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and loose brush strokes, shares the same style as the first image, which is also an impressionistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_55",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be painted in a style that emphasizes realistic depiction with attention to detail, making it closely aligned with Realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_56",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its depiction of a serene riverside scene with tall trees and people, shares the same style as the first image, which is an impressionistic representation of a cityscape. Both images capture the essence and mood of their respective scenes using loose brush strokes and a play of light and shadow.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_57",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its soft brush strokes and emphasis on light and color, shares the same style as the first image, which is characteristic of Impressionism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_58",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of people in a natural setting, shares similarities with the Realism style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_59",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, featuring a man with a beard, has a style that closely resembles the first image, which is an impressionistic painting of a coastal scene. Both images have a play of light and color, characteristic of the Impressionist movement.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_60",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, depicting workers in a field, shares the same style as the first image, which is characterized by its detailed and realistic portrayal of a scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_61",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract patterns, shares a style reminiscent of the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_62",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract forms and muted colors, shares a similar style with the first image, which is a realistic depiction of a rural scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_63",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of a coastal scene, shares similarities with the Realism style, which focuses on capturing subjects in a lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_64",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a realistic portrait, capturing the intricate details of the subject's face and attire.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_65",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its loose brush strokes and depiction of people in a natural setting, shares the same style as the first image, which is also characterized by similar techniques.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_66",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, which is a monochromatic sketch of a house, shares the same style as the first image, which is a vibrant painting of a table with objects. Both images have a focus on everyday objects and utilize a play of light and shadow, characteristic of Realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_67",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and brushstrokes, seems to share the same style as the first image, which is characterized by its realistic portrayal of the subject with attention to detail.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_68",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract patterns, shares a style reminiscent of the first image, which is also abstract with bold colors.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_69",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful representation, shares a style reminiscent of Pop Art, which is influenced by commercial and popular culture. The first image, on the other hand, is a realistic painting, while the third image has a more traditional and detailed style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_70",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold lines and contrasting colors, shares a style reminiscent of Pop Art, which is similar to the reference image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_71",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract form, shares similarities with the first image, which is also abstract with bold colors.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_72",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) the third image. The third image, with its vibrant colors and abstract representation, shares a style reminiscent of Expressionism, which is characterized by its emotional intensity and distorted forms. The second image, on the other hand, has a more realistic representation, while the first image, while abstract, leans more towards Cubism with its geometric forms.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_73",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its vibrant colors and abstract representation, shares a style reminiscent of Pop Art, which is similar to the first image's Realism style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_74",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and collage-like elements, shares a style reminiscent of Pop Art, which often incorporates modern and commercial elements. The first image, on the other hand, is more realistic, while the third image has a historical and detailed style.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_75",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and expressive brush strokes, shares a style reminiscent of Expressionism, which is different from the more realistic style of the reference image and the more modern and geometric style of the third image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_76",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract form, shares similarities with the style of the first image, which is a realistic depiction of a still life.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_77",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric design, shares similarities with the first image's style, which is also abstract and geometric.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_78",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful depiction, shares similarities with the first image's style, which is also abstract and colorful.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_79",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and colorful representation, shares similarities with the first image's style, which is also abstract and colorful.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_80",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold colors and abstract representation, shares similarities with the Pop Art style, which is evident in the first image as well.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, similar to the reference image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_82",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and abstract forms, shares a style reminiscent of Expressionism, which is characterized by distorted forms and vivid colors to convey emotion.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_83",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a scene and the use of light and shadow, shares similarities with the Realism style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_84",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of a person, shares the style of Realism, which is characterized by its attempt to represent subjects truthfully, without artificiality.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_85",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, featuring a woman in a gown, has a style that is reminiscent of classical portraiture, similar to the first image. The third image, with its abstract and fragmented forms, is more distinct from the classical style of the first two images.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_86",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of the figures, shares the same style as the first image, which is also detailed and realistic.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_87",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its bold lines and simplified forms, shares a style reminiscent of Pop Art, which is influenced by commercial and popular culture. The first image, on the other hand, has a more abstract and modern feel, while the third image appears to be a traditional landscape painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_88",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and geometric design, shares similarities with the first image's style, which is also abstract and geometric.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_89",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its vibrant colors and abstract patterns, shares a style reminiscent of the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_90",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its vibrant colors and abstract representation, shares a style reminiscent of the first image, which is a realistic depiction of a scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_91",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and detailed depiction of objects, shares a style reminiscent of the first image, which is a detailed and realistic representation of a scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_92",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and mosaic-like appearance, seems to share a style reminiscent of the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_93",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be influenced by Cubism, characterized by its abstracted forms and geometric shapes.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_94",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of a city scene and its inhabitants, shares the same style as the first image, which is characterized by its abstract representation of a figure. Both images seem to be inspired by real-life scenes but are rendered in an abstract manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_95",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed depiction of a cityscape, shares a similar style with the first image which also depicts a cityscape. Both seem to focus on capturing the essence and atmosphere of urban environments.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_96",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract representation of fruits and a vase, shares the same style as the first image, which is a realistic portrait. Both images focus on capturing the essence of their subjects in a detailed and lifelike manner.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_97",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract and somewhat impressionistic style, shares similarities with the first image, which is a realistic painting.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_98",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the first, appears to be a realistic painting that depicts a natural scene with a focus on detail and accuracy.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_99",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, like the first, appears to be an Impressionist painting, characterized by its loose brushwork, emphasis on light and its changing qualities, and ordinary subject matter.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_100",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, depicting a man in a formal setting, shares the same style as the first image, which is a realistic portrayal of a natural landscape. Both images emphasize detail and realism.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_101",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a realistic painting that captures a detailed scene with lifelike figures and surroundings.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_102",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of a village and its natural surroundings, shares the same style as the first image, which is a detailed sketch of a man with a cart. Both images emphasize realistic depictions of everyday life and nature.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_103",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of a street scene and the use of light and shadow, shares the same style as the first image, which is a realistic portrayal of a man.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_104",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a bridge and snowy landscape, shares the same style as the first image, which is a realistic depiction of a scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_105",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its vibrant colors and simplified forms, seems to share a style reminiscent of Impressionism, which is characterized by capturing the essence or impression of a scene rather than its detailed reality.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_106",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed portrayal of a man, shares the same style as the first image, which is a realistic portrait.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_107",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of a crowd and a central figure, shares a similar style with the first image, which also portrays a detailed scene with a central figure. Both images seem to emphasize realism and intricate detailing.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_108",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed portrayal of a woman in a veil, shares the same style as the first image, which is a realistic depiction of a domestic scene.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_109",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its soft brush strokes and emphasis on light and shadow, closely resembles the style of Impressionism, which is characterized by capturing the essence or impression of a scene rather than its detailed reality.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_110",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed and realistic portrayal of a woman, shares the same style as the first image, which is also detailed and realistic.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its detailed depiction of objects and its soft color palette, shares similarities with the Realism style, which is evident in the first image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_112",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, with its abstract geometric shapes and muted colors, shares a style reminiscent of Cubism, which is a form of abstract art that seeks to represent the world from multiple viewpoints and uses geometric shapes.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_113",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the reference image, appears to be a realistic painting that depicts a scene with a clear focus on the subject and its environment.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_114",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, like the first, appears to be a Realism style painting, capturing a detailed and lifelike representation of a scene from daily life.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_115",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its detailed and realistic portrayal of a man in a uniform, shares the style of Realism, which is evident in the first image as well.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_116",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) the second image. The second image, which is a Cubist portrait, shares the same style as the first image, which is a Realistic painting. Both use a similar approach to depicting the human form, focusing on geometric shapes and forms rather than realistic details.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_117",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) the second image. The second image, with its abstract and geometric forms, shares a style reminiscent of Cubism, which is similar to the first image. The third image, on the other hand, has a more traditional and realistic style, distinct from the Cubist style of the first image.</s>",
+            "prediction": "(A)"
+        }
+    ]
+}

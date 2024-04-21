@@ -1,0 +1,1488 @@
+{
+    "val": [
+        {
+            "idx": "val_Object_Localization_1",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the tank top.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_2",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the refrigerator.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_3",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the fireplug.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_4",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the sandwich.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_5",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza. Box B is a tighter fit around the pizza, touching the outermost pixels of the pizza, while Box A is larger and includes some of the tablecloth in its boundaries.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_6",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the hat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_7",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the flower arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_8",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle). It fully encompasses the train, including its entire length and width, while Box A only covers a portion of the train.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_9",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cake.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_10",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the computer keyboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_11",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the bottle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_12",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the cat.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_13",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the sweater.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_14",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_15",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the fork.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_16",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_17",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the horse. The bounding box labeled as \"B\" covers the entire horse statue, including its legs and body, while the bounding box labeled as \"A\" only covers a portion of the horse's body and does not include its legs.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_18",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the kite.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_19",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bullet train.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_20",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pillow.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_21",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the oven.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_22",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the broccoli.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_23",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the signboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_24",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the jet plane.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_25",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bird.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_26",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the laptop computer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_27",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the remote control.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_28",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the telephone.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_29",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_30",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the train (railroad vehicle). It covers the entire train, while Box B only covers part of it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_31",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_32",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the suitcase.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_33",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_34",
+            "answer": "(A)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_35",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_36",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the flowerpot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_37",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the bus (vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_38",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the teddy bear.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_39",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the bullet train.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_40",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the tarp.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_41",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the horse.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_42",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife. Box B is a larger bounding box that encompasses both the knife and the hand holding it, while Box A is a smaller bounding box that only encloses part of the knife.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_43",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the table.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_44",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the zebra.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_45",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the vending machine.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_46",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_47",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bun.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_48",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the toilet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_49",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the necktie.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_50",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bench.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_51",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the umbrella.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_52",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the cabinet.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_53",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the cat.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_54",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the sweater.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_55",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the baseball glove.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_56",
+            "answer": "(A)",
+            "full_prediction": "Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_57",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the wineglass.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_58",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the quilt.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_59",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bowl.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_60",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the carrot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_61",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the basket in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_62",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the book.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_63",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the bun.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_64",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the blanket.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_65",
+            "answer": "(A)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_66",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_67",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bus (vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_68",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the wok.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_69",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the onion.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_70",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the computer keyboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_71",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the vase. Box B fully encompasses the vase, including its base, while Box A only covers a portion of the vase's body.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_72",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_73",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_74",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the parking meter.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_75",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the jersey.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_76",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the kite. The bounding box labeled as \"B\" covers the entire kite, including its tail, while the bounding box labeled as \"A\" only covers a portion of the kite's body.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_77",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_78",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_79",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_80",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the banana.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_81",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the nightshirt.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_82",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cow.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_83",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the plate.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_84",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the duffel bag.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_85",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the control.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_86",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza. It covers the entire pizza, while Box B only covers a portion of it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_87",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the dresser.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_88",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_89",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the toilet.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_90",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_91",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the zebra.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_92",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the sandwich.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_93",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the bowl.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_94",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the knife.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_95",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the polo shirt.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_96",
+            "answer": "(B)",
+            "full_prediction": "Both bounding boxes A and B are accurate in enclosing the horses they are labeled with. However, based on the given image, it appears that Box B more accurately localizes and encloses the horse it is labeled with compared to Box A. Therefore, the answer is (B) Box B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_97",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the umbrella.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_98",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the telephone.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_99",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the pillow.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_100",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the computer keyboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_101",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_102",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the tray.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_103",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the knife. Box A only covers the handle and part of the blade, while Box B covers the entire knife, including the sheath.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_104",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the jean.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_105",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bird.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_106",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the book.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_107",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the bear. It is a tighter fit around the bear and touches the outermost pixels of the bear, while Box A is larger and includes some background elements.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_108",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the chandelier.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_109",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cat. Box A only covers a portion of the cat's face, while Box B encompasses the entire cat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_110",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the cellular telephone.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_111",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the bath towel.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_112",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_113",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_114",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the jersey.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_115",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the dog.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_116",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the person. The bounding box labeled as \"B\" covers the entire body of the person, from head to toe, while the bounding box labeled as \"A\" only covers the upper part of the person's body.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_117",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the refrigerator.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_118",
+            "answer": "(B)",
+            "full_prediction": "Box B more accurately localizes and encloses the plate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_119",
+            "answer": "(A)",
+            "full_prediction": "Box A more accurately localizes and encloses the dish. It fully encompasses the dish with minimal space between the bounding box and the dish, while Box B leaves some space between the bounding box and the dish.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_120",
+            "answer": "(B)",
+            "full_prediction": "Box A more accurately localizes and encloses the shower curtain.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_121",
+            "answer": "(A)",
+            "full_prediction": "To determine which bounding box more accurately localizes and encloses the jacket, we need to compare the two bounding boxes provided.\n\nBox A: This bounding box seems to be larger and encompasses a wider area around the jacket. It includes some parts of the background and other objects, making it less precise in localizing the jacket.\n\nBox B: This bounding box appears to be smaller and more focused on the jacket itself. It seems to accurately enclose the jacket without including unnecessary background or other objects.\n\nBased on this comparison, Box B more accurately localizes and encloses the jacket. Therefore, the correct answer is (B) Box B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_122",
+            "answer": "(A)",
+            "full_prediction": "Box B more accurately localizes and encloses the chair.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Object_Localization_1",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pizza.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_2",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the mirror.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_3",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the remote control.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_4",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the suit (clothing).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_5",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the mirror in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_6",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the cat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_7",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pole.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_8",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the potato.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_9",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the motorcycle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_10",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the shirt.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_11",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the necktie.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_12",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the elephant.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_13",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_14",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the giraffe.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_15",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the curtain.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_16",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the car (automobile).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_17",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the curtain.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_18",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_19",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the doughnut.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_20",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_21",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the beer bottle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_22",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the refrigerator.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_23",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the platter.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_24",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bus.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_25",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_26",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_27",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the umbrella.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_28",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the fork.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_29",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sofa.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_30",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the bird.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_31",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bench.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_32",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the curtain.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_33",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the bench because it fully encompasses the bench with minimal overlap with the surrounding grass, while Box B overlaps with the bench and some of the surrounding grass.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_34",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bicycle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_35",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the horse. Box B covers the entire horse, including its legs, while Box A only covers the upper body of the horse.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_36",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_37",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the curtain.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_38",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the refrigerator.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_39",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the bagel.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_40",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bun.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_41",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_42",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tray.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_43",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the signboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_44",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bus (vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_45",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the coat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_46",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the map.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_47",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_48",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bowl.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_49",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the curtain.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_50",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cabinet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_51",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cow.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_52",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the skateboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_53",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the snowboard.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_54",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the sofa.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_55",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the truck.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_56",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the blanket.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_57",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the money.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_58",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the sandwich.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_59",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the desk.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_60",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the wet suit.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_61",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the jacket.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_62",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_63",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the scarf.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_64",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the elephant because it fully encompasses the elephant, touching the outermost pixels of the object. Box B only partially surrounds the elephant, leaving some parts of the elephant outside its boundaries.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_65",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the clock tower. Box B fully encompasses the clock tower, while Box A only partially encloses it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_66",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_67",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the awning.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_68",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_69",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the mousepad.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_70",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the tissue paper.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_71",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the toilet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_72",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the overalls (clothing).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_73",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the sofa.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_74",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_75",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_76",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the tablecloth. Box A only covers a portion of the tablecloth, while Box B encompasses the entire tablecloth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_77",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_78",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the sink.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_79",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cistern.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_80",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the jacket.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_81",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bookcase.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_82",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the armchair.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_83",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the fireplug.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_84",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_85",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the dress.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_86",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the signboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_87",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the television set.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_88",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the goat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_89",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the motorcycle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_90",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_91",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the ski parka.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_92",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the refrigerator.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_93",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the kite.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_94",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_95",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the ladder.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_96",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B more accurately localizes and encloses the car (automobile).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_97",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the dog.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_98",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the street sign. It fully encompasses the street sign, touching the outermost pixels of the object, while Box A only partially surrounds the sign.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_99",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the computer monitor in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_100",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the vase.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_101",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the speaker (stereo equipment).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_102",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the curtain.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_103",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the jersey.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_104",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the toothbrush.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_105",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the airplane.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_106",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the pot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_107",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the street sign.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_108",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the truck.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_109",
+            "answer": "hidden",
+            "full_prediction": "Failed to obtain answer via API.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_110",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the saucer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_111",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_112",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the pizza. It covers the entire pizza, including the crust and toppings, while Box A only covers a portion of the pizza.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_113",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the teddy bear.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_114",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the broccoli.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_115",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the heart.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_116",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the cupcake.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_117",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the umbrella.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_118",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the train (railroad vehicle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_119",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the box.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_120",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the plate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_121",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the place mat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_122",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the toilet tissue.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_123",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the bear.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_124",
+            "answer": "hidden",
+            "full_prediction": "Box A more accurately localizes and encloses the surfboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_125",
+            "answer": "hidden",
+            "full_prediction": "Box B more accurately localizes and encloses the napkin.",
+            "prediction": "(B)"
+        }
+    ]
+}

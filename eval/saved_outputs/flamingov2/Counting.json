@@ -1,0 +1,1446 @@
+{
+    "val": [
+        {
+            "idx": "val_Counting_1",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_2",
+            "answer": "(D)",
+            "full_prediction": "001",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_3",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_4",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_5",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_6",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_7",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff091",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_8",
+            "answer": "(B)",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_9",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_10",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_11",
+            "answer": "(B)",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_12",
+            "answer": "(B)",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_13",
+            "answer": "(A)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_14",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_15",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_16",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_17",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_18",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_19",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_20",
+            "answer": "(A)",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_21",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_22",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_23",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff096",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_24",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_25",
+            "answer": "(B)",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_26",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_27",
+            "answer": "(B)",
+            "full_prediction": "\t(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_28",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_29",
+            "answer": "(D)",
+            "full_prediction": "\uff08D\uff090",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_30",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_31",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_32",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_33",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_34",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_35",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_36",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_37",
+            "answer": "(D)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_38",
+            "answer": "(A)",
+            "full_prediction": "001",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_39",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_40",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_41",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_42",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff096",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_43",
+            "answer": "(B)",
+            "full_prediction": "001",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_44",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_45",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_46",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_47",
+            "answer": "(D)",
+            "full_prediction": "\uff08C\uff092",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_48",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_49",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_50",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_51",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_52",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_53",
+            "answer": "(A)",
+            "full_prediction": "\u00a0(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_54",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_55",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_56",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_57",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_58",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_59",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_60",
+            "answer": "(D)",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_61",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_62",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_63",
+            "answer": "(D)",
+            "full_prediction": "003",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_64",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_65",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_66",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_67",
+            "answer": "(D)",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_68",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_69",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_70",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_71",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff092",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_72",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_73",
+            "answer": "(B)",
+            "full_prediction": "\u00a04",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_74",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_75",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_76",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_77",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_78",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_79",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_80",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_81",
+            "answer": "(C)",
+            "full_prediction": "\t(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_82",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_83",
+            "answer": "(C)",
+            "full_prediction": "\uff08D\uff092",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_84",
+            "answer": "(A)",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_85",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_86",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_87",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_88",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_89",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_90",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_91",
+            "answer": "(B)",
+            "full_prediction": "\u00a0(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_92",
+            "answer": "(C)",
+            "full_prediction": "\u00a0(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_93",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_94",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_95",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_96",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_97",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_98",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_99",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_100",
+            "answer": "(D)",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_101",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_102",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_103",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_104",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_105",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_106",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_107",
+            "answer": "(C)",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_108",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_109",
+            "answer": "(B)",
+            "full_prediction": "\u00a0(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_110",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_111",
+            "answer": "(D)",
+            "full_prediction": "001",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_112",
+            "answer": "(B)",
+            "full_prediction": "\u00a04",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_113",
+            "answer": "(B)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_114",
+            "answer": "(A)",
+            "full_prediction": "(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_115",
+            "answer": "(D)",
+            "full_prediction": "\t(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_116",
+            "answer": "(A)",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_117",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_118",
+            "answer": "(D)",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_119",
+            "answer": "(C)",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_120",
+            "answer": "(A)",
+            "full_prediction": "001",
+            "prediction": "(D)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Counting_1",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_2",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_3",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_4",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_5",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_6",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_7",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff090",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_8",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_9",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_10",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_11",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_12",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_13",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_14",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_15",
+            "answer": "hidden",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_16",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_17",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_18",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_19",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_20",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_21",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_22",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_23",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_24",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_25",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff096",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_26",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff092",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_27",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_28",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_29",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff094",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_30",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_31",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_32",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_33",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_34",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_35",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_36",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_37",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_38",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_39",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_40",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_41",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff091",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_42",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_43",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_44",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_45",
+            "answer": "hidden",
+            "full_prediction": "001",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_46",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff090",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_47",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_48",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_49",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_50",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_51",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_52",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_53",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_54",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_55",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_56",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_57",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff091",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_58",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_59",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff092",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_60",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_61",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_62",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_63",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_64",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_65",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_66",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_67",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_68",
+            "answer": "hidden",
+            "full_prediction": "\u00a0(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_69",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_70",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff091",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_71",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff091",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_72",
+            "answer": "hidden",
+            "full_prediction": "\t(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_73",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff090",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_74",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_75",
+            "answer": "hidden",
+            "full_prediction": "\u00a06",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_76",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_77",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_78",
+            "answer": "hidden",
+            "full_prediction": "\t(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_79",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff091",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_80",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_81",
+            "answer": "hidden",
+            "full_prediction": "001",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_82",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff090",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_83",
+            "answer": "hidden",
+            "full_prediction": "001",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_84",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_85",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_86",
+            "answer": "hidden",
+            "full_prediction": "\t(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_87",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_88",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_89",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_90",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_91",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_92",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff095",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_93",
+            "answer": "hidden",
+            "full_prediction": "\t(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_94",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_95",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_96",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_97",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_98",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_99",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_100",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_101",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_102",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_103",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff093",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_104",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 6",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_105",
+            "answer": "hidden",
+            "full_prediction": "003",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_106",
+            "answer": "hidden",
+            "full_prediction": "001",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_107",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_108",
+            "answer": "hidden",
+            "full_prediction": "\t3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_109",
+            "answer": "hidden",
+            "full_prediction": "\uff08D\uff091",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_110",
+            "answer": "hidden",
+            "full_prediction": "\t(A) 5",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_111",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_112",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_113",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_114",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_115",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_116",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 4",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_117",
+            "answer": "hidden",
+            "full_prediction": "\uff08C\uff094",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_118",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_119",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_120",
+            "answer": "hidden",
+            "full_prediction": "\t(D) 3",
+            "prediction": "(D)"
+        }
+    ]
+}

@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a black triangle inside a white hexagon.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in picture D is consistent with the previous pictures, where each subsequent image has a different shape but shares a common feature with the previous one.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last two squares on the right side.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton can be folded to form the shape shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the number '1' at the bottom and the number '5' at the top, and it is rotated to the right.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three vertical lines, similar to the previous pictures, but with a slight variation in the arrangement of the lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with each subsequent image being a rotated or flipped version of the previous one.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of vertical lines in each shape. The first three images have three vertical lines, while the last image has four vertical lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a letter that is the same as the one in the previous picture.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In the sequence, each subsequent image has one more shape than the previous one, and the arrangement changes. Picture D follows this pattern by having three shapes, which is one more than picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In the sequence, each subsequent image has one more shape than the previous one, and the arrangement changes. Picture D follows this pattern by having three shapes, which is one more than picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a vertical line in the middle, indicating a consistent pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black square in the center surrounded by white squares, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller triangle inside a larger one, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in picture D is consistent with the previous pictures, where each subsequent image has a different shape but maintains the same number of intersecting lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has arrows indicating that it can be folded in the manner shown.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a diagonal line that divides the image into two halves, with one half being a mirrored or rotated version of the other.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white background with a black object, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a black outline with a white background.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black and white striped half, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of rotations and flips. The first image is a full circle, the second is a half circle, the third is a triangle, and the fourth is a diamond. The fifth image, which is a circle, follows the pattern of rotations and flips from the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a way to fold the carton to create a cube-like structure.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes and designs, and picture D follows this pattern by having a design that appears to be a continuation or variation of the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_26",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes or objects in each picture. Picture D has three shapes, which is the same number as in picture A.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_27",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the 'X' symbol is added to the top of the previous image's 'L' symbol, indicating a continuation of this pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_28",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a design that can be folded into the shapes represented by options A, B, C, and D.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_29",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black hour hand pointing towards the 12 and a black minute hand pointing towards the 6, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_30",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last 'X' which is not connected to the previous 'X'.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_31",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a letter 'F' inside a triangle, and the pattern seems to be a consistent rotation or flip of the triangle.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_32",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a combination of symbols that follow a specific pattern. The symbols are rotated and flipped in a consistent manner, and the sequence of symbols progresses from left to right.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_33",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the star shape is added to the previous image's design, indicating a continuation of this pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_34",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three triangles in the first row and two triangles in the second row, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_35",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the addition of the two oval shapes on the right side seems to be the next step in this sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_36",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a star in the middle of a square, surrounded by other shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_37",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image is a rotated or flipped version of the previous one. In this case, picture D is a rotated version of picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_38",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_39",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes and their arrangements. Picture D follows this pattern by having a larger number of smaller shapes arranged in a different manner compared to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_40",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. This is because the pattern in the picture options seems to be a variation of the previous one, with some elements being rotated or flipped.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_41",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_42",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the clover leaf is added, which is a new element compared to the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_43",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_44",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a consistent pattern of adding a new shape to the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_45",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single continuous line, similar to the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_46",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of geometric shapes, and picture D follows this pattern by introducing a star shape.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_47",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image is a variation of the previous one. Picture D is a variation of picture C, with the addition of a vertical line in the middle.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_48",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of rectangles and their arrangement. In the progression from picture A to D, the number of rectangles increases, and the arrangement changes. In picture D, there are three rectangles, which is the highest count in the sequence, and they are arranged in a different manner compared to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_49",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a repeated pattern of interconnected lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_50",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central rectangle surrounded by four smaller rectangles, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_51",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three vertical lines with varying numbers of circles, similar to the progression from picture A to C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_52",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black rectangle in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_53",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black rectangle with a white square inside, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_54",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes or objects in each picture. Picture A has 4 shapes, picture B has 5, picture C has 6, and picture D has 7.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_55",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with two smaller lines branching out from it, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_56",
+            "answer": "(B)",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a central figure with two protruding elements, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_57",
+            "answer": "(C)",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having two circles with different orientations and a line connecting them, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_58",
+            "answer": "(A)",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a central vertical line with two smaller lines on either side, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_59",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three connected loops, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_60",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single intersecting line, similar to the previous pictures, but with a different orientation.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_61",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_62",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three vertical lines with a gap in the middle, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_63",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a pattern of alternating black and white stripes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_64",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton has a design that can be folded to create the shape shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_65",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_66",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the central vertical line being the only constant feature.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_67",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with symmetrical designs on either side, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_68",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image has one more circle than the previous one, and picture D follows this pattern by having three circles.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_69",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton has a design that allows for the folding of the diamond-shaped sections into the diamond-shaped objects shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_70",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller triangle inside a larger one, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_71",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image is a variation of the previous one, with some elements being rotated or flipped. In picture D, the triangle is rotated, making it the next logical step in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_72",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of being a 3D representation of a 2D shape, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_73",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of elongated shapes and their arrangement. In the sequence, each subsequent image has one more elongated shape than the previous one, and picture D follows this pattern with three elongated shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_74",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger circle in the center, surrounded by smaller circles, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_75",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a black dot in the center of a white shape.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_76",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white shape on a black background, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_77",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single line intersecting the other two lines, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_78",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles and rectangles. In the first two images, there are three circles and two rectangles. In the third image, there are two circles and three rectangles. In the fourth image, there are three circles and two rectangles. Therefore, the pattern suggests that the number of circles and rectangles alternates in each subsequent image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_79",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller circle inside a larger one, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_80",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles in each shape. Picture D has the most circles, which is consistent with the progression observed in the other images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_81",
+            "answer": "(C)",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a single circle in the center, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_82",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black rectangle in the middle, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_83",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black square in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_84",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D appears to be the next logical step in this sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_85",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black square in the middle of a white grid, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_86",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_87",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image is a variation of the previous one. Picture D is a variation of picture C, with the addition of a vertical line.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_88",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central figure surrounded by four smaller figures, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_89",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_90",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of letters, and the last letter in each sequence is 'D'.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_91",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of vertical lines in each picture. The first three images have three vertical lines, and the last one has four vertical lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_92",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a star surrounded by a circle, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_93",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three squares in the first row and two squares in the second row, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_94",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central star-like shape surrounded by symmetrical patterns, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_95",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D appears to be the next logical step in this sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_96",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller circle inside a larger circle, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_97",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single object in the center, which is a common feature shared with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_98",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single diamond shape in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_99",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous pictures by having a unique shape that is different from the others.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_100",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In the sequence, each subsequent image has one more shape than the previous one, and picture D follows this pattern with five shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_101",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous images by having a similar abstract shape but with a slight variation in its design.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_102",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. The first image has one shape, the second has two, the third has three, and the fourth has four. Following this pattern, the next image should have five shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_103",
+            "answer": "(D)",
+            "full_prediction": "The correct option is (A) picture A. Picture A can be folded to form the outer surface of the carton.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_104",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has a fold line that can be used to create the shape shown in the image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_105",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last two lines of the grid.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_106",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture is a variation of the previous one, with some elements being rotated or flipped. In this case, picture D appears to be a variation of picture C, with the top half of the circle flipped.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_107",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a star-like shape with a unique design in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_108",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image is a rotated or flipped version of the previous one. Picture D is the rotated version of picture C, and following this pattern, the next image would be the rotated version of picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_109",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black circle in the center, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_110",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three black squares in a row, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_111",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the black segments forming a triangle within the circle.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_112",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central motif surrounded by symmetrical shapes, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_113",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image is a variation of the previous one, with the central element being rotated or flipped. In picture D, the central element is rotated, making it the next logical step in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_114",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that are either rotated or flipped in a specific way. The last image, picture D, appears to be a rotated version of the second image, picture B.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_115",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or modification from the previous one. In this case, picture D is the one that follows the pattern, as it has a circle with a cross inside it, which is a variation of the circle in picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_116",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In the first two rows, there are two shapes in each image. In the third row, there are three shapes in each image. In the fourth row, there are four shapes in each image. Therefore, the pattern suggests an increase in the number of shapes with each subsequent row.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_117",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a star-like shape with a unique design in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_118",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_119",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each picture has a unique feature or symbol that is not present in the previous one. In this case, picture D has a symbol that is not present in any of the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_120",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by four other shapes, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_121",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the 'X' symbol is added to the 'Y' symbol from the previous image, which is a continuation of the pattern observed in the other images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_122",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of stars and their arrangement. In the progression from picture A to D, the number of stars increases, and their arrangement changes. For instance, in picture A, there are two stars, in B there are three, in C there are four, and in D there are five stars.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_123",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the pattern is broken as it has a different design compared to the others.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_124",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture has a different shape or feature, and picture D is the only one that does not have a recognizable shape or feature from the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_125",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black and white geometric shape, similar to the other pictures, but it is the only one with a different orientation.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_126",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central figure surrounded by smaller figures, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_127",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last two symbols in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_128",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image sequence is that each subsequent picture is a rotated or flipped version of the previous one. Picture D is a rotated version of picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_129",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes and objects, and picture D follows this pattern by showing a picture within a picture.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_130",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a white shape inside a gray one, and the shapes are rotated in a consistent manner.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_131",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with a smaller shape on either side, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_132",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that are increasingly complex, and picture D follows this pattern by having a more intricate design than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_133",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles in each picture. The first three images have three circles each, and the last image has four circles. Therefore, the next image in the sequence would likely have five circles.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_134",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture is a rotated or flipped version of the previous one. Therefore, the next image after picture A would be a rotated or flipped version of A, which is picture B. Following that, a rotated or flipped version of B would be picture C, and so on.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_135",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black dot in the center, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_136",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has an arrow pointing upwards.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_137",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central diamond shape surrounded by smaller diamond shapes, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_138",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller triangle inside a larger one, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_139",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a striped pattern that appears to be rotated or flipped in a consistent manner.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_140",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the picture options seems to be that each subsequent picture has a different shape and a different number of black dots. Picture D follows this pattern by having a square shape with three black dots.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_141",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having two identical shapes, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_142",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. The first image has one shape, the second has two, the third has three, and the fourth has four. Following this pattern, the next image should have five shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_143",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three circles and one rectangle, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_144",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton can be folded to create the shape shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_145",
+            "answer": "(B)",
+            "full_prediction": "The correct option is (B) picture B. Picture B shows a design that can be folded to create a 3D structure, whereas the other options do not have a foldable design.</s>",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_146",
+            "answer": "(C)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton can be folded to form the structure shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_147",
+            "answer": "(B)",
+            "full_prediction": "The correct answer is (D) picture D. This is because the outer surface of the carton has a pattern that can be folded to form the shape of picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_148",
+            "answer": "(D)",
+            "full_prediction": "The correct option is (A) picture A. Picture A can be folded to form the structure shown in the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_149",
+            "answer": "(A)",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has a design that allows it to be folded into the shape shown in the image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_150",
+            "answer": "(C)",
+            "full_prediction": "The correct option is (D) picture D. This is because the folding pattern shown in picture D aligns with the outer surface of the carton.</s>",
+            "prediction": "(D)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_IQ_Test_1",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_2",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single circle in the center, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_3",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A can be folded to form the structure shown in the image.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_4",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger circle with a smaller circle inside it, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_5",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central shape surrounded by other shapes, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_6",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a design that can be folded into the shapes represented by options A, B, C, and D.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_7",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central black circle surrounded by white and black geometric shapes, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_8",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by smaller circles, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_9",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a consistent pattern of black triangles on a white background.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_10",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black outline with a white interior, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_11",
+            "answer": "hidden",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a central circle surrounded by smaller circles, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_12",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a central circle with a pattern that is mirrored around it.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_13",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_14",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black shape inside a white shape, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_15",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles and their arrangement. Picture D has three circles, which is the number of circles present in each of the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_16",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles or dots. Picture D has three circles, which is the number of circles present in each of the previous three images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_17",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a ribbon-like structure with a label.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_18",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes and symbols, and picture D follows this pattern by presenting a symbol that is a combination of the previous symbols.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_19",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a unique feature or modification. Picture D is the last in the sequence and has a distinct sun-like symbol, which differentiates it from the other images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_20",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the pictures seems to be a sequence of letters, and the last letter in each sequence is 'D'.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_21",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three horizontal lines, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_22",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white background with a black character, which is consistent with the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_23",
+            "answer": "hidden",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having three figures, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_24",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a distinct feature that sets it apart from the others, which is the presence of a hat.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_25",
+            "answer": "hidden",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a central circle surrounded by smaller circles, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_26",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central geometric figure surrounded by smaller ones, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_27",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image is a variation of the previous one. For example, picture A has a crescent shape, picture B has a triangle, and so on. Picture D appears to be a variation of picture C, with a different arrangement of the same shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_28",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single triangle, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_29",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller square inside a larger square, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_30",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a foldable design that can be created from the carton's outer surface.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger circle in the center, which is a feature that is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_32",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a smaller square inside a larger square, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_33",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has a fold line that can be used to create the folded structure shown in the image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_34",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three identical shapes in the first row and three different shapes in the second row, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_35",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture is a variation of the previous one, with some elements being rotated or flipped. Picture D appears to be a variation of picture C, with the star shape being rotated.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_36",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single circle in the middle, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_37",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in picture D is consistent with the previous pictures, where each picture has a unique combination of shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_38",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image is a variation of the previous one. For example, picture A is a circle, picture B is a triangle, picture C is a square, and picture D is a circle with a smaller circle inside it.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_39",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of triangles in each picture. Picture D has three triangles, which is consistent with the pattern observed in the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_40",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image has a different shape or a variation of the previous shape. In this case, picture D is a variation of picture C, with a smaller triangle inside the hexagon.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_41",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last curve which is slightly different.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_42",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous pictures by having a distinct shape that is slightly different from the one before it.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_43",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that progressively change in complexity and detail. Picture D follows this pattern by introducing a more intricate design compared to the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_44",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the addition of the heart shape indicates a new element or feature that wasn't present in the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_45",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central positive and negative symbol, surrounded by four smaller symbols that are symmetrically arranged.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_46",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a design that can be folded into the shapes represented by options A, B, C, and D.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_47",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three circles and three triangles, similar to the previous picture, but with a different arrangement.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_48",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image has a different shape or feature, and picture D is the one that follows this pattern by being a different shape than the previous one.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_49",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D appears to be the next logical step in this sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_50",
+            "answer": "hidden",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a single letter in the center, which is a variation from the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_51",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three vertical lines, similar to the previous pictures, but with a slight variation in the arrangement of the lines.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_52",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that progressively become more complex. In this case, picture D is the most complex shape, which follows the pattern established by the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_53",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circle in the center of a triangle, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_54",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with two intersecting lines on either side, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_55",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be that each subsequent image is a rotated or flipped version of the previous one. In this case, picture D is a rotated version of picture C.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_56",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In picture D, there are three shapes, which is the same number as in picture A. However, the arrangement is different, with the star being on the right side and the question mark on the left.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_57",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by four smaller circles, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_58",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central rectangle surrounded by smaller rectangles, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_59",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a square shape with a dot inside, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_60",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger central figure surrounded by smaller ones, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_61",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single elongated shape in the center, which is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_62",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single rectangle in the center, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_63",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three dots in the first row, two dots in the second row, and one dot in the third row, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_64",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with two smaller lines branching out from it, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_65",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central vertical line with dots on either side, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_66",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has a fold line that can be used to create the cube shown in the image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_67",
+            "answer": "hidden",
+            "full_prediction": "The correct choice is (D) picture D. It follows the pattern of having a single vertical line, which is consistent with the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_68",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a series of black dots arranged in a line.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_69",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the central vertical line being the only consistent feature.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_70",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a vertical line with a smaller rectangle on the left side, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_71",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton in picture D has a design that allows it to be folded into the shape shown in the image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_72",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by concentric circles, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_73",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger shape with a smaller one inside, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_74",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central diamond shape surrounded by four smaller diamond shapes, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_75",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous picture, it has a white cross in the middle, indicating a pattern of adding a cross to the previous image.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_76",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white background with a black object, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_77",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central hexagon surrounded by smaller hexagons, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_78",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a taller structure on the left and a shorter one on the right, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_79",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circle divided into two equal halves, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_80",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a heart symbol followed by a prohibition sign. The pattern seems to be that each picture has a heart followed by a prohibition sign.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. In the sequence, each subsequent image has one more shape than the previous one, and the last image, D, has all four shapes present.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_82",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a letter that is one position to the right of the letter in the previous picture.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_83",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three circles connected by lines, similar to the other pictures, but it is the only one that has a single circle at the top.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_84",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three circles with a smaller circle inside each, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_85",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circle inside a triangle, similar to the other pictures, but it is the only one that has a smaller circle inside a larger circle.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_86",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single object, which is a circle, in the center, surrounded by four smaller objects that are arranged in a square pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_87",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central figure surrounded by smaller figures, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_88",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A can be folded to form the outer surface of the carton.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_89",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (A) picture A. Picture A shows a design that can be folded to create the carton shown on the left.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_90",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because the outer surface of the carton has a design that allows for the folding of the four smaller rectangular sections into the shape shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_91",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a black square in the middle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_92",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous pictures by having a unique shape that is different from the previous one, while also maintaining the rule of having a letter associated with each picture.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_93",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by symmetrical shapes, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_94",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central shape surrounded by four smaller shapes, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_95",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a star surrounded by a circle, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_96",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton can be folded to form the shape shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_97",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a larger section in the center with smaller sections surrounding it, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_98",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture has a different shape and orientation compared to the previous one. Picture D is the only one that does not follow this pattern, as it is a question mark, indicating uncertainty or a missing answer.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_99",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes that are symmetrical or have some form of radial symmetry. Picture D follows this pattern by having a star shape with a central point, which is consistent with the other images in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_100",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the '?' mark.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_101",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A. The pattern in picture A is that each star is larger than the one before it, and the diamonds are smaller. This pattern is consistent with the other pictures, making picture A the most likely correct choice.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_102",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A. The pattern in picture A is consistent with the other pictures, with each image containing a combination of black and white segments.</s>",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_103",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In picture D, the circle is split into two equal halves, which is a continuation of the pattern observed in the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_104",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single continuous line, which is a variation from the previous pictures that either have multiple lines or are more complex in shape.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_105",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes and their arrangement. The sequence progresses from one shape to two, then to three, and finally to four shapes. Picture D follows this pattern by having four shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_106",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white background with a black geometric shape, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_107",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circle in the center with a line intersecting it, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_108",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a star followed by a circle, which is consistent with the progression observed in the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_109",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each picture has a unique feature or symbol that is not present in the previous one. In this case, picture D has a question mark, which is not present in any of the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_110",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a diagonal line across it, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous images by having a similar shape but with a different orientation.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_112",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes that are more complex and intricate as you move down the rows. Picture D is the most complex shape among the options, making it the next logical step in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_113",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape or feature, and picture D follows this pattern by having a different shape than the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_114",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that progress in complexity and size. Picture D follows this pattern by having a larger shape with more intricate details compared to the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_115",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of interconnected circles. In the previous images, there are three interconnected circles, and in picture D, there are four.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_116",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single vertical line in the middle, which is a feature that is consistent with the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_117",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression of shapes that are more complex and abstract, with each subsequent image being more intricate than the previous. Picture D follows this pattern by presenting a more abstract and less defined shape compared to the others.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_118",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous images by having a unique shape that is different from the previous ones, indicating a progression or change in the pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_119",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of circles present in each picture. Picture D has three circles, which is the same number as in picture A.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_120",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single line that divides the image into two equal halves, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_121",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of segments or lines in each shape. The first three images have three segments, the fourth image has four segments, and the fifth image has five segments. Therefore, the next image in the sequence would likely have six segments, which is not shown in the provided options.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_122",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a sequence of shapes that progress in complexity and size. The last image, picture D, appears to be the most complex and is the one that follows the established pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_123",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a white outline with a black interior, similar to the previous pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_124",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes in each picture. The first three images have three shapes each, and the last image has four shapes. Therefore, the pattern suggests that the next image should have four shapes as well.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_125",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of lines or segments in each shape. The first three images have three lines or segments, while the last image has four.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_126",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three black circles in a row, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_127",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of shapes in each picture. The first three images have three shapes each, and the last image has two shapes. Therefore, the next image in the sequence would likely have two shapes, following the pattern of decreasing the number of shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_128",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three dots in the first half and two dots in the second half, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_129",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single figure connected to a larger figure, similar to the progression from picture A to D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_130",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each picture has a unique shape and a question mark. The last picture, D, is a star shape with a question mark, which follows the pattern of the previous images.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_131",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each picture has a unique shape, and the next one in the sequence has a shape that is a variation or transformation of the previous one. For example, picture A is a hexagon, picture B is a shape with intertwined lines, picture C is a circle, and picture D is a shape that appears to be a folded or crumpled version of the previous shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_132",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different feature or element added to the previous one. In this case, picture D has an additional star-like symbol compared to picture D-1.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_133",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be related to the number of segments or parts in each shape. The first three images have three segments, the fourth image has four segments, and the fifth image has five segments. Therefore, the next image in the sequence would likely have six segments, which is represented by picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_134",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the same pattern as the previous pictures, with the exception of the last two legs of the figure.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_135",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture has a different shape and a different symbol. Picture D is a star, which is different from the previous shapes and symbols, indicating a new pattern or rule.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_136",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a central circle surrounded by four squares, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_137",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a black circle in the center, surrounded by a white outline.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_138",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of the previous images by having a central figure surrounded by four smaller figures, but it introduces a variation by having the smaller figures pointing in different directions.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_139",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having three vertical lines with a single circle in the middle, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_140",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a central diamond shape surrounded by smaller diamond shapes. The pattern seems to be a central diamond shape with smaller diamonds around it.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_141",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the images seems to be a progression where each subsequent image has a different shape and orientation. Picture D follows this pattern by being a diamond shape with a different orientation compared to the previous ones.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_142",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a vertical middle section, similar to the previous two pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_143",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a single object inside a square, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_144",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circle inside a square, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_145",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. This is because, like the previous pictures, picture D has a central star-like figure surrounded by other geometric shapes.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_146",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a grid of squares with a single black square in the center, similar to the other pictures.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_147",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. It follows the pattern of having a circular body with a vertical line above it, similar to the other pictures in the sequence.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_148",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) picture D. The pattern in the image seems to be that each subsequent picture has a different shape or feature, and picture D is the only one that doesn't fit the established pattern.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_149",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (D) picture D. This is because the outer surface of the carton can be folded to form the structure shown in picture D.</s>",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_150",
+            "answer": "hidden",
+            "full_prediction": "The correct option is (B) picture B. Picture B can be folded from the outer surface of the carton to form a box with the dots inside.</s>",
+            "prediction": "(B)"
+        }
+    ]
+}

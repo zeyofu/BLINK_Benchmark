@@ -12,6 +12,14 @@ def encode_image(image_path):
 
 
 def query_gpt4v(image_paths, prompt, retry=10):
+    """
+    Query the GPT-4 Vision model with the prompt and a list of image paths. The temperature is set to 0.0 and retry is set to 10 if fails as default setting.
+
+    Parameters:
+    - image_paths: List of Strings, the path to the images.
+    - prompt: String, the prompt.
+    - retry: Integer, the number of retries.
+    """
     base64_images = [encode_image(image_path) for image_path in image_paths]
 
     for r in range(retry):

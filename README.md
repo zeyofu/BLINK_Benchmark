@@ -1,7 +1,7 @@
 # BLINK<img src="assets/blink-removebg-preview.png" width="40" />
 This repo contains evaluation code for the paper "BLINK: Multimodal Large Language Models Can See but Not Perceive"
 
-[**🌐 Homepage**](https://zeyofu.github.io/blink/) | [**🤗 Dataset**](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) | [**🤗 Paper**](https://arxiv.org/abs/2404.12390.pdf) | [**📖 arXiv**](https://arxiv.org/abs/2404.12390) | [**🔗Evaluation (Coming soon)**](?)
+[**🌐 Homepage**](https://zeyofu.github.io/blink/) | [**🤗 Dataset**](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) | [**📑 Paper**](https://arxiv.org/abs/2404.12390.pdf) | [**💻 Code**](https://arxiv.org/abs/2404.12390.pdf) | [**📖 arXiv**](https://arxiv.org/abs/2404.12390) | [**🔗EvalAI (Coming soon)**](?)
 
 
 
@@ -60,7 +60,7 @@ Please refer to our [eval](eval)
 | Random Choice              |     38.1    |     38.1     |
 
 
-🎯 **We have released a full suite comprising 1,973 [validation samples](https://huggingface.co/datasets/BLINK-Benchmark/BLINK), the [prompt](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) we used, and [model predictions](example_outputs) on the validation sets. However, the 2,005 test questions are available without their answers.** You can submit your model's predictions for the **test set** on **[EvalAI](?)**.
+🎯 **We have released a full suite comprising 1,973 [validation samples](https://huggingface.co/datasets/BLINK-Benchmark/BLINK), the [prompt](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) we used, and [model predictions](eval/example_outputs) for the baselines tested in our paper. However, the 2,005 test questions are available without their answers.** You can submit your model's predictions for the **test set** on **[EvalAI](?)**.
 
 ## Disclaimers
 Blink makes use of data from existing image datasets, and does not cover all the visual perception abilities in the wild. For the forensics detection task, we manually collected images that are publicly available from online search. We have made every effort to ensure that the images included in this paper are used in accordance with applicable copyright laws and are properly credited. However, if you are the copyright owner of any image included in our work and believe that its use conflicts with your licensing agreements, please [contact](#contact) us directly. We are committed to addressing any legitimate concerns promptly.
@@ -75,5 +75,10 @@ Blink makes use of data from existing image datasets, and does not cover all the
 
 **BibTeX:**
 ```bibtex
-adding soon
+@article{fu2024blink,
+  title={BLINK: Multimodal Large Language Models Can See but Not Perceive},
+  author={Fu, Xingyu and Hu, Yushi and Li, Bangzheng and Feng, Yu and Wang, Haoyu and Lin, Xudong and Roth, Dan and Smith, Noah A and Ma, Wei-Chiu and Krishna, Ranjay},
+  journal={arXiv preprint arXiv:2404.12390},
+  year={2024}
+}
 ```
