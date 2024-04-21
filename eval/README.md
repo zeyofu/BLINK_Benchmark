@@ -4,7 +4,7 @@ To execute our evaluation script, please ensure that the structure of your model
 
 Specifically, we provide 
 - An example model inference file including data loading and task-specific output saving.
-- The evaluation code, the code that turns task-specific model outputs into final evaluation format, and the validation set answers.
+- The evaluation code.
 
 ## Saved Baseline Predictions
 For fostering future research, **we release the full suite of [model predictions](saved_outputs) on both validation and test sets for the baselines tested in our paper.** 
