@@ -3,7 +3,7 @@ We provide detailed instructions for evaluation.
 To execute our evaluation script, please ensure that the structure of your model outputs is the same as ours.
 
 Specifically, we provide 
-- An example model inference file including data loading and task-specific output saving.
+- An example model inference file including data loading and subtask-specific output saving.
 - The evaluation code.
 
 ## Saved Baseline Predictions
@@ -16,17 +16,18 @@ Basically, it
 - loads the dataset
 - conducts model inference (supported in `query_model.py`)
 - extracts the answer choices from model outputs (supported in `multiple_choice.py`)
-- saves task-specific outputs to a output folder.
+- saves subtask-specific outputs to an output folder.
 
-`test_benchmark.py` currently only supports the model GPT4V(ision), and you will need to replace `model_generate_funcs` for any new model that you'd like to test on. 
+`test_benchmark.py` only supports the model GPT4V(ision). Feel free to replace [`model_generate_funcs`](https://github.com/zeyofu/BLINK_Benchmark/blob/main/eval/test_benchmark.py#L167) for any new model that you'd like to test on. 
 
 Example call:
 ```
 python test_benchmark.py --model_name GPT4V --task_name all
 ```
+where `task_name` is either `all` (evaluates on all subtasks), or one of the subtasks in: `['Art_Style', 'Functional_Correspondence', 'Multi-view_Reasoning', 'Relative_Reflectance', 'Visual_Correspondence', 'Counting', 'IQ_Test', 'Object_Localization', 'Semantic_Correspondence', 'Visual_Similarity', 'Forensic_Detection', 'Jigsaw', 'Relative_Depth', 'Spatial_Relation']`.
 
 ### Output folder structure
-Saved model output folder include task-specific json files, as in the following format:
+Saved model output folder includes task-specific json files, as in the following structure:
 
 ```
 └── model_name (e.g. GPT4V)
@@ -54,13 +55,17 @@ where each `sub-task_name.json` file follows the format:
             "full_prediction": "The first image is representative of Cubism, an art movement where objects are broken up, analyzed, and re-assembled in an abstracted form...\n\nTherefore, the image that shares the same style as the reference image (Cubism) is:\n\n(A) the second image.",
             "prediction": "(A)"
         },
+        ...
+    ]
+}
 ```
 
-*Notice that we release the full model predictions in [saved_outputs](saved_outputs) for the baselines tested in our paper.*
+*Notice that we release the model predictions in [saved_outputs](saved_outputs) for the baselines tested in our paper.*
 
 ### Evaluation
 
-We use `evaluate.py` to turn the task-specific outputs in *one final prediction file*, and evaluates the file on the validation set. 
+We use `evaluate.py` to turn the task-specific outputs into *one single final prediction file*, and evaluate the file for task-specific and total accuracies. 
+
 The final prediction file is in the following format:
 ```
 {
@@ -68,10 +73,9 @@ The final prediction file is in the following format:
     "val_Spatial_Relation_29": "(B)",
     ...
 }
-
 ```
 
-*The final predictions for the baselines tested in our paper can be found at [saved_val_predictions](saved_val_predictions) and [saved_test_predictions](saved_test_predictions).*
+*Notice that the final prediction files for the baselines tested in our paper are released at [saved_val_predictions](saved_val_predictions) and [saved_test_predictions](saved_test_predictions).*
 
 ### Validation Set Evaluation
 Example call:
