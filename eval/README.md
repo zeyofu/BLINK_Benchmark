@@ -62,7 +62,7 @@ where each `sub-task_name.json` file follows the format:
 
 *Notice that we release the model predictions in [saved_outputs](saved_outputs) for the baselines tested in our paper.*
 
-### Evaluation
+## Evaluation
 
 We use `evaluate.py` to turn the task-specific outputs into *one single final prediction file*, and evaluate the file for task-specific and total accuracies. 
 
