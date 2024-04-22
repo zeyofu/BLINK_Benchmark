@@ -34,6 +34,7 @@ where `SUBTASK_NAME` is one of the subtasks: `['Art_Style', 'Functional_Correspo
 ## Evaluation
 Please refer to our [eval](eval)
  folder for more details.
+ 
 <img src="assets/radar_v1.png" width="400" />
 
 ## 🏆 Mini-Leaderboard
