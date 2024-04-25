@@ -61,7 +61,7 @@ Please refer to our [eval](eval)
 | Random Choice              |     38.1    |     38.1     |
 
 
-🎯 **We have released a full suite comprising 1,901 [validation samples](https://huggingface.co/datasets/BLINK-Benchmark/BLINK), the [prompt](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) we used, and [model predictions](eval/example_outputs) for the baselines tested in our paper. However, the 1,907 test questions are available without their answers.** You can submit your model's predictions for the **test set** on **[EvalAI](https://eval.ai/web/challenges/challenge-page/2287/overview)**.
+🎯 **We have released a full suite comprising 1,901 [validation samples](https://huggingface.co/datasets/BLINK-Benchmark/BLINK), the [prompt](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) we used, and [model predictions](eval/saved_outputs) for the baselines tested in our paper. However, the 1,907 test questions are available without their answers.** You can submit your model's predictions for the **test set** on **[EvalAI](https://eval.ai/web/challenges/challenge-page/2287/overview)**.
 
 ## Disclaimers
 Blink makes use of data from existing image datasets, and does not cover all the visual perception abilities in the wild. For the forensics detection task, we manually collected images that are publicly available from online search. We have made every effort to ensure that the images included in this paper are used in accordance with applicable copyright laws and are properly credited. However, if you are the copyright owner of any image included in our work and believe that its use conflicts with your licensing agreements, please [contact](#contact) us directly. We are committed to addressing any legitimate concerns promptly.

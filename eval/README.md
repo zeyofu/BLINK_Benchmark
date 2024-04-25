@@ -9,7 +9,7 @@ Specifically, we provide
 ## Saved Baseline Predictions
 For fostering future research, **we release the full suite of [model predictions](saved_outputs) on both validation and test sets for the baselines tested in our paper.** 
 
-Notice that for the data entry in model predictions such as [this](eval/saved_outputs/GPT4V/Counting.json), ```full_prediction``` means the raw model output before answer extraction, and ```prediction``` means the extracted answer choice that is used for final evaluation.
+Notice that for the data entry in model predictions such as [this](saved_outputs/GPT4V/Counting.json), ```full_prediction``` means the raw model output before answer extraction, and ```prediction``` means the extracted answer choice that is used for final evaluation.
 
 
 ## Data Loading, Model Inference, and Output Saving
