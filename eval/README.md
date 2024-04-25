@@ -85,4 +85,4 @@ python evaluate.py
 Feel free to change `model_name` to your custom model name.
 
 ### Test Set Evaluation
-You can submit your model's final prediction file for the **test set** to **[EvalAI](?)**.
+You can submit your model's final prediction file for the **test set** to **[EvalAI](https://eval.ai/web/challenges/challenge-page/2287/overview)**.
