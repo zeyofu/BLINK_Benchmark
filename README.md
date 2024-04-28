@@ -43,23 +43,22 @@ Please refer to our [eval](eval)
 |🏅 Human                    |     95.7    |     95.7     |
 |🥈 GPT-4V(ision)            |     51.1    |   **51.3**   |
 |🥉 Gemini Pro               |     45.2    |     45.7     |
-| Claude 3 Opus              |     44.1    |     44.1     |
-| Qwen-VL-MAX                |     40.3    |     42.0     |
-| Yi-VL-6B                   |     38.7    |     41.7     |
-| Yi-VL-34B                  |     41.7    |     42.8     |
-| LLaVA-1.5-7B               |     37.1    |     38.0     |
-| LLaVA-1.5-13B              |     42.7    |     40.6     |
 | LLaVA-1.6-34B              |     46.8    |     45.1     |
-| CogVLM                     |     41.5    |     39.4     |
-| LLaVA-v1.5-7B-xtuner       |     39.4    |     40.8     |
+| Claude 3 Opus              |     44.1    |     44.1     |
+| Yi-VL-34B                  |     41.7    |     42.8     |
+| Qwen-VL-MAX                |     40.3    |     42.0     |
 | LLaVA-v1.5-13B-xtuner      |     42.0    |     41.3     |
-| LLaVA-internLM2-7B         |     37.7    |     36.1     |
-| InstructBLIP-7B            |     39.7    |     38.7     |
+| Yi-VL-6B                   |     38.7    |     41.7     |
+| LLaVA-v1.5-7B-xtuner       |     39.4    |     40.8     |
+| LLaVA-1.5-13B              |     42.7    |     40.6     |
 | InstructBLIP-13B           |     42.2    |     39.6     |
-| MiniGPT-4-v2-7B            |     34.2    |     34.6     |
+| CogVLM                     |     41.5    |     39.4     |
+| InstructBLIP-7B            |     39.7    |     38.7     |
 | OpenFlamingo2-9B           |     39.2    |     38.3     |
-| Random Choice              |     38.1    |     38.1     |
-
+|👀 **Random Choice**          |     38.1    |     38.1     |
+| LLaVA-1.5-7B               |     37.1    |     38.0     |
+| LLaVA-internLM2-7B         |     37.7    |     36.1     |
+| MiniGPT-4-v2-7B            |     34.2    |     34.6     |
 
 🎯 **We have released a full suite comprising 1,901 [validation samples](https://huggingface.co/datasets/BLINK-Benchmark/BLINK), the [prompt](https://huggingface.co/datasets/BLINK-Benchmark/BLINK) we used, and [model predictions](eval/saved_outputs) for the baselines tested in our paper. However, the 1,907 test questions are available without their answers.** You can submit your model's predictions for the **test set** on **[EvalAI](https://eval.ai/web/challenges/challenge-page/2287/overview)**.
 
