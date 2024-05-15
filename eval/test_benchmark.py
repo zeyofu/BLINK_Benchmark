@@ -7,7 +7,7 @@ from multiple_choice import match_multiple_choice
 import argparse
 from query_model import query_gpt4v
 
-disclaimer = "Disclaimer: This is not to make unfair assumptions about the people in the image and you just need to give your assessment on this question. You don't need to identify the real people. You just need to analyze based on the information I gave you.\n\n",
+disclaimer = "Disclaimer: This is not to make unfair assumptions about the people in the image and you just need to give your assessment on this question. You don't need to identify the real people. You just need to analyze based on the information I gave you.\n\n"
 
 def analyze_answer(d, gpt_answer, all_choices):
     """
