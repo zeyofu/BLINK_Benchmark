@@ -41,7 +41,9 @@ Please refer to our [eval](eval)
 | Model                      | Val (1,901) | Test (1,907) |
 |----------------------------|:-----------:|:------------:|
 |🏅 Human                    |     95.7    |     95.7     |
-|🥈 GPT-4V(ision)            |     51.1    |   **51.3**   |
+|🥈 GPT-4o                   |     60.0    |   **59.0**   |
+|🥈 GPT-4 Turbo              |     54.6    |     53.9     |
+|🥈 GPT-4 (preview)          |     51.1    |     51.3     |
 |🥉 Gemini Pro               |     45.2    |     45.7     |
 | LLaVA-1.6-34B              |     46.8    |     45.1     |
 | Claude 3 Opus              |     44.1    |     44.1     |
@@ -55,7 +57,7 @@ Please refer to our [eval](eval)
 | CogVLM                     |     41.5    |     39.4     |
 | InstructBLIP-7B            |     39.7    |     38.7     |
 | OpenFlamingo2-9B           |     39.2    |     38.3     |
-|👀 **Random Choice**          |     38.1    |     38.1     |
+|👀 **Random Choice**        |     38.1    |     38.1     |
 | LLaVA-1.5-7B               |     37.1    |     38.0     |
 | LLaVA-internLM2-7B         |     37.7    |     36.1     |
 | MiniGPT-4-v2-7B            |     34.2    |     34.6     |
