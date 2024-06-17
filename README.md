@@ -44,7 +44,7 @@ Please refer to our [eval](eval)
 |🥈 GPT-4o                   |     60.0    |   **59.0**   |
 |🥉 GPT-4 Turbo              |     54.6    |     53.9     |
 | GPT-4 (vision preview)   |     51.1    |     51.3     |
-| Gemini Pro               |     45.2    |     45.7     |
+| Gemini Pro 1.0              |     45.2    |     45.7     |
 | LLaVA-1.6-34B              |     46.8    |     45.1     |
 | Claude 3 Opus              |     44.1    |     44.1     |
 | Yi-VL-34B                  |     41.7    |     42.8     |
