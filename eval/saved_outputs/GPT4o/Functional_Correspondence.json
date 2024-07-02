@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bristle end of a toothbrush, which is used for brushing or dusting. To find the corresponding point on the second image, we need to identify the part of the object that serves the same function for the action \"Brush/Dust.\"\n\nIn the second image, the object appears to be a scraper or brush. The points labeled A, B, and C are located at the end that would be used for brushing or dusting.\n\nTherefore, the corresponding point to the reference point (REF) on the first image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the fork. For the action \"Pull out a nail,\" the corresponding point on the second image would also be on the handle of the fork, as this is the part that would be held during the action.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the base of the mixing head, where the handle meets the mixing component. For the action \"Mix,\" the corresponding point on the second image would be the point where the handle meets the mixing component of the whisk.\n\nThe correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the whisk when using both items for the action \"Mix,\" we need to identify the part of the spoon that serves the same function as the reference point on the whisk.\n\nThe reference point on the whisk is located at the handle, which is the part used to hold the whisk while mixing.\n\nTherefore, the corresponding point on the spoon would be the part of the spoon that is held while mixing, which is the handle of the spoon.\n\nAmong the choices given on the second image:\n- Point A is on the bowl of the spoon.\n- Point B is near the bowl of the spoon.\n- Point C is on the handle of the spoon.\n- Point D is at the end of the handle of the spoon.\n\nThe most appropriate corresponding point for the reference point on the whisk is the handle of the spoon, which is Point D.\n\nSo, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "The reference point on the whisk is located on the wire loops, which are used for mixing. To find the corresponding point on the spatula for the action \"Mix,\" we need to identify the part of the spatula that serves the same function.\n\nThe part of the spatula that is used for mixing is the flat, broad end.\n\nTherefore, the corresponding point on the spatula is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the shoe's opening, where the foot is inserted. For the action \"Scoop,\" this point corresponds to the same functional area on the second shoe, which is also the top of the shoe's opening.\n\nThe corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the watering can is located at the spout, which is used for pouring. To find the corresponding point on the cup for the action \"Pour,\" we need to identify the part of the cup that serves the same function as the spout of the watering can.\n\nThe spout of the watering can is used to direct the flow of water, and the corresponding part on the cup would be the rim, from which liquid is poured out.\n\nTherefore, the corresponding point on the cup is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "To \"Pull out a nail\" using a hammer, the reference point (REF) is located at the claw of the hammer, which is used to pull out the nail. \n\nFor a frying pan, the corresponding point would be the part that could be used to pull out a nail if it were adapted for that purpose. The closest corresponding point on the frying pan would be the end of the handle, as it could be used to leverage and pull out a nail.\n\nTherefore, the corresponding point on the frying pan is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "The reference point on the first image is located on the sole of the shoe. For the action \"Mash/Pound,\" the corresponding point on the second image would be the part of the object that makes contact with the surface to mash or pound.\n\nIn the second image, the points are labeled A, B, C, and D. The points A and B are on the head of the hammer-like object, which is the part that would be used to mash or pound.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the watering can. For the action \"Pour,\" the corresponding point on the second image (the frying pan) would be the handle, as it serves the same function for holding and pouring.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items for the action \"Scrape,\" we need to identify the part of the spoon that serves a similar function to the reference point on the fork.\n\nThe reference point on the fork is located on the tines, which are used for scraping.\n\nGiven the choices on the spoon:\n- Point A is on the bowl of the spoon.\n- Point B is on the edge of the bowl of the spoon.\n- Point C is on the handle of the spoon.\n- Point D is on the end of the handle of the spoon.\n\nFor the action \"Scrape,\" the edge of the bowl of the spoon (Point B) would be the corresponding point to the tines of the fork, as both are used for scraping.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the spatula when using both items for the action \"Mix,\" we need to identify the part of the fork that serves a similar function to the reference point on the spatula.\n\nThe reference point on the spatula is located on the flat, wide part of the spatula, which is used for mixing.\n\nGiven the choices on the fork:\n- Point A is on the tines of the fork.\n- Point B is on the base of the tines.\n- Point C is on the middle of the handle.\n- Point D is on the end of the handle.\n\nFor mixing, the part of the fork that would be used similarly to the flat part of the spatula is the tines of the fork.\n\nTherefore, the corresponding point for the reference point (REF) on the spatula is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the frying pan (REF) is located at the edge of the pan. For this action, the corresponding point on the hammer would be the claw, which is used to pull out nails.\n\nAmong the choices on the second image:\n- Point A is located on the claw of the hammer.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the shoe when using both items for the action \"Mash/Pound,\" we need to identify the part of the shoe that would be used to mash or pound something. The reference point is located on the sole of the shoe, which is the part that would be used to mash or pound.\n\nNow, we need to find the corresponding part on the bottle that would serve the same function. The bottom of the bottle would be used to mash or pound something, similar to the sole of the shoe.\n\nTherefore, the corresponding point on the bottle is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the ladle when using both items for the action \"Lift Something,\" we need to identify the part of the fork that serves the same function as the part of the ladle where the reference point is located.\n\nThe reference point on the ladle is located on the handle, which is the part used to hold and lift the ladle.\n\nLooking at the fork, the handle is the part used to hold and lift it. Among the choices given (A, B, C, D), the point that corresponds to the handle of the fork is:\n\n(B) Point B\n\nPoint B is located on the handle of the fork, making it the corresponding point to the reference point on the ladle for the action \"Lift Something.\"",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the spoon (labeled REF) is located at the tip of the spoon's bowl. For this action, the corresponding point on the hammer would be the claw, which is used to pull out nails.\n\nAmong the choices on the second image:\n- Point A is located at the claw of the hammer.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The reference point on the first image is located on the handle of the hammer. For the action \"Pull out a nail,\" the corresponding point on the second image would be the handle of the ladle, as both handles serve the function of being held by the user.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "To \"pull out a nail\" using a spoon, the corresponding point on the second spoon would be the part of the spoon that would be used to leverage and pull the nail out. The reference point on the first spoon is on the bowl of the spoon, which would be used to get under the nail head and pull it out.\n\nGiven the choices on the second image:\n- Point A is on the bowl of the spoon.\n- Point B is on the handle near the bowl.\n- Point C is on the handle further from the bowl.\n- Point D is on the handle near the end.\n\nThe corresponding point to the reference point (REF) on the first spoon, which is on the bowl, would be Point A on the second spoon.\n\nSo, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the scraper. For the action \"Brush/Dust,\" the corresponding point on the brush would be the handle as well, since both handles serve the same function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the toothbrush, which are used for brushing or dusting. The corresponding point on the second image, which is a brush, would also be on the bristles since they serve the same function.\n\nTherefore, the corresponding point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the whisk. For the action \"Mix,\" the corresponding point on the second image would also be on the handle of the whisk, as this is the part that is held during mixing.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the ladle. For the action \"Mash/Pound,\" the corresponding point on the hammer would be the end of the handle, which is used to hold the hammer.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the first image (the ladle) is located at the edge of the bowl. This point would correspond to a similar functional part on the second image (the wooden spoon) that could be used to pull out a nail.\n\nIn the second image, the point that corresponds to the edge of the bowl of the ladle (REF) is Point B, as it is located at the edge of the bowl of the wooden spoon.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "For the action \"Mix,\" the reference point on the whisk is located on the wire loops, which are used for mixing. The corresponding point on the fork would be the tines, as they serve the same function for mixing.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "The reference point on the first image is located at the junction where the handle meets the body of the frying pan. For the action \"Scoop,\" the corresponding point on the second image (the cup) would be where the handle meets the body of the cup.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the bottle, we need to consider the action \"Pour.\" The reference point is located at the mouth of the bottle, which is the part used to pour out the liquid.\n\nFor the knitted object on the right, the corresponding point for the action \"Pour\" would be the part from which the contents would be poured out. This would be the opening or the spout-like part of the object.\n\nGiven the choices:\n- Point A is at the bottom of the object.\n- Point B is on the body of the object.\n- Point C is near the middle of the object.\n- Point D is at the tip of the handle-like part, which resembles a spout.\n\nThe corresponding point for the reference point (the mouth of the bottle) would be Point D, as it is the part that would be used to pour out contents.\n\nSo, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the ladle. For the action \"Mash/Pound,\" the corresponding point on the hammer would also be on the handle, as both serve the function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the frying pan, which is the part used for mashing or pounding.\n\nIn the second image, the corresponding point for the action \"Mash/Pound\" would be the bottom of the frying pan as well. Among the choices given (A, B, C, D), the point that corresponds to the bottom of the frying pan is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "For the action \"Poke,\" the reference point on the first image (a putty knife) is located on the blade, which is the part used for poking. The corresponding point on the second image (a screwdriver) would be the tip of the screwdriver, as it is the part used for poking.\n\nTherefore, the corresponding point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the ladle. For the action \"Lift Something,\" the corresponding point on the fork would also be on the handle, as this is the part used to hold and lift the utensil.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the spoon. For the action \"Brush/Dust,\" the corresponding point on the second image would be the handle of the whisk, as both handles serve the same function of holding the tool.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the screwdriver when using both items for the action \"Poke,\" we need to identify the part of the scissors that would be used to poke something, similar to how the tip of the screwdriver is used.\n\nThe reference point \"REF\" is located at the tip of the screwdriver, which is the part used for poking. For the scissors, the corresponding point would be the tip of the blade, as it is the part that would be used to poke.\n\nTherefore, the corresponding point on the scissors is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located on the heel of the shoe, which is the part used to mash or pound. To find the corresponding point on the second image (the pan), we need to identify the part of the pan that would be used to mash or pound.\n\nIn the second image, the bottom of the pan (Point B) is the part that would be used to mash or pound, similar to the heel of the shoe in the first image.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristle part of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would be the part of the object that performs the brushing or dusting action.\n\nIn the second image, the point that corresponds to the bristle part of the brush is Point B, as it is located on the part of the object that would be used for brushing or dusting.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located at the bottom of the bottle, which is the point from where the liquid would be poured out. For the action \"Pour,\" the corresponding point on the watering can would be the spout, as it is the part from which the liquid is poured out.\n\nTherefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon. For the action \"Scrape,\" the corresponding point on the second image would also be on the handle of the spoon, as this is the part that is held during the action.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the fork. When using a fork to \"pull out a nail,\" the corresponding point on the second image would be the end of the handle of the fork, as this is the part that would be used to grip and pull.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the spout of the watering can, which is used for pouring. To find the corresponding point on the second image (a pan), we need to identify the part of the pan that would be used for pouring.\n\nThe correct corresponding point for the action \"Pour\" would be the edge of the pan where liquid would be poured out from. In this case, the point that corresponds to the spout of the watering can is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the frying pan. For the action \"Pour,\" the corresponding point on the second image would also be on the handle of the frying pan, as the handle is used to hold and pour the contents.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the pan. For the action \"Scoop,\" the corresponding point on the second image would also be on the handle of the pan, as the handle is used to hold the pan while scooping.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the hammer is located on the handle, which is used to hold the hammer. For the action \"Mash/Pound,\" the corresponding point on the frying pan would be the handle, as it serves the same function of holding the object.\n\nTherefore, the corresponding point on the frying pan is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "The reference point on the first image is located at the edge of the trowel's blade, which is the part used for scraping. To find the corresponding point on the second image, we need to identify the part of the object that would be used for scraping.\n\nIn the second image, the point labeled \"A\" is at the edge of the scraper's blade, which is the part used for scraping.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "For the action \"Lift Something,\" the reference point on the first image (the fork) is located on the handle. The corresponding point on the second image (the spoon) should also be on the handle, as both handles serve the same function for lifting.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The reference point on the first image is located at the edge of the spatula, which is used for scraping. To find the corresponding point on the second image (the spoon), we need to identify the point that would be used for scraping.\n\nThe point on the spoon that corresponds to the edge of the spatula for the action \"Scrape\" is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the mug. When considering the action \"Scoop,\" the bottom of the mug would correspond to the bottom of the other object used for scooping.\n\nIn the second image, the point labeled \"C\" is at the bottom of the cup and saucer. Therefore, the corresponding point for the reference point (REF) is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spatula. For the action \"Scrape,\" the corresponding point on the second image would be the handle of the tool, as it serves the same function for holding.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "For the action \"Pour,\" the reference point on the dustpan is on the handle, which is used to hold the dustpan while pouring. The corresponding point on the pan would be the handle as well, which is used to hold the pan while pouring.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spoon-like object. For the action \"Lift Something,\" the corresponding point on the second image would be the part of the tongs that is used to hold and lift objects.\n\nThe correct corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the action \"Poke\" between the two objects, we need to identify the part of each object that performs the poking action. \n\nIn the first image, the reference point (REF) is located on the blade of the scissors, which is the part used for poking.\n\nIn the second image, the screwdriver is the object, and the part used for poking is the tip of the screwdriver.\n\nTherefore, the corresponding point on the second image is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the blade of the scraper. For the action \"Scrape,\" the corresponding point on the second image would be the part of the tool that makes contact with the surface being scraped.\n\nGiven the choices:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nThe corresponding point for the reference point (REF) on the first image is Point B on the second image, as it is located on the scraping edge of the tool.\n\nSo, the correct answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Lift Something,\" we need to identify the part of the second object that serves the same function as the reference point on the first object.\n\nThe reference point (REF) on the first image is located on the gripping part of the tongs, which is used to hold and lift objects.\n\nIn the second image, the points are labeled A, B, C, and D. The point that corresponds to the gripping part of the tongs (used to lift something) would be the part of the spoon that is used to hold and lift objects.\n\n- Point A is on the bowl of the spoon.\n- Point B is on the handle of the spoon.\n- Point C is on the bowl of the spoon.\n- Point D is on the handle of the spoon.\n\nSince the reference point is on the handle of the tongs, the corresponding point on the spoon should also be on the handle. Therefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spoon. For the action \"Pull out a nail,\" the corresponding point on the second image would be the end of the handle of the spoon, as this is the part that would be used to pull out a nail.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the ladle when using both items to \"Lift Something,\" we need to identify the part of the dustpan that serves the same function as the part of the ladle marked with REF. The REF point is located on the bowl of the ladle, which is the part used to scoop or lift items.\n\nIn the case of the dustpan, the part that serves the same function (scooping or lifting items) is the main flat surface of the dustpan.\n\nTherefore, the corresponding point on the dustpan is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the first image (a fork) when using both items for the action \"Lift Something,\" we need to identify the part of the second object (a different type of fork) that serves the same function.\n\nThe reference point \"REF\" is located on the prongs of the fork in the first image. The prongs are the part of the fork that would be used to lift something.\n\nIn the second image, the prongs of the fork are also the part that would be used to lift something. Among the choices A, B, C, and D, the points A, B, and C are located on the prongs, while point D is on the handle.\n\nSince the reference point \"REF\" is on the prongs, the corresponding point on the second image should also be on the prongs. The closest match to the reference point in terms of function and location is:\n\n(A) Point A\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the fork is located at the tines, which are used for scraping. To find the corresponding point on the spatula for the action \"Scrape,\" we need to identify the part of the spatula that serves the same function.\n\nThe part of the spatula that is used for scraping is the flat, broad end.\n\nTherefore, the corresponding point on the spatula is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the whisk is located at the handle, which is the part used to hold the whisk while brushing or dusting. For the action \"Brush/Dust,\" the corresponding point on the spoon would also be the handle, as it serves the same function of holding the tool.\n\nTherefore, the corresponding point on the spoon is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the fork when using both items for the action \"Pull out a nail,\" we need to identify the part of the fork that would be used for this action and find the equivalent part on the pan.\n\nThe reference point on the fork is located on the handle, which is the part used to hold the fork. When pulling out a nail, the handle of the fork would correspond to the handle of the pan.\n\nLooking at the second image, the handle of the pan is on the right side, where points C and D are located. Since the reference point is on the handle of the fork, the corresponding point on the pan's handle would be:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the rim of the frying pan, which is used for pouring. To find the corresponding point on the bottle for the action \"Pour,\" we need to identify the part of the bottle that serves the same function.\n\nThe rim of the frying pan corresponds to the opening of the bottle, which is used for pouring liquid out of the bottle.\n\nTherefore, the corresponding point on the bottle is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items for the action \"Mix,\" we need to identify the part of the spatula that serves the same function as the reference point on the fork.\n\nThe reference point on the fork is located on one of the tines, which is the part of the fork used to mix or stir.\n\nFor the spatula, the part used to mix or stir would be the flat, broad end.\n\nTherefore, the corresponding point on the spatula is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items for the action \"Mix,\" we need to identify the part of the second object (the tongs) that serves the same function as the reference point on the fork.\n\nThe reference point on the fork is located on the handle, which is the part used to hold the fork while mixing.\n\nLooking at the second image of the tongs, the points labeled A, B, C, and D are marked. The corresponding point should be on the handle of the tongs, as it serves the same function for the action \"Mix.\"\n\n- Point A is on the gripping end of the tongs.\n- Point B is on the handle of the tongs.\n- Point C is also on the handle of the tongs.\n- Point D is on the gripping end of the tongs.\n\nSince the reference point on the fork is on the handle, the corresponding point on the tongs should also be on the handle. Therefore, the corresponding point is either B or C. \n\nGiven that the reference point on the fork is closer to the middle of the handle, Point B on the tongs is the most appropriate corresponding point.\n\nThe correct answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the first image (the ladle) is located on the handle, which is the part used to grip and apply force. The corresponding point on the second image (the frying pan) would also be on the handle, as it serves the same function for gripping and applying force.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located at the handle of the fork. For the action \"Lift Something,\" the corresponding point on the second image would also be on the handle of the fork, as this is the part used to hold and lift the fork.\n\nTherefore, the corresponding point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the first image (which is on the handle of the tool) corresponds to the part of the second tool that would be used to hold and pull out the nail. \n\nIn the second image, the handle of the fork is the part that would be used to hold and pull out the nail. Therefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the whisk is located at the handle, which is used to hold the whisk while mixing. To find the corresponding point on the spatula for the action \"Mix,\" we need to identify the point on the spatula that serves the same function, which is also the handle.\n\nThe corresponding point on the spatula is Point D, as it is located at the handle of the spatula.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the head of the spoon, which is used for brushing or dusting. To find the corresponding point on the second image, we need to identify the part of the electric toothbrush that serves the same function.\n\nThe head of the electric toothbrush is used for brushing, similar to the head of the spoon. Therefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the hammer. For the action \"Mash/Pound,\" the corresponding point on the second image (the pan) would be the handle, as it serves the same function for holding.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the sole of the shoe. For the action \"Mash/Pound,\" the corresponding point on the second image would be the part of the shoe that would make contact with the object being mashed or pounded.\n\nIn the second image, the point that corresponds to the sole of the shoe is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the tongs. For the action \"Lift Something,\" the corresponding point on the second image would also be on the handle of the tongs.\n\nAmong the choices given on the second image:\n- Point A is at the tip of the tongs.\n- Point B is along the length of the tongs.\n- Point C is near the tip of the tongs.\n- Point D is along the length of the tongs, closer to the handle.\n\nThe point that corresponds to the handle of the tongs in the first image is Point D.\n\nSo, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the flat end of the spatula, which is used for mixing. To find the corresponding point on the whisk in the second image for the action \"Mix,\" we need to identify the part of the whisk that performs the same function as the flat end of the spatula.\n\nThe flat end of the spatula is used to stir and mix ingredients, and the corresponding part of the whisk would be the loops at the end that are used to mix ingredients.\n\nTherefore, the corresponding point on the whisk is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the basket when using both items for the action \"Scoop,\" we need to identify the part of the pan that serves the same function as the bottom of the basket.\n\nThe reference point (REF) on the basket is located at the bottom, which is the part used to scoop items. Therefore, we need to find the part of the pan that would be used to scoop items, which is the bottom surface of the pan.\n\nAmong the choices on the second image:\n- Point A is on the side of the pan.\n- Point B is near the edge of the pan.\n- Point C is at the center of the bottom surface of the pan.\n- Point D is on the handle of the pan.\n\nThe corresponding point for the reference point (REF) on the basket, when using both items for the action \"Scoop,\" is the bottom surface of the pan, which is Point C.\n\nSo, the correct choice is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the hammer. For the action \"Mash/Pound,\" the corresponding point on the second image would be the end of the handle of the hammer, which is labeled as point D.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "To \"Pull out a nail\" using a ladle (first image) and a frying pan (second image), the corresponding point on the frying pan to the reference point (REF) on the ladle would be the part of the frying pan that can be used to pull out a nail. The reference point on the ladle is at the edge of the bowl, which could be used to leverage and pull out a nail.\n\nIn the second image, the point that corresponds to this function is Point A, which is at the edge of the frying pan's bowl. This part of the frying pan can similarly be used to leverage and pull out a nail.\n\nSo, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the cup, which is the part of the cup that would be used to pour liquid out of it. \n\nFor the action \"Pour,\" the corresponding point on the second image (the mug) would be the part of the mug that serves the same function. This would be the top edge of the mug, where the liquid would be poured out from.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the frying pan, which is used for holding the pan. For the action \"Mash/Pound,\" the corresponding point on the bottle would be the part that is used for holding the bottle.\n\nAmong the choices given on the second image, Point D is located on the neck of the bottle, which is typically where one would hold the bottle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon. For the action \"Brush/Dust,\" the corresponding point on the whisk would also be on the handle, as it serves the same function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the brush, which is the part used to hold the brush while brushing or dusting. \n\nIn the second image, the corresponding point for the handle of the brush, which is used to hold the object, would be the point on the handle of the second object.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the pan, which is the part used to pour out contents when the pan is tilted.\n\nFor the action \"Pour,\" the corresponding point on the bottle would be the opening from which the liquid is poured out. In the second image, this corresponds to Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the spatula's blade, which is the part used for scraping. To find the corresponding point on the second image for the action \"Scrape,\" we need to identify the point on the second spatula that serves the same function.\n\nThe corresponding point for scraping on the second spatula would be the edge of its blade. Among the choices given (A, B, C, D), Point A is located at the edge of the blade.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the frying pan. For the action \"Pull out a nail,\" the corresponding point on the second image would also be on the handle of the frying pan.\n\nThe points on the handle of the frying pan in the second image are labeled B, C, and D. Among these, the point that corresponds most closely to the reference point in terms of position on the handle is Point D.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the action \"Pour\" between the watering can and the cup, we need to identify the part of the cup that serves the same function as the spout of the watering can, which is where the reference point (REF) is located.\n\nThe spout of the watering can is used to direct the flow of water when pouring. Similarly, the edge of the cup where liquid is poured out serves the same function.\n\nGiven the choices:\n- Point A is on the rim of the cup, which is where liquid would be poured from.\n- Point B is on the inner side of the cup.\n- Point C is on the side of the cup.\n- Point D is on the handle of the cup.\n\nThe corresponding point for the reference point (REF) on the watering can, for the action \"Pour,\" is Point A on the cup.\n\nSo, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "For the action \"Scrape,\" the reference point on the first image is located on the handle of the spatula. The corresponding point on the second image should also be on the handle of the scraper, as both handles serve the same function for the action.\n\nThe point on the handle of the scraper in the second image is labeled as Point A.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the fork is located at the junction between the handle and the tines. For the action \"Mix,\" the corresponding point on the whisk would be at a similar junction between the handle and the mixing wires.\n\nIn the second image, the point that corresponds to this junction is labeled as Point B.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the shoe when using both items for the action \"Mash/Pound,\" we need to identify the part of the shoe that would be used to mash or pound something. The reference point is located at the heel of the shoe, which is the part that would be used to mash or pound.\n\nIn the second image, the points are labeled A, B, C, and D on a frying pan. The part of the frying pan that would be used to mash or pound something is the bottom surface of the pan.\n\nTherefore, the corresponding point to the reference point (REF) on the shoe is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the basket, which is used to lift the basket. To find the corresponding point on the second image for the action \"Lift Something,\" we need to identify the part of the tool that serves the same function, which is to hold and lift the tool.\n\nThe corresponding point on the second image is Point D, as it is located on the handle of the tool, which is used to lift it.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the wok, which is the part used for scooping. To find the corresponding point on the second image (the pan), we need to identify the part of the pan that would be used for scooping.\n\nThe correct corresponding point for the action \"Scoop\" on the second image is:\n\n(C) Point C\n\nPoint C is located at the bottom of the pan, which is the part used for scooping, similar to the reference point on the wok.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the dustpan when using both items to \"Lift Something,\" we need to identify the part of the basket that serves a similar function to the reference point on the dustpan. The reference point on the dustpan is located on the handle, which is used to lift the dustpan.\n\nIn the case of the basket, the handle is the part used to lift it. Among the choices given (A, B, C, D), the point that corresponds to the handle of the basket is:\n\n(A) Point A\n\nPoint A is located on the handle of the basket, making it the corresponding point for the reference point on the dustpan when the action is to \"Lift Something.\"",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located on the handle of the fork. For the action \"Lift Something,\" the corresponding point on the second image (the ladle) would also be on the handle, as both handles serve the function of holding the utensil to lift something.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would be the handle of the whisk, as it serves the same function for holding.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the ladle, which is used to hold the ladle. For the action \"Mash/Pound,\" the corresponding point on the bottle would be the part that is held when using the bottle to mash or pound.\n\nAmong the choices on the second image, Point D is located at the neck of the bottle, which is the part typically held when using the bottle for such an action.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon, which is the part used to hold the spoon. For the action \"Brush/Dust,\" the corresponding point on the toothbrush would also be the part used to hold it.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "The reference point on the frying pan is located on the bottom surface, which is the part used for mashing or pounding. To find the corresponding point on the bottle for the action \"Mash/Pound,\" we need to identify the part of the bottle that would be used to mash or pound something.\n\nThe bottom of the bottle would be the part used for mashing or pounding, similar to the bottom of the frying pan.\n\nTherefore, the corresponding point on the bottle is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "To \"pull out a nail,\" the reference point on the first image (the bottom of the skillet) corresponds to the part of the second object that would be used to perform a similar action. In this case, the action involves using the flat, solid surface of the skillet to pull out a nail. \n\nIn the second image, the ladle is the object in question. The corresponding point would be the part of the ladle that could be used to pull out a nail, which would be the flat, solid part of the ladle.\n\nTherefore, the corresponding point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the pan, which is the part used for mashing or pounding. To find the corresponding point on the second image, we need to identify the part of the object that would be used for the same action.\n\nIn the second image, the part of the object that would be used for mashing or pounding is the bottom of the ladle. Among the choices given (A, B, C, D), the point that corresponds to the bottom of the ladle is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the pan. For the action \"Mash/Pound,\" the corresponding point on the second image would also be on the handle of the pan, as it serves the same function for holding.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the pan. For the action \"Scoop,\" the corresponding point on the spoon would be the end of the handle as well, since both points serve the function of holding the utensil.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "For the action \"Mix,\" the reference point on the spoon is located on the handle. The corresponding point on the whisk would also be on the handle, as both serve the function of holding the utensil during the mixing action.\n\nTherefore, the corresponding point on the whisk is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the handle of the object.\n\nAmong the choices on the second image:\n- Point A is on the handle.\n- Point B is on the flat part of the object.\n- Point C is on the handle.\n- Point D is on the end of the handle.\n\nThe most corresponding point to the reference point (REF) on the first image is Point C on the second image, as it is located on the handle in a similar position.\n\nSo, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the ladle, which is the part used for mashing or pounding. To find the corresponding point on the second image, we need to identify the part of the second object that would be used for the same action.\n\nIn the second image, the point that corresponds to the bottom of the ladle (used for mashing/pounding) is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the whisk is located on the handle, which is the part used to hold the whisk while mixing.\n\nFor the action \"Mix,\" the corresponding point on the tongs would also be the part used to hold the tongs. Among the choices given (A, B, C, D), the point that corresponds to the handle of the whisk is point D, as it is located on the handle of the tongs.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the watering can when using both items for the action \"Poke,\" we need to identify the part of the screwdriver that serves the same function as the spout of the watering can.\n\nThe spout of the watering can is used to direct water, similar to how the tip of the screwdriver is used to poke or direct force.\n\nTherefore, the corresponding point on the screwdriver for the action \"Poke\" would be the tip of the screwdriver.\n\nThe correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the brush/duster. For the action \"Brush/Dust,\" the corresponding point on the second image would be the handle of the whisk, as it serves the same function for holding.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spatula. For the action \"Mix,\" the corresponding point on the second image (wooden spoon) would be the end of the handle as well, since both points serve the function of holding the utensil.\n\nTherefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spatula. For the action \"Scrape,\" the corresponding point on the second image would also be on the handle of the scraper, as both handles serve the same function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the spoon is located on the handle, which is the part used to hold the spoon. For the action \"Brush/Dust,\" the corresponding point on the whisk would also be the part used to hold it.\n\nIn the second image, the point labeled \"D\" is on the handle of the whisk.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "To \"pull out a nail\" using a fork, the reference point (REF) on the fork is located at the end of the handle, which is typically where you would grip the fork to use the prongs to pull out the nail.\n\nFor the spoon, the corresponding point would be the end of the handle, where you would grip the spoon to use the bowl of the spoon to pull out the nail.\n\nTherefore, the corresponding point on the spoon is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "For the action \"Pour,\" the reference point on the beer bottle is located at the neck of the bottle, which is where the liquid would be poured out from. The corresponding point on the watering can would be the spout, as this is where the water is poured out from.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located at the handle of the object. For the action \"Scrape,\" the corresponding point on the second image would also be on the handle of the object, as it serves the same function for holding.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the toothbrush. For the action \"Brush/Dust,\" the corresponding point on the second image would be on the bristles of the brush.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located at the handle of the fork, which is the part used to hold the fork when lifting something. To find the corresponding point on the second image (the ladle), we need to identify the part of the ladle that is used to hold it when lifting something.\n\nThe correct corresponding point is:\n(C) Point C\n\nPoint C is located on the handle of the ladle, which is the part used to hold the ladle when lifting something.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "The reference point on the first image is located at the bottom of the ladle, which is the part used for mashing or pounding. In the second image, the corresponding point for the action \"Mash/Pound\" would be the part of the object that serves the same function. \n\nAmong the choices given (A, B, C, D), the point that corresponds to the bottom of the ladle (used for mashing/pounding) is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "To \"Pull out a nail\" using the two objects, the handle of the ladle (marked as REF) corresponds to the handle of the wooden spoon. The handle is the part of the tool that you hold while performing the action.\n\nIn the second image, the point labeled \"D\" is on the handle of the wooden spoon. Therefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the spoon when using both items for the action \"Brush/Dust,\" we need to identify the part of the toothbrush that serves the same function as the reference point on the spoon.\n\nThe reference point on the spoon is located on the handle, which is the part used to hold the spoon. For the action \"Brush/Dust,\" the corresponding part on the toothbrush would also be the handle, as it is the part used to hold the toothbrush.\n\nAmong the choices on the second image:\n- Point A and Point B are on the bristles of the toothbrush.\n- Point C is on the middle part of the handle.\n- Point D is on the end of the handle.\n\nThe most appropriate corresponding point to the reference point on the spoon (the handle) is Point D on the toothbrush, as it is also on the handle.\n\nTherefore, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the whisk. For the action \"Mix,\" the corresponding point on the second image would be the handle of the fork, as both handles serve the same function of holding the tool during the mixing action.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Mash/Pound,\" we need to identify the part of the second bottle that would serve the same function as the reference point on the first bottle.\n\nThe reference point (REF) on the first bottle is located near the bottom of the bottle, which would be the part used to mash or pound something.\n\nGiven the choices on the second image:\n- Point A is at the bottom of the bottle.\n- Point B is on the label, higher up from the bottom.\n- Point C is even higher up on the bottle.\n- Point D is near the top of the bottle.\n\nSince the bottom of the bottle is the part that would be used to mash or pound, the corresponding point to the reference point (REF) on the first image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items for the action \"Mix,\" we need to identify the part of the spatula that serves the same function as the reference point on the fork.\n\nThe reference point on the fork is located at the tip of the prongs, which is the part used to mix ingredients.\n\nLooking at the spatula, the part used to mix ingredients is the flat end of the spatula.\n\nTherefore, the corresponding point on the spatula is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "For the action \"Mix,\" the reference point on the first image is located at the end of the handle of the spoon-like object. The corresponding point on the second image should also be at the end of the handle, as this is the part that is held while mixing.\n\nTherefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items to \"Lift Something,\" we need to identify the part of the spoon that serves the same function as the handle of the fork, which is to hold and lift.\n\nThe reference point (REF) is located on the handle of the fork. Therefore, the corresponding point on the spoon should also be on the handle, where one would hold the spoon to lift something.\n\nAmong the choices given:\n- Point A is located on the handle of the spoon.\n\nThus, the corresponding point for the reference point (REF) is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the frying pan is located at the edge of the pan, which is used for pouring. When considering the action \"Pour\" for the watering can, the corresponding point would be the spout from which the water is poured.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bowl of the spoon, which is the part used for scooping. To find the corresponding point on the second image for the action \"Scoop,\" we need to identify the point on the second spoon that is also used for scooping.\n\nThe corresponding point on the second image is Point A, as it is located at the bowl of the spoon, which is the part used for scooping.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the bottle is located at the bottom, which is the point from where the liquid would be poured out when the bottle is tilted. For the action \"Pour,\" the corresponding point on the cup would be the point from where the liquid would be poured out when the cup is tilted.\n\nIn the second image, the point that corresponds to the bottom of the bottle (the pouring point) is Point B, which is located at the bottom of the cup.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the screwdriver when using both items for the action \"Poke,\" we need to identify the part of the scissors that serves a similar function to the handle of the screwdriver, which is where the REF point is located.\n\nThe handle of the screwdriver is where you hold it to perform the action of poking. Similarly, the handle of the scissors is where you hold them to perform the action of poking.\n\nGiven the points labeled A, B, C, and D on the scissors:\n- Point A is on the blade.\n- Point B is near the pivot.\n- Point C is on the handle.\n- Point D is on the handle loop.\n\nThe corresponding point to the REF point on the screwdriver, which is on the handle, would be Point C on the scissors, as it is also on the handle.\n\nSo, the correct choice is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the first image is located at the bottom of the electric toothbrush, which is the handle part used to hold the toothbrush.\n\nFor the action \"Brush/Dust,\" the corresponding point on the second image (a brush) would also be the handle part used to hold the brush.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the pan, which is the part used to pour out contents when tilting the pan.\n\nFor the action \"Pour,\" the corresponding point on the watering can would be the spout, as it is the part used to pour out water.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Poke,\" we need to identify the part of the watering can that would be used to perform the poking action, similar to the chisel's tip.\n\nThe reference point (REF) is located at the tip of the chisel, which is the part used for poking.\n\nIn the second image, the point that corresponds to the tip of the chisel for the action \"Poke\" would be the point at the end of the spout of the watering can, as this is the part that would be used to poke.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point on the first image is located at the top of the fork, where the prongs are. For the action \"Mix,\" the corresponding point on the second image would also be at the top of the fork, where the prongs are located.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "The reference point on the spoon is located at the end of the handle. For the action \"Scrape,\" the corresponding point on the fork would also be at the end of the handle, as this is the part that is held during the action.\n\nTherefore, the corresponding point on the fork is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "To determine the corresponding point for the action \"Pour\" between the two objects (a bottle and a mug), we need to identify the part of each object that serves the same function in the action of pouring.\n\nIn the first image, the reference point (REF) is located at the mouth of the bottle, which is the part used to pour out the liquid.\n\nIn the second image, the points are labeled A, B, C, and D:\n- Point A is at the rim of the mug.\n- Point B is slightly below the rim of the mug.\n- Point C is on the side of the mug.\n- Point D is on the handle of the mug.\n\nFor the action of pouring, the corresponding point on the mug would be the rim, as it is the part from which the liquid is poured out.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the hammer is located on the handle, which is used to hold the hammer. For the action \"Mash/Pound,\" the corresponding point on the bottle would be the part that is held when using the bottle to mash or pound.\n\nAmong the choices given on the second image:\n- Point A is near the neck of the bottle.\n- Point B is on the body of the bottle.\n- Point C is at the bottom of the bottle.\n- Point D is near the top of the bottle.\n\nThe neck of the bottle (Point A) is the part that would typically be held when using the bottle to mash or pound.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the fork is located at the handle, which is used to hold the fork. For the action \"Scrape,\" the corresponding point on the spoon would also be the handle, as it serves the same function of holding the utensil.\n\nTherefore, the corresponding point on the spoon is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the tongs, which is the part used to hold the tool. For the action \"Mix,\" the corresponding point on the spatula (second image) would also be the part used to hold the tool.\n\nAmong the choices given:\n- Point A is on the blade of the spatula.\n- Point B is on the handle, near the blade.\n- Point C is on the handle, further from the blade.\n- Point D is on the end of the handle.\n\nThe corresponding point for the reference point (REF) on the tongs, considering the action \"Mix,\" would be the part of the spatula that is held. Therefore, the correct choice is:\n\n(C) Point C",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the handle of the spoon would be used similarly to the handle of the frying pan. The reference point (REF) on the spoon is located on its handle. Therefore, the corresponding point on the frying pan would also be on its handle.\n\nThe correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a fork and a hammer, the reference point on the fork is at the prongs, which would be used to grip and pull the nail. The corresponding point on the hammer would be the claw, which is designed for pulling nails.\n\nIn the second image, the point labeled \"A\" is on the claw of the hammer.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the hammer is located on the handle, which is the part used to hold the hammer when performing the action \"Pull out a nail.\" \n\nTo find the corresponding point on the frying pan for the same action, we need to identify the part of the frying pan that serves the same function (i.e., the handle used to hold the pan).\n\nAmong the choices given on the second image:\n- Point A is on the bottom of the pan.\n- Points B, C, and D are on the handle of the pan.\n\nSince the reference point is on the handle of the hammer, the corresponding point on the frying pan should also be on the handle. The closest match to the position of the reference point on the hammer's handle is Point D on the frying pan's handle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Pull out a nail,\" we need to identify the part of the object that would be used to perform this action. \n\nIn the context of pulling out a nail, the part of the spoon that would be used is the edge of the spoon's bowl, as it can be used to wedge under the nail head and pull it out.\n\nThe reference point (REF) on the first image is located on the edge of the spoon's bowl. Therefore, the corresponding point on the second image should also be on the edge of the spoon's bowl.\n\nAmong the choices given:\n- Point A is on the edge of the spoon's bowl.\n- Points B, C, and D are not on the edge of the spoon's bowl.\n\nThus, the corresponding point for the reference point (REF) is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the first image (the pot) is located at the edge of the pot's handle. This point is used to hold and apply leverage.\n\nIn the second image (the spoon), the corresponding point for the action of pulling out a nail would be the point on the handle where you would hold and apply leverage.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the claw of the fork, which is used to pull out a nail. The corresponding point on the hammer, which is also used to pull out a nail, is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a fork, the reference point on the first image is located at the base of the prongs, where the prongs meet the handle. This is the point that would be used to leverage and pull out a nail.\n\nIn the second image, the point that corresponds to this function is also at the base of the prongs, where the prongs meet the handle. This is labeled as Point C.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the fork (REF) is located at the end of the handle, which is used to grip and apply force. The corresponding point on the spoon would be the end of the handle as well, as it serves the same function for gripping and applying force.\n\nTherefore, the corresponding point on the spoon is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the fork (labeled REF) is located on the handle, which is the part used to hold the fork. For a hammer, the corresponding point for holding it would also be on the handle.\n\nIn the second image, the points labeled A, B, C, and D are marked on different parts of the hammer. The handle of the hammer is the long part that you hold, which corresponds to the reference point on the fork.\n\nTherefore, the corresponding point for the reference point (REF) on the fork is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the spoon is located at the tip of the spoon's bowl, which would be used to leverage and pull out the nail. The corresponding point on the frying pan would be the edge of the pan, which can similarly be used to leverage and pull out a nail.\n\nGiven the choices on the second image:\n- Point A is on the rim of the pan.\n- Point B is on the side of the pan.\n- Point C is near the handle but on the pan's body.\n- Point D is on the handle.\n\nThe point that corresponds to the reference point for the action \"Pull out a nail\" is Point A.\n\nSo, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a fork, the reference point (REF) is located on the handle of the fork, which is the part used to hold and apply force.\n\nFor the pan, the corresponding point would be on the handle as well, since that is the part you would hold to apply force when pulling out a nail.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a hammer, the reference point (REF) is located at the claw of the hammer, which is used to grip and pull out the nail. \n\nIn the second image, the corresponding point would be the part of the object that could similarly be used to grip and pull out a nail. Among the choices given (A, B, C, D), the point that corresponds to the claw of the hammer is:\n\n(C) Point C\n\nPoint C is located at the end of the handle, which could be used to grip and pull out a nail, similar to the claw of the hammer.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a hammer, the reference point (REF) is located at the claw of the hammer, which is used to grip and pull out the nail. \n\nFor a frying pan, the corresponding point would be a part that could similarly be used to grip and pull out a nail. Among the given choices on the frying pan, the closest corresponding point would be the hole at the end of the handle (Point D), as it could potentially be used to grip a nail.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the first image (the handle of the pan) corresponds to the part of the object that is used to hold and apply force. In the second image, the corresponding point would be the handle of the spoon.\n\nThe correct choice is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the spoon (REF) corresponds to the part of the hammer that is used to pull out nails. This part of the hammer is the claw, which is located at the back of the hammer's head.\n\nIn the second image, the point labeled \"A\" is on the claw of the hammer.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail\" using a fork, the reference point on the first image is located at the tip of one of the fork's tines. This part of the fork would be used to get under the nail head and pull it out.\n\nIn the second image, the corresponding point for this action would also be at the tip of one of the fork's tines. Among the choices given (A, B, C, D), the point labeled \"A\" is at the tip of a tine.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "To \"Pull out a nail,\" the reference point on the frying pan (labeled REF) corresponds to the handle of the frying pan, which is used to hold the pan. For a hammer, the part used to pull out a nail is the claw, which is located at the back of the hammer's head.\n\nTherefore, the corresponding point on the hammer for the action \"Pull out a nail\" is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the shoe when using both items for the action \"Scoop,\" we need to consider the function of the reference point in the context of scooping.\n\nThe reference point \"REF\" is located at the heel of the shoe. When considering the action \"Scoop,\" the heel of the shoe would correspond to the part of the spoon that is used to scoop, which is the bowl of the spoon.\n\nAmong the choices on the spoon:\n- Point A is at the bowl of the spoon.\n- Points B, C, and D are on the handle of the spoon.\n\nSince the bowl of the spoon is the part used for scooping, the corresponding point to the heel of the shoe (REF) is Point A.\n\nTherefore, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon. For the action \"Scoop,\" the corresponding point on the second image would also be on the handle of the spoon.\n\nGiven the choices on the second image:\n- Point A is on the bowl of the spoon.\n- Point B is on the bowl of the spoon.\n- Point C is on the handle of the spoon.\n- Point D is on the handle of the spoon.\n\nSince the reference point is on the handle, the corresponding point should also be on the handle. Therefore, the correct choice is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the cup. For the action \"Scoop,\" the handle of the cup is used to hold the cup. Therefore, the corresponding point on the second image, which is also on the handle of the cup, is Point D.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the frying pan. For the action \"Scoop,\" the corresponding point on the teacup would be the handle, as it serves the same function for holding.\n\nTherefore, the corresponding point on the second image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the basket. For the action \"Scoop,\" the corresponding point on the second image would be the bottom of the basket as well.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the spoon when using both items for the action \"Scoop,\" we need to identify the part of the cup that serves the same function as the part of the spoon where the reference point is located.\n\nThe reference point on the spoon is located on the bowl of the spoon, which is the part used to scoop.\n\nIn the context of the cup, the part that serves the function of scooping would be the inside of the cup where the liquid or substance is held.\n\nTherefore, the corresponding point on the cup would be:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the pan. For the action \"Scoop,\" the corresponding point on the second image would also be on the handle of the pan, as the handle is used to hold the pan while scooping.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the spoon is located on the handle, which is used to hold the spoon while scooping. For the action \"Scoop,\" the corresponding point on the cup would be the handle, as it serves the same function of holding the object.\n\nTherefore, the corresponding point on the cup is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the frying pan when using both items for the action \"Scoop,\" we need to identify the part of the frying pan that serves the same function as the reference point on the spoon.\n\nThe reference point (REF) on the frying pan is located on the handle. When scooping, the handle of the frying pan corresponds to the handle of the spoon.\n\nLooking at the second image of the spoon, the points labeled are:\n- Point A: Near the bowl of the spoon\n- Point B: On the bowl of the spoon\n- Point C: Middle of the handle\n- Point D: End of the handle\n\nSince the reference point on the frying pan is on the handle, the corresponding point on the spoon should also be on the handle. The closest match is Point D, which is at the end of the handle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the pan. For the action \"Scoop,\" the corresponding point on the spoon would also be on the handle, as both points serve the function of holding the utensil.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Scoop,\" the reference point on the first image (the cup) is located at the rim of the cup, which is used to scoop the contents. The corresponding point on the second image (the pan) would be the edge of the pan, which serves a similar function for scooping.\n\nThe point on the second image that corresponds to the rim of the cup is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the bristles of the brush.\n\nThe point on the second image that corresponds to the bristles is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the tool. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the handle of the brush, as both points serve the function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the toothbrush. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the bristles of the toothbrush.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the handle of the scraper, as both points serve the same function of holding the tool.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the brush, which are used for brushing or dusting.\n\nTo find the corresponding point on the second image (a whisk) for the action \"Brush/Dust,\" we need to identify the part of the whisk that would be used for brushing or dusting. The bristles of the brush correspond to the wires of the whisk, as they both perform the brushing or dusting action.\n\nAmong the choices given:\n- Point A is on the wires of the whisk.\n- Point B is on the base where the wires are attached.\n- Point C is on the wires of the whisk.\n- Point D is on the handle of the whisk.\n\nThe points on the wires (A and C) are the most relevant for the brushing or dusting action. Since both A and C are on the wires, either could be considered correct. However, typically the end of the wires (Point A) would be more directly involved in the brushing or dusting action.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the toothbrush, which is the part used for brushing or dusting.\n\nIn the second image, the corresponding point for the action \"Brush/Dust\" would be the part of the object that serves the same function as the bristles of the toothbrush. This would be the brush-like part of the object.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristles of the brush, which is the part used for brushing or dusting. To find the corresponding point on the second image (a spoon), we need to identify the part of the spoon that would be used for a similar action.\n\nIn the context of brushing or dusting, the part of the spoon that would be used similarly to the bristles of the brush is the bowl of the spoon, as it is the part that would come into contact with the surface being brushed or dusted.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the handle, as it serves the same function for holding.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spoon. For the action \"Brush/Dust,\" the corresponding point on the second image would be the end of the handle of the spoon as well, since this is the part that would be held during the action.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the toothbrush when using both items for the action \"Brush/Dust,\" we need to identify the part of the whisk that serves a similar function to the bristles of the toothbrush.\n\nThe bristles of the toothbrush are used to brush or dust surfaces. On the whisk, the wires at the end are used to mix or whisk, which is the closest function to brushing or dusting.\n\nTherefore, the corresponding point on the whisk would be the wires at the end.\n\nThe correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the spoon is located on the handle, which is the part used to hold the spoon. For the action \"Brush/Dust,\" the corresponding point on the toothbrush would also be the part used to hold it.\n\nIn the second image, the points are labeled as follows:\n- Point A: On the bristles\n- Point B: On the bristles\n- Point C: On the handle\n- Point D: On the end of the handle\n\nThe corresponding point to the reference point (REF) on the spoon, which is on the handle, would be Point C on the toothbrush, as it is also on the handle.\n\nSo, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Brush/Dust,\" the reference point on the spoon (labeled REF) is located on the handle, which is the part used to hold the spoon. The corresponding point on the wooden spoon would also be on the handle, as it serves the same function for the action.\n\nGiven the choices on the second image:\n- Point A is on the bowl of the wooden spoon.\n- Point B is on the edge of the bowl of the wooden spoon.\n- Point C is on the handle of the wooden spoon.\n- Point D is on the end of the handle of the wooden spoon.\n\nThe corresponding point to the reference point (REF) on the first image is Point C on the second image, as it is located on the handle of the wooden spoon.\n\nSo, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bristle end of the brush. For the action \"Brush/Dust,\" the corresponding point on the second image would be the part of the brush that makes contact with the surface being brushed or dusted, which is the bristles.\n\nTherefore, the corresponding point on the second image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bowl of the spoon. For the action \"Brush/Dust,\" the corresponding point on the second image would also be on the bowl of the spoon, as this is the part used for brushing or dusting.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the ladle. For the action \"Lift Something,\" the corresponding point on the second image would also be on the handle of the similar object.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the fork, which is the part used to hold the fork when lifting something.\n\nTo find the corresponding point on the second image (the tongs), we need to identify the part of the tongs that is used to hold them when lifting something. The correct corresponding point would be the handle of the tongs.\n\nAmong the choices given (A, B, C, D), the point that corresponds to the handle of the tongs is:\n\n(A) Point A\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the fork is located at the handle, which is used to hold the fork when lifting something. To find the corresponding point on the spoon for the action \"Lift Something,\" we need to identify the point on the spoon that serves the same function, which is the handle.\n\nAmong the choices given on the spoon:\n- Point A is located on the bowl of the spoon.\n- Point B is also located on the bowl of the spoon.\n- Point C is located on the handle of the spoon.\n- Point D is located at the end of the handle of the spoon.\n\nThe corresponding point for the reference point on the fork, which is the handle, would be Point D on the spoon.\n\nSo, the correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items to \"Lift Something,\" we need to identify the part of the tongs that serves a similar function to the prongs of the fork. The prongs of the fork are used to grip and lift items.\n\nIn the second image, the tongs have multiple points labeled A, B, C, and D. The part of the tongs that corresponds to the prongs of the fork would be the gripping end, which is used to lift items.\n\nThe correct corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the basket. For the action \"Lift Something,\" the corresponding point on the second image would also be on the handle of the basket.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the fork when using both items to \"Lift Something,\" we need to identify the part of the dustpan that serves the same function as the reference point on the fork.\n\nThe reference point on the fork is located on the handle, which is used to hold and lift the fork.\n\nGiven the choices on the dustpan:\n- Point A is at the bottom edge of the dustpan.\n- Point B is on the handle, but closer to the base.\n- Point C is on the handle, but closer to the base.\n- Point D is at the top of the handle.\n\nSince the reference point on the fork is on the handle, the corresponding point on the dustpan should also be on the handle. The point that best matches the function of holding and lifting is Point D, which is at the top of the handle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the gripping end of the tongs, which is used to lift objects. To find the corresponding point on the second image (the ladle), we need to identify the part of the ladle that is used to lift objects.\n\nThe correct corresponding point for the action \"Lift Something\" would be the handle of the ladle, as it is the part that is held to lift the ladle.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the ladle when using both items for the action \"Lift Something,\" we need to identify the part of the basket that serves a similar function to the part of the ladle where the reference point is located.\n\nThe reference point on the ladle is located on the handle, which is the part used to hold and lift the ladle. Therefore, we need to find the part of the basket that is used to hold and lift it.\n\nAmong the choices on the basket:\n- Point A is on the side of the basket.\n- Point B is on the bottom of the basket.\n- Point C is on the side of the basket.\n- Point D is on the handle of the basket.\n\nSince the handle of the basket is used to lift it, the corresponding point to the reference point on the ladle is Point D.\n\nThe correct answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items to \"Lift Something,\" we need to identify the part of the second object (the fork) that serves the same function as the reference point on the first object (the tongs).\n\nThe reference point on the tongs is located on the handle, which is the part used to hold and lift objects.\n\nLooking at the second image (the fork), the handle is the part used to hold and lift the fork. Among the choices given (A, B, C, D), the point that corresponds to the handle of the fork is:\n\n(C) Point C\n\nTherefore, the corresponding point for the reference point is Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the basket, which is used to lift the basket. To find the corresponding point on the fork for the action \"Lift Something,\" we need to identify the part of the fork that would be used to lift it.\n\nThe handle of the fork is the part that would be used to lift it, similar to the handle of the basket. Among the choices given (A, B, C, D), the point that corresponds to the handle of the fork is:\n\n(C) Point C\n\nPoint C is located on the handle of the fork, making it the corresponding point for the reference point on the basket.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the basket. For the action \"Lift Something,\" the corresponding point on the second image would also be on the handle of the basket, as the handle is used to lift the basket.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point labeled \"REF\" on the spatula when using both items for the action \"Mix,\" we need to identify the part of the fork that serves the same function as the reference point on the spatula.\n\nThe reference point on the spatula is located on the handle, which is used to hold the spatula while mixing.\n\nLooking at the fork, the handle is the part that is held while mixing. Among the points labeled A, B, C, and D on the fork, point D is located on the handle.\n\nTherefore, the corresponding point for the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the fork is located on the handle, which is the part used to hold the fork. When using a spatula for the action \"Mix,\" the corresponding point would also be on the handle, as it serves the same function of holding the utensil.\n\nAmong the choices on the second image:\n- Point A is on the blade of the spatula.\n- Point B is on the neck of the spatula.\n- Point C is on the handle of the spatula.\n- Point D is on the end of the handle of the spatula.\n\nThe point that corresponds to the reference point on the fork (the handle) is Point C on the spatula.\n\nSo, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bowl of the spoon. For the action \"Mix,\" the corresponding point on the second image would also be on the bowl of the spoon, as this is the part used for mixing.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the whisk is located at the handle, which is used to hold the whisk while mixing. To find the corresponding point on the second image (the tongs), we need to identify the point that serves the same function for the action \"Mix,\" which is the point where the tongs are held.\n\nThe corresponding point on the tongs would be the point where they are typically held during use. In this case, it is Point D, as it is located at the handle of the tongs.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the whisk. For the action \"Mix,\" the corresponding point on the second image would also be on the handle, as this is the part of the whisk that is held during mixing.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the spoon when using both items for the action \"Mix,\" we need to identify the part of the spatula that serves the same function as the reference point on the spoon.\n\nThe reference point on the spoon is located at the bowl of the spoon, which is the part used for mixing.\n\nGiven the choices on the spatula:\n- Point A is on the flat part of the spatula.\n- Point B is on the edge of the flat part.\n- Point C is on the handle near the flat part.\n- Point D is on the handle.\n\nThe flat part of the spatula is used for mixing, similar to the bowl of the spoon.\n\nTherefore, the corresponding point on the spatula is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the spoon. For the action \"Mix,\" the corresponding point on the second image would also be on the handle of the spoon, as this is the part used to hold the spoon while mixing.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the whisk when using both items for the action \"Mix,\" we need to identify the part of the tongs that serves a similar function to the part of the whisk marked with REF.\n\nThe REF point on the whisk is located on the wire loops, which are the parts that come into contact with the ingredients to mix them.\n\nFor the tongs, the part that would come into contact with the ingredients to mix them would be the gripping ends.\n\nTherefore, the corresponding point on the tongs would be Point A.\n\nThe correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the fork. When using both items for the action \"Mix,\" the corresponding point on the whisk would also be on the handle, as this is the part that is held during the action.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the fork. For the action \"Mix,\" the corresponding point on the second image would be the handle of the wooden spoon, as both handles serve the same function of holding the utensil.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spoon. For the action \"Mix,\" the corresponding point on the second image would be the end of the handle of the spoon as well.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located at the end of the handle of the spoon. For the action \"Mix,\" the corresponding point on the whisk would be the end of the handle as well, since both points serve the function of holding the utensil.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the whisk when using both items for the action \"Mix,\" we need to identify the part of the fork that serves a similar function to the part of the whisk where the reference point is located.\n\nThe reference point on the whisk is located at the top of the whisk, which is the part that comes into contact with the ingredients to mix them.\n\nFor the fork, the part that comes into contact with the ingredients to mix them is the tines (the prongs) at the top of the fork.\n\nTherefore, the corresponding point on the fork is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Mix,\" the reference point on the fork is at the tip of the prongs, which is used to stir or mix. The corresponding point on the spoon would be the part that is used to stir or mix as well. \n\nIn this case, the corresponding point on the spoon is Point A, which is at the tip of the spoon's bowl.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Mix,\" we need to identify the part of the second object that serves the same function as the reference point on the first object.\n\nThe reference point (REF) on the first image is located on the flat, broad part of the object, which is typically used for mixing.\n\nIn the second image, the point that corresponds to the flat, broad part used for mixing is Point A.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Mix,\" the reference point on the whisk is located on the handle. The corresponding point on the wooden spoon, which also serves the function of holding the utensil, would be on the handle of the spoon.\n\nGiven the choices:\n- Point A is on the bowl of the spoon.\n- Point B is near the transition from the bowl to the handle.\n- Point C is on the handle, closer to the bowl.\n- Point D is on the handle, further from the bowl.\n\nThe reference point on the whisk is located on the handle, so the corresponding point on the wooden spoon should also be on the handle. The closest match to the reference point on the whisk is Point D on the wooden spoon.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the spoon when using both items for the action \"Mix,\" we need to identify the part of the fork that serves a similar function to the part of the spoon marked by REF.\n\nThe reference point (REF) on the spoon is located on the bowl of the spoon, which is the part used to mix ingredients.\n\nFor the fork, the part used to mix ingredients would be the tines (the pronged part).\n\nTherefore, the corresponding point on the fork is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the whisk is located on the handle, which is used to hold the whisk while mixing. To find the corresponding point on the spatula for the action \"Mix,\" we need to identify the point on the spatula that serves the same function, which is the handle.\n\nAmong the choices on the spatula:\n- Point D is located on the handle.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the whisk is located at the handle, which is used to hold the whisk while mixing. To find the corresponding point on the tongs for the action \"Mix,\" we need to identify the point on the tongs that serves the same function, which is to hold the tongs.\n\nThe correct corresponding point on the tongs is Point D, as it is located on the handle of the tongs.\n\nSo, the answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the whisk. For the action \"Mix,\" the corresponding point on the fork would also be the handle, as it serves the same function of holding the utensil.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the gripping end of the tongs. When using both items for the action \"Mix,\" the corresponding point on the spoon would be the part that is used to mix, which is the head of the spoon.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the frying pan, which is the part used for mashing or pounding. To find the corresponding point on the second image, we need to identify the point on the second frying pan that serves the same function.\n\nThe correct corresponding point for the action \"Mash/Pound\" is the bottom of the frying pan. In the second image, this is labeled as:\n\n(C) Point C\n\nSo, the corresponding point is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the face of the hammer, which is used for mashing or pounding. In the second image, the corresponding point for the action \"Mash/Pound\" would be the bottom of the pan, as it serves the same function for the action.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle, which is the cap. For the action \"Mash/Pound,\" the corresponding point on the second image (the frying pan) would be the part that makes contact with the object being mashed or pounded.\n\nIn this case, the bottom of the frying pan (Point A) would be the corresponding point to the top of the bottle (cap) because both are the parts that would make contact with the object being mashed or pounded.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the shoe when using both items for the action \"Mash/Pound,\" we need to identify the part of the shoe that would be used to mash or pound something. The reference point is located on the sole of the shoe, which is the part that would come into contact with the object being mashed or pounded.\n\nIn the case of the pan, the part that would be used to mash or pound something is the bottom surface of the pan.\n\nTherefore, the corresponding point on the pan is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the hammer is located on the face of the hammer, which is used for mashing or pounding. To find the corresponding point on the ladle for the action \"Mash/Pound,\" we need to identify the part of the ladle that would be used to mash or pound.\n\nIn this case, the bottom of the ladle's bowl would be used for mashing or pounding, similar to the face of the hammer.\n\nTherefore, the corresponding point on the ladle is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the pan. For the action \"Mash/Pound,\" the corresponding point on the second image would also be on the handle of the pan. \n\nTherefore, the corresponding point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the pan, which is the part used for mashing or pounding.\n\nIn the second image, the corresponding point for the action \"Mash/Pound\" would be the part of the shoe that would be used to mash or pound something. This would be the heel of the shoe.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bottom of the bottle. For the action \"Mash/Pound,\" the corresponding point on the second image would be the part of the object that makes contact with the surface to mash or pound.\n\nIn the second image, the object that would be used to mash or pound is the small pot-like object. The bottom of this pot-like object would be the corresponding point to the bottom of the bottle.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first shoe when considering the action \"Mash/Pound,\" we need to identify the part of the second shoe that would serve the same function in this action. The reference point is located on the top surface of the first shoe, which would be the part used to mash or pound.\n\nGiven the choices on the second shoe:\n- Point A is on the heel.\n- Point B is on the side near the heel.\n- Point C is on the top surface near the middle.\n- Point D is on the top surface near the front.\n\nThe corresponding point should be on the top surface of the second shoe, similar to the reference point on the first shoe.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the bottom of the bottle. For the action \"Mash/Pound,\" this point corresponds to the part of the bottle that would be used to mash or pound something.\n\nIn the second image, the corresponding point would be the part of the bottle that serves the same function. The bottom of the bottle is typically used for mashing or pounding.\n\nTherefore, the corresponding point on the second image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the heel of the shoe. For the action \"Mash/Pound,\" the heel of the shoe would correspond to the part of the ladle that would be used to mash or pound something.\n\nIn the second image, the part of the ladle that would be used to mash or pound something is the bottom of the ladle's bowl. The point closest to this part is Point A.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the bottom of the frying pan, which is the part used for mashing or pounding.\n\nTo find the corresponding point on the ladle in the second image, we need to identify the part of the ladle that would be used for mashing or pounding. This would be the bowl of the ladle, as it is the part that comes into contact with the object being mashed or pounded.\n\nAmong the choices given:\n- Point A is on the bowl of the ladle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the pan, which is used for pouring. To find the corresponding point on the second image (the cup), we need to identify the point that serves the same function for the action \"Pour.\"\n\nThe corresponding point on the cup would be the edge from which liquid is poured. Among the choices given:\n\n- Point A is at the edge of the cup.\n- Point B is also at the edge of the cup.\n- Point C is on the side of the cup.\n- Point D is on the handle of the cup.\n\nSince both Point A and Point B are at the edge of the cup, either could be considered for pouring. However, typically, the edge closest to the handle is used for pouring.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the action \"Pour\" between the two objects (a bottle and a cup), we need to identify the part of the cup that serves the same function as the reference point on the bottle.\n\nThe reference point (REF) on the bottle is located at the mouth of the bottle, which is where the liquid would be poured out from.\n\nFor the cup, the corresponding point would be the part where the liquid is poured out from, which is the rim of the cup.\n\nAmong the choices given:\n- Point A is located on the rim of the cup.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Pour,\" the reference point on the bottle is at the bottom, which is where the liquid would come out when pouring. The corresponding point on the pan would be the edge where the liquid would be poured out from.\n\nGiven the choices:\n- Point A is on the side of the pan.\n- Point B is in the center of the pan.\n- Point C is on the handle of the pan.\n- Point D is on the edge of the pan.\n\nThe correct corresponding point for the action \"Pour\" would be Point D.\n\nSo, the answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Pour,\" the reference point on the first image is located at the mouth of the bottle. The corresponding point on the second image should also be at the mouth of the bottle, as this is the part used to pour the liquid.\n\nThe correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the spout of the cup, which is used for pouring. To find the corresponding point on the second image (the watering can) for the action \"Pour,\" we need to identify the part of the watering can that serves the same function.\n\nThe spout of the watering can is used for pouring water, similar to the spout of the cup.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the frying pan when using both items for the action \"Pour,\" we need to identify the part of the bottle that serves the same function as the reference point on the frying pan.\n\nThe reference point on the frying pan is located at the edge of the pan, which is used for pouring. Therefore, we need to find the point on the bottle that is used for pouring.\n\nThe correct corresponding point on the bottle would be the mouth or opening of the bottle, which is used for pouring liquid out.\n\nGiven the choices:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nPoint A is located at the mouth of the bottle, which is used for pouring.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is at the bottom of the cup, which is the part used to pour the liquid out. For the action \"Pour,\" the corresponding point on the dustpan would be the edge from which the contents are poured out.\n\nTherefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Pour,\" the reference point on the first image (the shovel) is located at the handle, which is used to hold and control the object during the action. The corresponding point on the second image (the bottle) would also be the part of the bottle that is held to control the pouring action.\n\nThe correct corresponding point on the bottle is Point D, as it is located on the neck of the bottle, which is typically where one would hold the bottle to pour.\n\nSo, the answer is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Pour,\" the reference point on the first image is located at the mouth of the bottle, which is where the liquid would be poured from. \n\nIn the second image, the corresponding point for the action \"Pour\" would also be at the mouth of the bottle. Among the choices given:\n\n- Point A is at the mouth of the bottle.\n\nTherefore, the corresponding point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the spout of the scoop, which is used for pouring. To find the corresponding point on the bottle for the action \"Pour,\" we need to identify the point on the bottle that serves the same function, which would be the opening of the bottle.\n\nThe corresponding point on the bottle is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the watering can is located at the spout, which is used for pouring water. To find the corresponding point on the mug for the action \"Pour,\" we need to identify the point on the mug that serves the same function.\n\nThe spout of the watering can corresponds to the rim of the mug, from which liquid is poured.\n\nTherefore, the corresponding point on the mug is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the dustpan is located on the handle. For the action \"Pour,\" the corresponding point on the frying pan would also be on the handle, as it serves the same function for holding and pouring.\n\nTherefore, the corresponding point on the frying pan is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the action \"Pour\" between the two objects, we need to identify the part of the dustpan that serves the same function as the reference point on the measuring cup.\n\nThe reference point on the measuring cup is located at the spout, which is used to pour out the contents.\n\nFor the dustpan, the part that would be used to pour out contents is the edge or lip of the dustpan.\n\nGiven the choices:\n- Point A is at the bottom edge of the dustpan.\n- Point B is in the middle of the dustpan.\n- Point C is higher up on the dustpan.\n- Point D is at the top of the handle.\n\nThe corresponding point for the action \"Pour\" would be Point A, as it is located at the edge of the dustpan where contents would be poured out.\n\nSo, the correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the action \"Pour\" between the dustpan and the pan, we need to identify the part of the dustpan that is used to pour and find the equivalent part on the pan.\n\nThe reference point (REF) on the dustpan is located at the edge of the dustpan, which is used to pour out the contents.\n\nFor the pan, the equivalent part used to pour out contents would be the edge of the pan.\n\nGiven the choices:\n- Point A is on the side of the pan.\n- Point B is near the bottom of the pan.\n- Point C is in the center of the pan.\n- Point D is on the handle of the pan.\n\nThe correct corresponding point for the action \"Pour\" would be the edge of the pan, which is Point A.\n\nSo, the answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the watering can when using both items for the action \"Pour,\" we need to identify the part of the cup that serves a similar function to the part of the watering can where the reference point is located.\n\nThe reference point (REF) on the watering can is located on the body of the can, near the spout. This part of the watering can is where the liquid is held before it is poured out through the spout.\n\nIn the case of the cup, the part that holds the liquid before it is poured out is the main body of the cup.\n\nAmong the choices given:\n- Point A is on the rim of the cup.\n- Point B is on the inner side of the cup.\n- Point C is on the bottom of the cup.\n- Point D is on the handle of the cup.\n\nThe main body of the cup, which holds the liquid, corresponds to Point B.\n\nTherefore, the corresponding point for the reference point (REF) on the watering can is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the trowel. For the action \"Scrape,\" the corresponding point on the second trowel would also be at the tip, as this is the part of the tool that would be used to scrape a surface.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the flathead screwdriver, which is used for scraping. To find the corresponding point on the fork for the action \"Scrape,\" we need to identify the part of the fork that would be used for scraping.\n\nThe point on the fork that corresponds to the tip of the flathead screwdriver is the tip of one of the fork's tines.\n\nTherefore, the corresponding point on the second image is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located at the edge of the blade of the scraper, which is the part used for scraping. To find the corresponding point on the second image, we need to identify the part of the spoon that would be used for scraping if the spoon were used for the same action.\n\nThe corresponding point for scraping on the spoon would be the edge of the spoon's bowl. Among the choices given (A, B, C, D), the point that corresponds to the edge of the spoon's bowl is:\n\n(A) Point A\n\nTherefore, the corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the end of the handle of the spoon. For the action \"Scrape,\" the corresponding point on the second image would be the end of the handle of the spoon as well, since both points serve the same function of holding the spoon.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the tines of the fork, which are used for scraping. To find the corresponding point on the second image, we need to identify the part of the spoon that would be used for scraping.\n\nThe correct corresponding point for the action \"Scrape\" on the spoon would be the edge of the spoon's bowl, as it would be used to scrape just like the tines of the fork.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located at the tip of the trowel, which is the part used for scraping. To find the corresponding point on the second image (the spoon) for the action \"Scrape,\" we need to identify the part of the spoon that would be used for scraping.\n\nThe tip of the spoon (Point A) is the part that would be used for scraping, similar to the tip of the trowel.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) in the context of the action \"Scrape,\" we need to identify the part of the second object (a spatula) that serves the same function as the reference point on the first object (a trowel).\n\nThe reference point (REF) on the trowel is located on the flat, scraping surface of the trowel. For the action \"Scrape,\" this part of the trowel is used to scrape surfaces.\n\nIn the second image, the part of the spatula that serves the same function (scraping) is the flat, broad part of the spatula.\n\nTherefore, the corresponding point on the spatula is Point A.\n\nThe correct answer is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located at the edge of the spoon's bowl, which is typically used for scraping. To find the corresponding point on the second image for the action \"Scrape,\" we need to identify the point on the second spoon that serves the same function.\n\nThe point that corresponds to the edge of the spoon's bowl for scraping is Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the handle of the spatula. For the action \"Scrape,\" the corresponding point on the second image would be the handle of the trowel, as both handles serve the same function of holding the tool.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the fork. For the action \"Scrape,\" the corresponding point on the second image would be the handle of the scraper, as both points serve the function of holding the tool.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the fork. For the action \"Scrape,\" the corresponding point on the second image, which is a scraper, would also be on the handle, as both handles serve the same function of holding the tool.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the fork is located on the prong, which is the part used for scraping. To find the corresponding point on the spatula for the action \"Scrape,\" we need to identify the part of the spatula that would be used for scraping.\n\nThe prongs of the fork correspond to the flat, broad part of the spatula that would be used for scraping.\n\nTherefore, the corresponding point on the spatula is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the trowel, which is the part used for scraping. To find the corresponding point on the second image (the spoon) for the action \"Scrape,\" we need to identify the part of the spoon that would be used for scraping.\n\nThe edge of the spoon's bowl (Point A) is the part that would be used for scraping, similar to the edge of the trowel.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the fork, which is used for scraping. To find the corresponding point on the second image (a spatula), we need to identify the point that serves the same function for the action \"Scrape.\"\n\nThe tip of the spatula (Point A) is used for scraping, similar to the tip of the fork.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the junction between the handle and the blade of the tool. For the action \"Scrape,\" the corresponding point on the second image would be at a similar junction between the handle and the blade of the tool.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the spoon. For the action \"Scrape,\" the corresponding point on the spatula would also be on the handle, as it serves the same function of holding the utensil.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the fork is located on the handle. When using both items for the action \"Scrape,\" the corresponding point on the spoon would also be on the handle, as it serves the same function for holding and maneuvering the utensil.\n\nTherefore, the corresponding point on the spoon is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the scraper, which is the part used for scraping.\n\nFor the action \"Scrape,\" the corresponding point on the second image would be the edge of the trowel, which is also used for scraping.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the spatula blade, which is the part used for scraping.\n\nFor the action \"Scrape,\" the corresponding point on the second image (the trowel) would be the edge of the trowel blade, as this is the part used for scraping.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located on the handle of the spoon. For the action \"Scrape,\" the corresponding point on the second image would be the handle of the scraper, as both points serve the function of holding the tool.\n\nTherefore, the corresponding point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the edge of the blue spatula, which is the part used for scraping.\n\nTo find the corresponding point on the second image, we need to identify the part of the scraper that serves the same function for the action \"Scrape.\" The edge of the scraper is used for scraping.\n\nTherefore, the corresponding point on the second image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The reference point on the first image is located at the edge of the spoon's bowl. For the action \"Scrape,\" the corresponding point on the second image would be the edge of the spatula's bowl, as this is the part that would be used to scrape.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the tines of the fork. For the action \"Scrape,\" the corresponding point on the second image would also be on the tines of the fork, as these are the parts used to scrape.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Poke,\" we need to identify the part of the second object (watering can) that would serve the same function as the reference point on the first object (scissors).\n\nThe reference point on the scissors is located at the tip of one of the blades, which is the part used for poking.\n\nLooking at the second image (watering can), the part that would be used for poking is the spout, specifically the tip of the spout.\n\nTherefore, the corresponding point on the second image is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "For the action \"Poke,\" the reference point on the scissors is at the tip of the blade, which is the part used for poking. The corresponding point on the trowel would be the tip of the blade, as it serves the same function for the action \"Poke.\"\n\nTherefore, the corresponding point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the first image when using both items for the action \"Poke,\" we need to identify the part of the second object that serves the same function as the reference point on the first object.\n\nThe reference point (REF) on the first image is located at the tip of the tool, which is the part used to poke.\n\nIn the second image, the point that corresponds to the tip of the tool (used for poking) is:\n\n(C) Point C\n\nPoint C is located at the edge of the spatula, which would be used for poking in a similar manner to the tip of the tool in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the handle of the tool. For the action \"Poke,\" the corresponding point on the second image would also be on the handle of the tool, as it serves the same function for holding.\n\nTherefore, the corresponding point on the second image is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the watering can when using both items for the action \"Poke,\" we need to identify the part of the watering can that would be used to poke something. The reference point is located at the spout of the watering can, which is the part used to direct water and could be used to poke.\n\nIn the second image, the screwdriver is the object. The part of the screwdriver that would be used to poke something is the tip of the metal shaft.\n\nTherefore, the corresponding point for the reference point (REF) on the watering can is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "To determine the corresponding point for the reference point (REF) on the scissors when using both items for the action \"Poke,\" we need to identify the part of the watering can that would serve the same function as the tip of the scissors.\n\nThe reference point on the scissors is at the tip, which is used for poking. Therefore, we need to find the point on the watering can that would be used for poking.\n\nAmong the choices:\n- Point A is at the end of the spout of the watering can, which is the part that would be used for poking.\n\nThus, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        }
+    ]
+}

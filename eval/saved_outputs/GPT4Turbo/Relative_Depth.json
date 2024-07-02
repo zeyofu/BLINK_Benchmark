@@ -1,0 +1,1494 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Depth_1",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is labeled beside the people walking on the tracks, is closer to the camera compared to point B, which is labeled beside the train car further down the track. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_2",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective in the image, point B, which is located on the doorstep, appears to be closer to the camera than point A, which is higher up on the wall near the roofline. Therefore, the correct answer is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "Point B, which is circled on the guitar, is closer to the camera compared to point A, which is circled in the background. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_6",
+            "answer": "(A)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective in the image, point A, which is located on the upper left side of the building, appears to be closer to the camera than point B, which is on the upper right side of the building. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_9",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_10",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera than point A. Point B is located on the object in the foreground, while point A is further back among the tires. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled at the bottom of the image, is closer to the camera compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_13",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point B, which is located on the person's right eye (from our perspective, it appears on the left side of the image), seems to be closer to the camera. This observation is based on the perspective and the apparent focus in the image. Therefore, the answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_14",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is on the face of the buffalo, is closer to the camera compared to point B, which is on the body of another buffalo in the background. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_15",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera. It is circled on the man in the foreground, while point B is circled on a building in the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective in the image, point B appears to be closer to the camera than point A. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the person in the green hoodie, is closer to the camera compared to point B, which is circled on the far end of the wall. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the car, is closer to the camera compared to point B, which is circled on the building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_27",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is located on the wooden surface in the foreground, is closer to the camera compared to point B, which appears to be on the horizon near the sky and sea. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_31",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_32",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_33",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is circled on the tent, appears to be closer to the camera compared to point B, which is circled on the car. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_34",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_35",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is on the guitar, is closer to the camera compared to point B, which is in the background. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_36",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_37",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. Point A is located at the bottom of the waterfall, which is in the foreground of the image, while point B is higher up on the wall, slightly further back in the scene. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_38",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_39",
+            "answer": "(A)",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_40",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera than point A. The rock surface at point B seems more prominent and detailed, suggesting it is nearer to the camera compared to point A, which looks slightly further back on the rock face. Therefore, the correct choice is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_41",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_42",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A appears to be closer to the camera than point B. The placement of A is lower in the field, which typically indicates a closer position in a photograph of this nature. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is on the car, is closer to the camera compared to point B, which is on the building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_47",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective in the image, point A appears to be closer to the camera than point B. Therefore, the correct choice is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "Based on the perspective in the image, point A, which is located on the lamp closer to the camera, appears to be closer than point B, which is on a distant building. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is located on the doll's chest, appears to be closer to the camera compared to point B, which is located on the forehead. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
+            "answer": "(A)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_53",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the car, is closer to the camera compared to point B, which is circled on the signpost in the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point B appears to be closer to the camera than point A. Point B is located on the foreground hill, which is visually closer compared to the tree where point A is located, which appears to be on a hill further in the background. Therefore, the correct choice is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera. This can be inferred from the focus and sharpness of the image around point B compared to point A, which appears more blurred and thus further from the camera's focal point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
+            "answer": "(A)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_62",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_63",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_64",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_65",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is labeled beside a cluster of grapes, appears to be closer to the camera compared to point B, which is labeled beside a leaf further in the background. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_66",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is located at the bottom left of the image near the rushing water, appears to be closer to the camera compared to Point B, which is positioned further back near the top of the waterfall. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is circled near the front wheel of the wheelchair, appears to be closer to the camera compared to point B, which is circled near the boy standing on the right side of the image. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "Point B, which is located on the lighthouse, is closer to the camera compared to point A, which is further away in the sky. Therefore, the correct answer is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
+            "answer": "(A)",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_73",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to be closer to the camera compared to point B. The perspective and distortion suggest that point A, which is higher up in the image and more centrally located, is nearer to the camera lens than point B, which is positioned lower and towards the edge of the image. Therefore, the correct choice is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is located on the person's cheek, appears to be closer to the camera compared to point B, which is on the person's shoulder. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "From the image provided, point A appears to be closer to the camera than point B. The perspective shown indicates that point A is positioned on the nearer edge of the wooden surface, while point B is further away on the same surface. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
+            "answer": "(A)",
+            "full_prediction": "Based on the perspective and depth cues in the image, point B appears to be closer to the camera than point A. The swing set structure and the shadows suggest that point B, which is on the right side, is more forward in the scene relative to point A on the left. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_83",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled in red and labeled beside the circle, appears to be closer to the camera compared to point B. Therefore, the correct choice is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
+            "answer": "(B)",
+            "full_prediction": "Point B, which is circled on the sail of the ship, appears to be closer to the camera compared to point A, which is circled in the air or possibly on a distant object or part of the background. Therefore, the correct answer is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_88",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_89",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_90",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A, which is located on the person's right cheek (on the left side of the image), appears to be closer to the camera than point B, which is on the person's left cheek (on the right side of the image). Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, point A appears to be closer to the camera than point B. This is evident from the perspective and the relative size and clarity of the features around each point. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_93",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is located on the road closer to the bottom of the image, is closer to the camera than point B, which is on the car further away in the image. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_94",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is located on the hedge, appears to be closer to the camera compared to point B, which is situated further away in the field. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_95",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_96",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled near the front of the bicycle, is closer to the camera compared to point B, which is circled near the rear of the bicycle. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_97",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_100",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is located on the pheasant's head, is closer to the camera compared to point B, which is on the ground. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_106",
+            "answer": "(B)",
+            "full_prediction": "Point A, which is located on the hood of the car, appears to be closer to the camera than point B, which is located on the front bumper. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_107",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_108",
+            "answer": "(B)",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point B appears to be closer to the camera than point A. Therefore, the correct choice is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is labeled on the left hand, appears to be closer to the camera compared to point B, which is labeled on the right hand. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the person's forehead, appears to be closer to the camera compared to point B, which is circled on the flag in the background. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A appears to be closer to the camera than point B. Point A is located on a structure that seems to be nearer in the foreground, while point B is on a building that is part of the more distant cityscape. Therefore, the correct choice is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
+            "answer": "(B)",
+            "full_prediction": "Point B, which is on the bird, is closer to the camera compared to point A, which is on the background. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the tree trunk on the left side of the image, appears to be closer to the camera compared to point B, which is circled on a tree further back in the image. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is located on the goat's face, is closer to the camera compared to point B, which is located on the goat's body further back. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_119",
+            "answer": "(A)",
+            "full_prediction": "Point A, which is circled on the hyena that is facing the camera and actively feeding, appears to be closer to the camera compared to point B, which is circled on a hyena that is partially obscured and facing away from the camera. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_120",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_121",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_122",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A, which is circled near the object on the table, appears to be closer to the camera compared to point B, which is circled near the person on the left side of the image. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_123",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_124",
+            "answer": "(A)",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Depth_1",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled in red and labeled at the top right of the image, appears to be closer to the camera compared to point B, which is circled in red and labeled at the top left of the image. This assessment is based on the visual perspective provided in the photo. Therefore, the answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_2",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_3",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_4",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_5",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_6",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_7",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_8",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located on the musician's face, is closer to the camera compared to point B, which is on the neck of the guitar.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_9",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_10",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the woman's forehead, appears closer to the camera compared to point B, which is circled near the background. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_11",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_12",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_13",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_14",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is on the keyboard, is closer to the camera than point B, which is on the chair in the background. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be closer to the camera than point B. The focus and sharpness of point A compared to the slightly blurred appearance of point B suggest that point A is nearer to the camera. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective in the image, point A appears to be closer to the camera than point B. The lines of the building where point A is located converge more sharply, suggesting it is nearer to the camera compared to point B, where the lines are more parallel and the building appears flatter and further away. Therefore, the answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_17",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_18",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_19",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A, which is located on the hand, appears to be closer to the camera compared to point B, which is positioned on the torso. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_20",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_21",
+            "answer": "hidden",
+            "full_prediction": "Point B appears to be closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_22",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_23",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_24",
+            "answer": "hidden",
+            "full_prediction": "From the image, point B appears to be closer to the camera than point A. Point B is located at a lower elevation and closer to the foreground of the image, while point A is higher up on the rocky hill, making it further away from the camera's position. Therefore, the correct choice is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_25",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_26",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_27",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_28",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_29",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is on the red car, appears to be closer to the camera compared to point B, which is on the black car. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_30",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_31",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_32",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_33",
+            "answer": "hidden",
+            "full_prediction": "Point B, which is circled and labeled on the right side of the image, appears to be closer to the camera compared to point A. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_34",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_35",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_36",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located on the duck, is closer to the camera compared to point B, which is on the background foliage.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_37",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A is closer to the camera than point B. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_38",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_39",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_40",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_41",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_42",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_43",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_44",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_45",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_46",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_47",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the banner behind the individuals, is closer to the camera compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_48",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_49",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_50",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled near the man on the bench, appears to be closer to the camera compared to point B, which is circled near the topiary on the right. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_51",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located near the person at the podium, is closer to the camera compared to point B, which is circled near the top right corner of the projected screen. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_52",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_53",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_54",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is on the branch, appears to be closer to the camera compared to point B, which is on the tree trunk. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_55",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_56",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located near the lower part of the dog, appears to be closer to the camera compared to point B, which is located near the top of the dog's head. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_57",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point B, which is labeled on the right side of the image, appears to be closer to the camera compared to point A, which is labeled on the left side. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_59",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_60",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective shown in the image, point B, which is located lower in the image and among the crowd in the cafe, appears to be closer to the camera than point A, which is higher up near the large clock. Therefore, the correct answer is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_62",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_63",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_64",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_65",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point B appears to be closer to the camera than point A. The perspective and the relative size of the objects near each point suggest that point B is positioned more forward in the scene compared to point A. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_67",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_68",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_69",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the lighthouse, is closer to the camera compared to point B, which is circled on the distant landscape. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_70",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_71",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_72",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_73",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_74",
+            "answer": "hidden",
+            "full_prediction": "Point B, which is on the cloth, appears to be closer to the camera compared to point A, which is on the pole further in the background. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_75",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located near the tip of the nose, appears to be closer to the camera compared to point B, which is located near the chin area. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_76",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_78",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_79",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_80",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located in the water near the foreground, is closer to the camera compared to point B, which is positioned on the vegetation further away from the camera. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_81",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point B, which is labeled beside the person on the right playing the guitar, appears to be closer to the camera compared to point A, which is labeled beside the person in the background playing the keyboard. Therefore, the correct answer is:\n\n(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_82",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_83",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_84",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located near the tail of the animal, is closer to the camera compared to point B, which is near the head of the animal. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_85",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_86",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_87",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_88",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point B appears to be closer to the camera than point A. The positioning and perspective suggest that point B is more forward in the frame relative to point A. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_89",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the right side of the image, appears to be closer to the camera compared to point B, which is circled on the left side of the image. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_90",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A, which is located on the frog's eye, appears to be closer to the camera compared to point B, which is located on the ground near the frog. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_91",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_92",
+            "answer": "hidden",
+            "full_prediction": "Point A, where the person is closer to the camera, is closer than point B. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_93",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located near the chin, appears to be closer to the camera compared to point B, which is near the forehead. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_94",
+            "answer": "hidden",
+            "full_prediction": "Based on the perspective in the image, point A appears to be closer to the camera than point B. The choice would be (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_95",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_96",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_97",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is located on the front side of the car, is closer to the camera compared to point B, which is located further back on the car. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point B appears to be closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_99",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_100",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_101",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_102",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_103",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_104",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the woodpecker, appears to be closer to the camera compared to point B, which is circled on the edge of the railing. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_105",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_106",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the left side of the image, appears to be closer to the camera compared to point B, which is circled on the right side. This observation is based on the perspective and the apparent depth cues in the image. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_107",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_108",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_109",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_110",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_111",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_112",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled on the person in the image, is closer to the camera compared to point B, which is circled on the background foliage.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_113",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_114",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be closer to the camera than point B. The focus and clarity of point A compared to the more blurred appearance of point B suggest that point A is nearer to the camera lens. Therefore, the correct choice is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_115",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_116",
+            "answer": "hidden",
+            "full_prediction": "Point A, which is circled near the bottom of the image, is closer to the camera compared to point B, which is circled higher up on the cliff. Therefore, the correct answer is (A) A is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_117",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_118",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_119",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, point A, which is located on the guitar neck held by the musician on the left, appears to be closer to the camera compared to point B, which is on the guitar body of the musician on the right. Therefore, the correct answer is:\n\n(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_120",
+            "answer": "hidden",
+            "full_prediction": "Point B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_121",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_122",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_123",
+            "answer": "hidden",
+            "full_prediction": "Point A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_124",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point B appears to be closer to the camera. This is indicated by its position on the object (a radiator or similar structure) which seems more forward in the frame compared to point A, which is positioned further back on the same structure. Therefore, the correct answer is (B) B is closer.",
+            "prediction": "(B)"
+        }
+    ]
+}

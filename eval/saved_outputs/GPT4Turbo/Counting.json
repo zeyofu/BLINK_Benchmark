@@ -1,0 +1,1446 @@
+{
+    "val": [
+        {
+            "idx": "val_Counting_1",
+            "answer": "(D)",
+            "full_prediction": "There are two blue floats visible in the image. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_2",
+            "answer": "(D)",
+            "full_prediction": "The image shows a toilet that is white in color. Therefore, the answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_3",
+            "answer": "(B)",
+            "full_prediction": "There are no TVs hung up on the wall in the image. The TV is placed on a stand. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_4",
+            "answer": "(B)",
+            "full_prediction": "In the image, there is one person wearing purple. The correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_5",
+            "answer": "(A)",
+            "full_prediction": "There are 6 colored tiles above the sink. The correct answer is (A) 6.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_6",
+            "answer": "(A)",
+            "full_prediction": "There are 3 big nuts in the green bowl. The correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_7",
+            "answer": "(C)",
+            "full_prediction": "In the image, there is one baseball player looking towards the camera. Therefore, the correct answer is (C) 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_8",
+            "answer": "(B)",
+            "full_prediction": "(B) 1 person is wearing a red shirt in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_9",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are 3 black suitcases being pulled. Therefore, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_10",
+            "answer": "(C)",
+            "full_prediction": "In the image provided, there is only one tall building visible, which is the clock tower. The top of the clock tower is not flat; it has a pointed roof. Therefore, the answer to how many tall buildings have a flat top is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_11",
+            "answer": "(B)",
+            "full_prediction": "There are no people visible in the image; it only shows food on a buffet table. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_12",
+            "answer": "(B)",
+            "full_prediction": "In the image, there are two glasses that appear to be filled with water. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_13",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are two people, and neither of them is wearing a hat. One person is holding an umbrella. Therefore, the correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_14",
+            "answer": "(B)",
+            "full_prediction": "In the image, there are two bicycles parked near the wooden horse sculpture. Since bicycles do not have motors, the correct answer is:\n\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_15",
+            "answer": "(D)",
+            "full_prediction": "In the image, there is one person visible, and he is wearing glasses. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_16",
+            "answer": "(B)",
+            "full_prediction": "There are 4 kids in front of the yellow school bus. So the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_17",
+            "answer": "(C)",
+            "full_prediction": "In the image, there is one person wearing a red coat. Therefore, the correct answer is (C) 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_18",
+            "answer": "(B)",
+            "full_prediction": "In the image, the person is showing 2 fingers in front of the bathtub. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_19",
+            "answer": "(A)",
+            "full_prediction": "There are 4 green tiles on the wall. The correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_20",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are 3 toilets to the left of the basins. Therefore, the correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_21",
+            "answer": "(A)",
+            "full_prediction": "In the image, there is 1 red bus. Therefore, the correct answer is:\n(A) 1",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_22",
+            "answer": "(C)",
+            "full_prediction": "In the image, the person is holding a cupcake, not drinking water. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_23",
+            "answer": "(C)",
+            "full_prediction": "There are 4 bananas on the plate. The correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_24",
+            "answer": "(B)",
+            "full_prediction": "On the front of the bus, there are two windows. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_25",
+            "answer": "(B)",
+            "full_prediction": "There are three slices of tomatoes on the plate. The correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_26",
+            "answer": "(B)",
+            "full_prediction": "There are no yellow buses in the image provided. The bus shown is pink and blue. Therefore, the correct answer is:\n\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_27",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_28",
+            "answer": "(B)",
+            "full_prediction": "There is one person sitting on the bed. So the correct answer is:\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_29",
+            "answer": "(D)",
+            "full_prediction": "In the image provided, there is one red car visible. Therefore, the correct answer is:\n(A) 1",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_30",
+            "answer": "(C)",
+            "full_prediction": "In the image, there is one person wearing a green jacket. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_31",
+            "answer": "(A)",
+            "full_prediction": "There are two green train carts in the picture. The correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_32",
+            "answer": "(A)",
+            "full_prediction": "There are no green frogs visible under the table in the image provided. The correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_33",
+            "answer": "(C)",
+            "full_prediction": "There are three white pillows in the image. The correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_34",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are two \"one way\" signs pointing to the left. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_35",
+            "answer": "(D)",
+            "full_prediction": "There are 4 kids sitting on the bench in the image. So, the correct answer is (D) 4.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_36",
+            "answer": "(B)",
+            "full_prediction": "There are 4 wooden beams on top of the person in the image. The correct answer is (D) 4.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_37",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are two people wearing a white uniform. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_38",
+            "answer": "(A)",
+            "full_prediction": "In the photo, there is 1 blue collar, which is on the dog. Therefore, the correct answer is (A) 1.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_39",
+            "answer": "(B)",
+            "full_prediction": "In the image, there are two blue buses. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_40",
+            "answer": "(C)",
+            "full_prediction": "In the image, there is only one skier visible, and they are not wearing red. Therefore, the correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_41",
+            "answer": "(C)",
+            "full_prediction": "There is 1 parking meter in the garden. The correct answer is (C) 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_42",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are four flower pots visible, and all of them have flowers in them. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_43",
+            "answer": "(B)",
+            "full_prediction": "In the image, there are two elephants with their trunks in the water. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_44",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, there are no skiers doing a flip. The skier in the image is skiing downhill in a regular stance. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_45",
+            "answer": "(A)",
+            "full_prediction": "In the image, there is one motorbike visible near the bus. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_46",
+            "answer": "(D)",
+            "full_prediction": "The building in the image has one blue circle, which is the clock face. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_47",
+            "answer": "(D)",
+            "full_prediction": "The image shows people cutting a birthday cake, not reading a book. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_48",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are 3 toilets that have lids. Therefore, the correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_49",
+            "answer": "(A)",
+            "full_prediction": "There are three people standing in the picture. So, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_50",
+            "answer": "(D)",
+            "full_prediction": "In the picture, there is one blue towel hanging on the right side. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_51",
+            "answer": "(C)",
+            "full_prediction": "The image shows three hot dogs, but there are no people visible in the image. Therefore, the answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_52",
+            "answer": "(B)",
+            "full_prediction": "In the picture, there is 1 red motorcycle. Therefore, the correct answer is:\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_53",
+            "answer": "(A)",
+            "full_prediction": "There are no clear bottles of wine on the table. The bottle visible in the image is not clear. Therefore, the correct answer is:\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_54",
+            "answer": "(C)",
+            "full_prediction": "The stove in the image has 4 knobs. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_55",
+            "answer": "(D)",
+            "full_prediction": "There are 6 pieces of chicken nuggets in the tray. So the correct answer is (B) 6.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_56",
+            "answer": "(D)",
+            "full_prediction": "There are 4 candlelights to the right of the television. The correct answer is (C) 4.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_57",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are two players wearing face guards: the catcher and the umpire. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_58",
+            "answer": "(D)",
+            "full_prediction": "The engine in the image has four drive wheels. Therefore, the correct answer is:\n(B) 4",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_59",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are 3 people wearing white hats. Therefore, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_60",
+            "answer": "(D)",
+            "full_prediction": "There are three plates holding sandwiches in the image. So, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_61",
+            "answer": "(C)",
+            "full_prediction": "(B) 3",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_62",
+            "answer": "(D)",
+            "full_prediction": "In the image, there is one man looking through a camera. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_63",
+            "answer": "(D)",
+            "full_prediction": "(B) 1\n\nThere is one cow visible in the image, standing outside the train.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_64",
+            "answer": "(B)",
+            "full_prediction": "The stove in the image has 4 burners. So, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_65",
+            "answer": "(C)",
+            "full_prediction": "The front of the train in the image displays the word \"renfe\" in red letters. Counting the letters, there are 5 red letters. Therefore, the correct answer is (C) 5.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_66",
+            "answer": "(B)",
+            "full_prediction": "The woman is wearing gloves that show more than one color. Both gloves are black with some white detailing. Therefore, the answer is:\n\n(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_67",
+            "answer": "(D)",
+            "full_prediction": "There are 3 white umbrellas on the left side of the image. The correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_68",
+            "answer": "(D)",
+            "full_prediction": "In the image, there is 1 person holding a baseball bat. Therefore, the correct answer is:\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_69",
+            "answer": "(B)",
+            "full_prediction": "The glowing letters in the image spell out \"BLOCK KEYSTONE XL.\" The common vowels in the English alphabet are A, E, I, O, and U. In the text displayed, the vowels are:\n\n- E (appears twice)\n- O (appears twice)\n- E (appears again)\n\nThis totals to four occurrences of vowels. Therefore, the correct answer is:\n(B) 4",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_70",
+            "answer": "(A)",
+            "full_prediction": "The train in the image has two visible doors with a red line. Therefore, the correct answer is:\n\n(A) 2",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_71",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are four yellow stars visible on the colorful bridge. Therefore, the correct answer is (A) 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_72",
+            "answer": "(C)",
+            "full_prediction": "In the image provided, there are no purple planes visible. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_73",
+            "answer": "(B)",
+            "full_prediction": "There are two elephants in the water. So, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_74",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are two glasses visible. Both glasses are being filled with wine and neither is empty. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_75",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are two people reflected in the mirror. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_76",
+            "answer": "(C)",
+            "full_prediction": "In the image, there is (C) 1 person skiing on the mountain.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_77",
+            "answer": "(B)",
+            "full_prediction": "In the image, there is one person wearing a suit. The person on the left is dressed in a suit, complete with a tie and dress shoes.\n\nThe correct answer is:\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_78",
+            "answer": "(C)",
+            "full_prediction": "There are no people climbing on the wall in the image provided. The correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_79",
+            "answer": "(D)",
+            "full_prediction": "The letters printed on the snowboard are \"JONES.\" Out of these, J, N, S are consonants. Therefore, there are 3 consonants.\n\nThe correct answer is:\n(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_80",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are 2 empty blue seats. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_81",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are two players wearing red shirts. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_82",
+            "answer": "(A)",
+            "full_prediction": "There are 4 people in the water. So, the correct answer is (A) 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_83",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are two people wearing caps. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_84",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are two people wearing white hats. Therefore, none of the choices (A) 4, (B) 3, (C) 5, or (D) 6 correctly describes the number of people wearing white hats in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_85",
+            "answer": "(D)",
+            "full_prediction": "There are three telephone poles to the right of the truck in the image. Therefore, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_86",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are four banners hanging from the awning. Each banner displays a day of the week: \"Monday,\" \"Tuesday,\" \"Thursday,\" and \"Saturday.\" Therefore, the correct answer is (D) 4.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_87",
+            "answer": "(A)",
+            "full_prediction": "The image you provided shows a dilapidated bathroom and does not contain any people. Therefore, the answer to your question about how many people are eating apples is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_88",
+            "answer": "(C)",
+            "full_prediction": "There are 3 yellow bears in the image. The correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_89",
+            "answer": "(A)",
+            "full_prediction": "There are 4 plates on the counter. The correct answer is (A) 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_90",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are three signs with black letters: the \"GRANDVIEW DR,\" \"SUNSET TERR.,\" and \"STOP\" signs. Therefore, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_91",
+            "answer": "(B)",
+            "full_prediction": "The sign in the image has the following words: \"Charlie Banks Trail 3K Advanced Intermediate.\" Out of these words, the ones containing the letter \"i\" are \"Trail,\" \"3K,\" \"Advanced,\" and \"Intermediate.\" Therefore, the number of words with the letter \"i\" is 3.\n\nThe correct answer is:\n(B) 3",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_92",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are two people carrying tennis rackets. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_93",
+            "answer": "(D)",
+            "full_prediction": "(D) 0\n\nThere are no people visible in the image; it only shows sinks in a restroom.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_94",
+            "answer": "(C)",
+            "full_prediction": "The image shows two people riding on motorcycles, but neither of the motorcycles is white. Therefore, the correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_95",
+            "answer": "(A)",
+            "full_prediction": "The person in the image is wearing a hat. Therefore, the number of people without hats in the image is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_96",
+            "answer": "(D)",
+            "full_prediction": "There are no sinking boats in the image provided. The boat shown is afloat and appears to be in good condition. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_97",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are two people wearing solid red shirts. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_98",
+            "answer": "(D)",
+            "full_prediction": "In the image, there is one train visible on the tracks at the station. Therefore, the correct answer is:\n\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_99",
+            "answer": "(A)",
+            "full_prediction": "The car in the image is silver, not red. Therefore, the correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_100",
+            "answer": "(D)",
+            "full_prediction": "There is 1 white fridge in the image. The correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_101",
+            "answer": "(B)",
+            "full_prediction": "The building in the image is not red; it is primarily a light color, possibly white or cream. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_102",
+            "answer": "(A)",
+            "full_prediction": "In the image, there is only one person wearing a blue shirt. Therefore, the correct answer is:\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_103",
+            "answer": "(C)",
+            "full_prediction": "(C) 1 person is wearing a yellow jacket in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_104",
+            "answer": "(A)",
+            "full_prediction": "The image shows three signs with faces on them. Therefore, the correct answer is:\n\n(B) 3",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_105",
+            "answer": "(C)",
+            "full_prediction": "In the picture, there are two signs with arrows. The correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_106",
+            "answer": "(C)",
+            "full_prediction": "There are 4 white vertical lines drawn on the ground in the image. The correct answer is (D) 4.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_107",
+            "answer": "(C)",
+            "full_prediction": "In the image, there are four people sitting. So, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_108",
+            "answer": "(C)",
+            "full_prediction": "There are 5 words written in white chalk on the chalkboard. The correct answer is (D) 5.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_109",
+            "answer": "(B)",
+            "full_prediction": "In the image, there is one person visible, and he is wearing glasses. Therefore, the correct answer is:\n\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_110",
+            "answer": "(B)",
+            "full_prediction": "In the picture, there are two red bikes. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_111",
+            "answer": "(D)",
+            "full_prediction": "(D) 0\n\nThere are no tigers in the image; it only shows a sheep and a lamb.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_112",
+            "answer": "(B)",
+            "full_prediction": "There are three bottles on the round table at the bottom of the photo. The correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_113",
+            "answer": "(B)",
+            "full_prediction": "The image you provided shows a group of people dressed as Santa Claus on motorcycles, not cars. Therefore, there are no cars visible in the image to determine their colors. If you have another question or a different image, feel free to ask!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_114",
+            "answer": "(A)",
+            "full_prediction": "There are no people standing near the right of the giraffe in the image. The correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_115",
+            "answer": "(D)",
+            "full_prediction": "In the image, both birds are facing the left of the frame. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_116",
+            "answer": "(A)",
+            "full_prediction": "In the image, there are two people playing tennis. However, this number is not listed in the provided choices (A) 4, (B) 5, (C) 6, (D) 3. Please check if there is an error in the question or the choices provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_117",
+            "answer": "(D)",
+            "full_prediction": "In the picture, there is 1 yellow car visible. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_118",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are 3 people who are not wearing a blue hat. Therefore, the correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_119",
+            "answer": "(C)",
+            "full_prediction": "In the image provided, there is one person visible, and they are not wearing a yellow shirt. Therefore, the correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_120",
+            "answer": "(A)",
+            "full_prediction": "There is 1 small sign that says \"kumquat\" on it. The correct answer is (A) 1.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Counting_1",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is 1 burger that is half-eaten. Therefore, the correct answer is:\n(A) 1",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_2",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one yellow surfboard. Therefore, the correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_3",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is 1 person wearing an orange shirt. Therefore, the correct answer is (C) 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_4",
+            "answer": "hidden",
+            "full_prediction": "(C) 0\n\nThere are no children posing in front of the road sign in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_5",
+            "answer": "hidden",
+            "full_prediction": "There are two candles currently lit on the cake. The correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_6",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two sections that contain apples. One section has red apples and another section has green apples.\n\nThe correct answer is:\n(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_7",
+            "answer": "hidden",
+            "full_prediction": "(D) 0\n\nNone of the people in the image are reading a book. They are holding umbrellas and posing, likely at an event or performance.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_8",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two train tracks visible. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_9",
+            "answer": "hidden",
+            "full_prediction": "There are 6 players on the field in the image. So, the correct answer is (A) 6.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, there are no people sitting on the grass. The person visible in the image is standing and holding a kite. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_11",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people holding a joystick. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_12",
+            "answer": "hidden",
+            "full_prediction": "In the background of the image, there are two blue signs. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_13",
+            "answer": "hidden",
+            "full_prediction": "There are 3 people pictured on the side of the train. The correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_14",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three types of green vegetables visible: broccoli, zucchini, and what appears to be a cucumber. Therefore, the correct answer is:\n\n(A) 3",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_15",
+            "answer": "hidden",
+            "full_prediction": "There are two bottles of water visible in the image. The correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_16",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person wearing a red jacket. Therefore, the correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_17",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people visible. The baby is wrapped in a towel and the man is wearing clothes. Therefore, the correct answer is:\n\n(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_18",
+            "answer": "hidden",
+            "full_prediction": "In the image provided, there are no visible window AC units in any of the windows. Therefore, none of the choices (A) 3, (B) 6, (C) 4, or (D) 5 correctly describe the number of windows with AC units.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_19",
+            "answer": "hidden",
+            "full_prediction": "The image shows a person playing tennis, not football. Therefore, the correct answer is:\n\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_20",
+            "answer": "hidden",
+            "full_prediction": "The image shows a brown bear, not a white bear. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_21",
+            "answer": "hidden",
+            "full_prediction": "The image shows a plate of food that includes a sandwich, salad, and potato wedges, but there is no cake visible. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_22",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two horses without riders. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_23",
+            "answer": "hidden",
+            "full_prediction": "In the image, I can see that 3 people are carrying a bag. Therefore, the correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_24",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two horses facing the camera. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_25",
+            "answer": "hidden",
+            "full_prediction": "There are 3 plates next to the oven. The correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_26",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people at the fruit stands. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_27",
+            "answer": "hidden",
+            "full_prediction": "There are 4 pillows on the couch. The correct answer is (C) 4.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_28",
+            "answer": "hidden",
+            "full_prediction": "There are no people climbing on the pillar in the image. The correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_29",
+            "answer": "hidden",
+            "full_prediction": "There are 3 pieces of strawberry on the cake slice. So the correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_30",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person wearing a red hat. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_31",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people sitting down. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_32",
+            "answer": "hidden",
+            "full_prediction": "The street sign on the train reads \"KINGS LYNN.\" Counting the letters, there are two \"n\" letters in \"LYNN.\" Therefore, the correct answer is:\n\n(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_33",
+            "answer": "hidden",
+            "full_prediction": "The image shows a baseball player, not people playing tennis. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_34",
+            "answer": "hidden",
+            "full_prediction": "On the center top shelf, there are 4 white frosted donuts without sprinkles. The correct answer is (C) 4.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_35",
+            "answer": "hidden",
+            "full_prediction": "There are 4 zebras standing in the water. The correct answer is (A) 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_36",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one unwrapped food item visible on the table, which is the chocolate chip muffin. The sandwich and another item are wrapped in foil. Therefore, the correct answer is:\n\n(A) 1",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_37",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people wearing hats. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_38",
+            "answer": "hidden",
+            "full_prediction": "There are three baby birds in the nest. So, the correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_39",
+            "answer": "hidden",
+            "full_prediction": "There are two red suitcases standing up in the image. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_40",
+            "answer": "hidden",
+            "full_prediction": "(B) 2",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_41",
+            "answer": "hidden",
+            "full_prediction": "There are three elephants near the person in green. The correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_42",
+            "answer": "hidden",
+            "full_prediction": "There are three glasses of wine sitting on the table. The correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_43",
+            "answer": "hidden",
+            "full_prediction": "The airplane in the image is an Airbus A380, which is a jet-powered aircraft and does not have propellers. It uses jet engines instead. Therefore, none of the choices (A) 2, (B) 4, (C) 1, (D) 3 are correct in the context of propellers. However, if the question refers to jet engines, there are 2 engines on the right side of the plane.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_44",
+            "answer": "hidden",
+            "full_prediction": "There are no black horses in the image provided. The horse shown is brown with white markings. Therefore, the correct answer is:\n\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_45",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is only one bird visible, and it does not appear to be drinking water. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_46",
+            "answer": "hidden",
+            "full_prediction": "(D) 0\n\nThere are no people visible in the bathroom image provided.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_47",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person wearing yellow. Therefore, the correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_48",
+            "answer": "hidden",
+            "full_prediction": "There are 3 bananas in the image. The correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_49",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two black umbrellas. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_50",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is 1 person wearing glasses. Therefore, the correct answer is:\n(A) 1",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_51",
+            "answer": "hidden",
+            "full_prediction": "The image shows a church with two towers, and each tower has a visible cross on top. Therefore, the correct answer is:\n\n(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_52",
+            "answer": "hidden",
+            "full_prediction": "There is 1 police car in the image. The correct answer is (C) 1.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_53",
+            "answer": "hidden",
+            "full_prediction": "The teenager in the image is wearing multiple bracelets on her wrist, but there are no visible watches. Therefore, the correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_54",
+            "answer": "hidden",
+            "full_prediction": "There are 2 white pillows on the chairs in the image. The correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_55",
+            "answer": "hidden",
+            "full_prediction": "In the image, none of the carrots appear to be half-eaten. All the carrots look whole. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_56",
+            "answer": "hidden",
+            "full_prediction": "(A) 0\n\nThere are no kids sleeping on the bed in the image. There is one child standing next to the bed.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_57",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two rolling suitcases visible. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, there are no zebras drinking water. The correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_59",
+            "answer": "hidden",
+            "full_prediction": "There are 3 dark colored pillows on the bed. The correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_60",
+            "answer": "hidden",
+            "full_prediction": "In the image provided, there are two propeller blades visible on the aircraft in the background. Therefore, the correct answer is:\n\n(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_61",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 3 people wearing white shirts. So, the correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_62",
+            "answer": "hidden",
+            "full_prediction": "The photo shows only one person, who is wearing a yellow shirt. Therefore, the correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_63",
+            "answer": "hidden",
+            "full_prediction": "There are no people running near the truck in the image. The correct answer is:\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_64",
+            "answer": "hidden",
+            "full_prediction": "In the picture, there are two things with wheels: a bicycle and a skateboard. Therefore, the correct answer is (B) 2.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_65",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person with their hands above their head. Therefore, the correct answer is:\n\n(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, it is not possible to see the dashboard of the bus clearly enough to count any items, including books. Therefore, I cannot determine the number of books on the dashboard from this image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_67",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three red plates with apples on them. So, the correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_68",
+            "answer": "hidden",
+            "full_prediction": "(B) 1 person is wearing glasses in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_69",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three signs pointing towards the left. Therefore, the correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_70",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are four planes visible, and each one has letters that are visible. The letters \"US NAVY\" and \"Blue Angels\" can be seen on the tails of the planes. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_71",
+            "answer": "hidden",
+            "full_prediction": "(B) 0\n\nThere are no people kneeling on the ground in the image. The person in the image is standing and playing tennis.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_72",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two bears visible, each with four legs. Therefore, the total number of bear legs in the image is 4 (from one bear) + 4 (from the other bear) = 8 legs. However, this number is not listed in the provided choices (A) 4, (B) 3, (C) 5, (D) 6. Please check if there is an error in the question or the choices provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_73",
+            "answer": "hidden",
+            "full_prediction": "The man in the image has one nail painted. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_74",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it appears that (B) 1 person has curly hair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_75",
+            "answer": "hidden",
+            "full_prediction": "The player's shirt in the image has 3 stripes. Therefore, the correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_76",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 5 cow heads visible. So, the correct answer is (C) 5.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_77",
+            "answer": "hidden",
+            "full_prediction": "There are no cats surfing in the sea in the image. The image shows a person surfing. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_78",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three boards visible on the shore. None of these boards have any green color on them. Therefore, the correct answer is:\n\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_79",
+            "answer": "hidden",
+            "full_prediction": "The image shows two black bears. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_80",
+            "answer": "hidden",
+            "full_prediction": "There are no red flowers visible in the image. The correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_81",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two tennis players wearing white shirts. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_82",
+            "answer": "hidden",
+            "full_prediction": "The image shows a giant panda, which is primarily black and white in color. There are no orange pandas in the image. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_83",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, there are no people reading a book. The correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_84",
+            "answer": "hidden",
+            "full_prediction": "In the image provided, there are two trees to the left of the bus that have fronds. These trees appear to be palm trees, which are characterized by their frond leaves. Therefore, the correct answer is:\n\n(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_85",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two boats with all red sails. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_86",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person wearing the color red. Therefore, the correct answer is:\n(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_87",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 visible slices of fruit. Therefore, the correct answer is (A) 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_88",
+            "answer": "hidden",
+            "full_prediction": "There are no people on the roof in the image provided. The correct answer is:\n(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_89",
+            "answer": "hidden",
+            "full_prediction": "The blue sign in the image shows the white characters \"max 15 km/h.\" Out of these characters, the letters \"max\" and \"km/h\" are in lowercase. Counting these, there are 5 lowercase letters. Therefore, the correct answer is:\n\n(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_90",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three young boys. So the correct answer is (A) 3.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_91",
+            "answer": "hidden",
+            "full_prediction": "The stove in the image has 4 knobs. Therefore, the correct answer is:\n(A) 4",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_92",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 buoys to the right of the white pole. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_93",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 light blue letters in the word \"BALLUS\" written on the side of the pool. The correct answer is (C) 4.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_94",
+            "answer": "hidden",
+            "full_prediction": "There are four slices of pickle visible in the image. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_95",
+            "answer": "hidden",
+            "full_prediction": "There are 5 skiers with yellow crosses on their coats. The correct answer is (C) 5.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_96",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one white car visible. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_97",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person wearing a red shirt. Therefore, the correct answer is (D) 1.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_98",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are three people wearing caps. Therefore, the correct answer is (B) 3.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, there is one person actively playing the game. Therefore, the correct answer is:\n\n(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_100",
+            "answer": "hidden",
+            "full_prediction": "There are three brown bears in the image. The correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_101",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 people wearing green. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_102",
+            "answer": "hidden",
+            "full_prediction": "(C) 0\n\nDogs do not have the ability to read books. The image shows dogs engaged in drinking water or sniffing around, not reading.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_103",
+            "answer": "hidden",
+            "full_prediction": "There are 3 black sheep in the field. The correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_104",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 visible posts in the nearest breakwater. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_105",
+            "answer": "hidden",
+            "full_prediction": "The image shows an airliner on the ground with people around it, indicating that it is not flying. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_106",
+            "answer": "hidden",
+            "full_prediction": "There are two umbrellas that are blue with white dots in the image. Therefore, the correct answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, there is one sink visible on one of the walls. Therefore, the correct answer is:\n\n(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_108",
+            "answer": "hidden",
+            "full_prediction": "In the picture, there are no all-white umbrellas visible. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_109",
+            "answer": "hidden",
+            "full_prediction": "The image you provided is a black and white photograph of an urban scene with a river, buildings, and a train. There are no cats visible in the image. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_110",
+            "answer": "hidden",
+            "full_prediction": "The front of the bus in the image has 4 lights. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_111",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 3 clocks with white frames. The correct answer is (D) 3.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_112",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are two people wearing white socks. Therefore, the correct answer is (A) 2.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_113",
+            "answer": "hidden",
+            "full_prediction": "In the image provided, there are no people eating food. All individuals are holding skiing equipment and posing for a photo. Therefore, the correct answer is:\n\n(D) 0",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_114",
+            "answer": "hidden",
+            "full_prediction": "In the image, there is one person who appears to be rolling dough on a table, not cleaning it. Therefore, the correct answer is:\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_115",
+            "answer": "hidden",
+            "full_prediction": "The pizza in the image contains pepperoni, which is a meat product. Therefore, there are no vegetarian pizzas in the image.\n\nThe correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_116",
+            "answer": "hidden",
+            "full_prediction": "There are 2 pink hands painted on the back of the bus. The correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_117",
+            "answer": "hidden",
+            "full_prediction": "In the image, there are 4 flowers that have not yet opened. Therefore, the correct answer is (C) 4.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_118",
+            "answer": "hidden",
+            "full_prediction": "There are no brown buses visible in the image. The bus shown is white with some colorful markings. Therefore, the correct answer is:\n\n(A) 0",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_119",
+            "answer": "hidden",
+            "full_prediction": "The image shows a plate of food with no alcoholic beverages visible. Therefore, the correct answer is:\n\n(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_120",
+            "answer": "hidden",
+            "full_prediction": "There are no red planes in the image provided. The correct answer is:\n(A) 0",
+            "prediction": "(A)"
+        }
+    ]
+}

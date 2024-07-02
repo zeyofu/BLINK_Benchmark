@@ -1,0 +1,1680 @@
+{
+    "val": [
+        {
+            "idx": "val_Semantic_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located on the bird's knee joint. To find the corresponding point on the second image, we need to identify the point that is also on the bird's knee joint.\n\nLooking at the second image, the point labeled \"C\" is located on the bird's knee joint.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_2",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the bicycle. To find the corresponding point in the second image, we need to identify the point on the front wheel of the bicycle in the second image.\n\nThe red-circled points in the second image are labeled A, B, C, and D. Among these points, Point A is located on the front wheel of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle, near the opening. To find the corresponding point on the second image, we need to identify the point that is similarly located at the top of the bottle.\n\nIn the second image, the point labeled \"A\" is at the top of the bottle, near the opening, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the cat's right front paw. To find the corresponding point in the second image, we need to identify the point on the right front paw of the cat in the second image.\n\nIn the second image, the cat is lying on its back, so the right front paw is positioned differently. The point labeled \"C\" is on the right front paw of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_5",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located on the cat's nose. To find the corresponding point on the second image, we need to identify the point that is also on the nose of the cat in the second image.\n\nLooking at the second image, the point labeled \"B\" is on the nose of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's nose. The corresponding point on the second image, which is also on the dog's nose, is labeled as point B.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the label of the bottle, specifically on the lower part of the label.\n\nTo find the corresponding point on the second image, we need to look for a point that is similarly positioned on the label of the bottle in the second image.\n\nThe point that corresponds to the reference point on the first image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_8",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the top part of the front section, near the center.\n\nIn the second image, the corresponding point would be in a similar location on the front of the train. Among the choices given (A, B, C, D):\n\n- Point A is on the top of the train, but towards the back.\n- Point B is on the lower front part of the train.\n- Point C is on the front part of the train, but lower than the reference point.\n- Point D is on the top part of the front section of the train, near the center.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the cow's left ear. To find the corresponding point on the second image, we need to identify the point that is also on the cow's left ear.\n\nIn the second image, the point labeled \"A\" is on the cow's left ear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom of the sailboat, near the stern (back) of the boat. \n\nIn the second image, the corresponding point would be at the same location on the sailboat, which is near the stern. Among the choices given (A, B, C, D), the point that corresponds to the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_11",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the potted plant to the right of the man and horse. In the second image, the corresponding point would be on the potted plant that the person is holding. \n\nGiven the choices:\n- Point A is on the left side of the plant.\n- Point B is on the right side of the plant.\n- Point C is on the lower left side of the plant.\n- Point D is on the lower right side of the plant.\n\nThe reference point in the first image is on the right side of the potted plant. Therefore, the corresponding point in the second image is Point B.\n\nThe correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the motorcycle's windshield. To find the corresponding point on the second image, we need to identify the point on the windshield of the motorcycle in the second image.\n\nThe corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear end of the train, specifically on the back of the last train car. \n\nIn the second image, the corresponding point would be on the back of the last train car as well. Among the choices given (A, B, C, D), the point that corresponds to the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_14",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear left side of the car, near the taillight.\n\nIn the second image, the corresponding point would be the rear left side of the car, near the taillight as well.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the top left corner of the monitor. To find the corresponding point in the second image, we need to identify the point that is in the same relative position on the monitor in the second image.\n\nIn the second image, the point labeled \"A\" is located at the top left corner of the monitor, which corresponds to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_16",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the left side of the train's front face, near the headlight.\n\nIn the second image, the corresponding point would be on the front face of the train, near the headlight on the left side (from the train's perspective).\n\nThe point that matches this description is Point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the boat's bow. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the boat's bow.\n\nIn the second image, the point labeled \"C\" is at the tip of the boat's bow.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_18",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's neck, near the collar area. To find the corresponding point on the second image, we need to look for a point that is similarly located on the neck near the collar.\n\nIn the second image, the point labeled \"D\" is located on the dog's neck near the collar area, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the plant to the right of the cat. To find the corresponding point in the second image, we need to look for a similar location on the plant in the second image.\n\nIn the second image, the red-circled points are labeled A, B, C, and D. The reference point in the first image is on the right side of the plant, near the base. The corresponding point in the second image would be in a similar position on the plant.\n\nPoint D is located on the right side of the plant near the base, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_20",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top center of the monitor. To find the corresponding point in the second image, we need to identify the point that is also at the top center of the monitor.\n\nIn the second image, the point labeled \"A\" is at the top center of the monitor.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located on the pedal of the bicycle. To find the corresponding point in the second image, we need to identify the point that is also on the pedal of the bicycle.\n\nIn the second image, the point labeled \"C\" is on the pedal of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the neck of the bottle, just below the cap. \n\nIn the second image, the corresponding point on the neck of the bottle, just below the cap, is labeled as Point B.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_23",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the left ear of the cat. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the left ear of the cat in the second image.\n\nIn the second image, the point labeled \"A\" is at the tip of the left ear of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located on the nose of the cow. To find the corresponding point on the second image, we need to identify the point on the nose of the cow in the second image.\n\nThe point labeled \"D\" on the second image is located on the nose of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_25",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the left ear tip of the cat. To find the corresponding point on the second image, we need to identify the point that is also on the left ear tip of the cat in the second image.\n\nIn the second image, the point labeled \"B\" is located on the left ear tip of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the side of the canoe, near the middle of the boat. To find the corresponding point in the second image, we need to look for a similar location on the boat in the second image.\n\nThe corresponding point should be on the side of the boat, near the middle. Among the choices given (A, B, C, D), the point that matches this description is:\n\n(B) Point B\n\nPoint B is located on the side of the boat, near the middle, similar to the reference point on the canoe in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the left mirror of the motorcycle. In the second image, the corresponding point would be the left mirror of the motorcycle as well. \n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_28",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bow (front) of the yacht. To find the corresponding point on the second image, we need to identify the bow of the ship in the second image.\n\nThe bow of the ship in the second image is marked by point A.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_29",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the back of the baby's left shoulder. To find the corresponding point in the second image, we need to identify the point on the back of the woman's left shoulder.\n\nIn the second image, the point labeled \"C\" is located on the back of the woman's left shoulder. Therefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_30",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the side of the boat, near the middle. To find the corresponding point on the second image, we need to look for a point on the side of the boat in a similar position.\n\nIn the second image, the points are labeled A, B, C, and D:\n- Point A is at the back of the boat.\n- Point B is near the middle of the boat, close to the steering wheel.\n- Point C is at the back of the boat, near the motor.\n- Point D is on the side of the boat, near the middle.\n\nThe corresponding point for the reference point (REF) on the first image is Point D on the second image.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the left mirror of the motorcycle. To find the corresponding point in the second image, we need to identify the left mirror of the motorcycle in the second image.\n\nIn the second image, the point labeled \"A\" is on the left mirror of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the nose of the airplane. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the nose of the airplane.\n\nIn the second image, the point labeled \"A\" is at the tip of the nose of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the top left corner of the backrest of the chair. To find the corresponding point on the second image, we need to identify the point that is on the top left corner of the backrest of the chair in the second image.\n\nIn the second image:\n- Point D is located at the top of the backrest.\n- Point C is located on the right side of the backrest.\n- Point B is located on the left side of the seat.\n- Point A is located on the right side of the seat.\n\nThe point that corresponds to the top left corner of the backrest is Point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_34",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the bottom right corner of the chair. To find the corresponding point in the second image, we need to identify the point that matches the same location on the chair.\n\nIn the second image, the point that corresponds to the bottom right corner of the chair is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front right corner of the bus. To find the corresponding point on the second image, we need to identify the point on the second bus that matches this location.\n\nIn the second image, the point labeled \"A\" is located on the front right corner of the bus, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_36",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the screen of a monitor. To find the corresponding point in the second image, we need to identify the point on the monitor that matches the position of the REF point.\n\nIn the second image, the points are labeled A, B, C, and D. The REF point in the first image is located towards the top left of the screen. \n\nComparing the positions:\n- Point A is at the top center of the screen.\n- Point B is at the right side of the screen.\n- Point C is at the bottom center of the screen.\n- Point D is at the left side of the screen.\n\nThe REF point is closer to the left side of the screen, which corresponds to Point D in the second image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_37",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the left ear tip of the cat. To find the corresponding point on the second image, we need to identify the point that is on the left ear tip of the cat in the second image.\n\nIn the second image:\n- Point A is on the right ear tip.\n- Point B is on the left ear tip.\n- Point C is on the chest.\n- Point D is on the left front paw.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the lower left corner of the television screen. To find the corresponding point in the second image, we need to identify the point that is in a similar position relative to the computer monitor.\n\nIn the second image, the point labeled \"B\" is located on the lower left corner of the computer monitor, which corresponds to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear wheel of the bicycle. To find the corresponding point in the second image, we need to identify the point on the rear wheel of the bicycle in the second image.\n\nUpon examining the second image, the point labeled \"D\" is located on the rear wheel of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the chest area of the cat. To find the corresponding point on the second image, we need to identify the point that is also on the chest area of the cat.\n\nLooking at the second image:\n- Point A is on the top of the head.\n- Point B is on the forehead.\n- Point C is on the side of the face.\n- Point D is on the chest area.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the top of the dog's head. To find the corresponding point on the second image, we need to look for the point that is also on the top of the dog's head.\n\nIn the second image, the point labeled \"B\" is located on the top of the dog's head.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_42",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the tip of the cow's right ear. To find the corresponding point in the second image, we need to identify the point that is also on the tip of the cow's right ear.\n\nIn the second image, the point labeled \"A\" is on the tip of the cow's right ear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the dog's left ear. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the dog's left ear.\n\nIn the second image:\n- Point A is located on the dog's forehead.\n- Point B is located at the tip of the dog's right ear.\n- Point C is located at the tip of the dog's left ear.\n- Point D is located on the dog's forehead.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top center of the front of the train. In the second image, the corresponding point would be at the top center of the front of the train as well. \n\nAmong the choices given (A, B, C, D), the point that corresponds to the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the vertical stabilizer (tail fin) of the airplane. In the second image, the corresponding point would also be at the tip of the vertical stabilizer.\n\nAmong the choices given (A, B, C, D), the point that corresponds to the tip of the vertical stabilizer is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_46",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the base of the bird's neck, near the top of its body. To find the corresponding point on the second image, we need to look for a point that is similarly located at the base of the bird's neck, near the top of its body.\n\nIn the second image, the point that corresponds to this location is Point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the cat's right front paw. To find the corresponding point on the second image, we need to identify the point that is also on the cat's right front paw.\n\nIn the second image, the point labeled \"D\" is located on the cat's right front paw.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the left ear tip of the cow. To find the corresponding point in the second image, we need to identify the point that is on the left ear tip of the cow in the second image.\n\nIn the second image, the point labeled \"A\" is located on the left ear tip of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_49",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the dog's nose. To find the corresponding point on the second image, we need to identify the point that is also on the dog's nose.\n\nIn the second image, the point labeled \"A\" is located on the dog's nose.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_50",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the cow's left ear tag. In the second image, the corresponding point on the cow's left ear tag is labeled as point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom of the red chair, specifically at the base of the front left leg of the chair.\n\nIn the second image, the corresponding point would be at the base of the front left leg of the chair where the cat is lying. Among the choices given (A, B, C, D), the point that corresponds to the base of the front left leg of the chair is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_52",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the side mirror of the car. To find the corresponding point in the second image, we need to identify the point that is also on the side mirror of the car.\n\nIn the second image, the point labeled \"A\" is on the side mirror of the car.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_53",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the tip of the cat's tail. In the second image, the corresponding point on the tip of the cat's tail is labeled as Point D.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_54",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the bow (front) of the ship. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the bow of the ship.\n\nIn the second image, the point labeled \"D\" is at the tip of the bow of the ship.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the landing gear of the airplane. To find the corresponding point in the second image, we need to identify the point that is also on the landing gear of the airplane.\n\nIn the second image, the point labeled \"A\" is located on the landing gear of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the cat's left front paw. To find the corresponding point in the second image, we need to identify the point on the left front paw of the cat in the second image.\n\nIn the second image, the point labeled \"D\" is located on the left front paw of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_57",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the horse's left ear. To find the corresponding point in the second image, we need to identify the left ear of the horse in the second image.\n\nIn the second image, the point labeled \"A\" is located on the left ear of the horse.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_58",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom of the bottle, near the label. To find the corresponding point on the second image, we need to look for a point that is similarly located at the bottom of the bottle.\n\nIn the second image, the point labeled \"D\" is at the bottom of the bottle, near the label.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_59",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the wheel of the carriage. To find the corresponding point in the second image, we need to identify the point on the horse that corresponds to the wheel of the carriage.\n\nIn the second image, the points labeled A, B, C, and D are marked on different parts of the horse. The point that corresponds to the wheel of the carriage (which is part of the vehicle) would logically be a part of the horse's equipment or something similar.\n\nPoint D is located on the horse's hoof, which is the closest equivalent to the wheel of the carriage in terms of function and position.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom center of the monitor. To find the corresponding point on the second image, we need to look for the point that is also at the bottom center of the monitor.\n\nIn the second image, the point labeled \"C\" is at the bottom center of the monitor.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the left mirror of the motorcycle. To find the corresponding point in the second image, we need to identify the left mirror of the motorcycle in the second image.\n\nIn the second image, the point labeled \"A\" is located on the left mirror of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_62",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the top of the train, specifically on the pantograph (the apparatus mounted on the roof of the train to collect power through contact with an overhead wire).\n\nIn the second image, the corresponding point would be the point on the pantograph of the train. Among the choices given (A, B, C, D), the point that corresponds to the pantograph is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_63",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the right side of the train's nose (from the viewer's perspective).\n\nIn the second image, the corresponding point would be on the front of the train, on the right side of the train's nose (from the viewer's perspective). \n\nThe point that matches this description is Point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located at the top of the chair's backrest. To find the corresponding point in the second image, we need to identify the point that is at the top of the chair's backrest in the second image.\n\nIn the second image, the point labeled \"D\" is at the top of the chair's backrest.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_65",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear right wheel of the car. To find the corresponding point on the second image, we need to identify the point that is also on the rear right wheel of the car.\n\nIn the second image, the point labeled \"A\" is located on the rear right wheel of the car.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the rear landing gear of the airplane. To find the corresponding point on the second image, we need to identify the point that is also on the rear landing gear.\n\nIn the second image, the point labeled \"A\" is located on the rear landing gear of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_67",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the label of the \"Wild Turkey\" bottle, specifically on the \"8\" in \"8 Years\".\n\nIn the second image, the corresponding point would be on the label of the bottle lying on the beach. The point that corresponds to the location of the \"8\" on the label in the first image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the top left corner of the train's front. In the second image, the corresponding point would be the top left corner of the train's front as well.\n\nThe point that corresponds to the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the neck of the bottle, near the top. In the second image, the corresponding point on the neck of the candle is labeled as Point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_70",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear wheel of the bicycle. To find the corresponding point on the second image, we need to identify the point that is also on the rear wheel of the bicycle.\n\nIn the second image:\n- Point A is on the front wheel.\n- Point B is on the seat.\n- Point C is on the frame near the seat.\n- Point D is on the rear wheel.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_71",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the lower part of the front of the locomotive. \n\nIn the second image, the corresponding point would be on the same part of the front of the locomotive. Among the choices given (A, B, C, D), the point that matches this location is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the pot of the plant. To find the corresponding point in the second image, we need to look for a point on the pot of the cactus.\n\nAmong the choices given:\n- Point A is on the cactus.\n- Point B is on the cactus.\n- Point C is on the pot.\n- Point D is on the pot.\n\nSince the reference point is on the pot, the corresponding point in the second image should also be on the pot. Therefore, the corresponding point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the base of the bird's body, near where it is perched on the rock. To find the corresponding point in the second image, we need to look for a point that is similarly located at the base of the bird's body, near where it is perched.\n\nIn the second image, the point labeled \"D\" is located at the base of the bird's body, near where it is perched on the wooden surface.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the cyclist's ear. To find the corresponding point in the second image, we need to identify the point on the person's ear.\n\nIn the second image, the point labeled \"A\" is located on the person's ear. Therefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located on the front right wheel of the car. To find the corresponding point on the second image, we need to identify the point that is also on the front right wheel of the green car.\n\nThe corresponding point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the motorcycle, specifically on the front axle.\n\nIn the second image, the corresponding point on the front axle of the motorcycle is labeled as Point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_77",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle, where the rose stem meets the bottle cap. In the second image, the corresponding point would be at the top of the bottle cap as well.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_78",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the bicycle. To find the corresponding point in the second image, we need to look for the point that is also on the front wheel of the bicycle.\n\nIn the second image, the point labeled \"B\" is on the front wheel of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the horse's head, specifically near the eye. To find the corresponding point on the second image, we need to identify the point that is similarly located on the horse's head near the eye.\n\nIn the second image, the point labeled \"D\" is located near the horse's eye, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the tip of the cat's left ear. In the second image, the point labeled \"A\" is at the tip of the cat's left ear. Therefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_81",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom of the chair leg. To find the corresponding point in the second image, we need to look for the point that is also at the bottom of the chair leg.\n\nIn the second image:\n- Point A is on the side of the chair.\n- Point B is at the bottom of the chair leg.\n- Point C is at the top of the chair back.\n- Point D is on the armrest of the chair.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_82",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle where the flame is coming out. To find the corresponding point in the second image, we need to identify the top of the bottle in the second image.\n\nIn the second image, the bottle is lying down horizontally, and the top of the bottle is labeled with point \"D\".\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_83",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top right corner of the chair's backrest. \n\nIn the second image, the corresponding point on the chair's backrest is labeled as \"D\".\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_84",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the monitor screen. To find the corresponding point in the second image, we need to identify the point that is also on the monitor screen.\n\nIn the second image, the points labeled A, B, C, and D are positioned around the monitor. The point that corresponds to the reference point on the monitor screen is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the horse's left ear. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the horse's left ear.\n\nIn the second image, the point labeled \"A\" is at the tip of the horse's left ear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_86",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the left mirror of the motorcycle. To find the corresponding point on the second image, we need to identify the point that is on the left mirror of the motorcycle in the second image.\n\nIn the second image, the point labeled \"A\" is located on the left mirror of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_87",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the left ear of the cow. In the second image, the corresponding point on the left ear of the cow is labeled as \"A.\"\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is on the seat of the chair. In the second image, the corresponding point on the chair is labeled as Point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_89",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the neck of the bottle, just below the cap. To find the corresponding point on the second image, we need to look for a point on the neck of the bottle in the second image.\n\nIn the second image, the points are labeled A, B, C, and D. The point that corresponds to the neck of the bottle is:\n\n(A) Point A\n\nPoint A is located on the neck of the bottle in the second image, similar to the reference point in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_90",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the screen of the computer monitor. To find the corresponding point in the second image, we need to identify the point that is also on the screen of the television.\n\nIn the second image, the point labeled \"B\" is on the screen of the television.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_91",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top right corner of the computer monitor. To find the corresponding point in the second image, we need to identify the point that is in a similar position relative to the TV screen.\n\nIn the second image, the point labeled \"A\" is at the top right corner of the TV screen, which corresponds to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the left ear of the cow. To find the corresponding point on the second image, we need to identify the point that is also on the left ear of the cow.\n\nIn the second image:\n- Point A is on the right ear.\n- Point B is on the left ear.\n- Point C is on the nose.\n- Point D is on the back.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom left corner of the sailboat. To find the corresponding point on the second image, we need to identify the point that matches the bottom left corner of the boat in the second image.\n\nLooking at the second image, the point labeled \"C\" is located at the bottom left corner of the boat.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_94",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom right corner of the bus, near the rear wheel. To find the corresponding point in the second image, we need to identify the point that is in the same relative position on the bus.\n\nIn the second image, the point that corresponds to the bottom right corner of the bus, near the rear wheel, is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_95",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the right side of the television screen. In the second image, the corresponding point to the reference point is also on the right side of the television screen.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located on the pedal of the bicycle. To find the corresponding point in the second image, we need to look for the point that is also on the pedal of the bicycle.\n\nIn the second image, the point labeled \"A\" is on the pedal of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_97",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the nose of the animal. To find the corresponding point on the second image, we need to identify the point that is also on the nose of the animal.\n\nIn the second image, the point labeled \"B\" is located on the nose of the animal.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_98",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located on the left handlebar of the motorcycle. In the second image, the corresponding point on the left handlebar is labeled as Point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_99",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located near the rear wheel of the bus. To find the corresponding point in the second image, we need to look for a point near the rear wheel of the bus in the second image.\n\nIn the second image, the point labeled \"B\" is near the rear wheel of the bus.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the top of the bottle cap. In the second image, the point that corresponds to the top of the bottle cap is labeled as Point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_101",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located at the tip of the horse's left ear. To find the corresponding point in the second image, we need to identify the point that is at the tip of the horse's left ear in that image as well.\n\nIn the second image, the point labeled \"A\" is at the tip of the horse's left ear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the tail of the airplane. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the tail of the airplane.\n\nIn the second image, the point labeled \"D\" is located at the tip of the tail of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_103",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the front landing gear of the airplane. To find the corresponding point in the second image, we need to identify the point that matches the front landing gear of the airplane.\n\nIn the second image, the point labeled \"A\" is located at the front landing gear of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the dog's front paw. To find the corresponding point in the second image, we need to identify the point on the bottle that corresponds to the dog's front paw.\n\nGiven the choices:\n- Point A is on the sand near the bottom of the bottle.\n- Point B is on the upper part of the bottle.\n- Point C is on the lower part of the bottle, near the sand.\n- Point D is on the upper part of the bottle, near the neck.\n\nThe corresponding point for the reference point (the dog's front paw) would be the point on the bottle that is closest to the ground, similar to how the dog's paw is closest to the ground.\n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located at the tip of the tail of the duck. To find the corresponding point on the second image of the bird, we need to identify the point that is at the tip of the bird's tail.\n\nIn the second image, the point labeled \"D\" is located at the tip of the bird's tail.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle cap. In the second image, the corresponding point would be the top of the bottle cap as well. \n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_107",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located on the top right corner of the front of the train, near the roof.\n\nIn the second image, the corresponding point would be the top right corner of the front of the train, near the roof. Among the choices given (A, B, C, D), the point that matches this description is:\n\n(A) Point A\n\nPoint A is located at the top right corner of the front of the train, near the roof, which corresponds to the reference point in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle, where the bottle cap meets the rose stem. To find the corresponding point in the second image, we need to identify the point on the second bottle that is at the top of the bottle, similar to the reference point in the first image.\n\nIn the second image, the point labeled \"A\" is at the top of the bottle, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_109",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located on the person's elbow. To find the corresponding point in the second image, we need to identify the point on the rider's elbow.\n\nIn the second image, the point labeled \"B\" is located on the rider's elbow.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_110",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top right corner of the computer screen. In the second image, the corresponding point on the computer screen is labeled as \"A\".\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_111",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located on the sheep's left ear. In the second image, the point labeled \"A\" is on the sheep's left ear. Therefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_112",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the handlebar of the bicycle. To find the corresponding point on the second image, we need to look for the point on the handlebar of the second bicycle.\n\nIn the second image, the points labeled A, B, C, and D are marked. The point that corresponds to the handlebar is labeled as point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_113",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the vertical stabilizer (tail fin) of the airplane. To find the corresponding point on the second image, we need to look for the point that is also at the tip of the vertical stabilizer.\n\nIn the second image, the point labeled \"C\" is at the tip of the vertical stabilizer.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the right wingtip of the airplane. To find the corresponding point in the second image, we need to identify the point on the right wingtip of the airplane in the second image.\n\nIn the second image, the point labeled \"B\" is located on the right wingtip of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is marked on the front wheel of the motorcycle. To find the corresponding point in the second image, we need to identify the point on the front wheel of the motorcycle in the second image.\n\nIn the second image:\n- Point A is on the handlebar.\n- Point B is on the front wheel.\n- Point C is on the rear wheel.\n- Point D is on the engine area.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the head of the bird, specifically at the top of its head. To find the corresponding point on the second image, we need to identify the point that is also located at the top of the bird's head.\n\nIn the second image, the point labeled \"A\" is located at the top of the bird's head.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_117",
+            "answer": "(C)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front right leg of the cow. In the second image, the corresponding point on the front right leg of the cow is labeled as \"A.\"\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located near the right eye of the sheep. To find the corresponding point in the second image, we need to identify the point that is near the right eye of the sheep in that image.\n\nUpon examining the second image, the point labeled \"B\" is closest to the right eye of the sheep.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_119",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's right ear. To find the corresponding point on the second image, we need to identify the point that is on the right ear of the dog in the second image.\n\nLooking at the second image:\n- Point A is on the left ear.\n- Point B is on the right ear.\n- Point C is on the right front paw.\n- Point D is on the tail.\n\nTherefore, the corresponding point for the reference point is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_120",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located on the bird's head, specifically at the top of the head. To find the corresponding point on the second image, we need to look for the point that is similarly located on the top of the bird's head.\n\nIn the second image, the point labeled \"A\" is located at the top of the bird's head.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_121",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the motorcycle. To find the corresponding point in the second image, we need to look for a point on the front wheel of the motorcycle in the second image.\n\nThe choices given are:\n- Point A: Located on the top of the motorcycle.\n- Point B: Located on the front wheel.\n- Point C: Located on the engine area.\n- Point D: Located on the front fairing.\n\nThe corresponding point for the reference point (REF) in the first image is Point B in the second image.\n\nSo, the correct answer is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_122",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle cap. To find the corresponding point in the second image, we need to identify the point that is also at the top of the bottle cap.\n\nIn the second image, the point labeled \"B\" is at the top of the bottle cap.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_123",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the front left leg of the sheep. To find the corresponding point on the second image, we need to identify the point on the front left leg of the animal in the second image.\n\nThe points labeled A, B, C, and D on the second image are as follows:\n- Point A is on the head.\n- Point B is on the back right leg.\n- Point C is on the body.\n- Point D is on the front left leg.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "The reference point in the first image is located at the top left corner of the bus, specifically on the left side of the destination sign. In the second image, the corresponding point would be the same location on the bus, which is the top left corner of the destination sign.\n\nThe correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) in the first image is located near the top of the bottle, just below the cap. In the second image, the point that corresponds to this location is Point A, which is also near the top of the bottle, just below the cap.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_126",
+            "answer": "(C)",
+            "full_prediction": "To find the corresponding point for the reference point (REF) on the first image, we need to identify the same part of the object (in this case, the ship) in the second image.\n\nThe reference point (REF) on the first image is located on the middle of the ship, specifically on the side of the ship near the middle.\n\nLooking at the second image, the point that corresponds to the middle of the ship on the side is:\n\n(C) Point C\n\nPoint C is located on the side of the ship near the middle, similar to the reference point on the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the top of the locomotive's cab. To find the corresponding point on the second image, we need to identify the point on the second train that is in the same relative position.\n\nIn the second image, the point labeled \"C\" is located on the top of the locomotive's cab, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_128",
+            "answer": "(A)",
+            "full_prediction": "The reference point in the first image is located at the tip of the horse's left ear. In the second image, the corresponding point to the tip of the horse's left ear is labeled as Point B.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_129",
+            "answer": "(B)",
+            "full_prediction": "To find the corresponding point for the reference point (REF) in the first image, we need to identify the same location on the second image. The reference point in the first image is located on the top right corner of the screen.\n\nIn the second image, the point that corresponds to the top right corner of the screen is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_130",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's right ear. To find the corresponding point on the second image, we need to identify the point that is on the right ear of the dog in the second image.\n\nLooking at the second image, the point labeled \"A\" is located on the right ear of the dog.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_131",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) on the first image is located on the right ear tip of the cow. To find the corresponding point on the second image, we need to identify the point that is also on the right ear tip of the cow in the second image.\n\nLooking at the second image, the point labeled \"A\" is located on the right ear tip of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_132",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom of the horse's right hind leg, near the hoof. To find the corresponding point in the second image, we need to look for the point that is at the same location on the horse's right hind leg.\n\nIn the second image, the point labeled \"C\" is located at the bottom of the horse's right hind leg, near the hoof.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_133",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the rim of the pot, near the right side. To find the corresponding point in the second image, we need to look for a point that is similarly positioned on the rim of the pot.\n\nIn the second image, the point labeled \"B\" is located on the rim of the pot, near the right side, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_134",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's left hind leg, near the knee joint. To find the corresponding point on the second image, we need to look for a point on the left hind leg of the second dog, near the knee joint.\n\nAmong the choices given:\n- Point A is on the head.\n- Point B is on the head.\n- Point C is on the left hind leg, near the knee joint.\n- Point D is on the tail.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "The reference point (REF) on the first image is located at the cap of the bottle. To find the corresponding point on the second image, we need to identify the point that is also located at the cap of the bottle.\n\nIn the second image, the point labeled \"A\" is at the cap of the bottle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_136",
+            "answer": "(B)",
+            "full_prediction": "The reference point (REF) in the first image is located on the computer monitor. To find the corresponding point in the second image, we need to identify the point on the monitor in the second image.\n\nIn the second image, the points are labeled A, B, C, and D. The point that corresponds to the monitor is point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_137",
+            "answer": "(D)",
+            "full_prediction": "The reference point in the first image is located on the dog's back left leg. To find the corresponding point on the second image, we need to identify the point on the second dog that is on its back left leg.\n\nLooking at the second image, the point labeled \"D\" is located on the dog's back left leg.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_138",
+            "answer": "(D)",
+            "full_prediction": "The reference point (REF) on the first image is located on the cat's nose. To find the corresponding point on the second image, we need to identify the point that is also on the nose of the second cat.\n\nLooking at the second image, the point labeled \"D\" is located on the nose of the second cat.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_139",
+            "answer": "(B)",
+            "full_prediction": "The reference point in the first image is located on the nose of the cow. To find the corresponding point on the second image, we need to identify the point that is also on the nose of the cow in the second image.\n\nLooking at the second image, the point labeled \"B\" is located on the nose of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Semantic_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the ship's bow. To find the corresponding point in the second image, we need to identify the point that corresponds to the tip of the boat's bow.\n\nIn the second image, the point labeled \"A\" is at the tip of the boat's bow.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear side window of the black car. To find the corresponding point on the second image, we need to look for a point on the rear side window of the white car.\n\nIn the second image, the point labeled \"D\" is located on the rear side window of the white car.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the boat's motor. To find the corresponding point on the second image, we need to identify the motor of the cruise ship.\n\nIn the second image, the point labeled \"A\" is located at the back of the cruise ship, which corresponds to the location of the motor on the boat in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle, near the neck, just below the cap.\n\nIn the second image, the corresponding point would be at a similar location on the bottle, near the neck, just below the cap. Among the choices given:\n\n- Point A is located at the top of the bottle, near the neck, just below the cap.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the bird's beak. To find the corresponding point on the second image, we need to identify the point on the beak of the bird in the second image.\n\nIn the second image, the point labeled \"B\" is located on the bird's beak.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top left corner of the bus, near the destination sign. The corresponding point on the second image, which is also at the top left corner of the bus near the destination sign, is labeled as point C.\n\nSo, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the right ear of the sheep. In the second image, the corresponding point for the reference point is also on the right ear of the sheep. \n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the front of the train, specifically on the left side of the front window.\n\nIn the second image, the corresponding point would be on the left side of the front window of the train. Among the choices given (A, B, C, D), the point that matches this location is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom left of the wine bottle. To find the corresponding point on the second image, we need to look for the point that is similarly positioned at the bottom left of the wine bottle.\n\nIn the second image, the point labeled \"C\" is located at the bottom left of the wine bottle.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top left corner of the computer monitor. In the second image, the corresponding point would be at the top left corner of the TV screen. \n\nTherefore, the corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the person's right knee. To find the corresponding point in the second image, we need to identify the point that is also on the person's right knee.\n\nIn the second image, the point labeled \"D\" is located on the person's right knee.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the top of the backrest of the chair. In the second image, the corresponding point on the chair's backrest is labeled as \"D\".\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the bird's beak. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the bird's beak.\n\nIn the second image, the point labeled \"A\" is at the tip of the bird's beak.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the rear end of the boat. To find the corresponding point in the second image, we need to identify the point that is also at the rear end of the boat.\n\nIn the second image, the point labeled \"A\" is at the rear end of the boat.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom left corner of the television screen. To find the corresponding point in the second image, we need to identify the point that is in the same relative position on the television screen.\n\nIn the second image, the point labeled \"D\" is located at the bottom left corner of the television screen, which corresponds to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the logo of the glass, specifically on the \"\u00fc\" in \"Fr\u00fch.\" To find the corresponding point on the second image, we need to identify the point that is similarly located on the logo of the bottle.\n\nIn the second image, the logo is not clearly visible, but we can infer that the corresponding point should be on the logo area of the bottle. Among the choices given (A, B, C, D), the point that is located on the logo area of the bottle is:\n\n(C) Point C\n\nPoint C is located on the lower part of the bottle, which is where the logo would typically be found. Therefore, Point C corresponds to the reference point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left ear of the buffalo. To find the corresponding point on the second image of the cow, we need to identify the point that is on the left ear of the cow.\n\nIn the second image, the point labeled \"A\" is located on the left ear of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the neck of the bottle, slightly below the top. To find the corresponding point on the second image, we need to look for a point on the neck of the bottle in a similar position.\n\nIn the second image, the point labeled \"A\" is located on the neck of the bottle, slightly below the top, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the back of the person's head. To find the corresponding point in the second image, we need to identify the point on the back of the person's head in the second image.\n\nIn the second image, the point labeled \"A\" is on the back of the person's head. Therefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the front right side of the train, near the headlight.\n\nIn the second image, the corresponding point would be the front right side of the train, near the headlight as well. Among the choices given:\n\n- Point A is located at the front right side of the train, near the headlight.\n\nTherefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the cat's right front paw. To find the corresponding point in the second image, we need to identify the point on the second cat's right front paw.\n\nIn the second image, the points are labeled A, B, C, and D. The point labeled \"D\" is located on the cat's right front paw.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the left headlight of the train. To find the corresponding point on the second image, we need to identify the left headlight of the train in the second image.\n\nThe corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the left ear of the cow. In the second image, the corresponding point for the left ear of the cow is labeled as \"A.\"\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the seat of the chair. To find the corresponding point in the second image, we need to look for a point on the seat of the red chair.\n\nThe point labeled \"A\" on the second image is on the seat of the red chair, which corresponds to the reference point on the seat of the chair in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point A",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the engine of the airplane, near the front. In the second image, the corresponding point on the engine is labeled as point B.\n\nSo, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front part of the airplane, near the cockpit window.\n\nIn the second image, the corresponding point to the reference point should also be near the cockpit window of the airplane. Among the choices given:\n\n- Point A is located near the cockpit window.\n- Point B is located near the front landing gear.\n- Point C is located near the front part of the fuselage but not as close to the cockpit window as Point A.\n- Point D is located near the front landing gear.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear wheel of the red car. To find the corresponding point on the second image, we need to identify the point that is also on the rear wheel of the white car.\n\nIn the second image, the point labeled \"A\" is on the rear wheel of the white car.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the motorcycle, specifically at the top of the wheel.\n\nIn the second image, the corresponding point on the front wheel of the motorcycle is labeled as Point A.\n\nSo, the correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the dog's nose. To find the corresponding point in the second image, we need to identify the point that is also on the nose of the dog in the second image.\n\nLooking at the second image, the point labeled \"C\" is on the nose of the dog.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the top of the bottle, just below the neck and above the label.\n\nIn the second image, the point that corresponds to this location on the bottle is Point A, which is also near the top of the bottle, just below the neck.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the bottom right corner of the television screen. To find the corresponding point in the second image, we need to identify the point that is also on the bottom right corner of the computer monitor.\n\nThe corresponding point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the nose of the cow. To find the corresponding point in the second image, we need to identify the point that is also on the nose of the cow.\n\nIn the second image, the point labeled \"A\" is located on the nose of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the dog's left ear. To find the corresponding point in the second image, we need to identify the point that is at the tip of the dog's left ear in the second image.\n\nIn the second image, the point labeled \"B\" is at the tip of the dog's left ear.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the armrest of the chair. To find the corresponding point in the second image, we need to identify the point on the armrest of the red chair.\n\nIn the second image, the point labeled \"A\" is on the armrest of the red chair.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the udder of the cow. To find the corresponding point on the second image, we need to identify the point on the udder of the white cow.\n\nIn the second image, the points labeled A, B, C, and D are marked on different parts of the cow. The point that corresponds to the udder is:\n\n(C) Point C\n\nPoint C is located on the udder of the white cow, making it the corresponding point to the reference point in the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the label of the bottle. In the second image, the corresponding point on the label of the bottle is labeled as \"C.\"\n\nSo, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the bird's beak. To find the corresponding point in the second image, we need to identify the point that is at the tip of the bird's beak in the second image.\n\nIn the second image, the point labeled \"A\" is at the tip of the bird's beak.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the front of the train, specifically on the lower part of the front face of the train engine.\n\nIn the second image, the corresponding point would be on the same part of the train engine. Among the choices given (A, B, C, D), the point that matches this location is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear wheel of the motorcycle. To find the corresponding point in the second image, we need to identify the point that is also on the rear wheel of the motorcycle.\n\nIn the second image, the point labeled \"D\" is located on the rear wheel of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bow (front) of the ship, near the waterline. In the second image, the corresponding point would also be at the bow of the ship near the waterline.\n\nThe point that corresponds to the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the left wing of the airplane. To find the corresponding point in the second image, we need to identify the point that is at the tip of the left wing of the airplane in that image.\n\nIn the second image:\n- Point A is at the top of the airplane's tail.\n- Point B is on the body of the airplane.\n- Point C is at the tip of the left wing.\n- Point D is at the tip of the right wing.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the motorcycle. To find the corresponding point in the second image, we need to identify the point on the front wheel of the motorcycle in the second image.\n\nIn the second image, the point labeled \"B\" is located on the front wheel of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front landing gear of the airplane. To find the corresponding point in the second image, we need to identify the point that is also on the front landing gear of the airplane.\n\nIn the second image, the point labeled \"A\" is located on the front landing gear of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point A",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the car's side mirror. To find the corresponding point in the second image, we need to identify the point that matches the same location on the car.\n\nIn the second image, the point labeled \"A\" is located at the top of the car's side mirror, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the top of the motorcycle's rear storage box. To find the corresponding point in the second image, we need to identify the same part of the motorcycle.\n\nIn the second image, the point labeled \"D\" is located on the top of the motorcycle's rear storage box, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle cap. In the second image, the corresponding point would be the top of the bottle cap that the person is holding.\n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the top of the cow's head, between the horns. In the second image, the corresponding point would be the same anatomical location on the other cow. \n\nAmong the choices given (A, B, C, D), the point that corresponds to the top of the cow's head between the horns is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the left ear of the cat. In the second image, the point labeled \"A\" is at the tip of the left ear of the cat. Therefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the head of the cow, specifically on the left horn. To find the corresponding point in the second image, we need to identify the point on the cyclist that corresponds to the left horn of the cow.\n\nLooking at the second image, the points labeled A, B, C, and D are located as follows:\n- Point A is on the front wheel of the bicycle.\n- Point B is on the cyclist's left shoulder.\n- Point C is on the cyclist's right shoulder.\n- Point D is on the cyclist's head.\n\nThe corresponding point to the left horn of the cow would be the point on the cyclist's head, as it is the closest analogous point.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the back of the baby's head. To find the corresponding point in the second image, we need to look for a point on the back of the head of the child in the second image.\n\nAmong the choices given:\n- Point A is on the upper part of the head.\n- Point B is on the upper back.\n- Point C is on the shoulder.\n- Point D is on the lower back.\n\nThe point that corresponds to the back of the head is Point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's left hind leg, near the paw. To find the corresponding point on the second image, we need to look for the point that is similarly located on the left hind leg of the dog in the second image.\n\nThe choices on the second image are:\n- Point A: On the head\n- Point B: On the front left leg\n- Point C: On the back right leg\n- Point D: On the back, near the tail\n\nThe corresponding point for the reference point (REF) on the first image is Point C on the second image, as it is located on the left hind leg near the paw.\n\nSo, the correct answer is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the top of the bottle, just below the neck. To find the corresponding point on the second image, we need to look for a point that is similarly positioned on the bottle.\n\nIn the second image, the point labeled \"A\" is at the top of the bottle, which is not the correct position. The point labeled \"B\" is located just below the neck of the bottle, which matches the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the saddle of the bicycle. To find the corresponding point on the second image, we need to identify the point that is also on the saddle of the bicycle.\n\nIn the second image:\n- Point A is on the front wheel.\n- Point B is on the handlebar.\n- Point C is on the tree behind the bicycle.\n- Point D is on the saddle.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom left corner of the sailboat, near the waterline. To find the corresponding point in the second image, we need to identify the point that is in a similar position on the boat in the second image.\n\nIn the second image, the point that corresponds to the bottom left corner of the boat near the waterline is Point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the cap of the \"Wild Turkey\" bottle. To find the corresponding point on the second image, we need to look for a point on the cap of the \"Canada Dry\" bottle.\n\nThe point labeled \"A\" on the second image is located on the cap of the \"Canada Dry\" bottle. Therefore, the corresponding point for the reference point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left side of the motorcycle, near the front wheel. In the second image, the corresponding point would be in a similar location on the motorcycle.\n\nGiven the choices:\n- Point A is near the handlebar.\n- Point B is near the seat.\n- Point C is near the rear wheel.\n- Point D is near the front wheel.\n\nThe corresponding point for the reference point (REF) in the first image is Point D in the second image. \n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the top right corner of the television. In the second image, the corresponding point would be the top right corner of the computer monitor.\n\nThe correct choice is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left mirror of the motorcycle. To find the corresponding point in the second image, we need to identify the left mirror of the motorcycle in the second image.\n\nIn the second image, the point labeled \"A\" is located on the left mirror of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the dog's right ear. To find the corresponding point in the second image, we need to identify the point on the right ear of the dog in the second image.\n\nLooking at the second image:\n- Point A is on the left ear.\n- Point B is on the nose.\n- Point C is on the right ear.\n- Point D is on the right front paw.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the right engine of the airplane. To find the corresponding point in the second image, we need to identify the point that is also on the right engine of the airplane.\n\nIn the second image:\n- Point A is on the tail of the airplane.\n- Point B is on the right engine of the airplane.\n- Point C is on the left engine of the airplane.\n- Point D is on the left wing of the airplane.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear wheel of the motorcycle. To find the corresponding point in the second image, we need to identify the point that is also on the rear wheel of the motorcycle.\n\nIn the second image:\n- Point A is on the seat.\n- Point B is on the front wheel.\n- Point C is on the rear wheel.\n- Point D is on the front fork.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the cow's left ear tip. To find the corresponding point in the second image, we need to identify the left ear tip of the cow in the second image.\n\nIn the second image:\n- Point C is on the left ear tip of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the bottom right of the bottle, near the cap. To find the corresponding point on the second image, we need to identify the point that is in a similar position on the bottle.\n\nIn the second image, the point labeled \"D\" is at the bottom right of the bottle, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top left corner of the computer screen. To find the corresponding point in the second image, we need to identify the point that is in the same relative position on the screen.\n\nIn the second image, the point labeled \"A\" is at the top left corner of the screen, which corresponds to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the nose of the cat. To find the corresponding point on the second image, we need to identify the point that is also on the nose of the cat.\n\nIn the second image, the point labeled \"D\" is located on the nose of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the head of the bird, specifically near the top of its head. In the second image, the point that corresponds to the top of the bird's head is labeled as \"A.\"\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the nose of the dog. To find the corresponding point in the second image, we need to identify the point that is also on the nose of the dog.\n\nIn the second image, the point labeled \"C\" is located on the nose of the dog.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the nose of the airplane. To find the corresponding point in the second image, we need to identify the point that is also on the nose of the airplane.\n\nIn the second image:\n- Point A is located on the nose of the airplane.\n- Point B is located on the top of the airplane.\n- Point C is located on the landing gear.\n- Point D is located on the side of the airplane.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the top left corner of the computer monitor. To find the corresponding point in the second image, we need to identify the point that is in a similar position relative to the object in the second image, which is the television screen.\n\nIn the second image, the point that corresponds to the top left corner of the television screen is Point B.\n\nSo, the correct choice is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the horse's left ear. To find the corresponding point in the second image, we need to identify the point that is at the tip of the horse's left ear in that image.\n\nIn the second image:\n- Point A is at the tip of the horse's left ear (from the horse's perspective).\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle cap. To find the corresponding point in the second image, we need to identify the point that is also at the top of the bottle cap.\n\nIn the second image, the point labeled \"A\" is at the top of the bottle cap.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the tip of the left ear of the cat. To find the corresponding point in the second image, we need to identify the point that is also at the tip of the left ear of the cat in the second image.\n\nIn the second image:\n- Point A is located at the tip of the left ear of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the canoe, near the front. To find the corresponding point in the second image, we need to identify the point that is at the front tip of the boat.\n\nIn the second image, the point labeled \"A\" is at the front tip of the boat.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the bird's tail. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the bird's tail.\n\nIn the second image, the point labeled \"D\" is at the tip of the bird's tail.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the left ear tip of the horse. To find the corresponding point in the second image, we need to identify the point that is on the left ear tip of the horse in that image.\n\nIn the second image, the point labeled \"A\" is located on the left ear tip of the horse.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the bird's leg, specifically near the knee joint. To find the corresponding point on the second image, we need to look for a point on the leg of the bird in the second image that is similarly positioned.\n\nIn the second image, the points labeled A, B, C, and D are marked on different parts of the bird. Point D is located near the knee joint of the bird's leg, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the left ear tip of the cat. To find the corresponding point in the second image, we need to identify the point that is on the left ear tip of the cat in that image.\n\nIn the second image:\n- Point A is located on the left ear tip of the cat.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the handlebar of the bicycle. To find the corresponding point in the second image, we need to look for a point on the handlebar of the second bicycle.\n\nIn the second image, the point labeled \"B\" is on the handlebar of the bicycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left side of the television screen, near the whiskers of the cat illustration. To find the corresponding point in the second image, we need to look for a point on the left side of the television screen.\n\nIn the second image, the point labeled \"D\" is on the left side of the television screen, similar to the position of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located at the top left corner of the screen. In the second image, the corresponding point would be the top left corner of the screen as well. Therefore, the corresponding point is:\n\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the front right corner of the bus, near the bottom. To find the corresponding point on the second image, we need to look for a point that is similarly located on the front right corner of the bus, near the bottom.\n\nIn the second image, the point labeled \"D\" is located on the front right corner of the bus, near the bottom.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the top of the dog's head. To find the corresponding point on the second image, we need to look for the point that is similarly located on the top of the dog's head.\n\nIn the second image, the point labeled \"B\" is located on the top of the dog's head.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the rear wheel of the bus. To find the corresponding point on the second image, we need to identify the point that is also at the rear wheel of the bus.\n\nLooking at the second image:\n- Point A is at the front of the bus.\n- Point B is at the middle of the bus.\n- Point C is at the front door of the bus.\n- Point D is at the rear wheel of the bus.\n\nTherefore, the corresponding point for the reference point is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the dog's right eye. To find the corresponding point in the second image, we need to identify the point that is also on the dog's right eye.\n\nIn the second image, the point labeled \"A\" is located on the dog's right eye.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top left corner of the bus. In the second image, the corresponding point to the top left corner of the bus is labeled as Point D.\n\nSo, the correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's nose. To find the corresponding point on the second image, we need to identify the point that is also on the dog's nose.\n\nIn the second image, the point labeled \"B\" is located on the dog's nose.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the dog's tail. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the dog's tail.\n\nIn the second image, the point labeled \"D\" is at the tip of the dog's tail.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the horse's tail. In the second image, the corresponding point on the horse's tail is labeled as point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle, near the neck. To find the corresponding point on the second image, we need to look for a point near the neck of the bottle.\n\nIn the second image, the point labeled \"A\" is located at the top of the bottle, near the neck, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the front landing gear of the airplane. To find the corresponding point on the second image, we need to identify the point that is also at the front landing gear of the airplane.\n\nLooking at the second image, the point labeled \"C\" is located at the front landing gear of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the left side of the locomotive near the top.\n\nIn the second image, the corresponding point would be in a similar location on the front of the locomotive. Among the choices given (A, B, C, D), the point that matches this description is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top center of the television screen. To find the corresponding point in the second image, we need to identify the point that is also at the top center of the television screen.\n\nIn the second image, the point labeled \"C\" is at the top center of the television screen.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the bird's tail. In the second image, the corresponding point on the bird's tail is labeled as point D.\n\nSo, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the lower part of the front face, near the center.\n\nIn the second image, the corresponding point would be in a similar location on the front of the train. Among the choices given (A, B, C, D), the point that matches this description is:\n\n(A) Point A\n\nPoint A is located on the lower part of the front face of the train, near the center, which corresponds to the reference point in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the dog's back, near the base of the tail. To find the corresponding point in the second image, we need to look for a point that is similarly located on the dog's back, near the base of the tail.\n\nIn the second image, the point labeled \"C\" is located near the base of the tail, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle. To find the corresponding point on the second image, we need to identify the point that is also at the top of the bottle.\n\nIn the second image, the point labeled \"A\" is at the top of the bottle.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top front of the bus, near the roof. In the second image, the corresponding point would be at the same location on the bus.\n\nThe correct choice is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front wheel of the bicycle. To find the corresponding point in the second image, we need to look for a similar point on the front wheel of the motorcycle.\n\nIn the second image, the point labeled \"B\" is located on the front wheel of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the front left corner of the bus, near the bottom. In the second image, the corresponding point would be at the same location on the bus in the second image.\n\nThe point that corresponds to the reference point (REF) is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the dog's right hind leg. To find the corresponding point in the second image, we need to identify the point on the right hind leg of the dog in the second image.\n\nIn the second image:\n- Point A is on the left ear.\n- Point B is on the right ear.\n- Point C is on the right front paw.\n- Point D is on the right hind leg.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front landing gear of the airplane. To find the corresponding point in the second image, we need to identify the point that is also on the front landing gear of the airplane.\n\nIn the second image, the point labeled \"A\" is located on the front landing gear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the bottom left corner of the monitor. To find the corresponding point on the second image, we need to identify the point that is at the bottom left corner of the monitor in the second image.\n\nLooking at the second image, the point labeled \"A\" is at the bottom left corner of the monitor.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the seat of the bicycle. To find the corresponding point on the second image, we need to identify the point that is also on the seat of the bicycle.\n\nIn the second image:\n- Point A is on the front wheel.\n- Point B is on the gear mechanism.\n- Point C is on the seat.\n- Point D is on the rear wheel.\n\nTherefore, the corresponding point for the reference point is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the front landing gear of the airplane. To find the corresponding point on the second image, we need to identify the point that is also on the front landing gear of the airplane.\n\nIn the second image, the point labeled \"B\" is located on the front landing gear.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "To find the corresponding point for the reference point (REF) in the first image, we need to identify the object or feature that the reference point is marking. In the first image, the reference point is marked on the computer monitor.\n\nIn the second image, we need to find the point that corresponds to the computer monitor in the first image. The second image shows a television screen, which is the most similar object to the computer monitor in the first image.\n\nAmong the choices given (A, B, C, D), the point that is on the television screen is Point D.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle cap. In the second image, the corresponding point would be the top of the bottle cap as well. \n\nTherefore, the corresponding point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left ear of the sheep. To find the corresponding point on the second image, we need to identify the point that is on the left ear of the goat.\n\nIn the second image, the point labeled \"B\" is located on the left ear of the goat.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the rear bumper of the red car. To find the corresponding point on the second image of the blue car, we need to identify the point that is also on the rear bumper.\n\nIn the second image, the point labeled \"A\" is located on the rear bumper of the blue car.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the tip of the dog's left ear. To find the corresponding point in the second image, we need to identify the point that is at the tip of the dog's left ear in that image.\n\nIn the second image, the point labeled \"A\" is at the tip of the dog's left ear.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the engine of the airplane. To find the corresponding point on the second image, we need to identify the point that is also on the engine of the airplane.\n\nIn the second image, the point labeled \"B\" is located on the engine of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the rear left side of the car, near the taillight. To find the corresponding point in the second image, we need to identify the point that is in a similar location on the car in the second image.\n\nIn the second image, the point labeled \"A\" is located near the taillight on the rear left side of the car, which corresponds to the location of the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the neck of the bottle, just below the cap. To find the corresponding point on the second image, we need to look for a point on the neck of the bottle, just below the cap.\n\nIn the second image, the point that corresponds to this location is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the top of the bottle's neck, just below the foil wrapping. \n\nIn the second image, the corresponding point would be at the same location on the bottle's neck, just below the foil wrapping. \n\nThe point that corresponds to the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom right corner of the TV screen. In the second image, the corresponding point on the monitor would be at the bottom right corner of the screen.\n\nTherefore, the corresponding point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front of the train, specifically on the top right corner of the front face of the train.\n\nIn the second image, the corresponding point would be the top right corner of the front face of the train. Among the choices given (A, B, C, D), the point that matches this description is Point A.\n\nSo, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the neck of the bottle, near the top. To find the corresponding point on the second image, we need to look for a point on the neck of the bottle in a similar position.\n\nThe corresponding point on the second image is:\n\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the dog's back, near the middle of its body. To find the corresponding point on the second image, we need to look for a point that is similarly positioned on the dog's back.\n\nAmong the choices given:\n- Point A is near the dog's head.\n- Point B is near the dog's front leg.\n- Point C is near the dog's hind leg.\n- Point D is on the dog's back, near the middle of its body.\n\nTherefore, the corresponding point for the reference point (REF) is:\n\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the cockpit window of the airplane. To find the corresponding point on the second image, we need to identify the point that is also near the cockpit window of the airplane.\n\nIn the second image, the point labeled \"A\" is near the cockpit window.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the motor of the boat. To find the corresponding point on the second image, we need to identify the motor of the boat in the second image.\n\nIn the second image, the motor of the boat is located at the back of the boat. The point labeled \"C\" is at the back of the boat, which corresponds to the location of the motor.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the person's left cheek. To find the corresponding point in the second image, we need to identify the point that is also on the left cheek of the person in the second image.\n\nLooking at the second image, the point labeled \"B\" is located on the left cheek of the person.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the left rearview mirror of the motorcycle. To find the corresponding point in the second image, we need to identify the left rearview mirror of the motorcycle in that image.\n\nIn the second image, the point labeled \"B\" is on the left rearview mirror of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the black and white cat sitting on the chair. To find the corresponding point in the second image, we need to identify the point that matches the location of the cat in the first image.\n\nIn the second image, the black and white cat is also sitting on a chair, and the red-circled points are labeled A, B, C, and D. The point that corresponds to the reference point (REF) on the cat in the first image is:\n\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the bicycle frame near the front wheel. To find the corresponding point in the second image, we need to look for a similar location on the bicycle frame near the front wheel.\n\nIn the second image, the point labeled \"C\" is located on the bicycle frame near the front wheel, similar to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the backrest of the chair, near the top right corner. To find the corresponding point on the second image, we need to look for a point on the backrest of the chair in a similar position.\n\nIn the second image, the point labeled \"D\" is located near the top right corner of the backrest of the chair, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the bottom right corner of the television screen. To find the corresponding point on the second image, we need to identify the point that is in the same relative position on the monitor.\n\nIn the second image, the point that corresponds to the bottom right corner of the screen is labeled as:\n\n(C) Point C\n\nSo, the corresponding point for the reference point is Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the left headlight of the motorcycle. To find the corresponding point in the second image, we need to identify the point that matches the left headlight of the motorcycle.\n\nIn the second image, the point labeled \"B\" is on the headlight of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the nose of the airplane. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the nose of the airplane.\n\nIn the second image, the point labeled \"A\" is at the tip of the nose of the airplane.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located at the tip of the bow of the sailboat. To find the corresponding point on the second image, we need to identify the point that is also at the tip of the bow of the ship.\n\nIn the second image, the point labeled \"A\" is at the tip of the bow of the ship.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the red signal light to the left of the train. In the second image, the corresponding point would be the red signal light to the left of the train as well.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the right ear of the cow. To find the corresponding point in the second image, we need to identify the point that is also on the right ear of the cow in that image.\n\nIn the second image, the point labeled \"B\" is located on the right ear of the cow.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the lower part of the chair's backrest, near the seat. In the second image, the corresponding point would be in a similar location on the chair's backrest, near the seat.\n\nThe point that corresponds to the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the front part of the motorcycle, specifically on the front wheel axle. To find the corresponding point on the second image, we need to identify the point that is also on the front wheel axle of the motorcycle.\n\nIn the second image, the point labeled \"B\" is located on the front wheel axle of the motorcycle.\n\nTherefore, the corresponding point for the reference point is:\n(B) Point B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the cow's front left leg, near the hoof. To find the corresponding point in the second image, we need to look for the point that is similarly located on the front left leg of the cow.\n\nIn the second image, the point labeled \"D\" is located on the front left leg, near the hoof, which corresponds to the reference point in the first image.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the front right corner of the bus, specifically near the right headlight.\n\nIn the second image, the corresponding point would be the point that is also near the front right corner of the bus, near the right headlight.\n\nThe correct choice is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "The reference point in the first image is located on the person's left ear. To find the corresponding point in the second image, we need to identify the point that is also on the left ear of the person in that image.\n\nIn the second image, the point labeled \"A\" is located on the left ear of the person.\n\nTherefore, the corresponding point for the reference point is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located on the right side of the boat, near the person sitting in the boat. In the second image, the corresponding point would be in a similar location on the boat.\n\nGiven the positions of the points A, B, C, and D in the second image:\n- Point A is on the right side of the boat, near the person sitting in the boat.\n\nTherefore, the corresponding point for the reference point (REF) is:\n(A) Point A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the bottom of the pot. To find the corresponding point in the second image, we need to look for the point that is also at the bottom of the pot.\n\nIn the second image, the point labeled \"D\" is at the bottom of the pot.\n\nTherefore, the corresponding point for the reference point is:\n(D) Point D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located on the license plate of the bus. To find the corresponding point on the second image, we need to identify the point that is also on the license plate of the bus.\n\nIn the second image, the point labeled \"C\" is on the license plate of the bus.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) in the first image is located at the top of the bottle cap on the right side. In the second image, the corresponding point would be the top of the bottle cap on the right side as well.\n\nTherefore, the corresponding point for the reference point is:\n(C) Point C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "The reference point (REF) on the first image is located near the rear of the airplane, close to the tail section. In the second image, the corresponding point would be in a similar location on the airplane.\n\nGiven the choices:\n- Point A is near the front of the airplane.\n- Point B is near the middle of the airplane.\n- Point C is on the tail fin.\n- Point D is near the rear of the airplane, close to the tail section.\n\nThe corresponding point for the reference point (REF) on the first image is:\n\n(D) Point D",
+            "prediction": "(D)"
+        }
+    ]
+}

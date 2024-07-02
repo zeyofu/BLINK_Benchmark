@@ -1,0 +1,1614 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a yellowish-tan color, while point B is on a surface that seems to be white. Therefore, point A has a darker surface color compared to point B. The correct answer is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a darker shade of brown compared to point B, which is on a lighter beige or off-white surface. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker colored tile compared to point B, which is on a lighter colored tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a dark blue item, likely a piece of clothing, while point B is on a lighter colored surface, possibly the floor or a light-colored object near the floor. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on similar types of surfaces (wooden barrels). The lighting conditions and the inherent color of the wood at both points look quite similar. Therefore, the surface color of points A and B seems to be about the same. The correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A and point B are both located on the same brown leather sofa. Considering the albedo of the surface at these points, without the effect of shading, the surface color at both points appears to be about the same. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A and point B are both located on areas covered with raspberries. The raspberries at both points appear to have a similar red color. There is no significant difference in shading or color intensity visible between the two points. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided and considering the surface color of the points labeled A and B, it appears that point A has a darker surface color compared to point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a black or dark-colored shirt, and point B is on a lighter background, possibly a wall or cabinet. Therefore, the surface color at point A is darker than at point B. The correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided and the analysis of the surface colors at points A and B, it appears that point A, which is on the woman's black top, has a darker surface color compared to point B, which is on her patterned jacket. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a tomato, which generally has a red color, and point B is on a part of a cucumber, which is typically green. Considering the inherent colors of these vegetables, the tomato (point A) tends to have a darker red color compared to the lighter green of the cucumber (point B). Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the hair, while point B is located on a lighter area of the hair. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (the brick fireplace) compared to point B, which is on a lighter wooden surface (the floor). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A and point B are both located on the same white lace bedspread. The surface color (albedo) of both points appears to be about the same, as they are part of the same material and color. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a lighter cream or beige color, while point B is on a surface that seems to be a darker green color. Therefore, the surface color at point B is darker than at point A.\n\nThe correct answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white tile, and point B is also on a similar white tile. The surface colors at both points A and B appear to be about the same, both being white without noticeable color difference due to shading or other effects. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the graffiti on the bridge support, while point B is on a lighter gray area of the bridge support. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker section of the bedspread, which appears to be a deep brown or similar dark color. Point B is on the wall, which is painted a much lighter yellow color. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a white bathtub, and point B is on a darker beige or light brown wall. Considering the albedo, which refers to the reflectivity of surfaces, the surface at point A (white bathtub) has a higher albedo and thus is lighter in color compared to point B (beige wall). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a blue cabinet door, while point B is on a blue and white patterned tile. Comparing the surface colors at these points, point A appears to be on a darker shade of blue compared to the lighter blue and white of the tile at point B. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point B is on a lighter surface. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a metallic surface (likely stainless steel) of the sink, and point B is on the black fur of a cat. Considering the albedo, which is the measure of how much light that hits a surface is reflected without being absorbed, the surface at point A (metal sink) would typically have a higher albedo compared to the surface at point B (black cat fur), which would absorb more light.\n\nTherefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "From the image provided, point A is located on a lighter colored carpet, while point B is on a darker marble surface. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on similar metallic surfaces of the staircase, likely having the same material and color. The lighting conditions affecting both points seem similar as well, with no significant difference in illumination that would change their perceived colors drastically. Therefore, the surface color (albedo) of points A and B is about the same. The correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white egg, and point B is also on a white egg. Both points appear to be on surfaces with similar colors under similar lighting conditions. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a wooden floor, which appears to have a darker brown color. Point B is located on a striped sofa, which has alternating stripes of lighter and darker shades. The specific stripe at point B appears to be of a lighter color, possibly beige or a light brown.\n\nConsidering the albedo, which refers to the reflectivity of surfaces without the influence of shading, the surface at point A (darker wood) would naturally have a lower albedo compared to the surface at point B (lighter fabric stripe). Therefore, the surface color at point A is darker than at point B.\n\nSo, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a gray wall, while point B is on a lighter colored ceiling. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a blue wall, and point B is also on the same blue wall. The color of the surface at both points A and B appears to be very similar in shade and tone. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (a black table) compared to point B, which is located on a lighter surface (a beige carpet). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a darker shade of gray, while point B is on a white lab coat. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A, which is on the wooden wardrobe, appears to have a darker surface color compared to point B, which is on the carpet. The wardrobe's wood has a naturally darker tone compared to the lighter beige color of the carpet. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided and the analysis of the surface colors at points A and B, it appears that the colors are about the same. Both points are located on the red dress, and there does not seem to be a significant difference in the albedo between these two points. Therefore, the correct choice would be:\n(C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the bedspread, which appears to be a deep brown or similar dark shade. Point B is located on the ceiling, which is painted a much lighter color, likely a light beige or off-white. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a darker tile, while point B is on a lighter section of the countertop. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A and point B are located on surfaces that appear to have different colors. Point A is on a lighter colored tile, while point B is on a darker brown column. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a darker brown cabinet, while point B is on a lighter colored wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a beige or light brown tile, while point B is on a darker brown or wooden surface. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a white cabinet, while point B is on a black chair. Considering the albedo, which refers to the reflectivity of a surface, the surface at point A (white cabinet) has a higher albedo and thus reflects more light, making it lighter in color. Conversely, the surface at point B (black chair) has a lower albedo and reflects less light, making it darker in color.\n\nTherefore, the correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (the blue sofa), and point B is located on a lighter surface (the white bedsheet). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "From the image provided, point A is located on a wall that appears to be uniformly colored and is under a shadow, making it look darker. Point B is on a part of the wall that is similarly colored but is more directly illuminated by natural light coming through the window, making it appear lighter. \n\nConsidering the question is about the surface color (albedo) without the effect of shading, and assuming the wall has a uniform color, the surface colors of points A and B should be about the same. Therefore, the correct answer is:\n(C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on the man's red sweater, and point B is on the white kitchen appliance. Considering the albedo, which refers to the reflectivity of a surface, the red sweater at point A is darker in color compared to the white surface at point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided and the location of points A and B, it appears that point A, which is on the refrigerator, has a darker surface color compared to point B, which is on the door. The refrigerator at point A seems to have a grayish tone, whereas the door at point B is white. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a white apron, and point B is on a green cucumber. Comparing the albedo (surface color without the effect of shading) of these two points, point A (on the white apron) is lighter than point B (on the green cucumber). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a brown leather sofa, and point B is on a blue wall. Comparing the surface colors (albedo) of these points without considering the effects of shading, the surface color at point A (brown leather sofa) appears darker than the surface color at point B (blue wall). Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a wall that appears to be uniformly painted in a light color, while point B is on the ceiling, which also seems to be painted in a similar light color. The colors at both points A and B appear to be about the same, considering the albedo without the effect of shading. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a lighter shade of beige or off-white, while point B is on a surface that is a darker gray color. Therefore, the surface color at point B is darker than at point A.\n\nThe correct answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a white chef's coat, and point B is on a darker surface, possibly a brown table or a dark food item. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the oven, which appears to be black or a very dark gray. Point B is located on a red and white patterned apron. Comparing the two, point A is on a darker surface color than point B. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a white cabinet, while point B is on a darker surface, likely a black or dark gray appliance. Considering the albedo (the measure of how much light that hits a surface is reflected without being absorbed), the surface at point A (white cabinet) would have a higher albedo and thus reflects more light, making it lighter in color. Conversely, the surface at point B (dark appliance) would have a lower albedo and reflects less light, making it darker in color.\n\nTherefore, the answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a pink bedsheet, and point B is on a white surface of the drawer. Comparing the surface colors at these points, point A (pink bedsheet) appears darker than point B (white drawer). Therefore, the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a wall that appears to be illuminated by a nearby lamp, making it look lighter. Point B is on a different section of the wall that is not directly illuminated by the lamp, making it appear darker. Therefore, considering the albedo (the intrinsic surface color without the effect of shading), point B is likely to have a darker surface color than point A. \n\nSo, the answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a part of the glass panel or metal structure, which has a lighter, more reflective quality. Point B, on the other hand, is located on a surface that seems to be part of a darker architectural element or shadowed area.\n\nGiven this observation, it is likely that:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark green or black tile, while point B is on a metallic surface of the refrigerator, which is lighter in color. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a darker wooden area of the cabinet, while point B is on a lighter colored object. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the red shirt, while point B is on a lighter area of the same shirt. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored wall, while point B is on a darker colored curtain. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (black curtain) compared to point B, which is located on a lighter surface (blue wall). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a black countertop, and point B is on a white bathtub. Considering the albedo, which refers to the reflectivity of surfaces, the black countertop at point A has a darker surface color compared to the white bathtub at point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white bedsheet, and point B is on a beige carpet. Comparing the surface colors (albedo) of these two points without considering the effects of shading, point A (on the white bedsheet) appears lighter than point B (on the beige carpet). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark brown or black surface, likely a part of a kitchen appliance or cabinet, while point B is on a lighter colored surface, possibly a white or light gray countertop. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark brown or black section of the floor, while point B is on a lighter beige or tan section of the floor. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "From the image provided, point A is located on a metallic surface (likely stainless steel) of the sink, and point B is on a wooden surface of the cabinet. The surface color at point A (metallic sink) appears lighter due to the reflective nature of stainless steel, while point B (wooden cabinet) has a darker, more consistent wooden color. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, it appears that point A, which is located on a person's clothing, has a darker surface color compared to point B, which is located on a wooden cabinet. Therefore, the correct choice is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (possibly a dark brown cabinet), and point B is on a lighter surface area (a white refrigerator). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on the chef's black shirt, and point B is on the chef's skin, specifically on his neck. Given the color contrast between the black shirt and the lighter skin tone, point A, which is on the black shirt, has a darker surface color compared to point B. Therefore, the correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (the dresser) compared to point B, which is located on a lighter surface (the bedspread). Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a light-colored wall, while point B is on a wooden cabinet which has a naturally darker wood tone. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a darker brown section of the cabinet, while point B is on a lighter beige section of the floor. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to be on a darker surface area compared to point B. Point A is located on a section of the carpet that has a darker shade, while point B is on a lighter wooden surface. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided and the analysis of the surface colors at points A and B, it appears that point A, which is on a darker area of the floor, has a darker surface color compared to point B, which is on a lighter area of the floor. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a part of the chair that appears to be in a shadowed area, while point B is on a part of the chair that is more directly illuminated by the lamp. Despite the difference in lighting, the fabric of the chair at both points A and B seems to be of the same material and color. Therefore, the surface color (albedo) of both points is likely about the same. The correct answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter surface area, likely a wall, while point B is on a darker surface, possibly a wooden beam or a shadowed area. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter surface (white countertop), and point B is on a darker surface (black floor tile). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored wall, while point B is on a darker colored wall. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on similar types of surfaces (both on the wooden frame of bunk beds). The colors of the surfaces at points A and B look about the same in terms of darkness. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A, which is on the wooden surface of the table, appears to have a darker surface color compared to point B, which is on the lighter colored wall. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A, which is located on the floor, appears to have a darker surface color compared to point B, which is located on the woman's shoe. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The bricks around point A are generally darker and have a deeper red tone, whereas the bricks around point B are slightly lighter in color. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a light-colored marble tabletop, while point B is on a darker, possibly black or dark brown, chair surface. Therefore, the surface color at point A is lighter than at point B.\n\nThe correct answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the wooden wall compared to point B, which is on a slightly lighter section of the same wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, the surface color (albedo) at points A and B appears to be about the same. Both points are located on the same type of floor tile, and there doesn't seem to be any significant difference in color between the two points. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (possibly a shadowed part of the wooden cabinet), and point B is on a lighter surface area (the white paper). Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point B is on a lighter surface. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A and point B are located on the same white countertop. The surface color (albedo) at both points A and B appears to be about the same, which is a light, white color. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a darker section of the tapestry in the background, while point B is on a lighter section of the same tapestry. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A and point B are located on the ceiling, which appears to be uniformly painted. The surface color at both points A and B seems to be about the same, without any noticeable difference in albedo. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white toilet, and point B is on a white tiled floor. Both surfaces appear to be white, and there is no significant difference in the albedo or surface color between the two points. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white tile, and point B is also on a white tile. Both points appear to have the same surface color, which is white. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a roasted eggplant, which has a dark, charred surface. Point B is on a bottle, which appears to have a lighter, metallic surface. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a black object, which appears to be a laptop or a similar device, and point B is on a blue fabric, likely part of the bedspread. Considering the albedo (surface color without the effect of shading), point A, being on a black surface, has a darker surface color compared to point B, which is on a blue surface. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on the dark gray steps of the staircase, while point B is on a lighter gray floor area. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter, metallic surface, possibly stainless steel, while point B is on a darker, possibly soot-covered or burnt area of the stove. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, both points A and B are located on the same type of surface, which appears to be a tiled wall. The tiles at both points A and B have a similar light beige color with a pattern of flowers. There is no significant difference in shading or color that can be observed between the two points. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a lighter surface (a white refrigerator), and point B is on a darker surface (a black stove). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on the woman's apron, which appears to be a light color, and point B is on the blender, which is a darker gray. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark brown chair, while point B is on a lighter gray wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a yellow wall, and point B is on a darker gray blanket. Considering the albedo, which refers to the reflectivity of surfaces, the yellow wall at point A appears to reflect more light and thus has a lighter surface color compared to the darker gray blanket at point B. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point B is on a lighter surface, likely a white wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a red laundry basket, and point B is on a white cabinet door. Considering the albedo, which refers to the reflectivity of surfaces, the red laundry basket (point A) has a darker surface color compared to the white cabinet door (point B). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a black jacket, and point B is on a lighter colored wall. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "From the image provided, point A is located on a black tile and point B is located on a white tile. Therefore, the surface color at point A is darker than the surface color at point B. The correct answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (a black section of the sofa), and point B is located on a lighter surface area (a white section of the window frame). Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker object (a speaker), and point B is on a lighter surface (a wall). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a white bedsheet, and point B is on a dark brown desk. Considering the albedo, which refers to the reflectivity of a surface without the influence of shading, point A (on the white bedsheet) has a lighter surface color compared to point B (on the dark brown desk). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a blue pillow, and point B is on a dark gray sofa. Comparing the surface colors of these two points, point B (on the sofa) appears to have a darker surface color than point A (on the pillow). Therefore, the correct choice is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "From the image provided, point A appears to be on a surface that is slightly darker in color compared to point B. Point B is located on a surface that seems to be a bit lighter. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker brown pillow, while point B is on a lighter beige bedsheet. Therefore, the surface color at point A is darker than at point B. The correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark green or black section of the floor, while point B is on a lighter, possibly beige or light gray section of the floor. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided and the annotations at points A and B, it appears that point A, located on the tile, has a lighter surface color compared to point B, which is on the skin. Therefore, the correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a dark brown cabinet, while point B is on a lighter beige floor tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "From the image provided, point A is located on a surface that appears to be a part of a wooden structure, possibly a beam or column, which inherently has a darker tone. Point B, on the other hand, is on a lighter colored surface, likely a wall or a lighter part of the wood.\n\nBased on the inherent colors of the surfaces at points A and B, without considering the effects of lighting:\n- Point A is on a darker surface.\n- Point B is on a lighter surface.\n\nTherefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a light blue shirt, and point B is on a darker blue pair of pants. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker gray tile, while point B is on a lighter gray or almost white tile. Therefore, the surface color at point A is darker than at point B. The correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "From the image provided, point A is located on a darker surface compared to point B. Point A is on a section of a pipe that appears to be a darker gray, possibly due to material or dirt, while point B is on a lighter gray section of another pipe. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "From the image provided, point A is located on the surface of a black refrigerator, and point B is on a wooden cabinet that has a lighter, reddish-brown color. Based on the surface colors (albedo) without considering the effects of shading:\n\n(B) B is darker\n\nThis choice is incorrect based on the analysis. The correct assessment should be:\n\n(A) A is darker\n\nPoint A, on the black refrigerator, has a darker surface color compared to point B on the wooden cabinet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a gray countertop, which appears to have a darker albedo than the surface at point B, which is on a lighter colored wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a beige sofa, and point B is on a white pillow. Comparing the surface colors of these two points, point A (on the sofa) appears to have a darker surface color than point B (on the pillow). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on the same type of surface, which is the countertop of the sink. The color of the surface at both points looks consistent without any noticeable difference in shading or color variation. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to be on a darker surface compared to point B. The surface at point A seems to be in a shadowed area, which might make it appear darker, but even considering this, the inherent color of the rock at point A looks darker than at point B. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (the TV screen), and point B is located on a lighter surface (the wall). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a blue pot, and point B is on a red pot. Comparing the surface colors (albedo) of the points without considering the effects of shading, the blue pot (point A) appears to have a darker surface color than the red pot (point B). Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a piece of fish, and point B is on the chef's white apron. Considering the albedo or the surface color without the effect of shading, point A (on the fish) appears to have a darker surface color compared to point B (on the white apron). Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a white chair, and point B is on a light brown wooden floor. Comparing the surface colors at these points, point B (on the floor) appears to have a darker surface color than point A (on the chair). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark wooden bed frame, while point B is on a lighter colored wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A is located on the man's apron, which appears to be a darker shade of blue or green. Point B is located on the man's shirt, which is a lighter gray color. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on the stove, which appears to be a darker gray, while point B is on the refrigerator, which is white. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided and focusing on the surface color of the points labeled A and B, it appears that point A is darker than point B. Therefore, the correct choice is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a white container, and point B is on a brown liquid (presumably coffee or a similar beverage). The surface color at point A (white) is lighter than the surface color at point B (brown). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A is located on a television screen displaying an image with darker tones, while point B is on a blue wall. The surface color at point A appears darker than the surface color at point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to be on a lighter surface, likely a light-colored wall, while point B is on a darker surface, possibly a black or dark-colored object on the shelving unit. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Reflectance_1",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and considering the surface color (albedo) of the points labeled A and B, point A appears to be darker than point B. Therefore, the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_2",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (the brown leather of the sofa) compared to point B, which is on a lighter surface area (the beige wall). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_3",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on the bedspread, which appears to be a light cream or white color. Point B is on the wall, which is painted a slightly darker shade, possibly a light beige or off-white. Considering the albedo (surface color without the effect of shading), point B appears to have a darker surface color than point A. Therefore, the answer is:\n\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_4",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on the headboard of the bed, which appears to be a light color, possibly white or cream. Point B is on the wooden panel beside the bed, which has a darker, brown color. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_5",
+            "answer": "hidden",
+            "full_prediction": "From the image provided, point A is located on a surface that appears to be a part of the window frame or wall, which is painted white. Point B is on a tiled area that also appears to be white. Both points A and B are on surfaces that seem to have similar colors under the lighting conditions shown in the image. Therefore, the answer is:\n\n(C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a wooden cutting board, which generally has a darker brown color. Point B is on a lighter colored countertop, possibly made of a light wood or laminate material. Considering the albedo (surface color without the effect of shading), point A appears to have a darker surface color than point B. Therefore, the answer is:\n\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_7",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area (black countertop) compared to point B, which is located on a lighter surface area (beige backsplash). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_8",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface color compared to point B. Point A is on a red headboard, which is inherently darker in color, while point B is on a light beige wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a darker shade of beige or light brown, while point B is on a white surface. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the green door, appears to have a darker surface color compared to point B, which is located on the yellow wall. The green color of the door at point A inherently seems darker than the light yellow color of the wall at point B. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_11",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a metallic surface (likely stainless steel) and point B is on a white ceramic plate. Considering the albedo, which is the measure of how much light that hits a surface is reflected without being absorbed, the surface at point A (metallic) would generally have a higher albedo compared to the surface at point B (ceramic).\n\nHowever, if we are considering which point appears darker due to the surface color itself (ignoring the effects of light and shadow), the metallic surface at point A typically appears lighter than the white ceramic at point B. Therefore, the answer would be:\n\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a green kitchen island, and point B is on a white refrigerator. Comparing the surface colors (albedo) of these points, point A (green kitchen island) appears to have a darker surface color than point B (white refrigerator). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_13",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a dark green armchair, while point B is on a lighter beige cushion. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_14",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, it appears that point A and point B are located on the same surface, which is the ceiling. The lighting in the image is influencing the appearance of their colors, with shadows and light affecting how we perceive their brightness.\n\nFrom the image, it seems that both points A and B are on areas that are similarly colored, with the differences in brightness mainly due to the lighting rather than the actual color of the surface. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B are located on the same black countertop. The surface color (albedo) at both points appears to be about the same, as there is no significant difference in color between the two points. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_17",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and the annotations at points A and B, point A, which is on the suitcase, appears to have a darker surface color compared to point B, which is on the wall. Therefore, the correct choice is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_18",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a dark brown wooden panel, while point B is on a lighter brown wooden door. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_19",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A appears to be on a dark gray or black surface, possibly part of a kitchen appliance or a dark countertop. Point B, on the other hand, is on a lighter beige or cream-colored surface, likely a part of the kitchen cabinetry or wall.\n\nTherefore, the answer is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_20",
+            "answer": "hidden",
+            "full_prediction": "From the image provided, point A is located on a lighter colored section of the ceiling, while point B is on a darker blue wall. Based on the surface colors at these points, ignoring any effects of shading or lighting:\n\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_21",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored surface, likely a light wall or panel, while point B is on a darker surface, possibly a red carpet or darker floor material. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_22",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and examining the surface colors at points A and B, it appears that point B is darker than point A. Therefore, the correct choice is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_23",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and the analysis of the surface colors at points A and B, it appears that point A, located on the black skirt, has a darker surface color compared to point B, which is on a lighter colored blanket. Therefore, the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_24",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a light gray or beige wall, while point B is on a red brick wall. The surface color at point B (red brick) is inherently darker than the surface color at point A (light gray or beige wall). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_25",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a red shirt, and point B is on a gray sweater. Comparing the surface colors (albedo) of these points without considering the effects of shading, the red shirt at point A appears to be darker than the gray sweater at point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_26",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white towel, and point B is on a white bathrobe. Both surfaces appear to be white, and there is no significant difference in shading or color that would indicate one is darker than the other. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a beige sofa, and point B is on a wooden coffee table. The surface color at point A (beige sofa) appears lighter compared to point B (darker wooden table). Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_28",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on surfaces with similar colors. Point A is on a wall, and point B is on a lampshade. Both surfaces are light in color, likely white or a light gray. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_29",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on surfaces with similar colors. Point A is on a wall, and point B is on a different section of the same or a similarly colored wall. The lighting conditions in the room might affect the appearance slightly, but the inherent colors of the surfaces at points A and B seem to be about the same. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_30",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a gray pillow, while point B is on a white pillow. Comparing the surface colors at these points, point A (on the gray pillow) appears to have a darker surface color than point B (on the white pillow). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_31",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be on a slightly darker shade of the floor compared to point B. This observation is made considering the albedo (intrinsic color) of the surface at each point, without the influence of lighting or shadow effects. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_32",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored surface, possibly a light wall or door, while point B is on a darker surface, likely a wooden panel or darker section of the wall. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker green chair, while point B is on a white tablecloth. Therefore, the surface color at point A is darker than at point B. The correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_34",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and the analysis of the surface color at points A and B, it appears that point B is darker than point A. Therefore, the correct choice is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_35",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on a darker area of the stove, appears to have a darker surface color compared to point B, which is located on a lighter colored wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the bedspread, has a darker surface color compared to point B, which is located on the curtain. The bedspread at point A appears to have a richer, darker red and patterned color, whereas the curtain at point B is a lighter beige or cream color. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_37",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, both points A and B are located on the same type of surface, which appears to be a tiled wall under similar lighting conditions. The tiles at both points A and B seem to have the same color and texture. Therefore, the surface color (albedo) of points A and B is about the same. The correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_38",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be on a darker surface area compared to point B. Point A is located on a section of the oven tray that seems to have a darker color, possibly due to shadows or the inherent color of the tray. Point B, on the other hand, is on a lighter part of the oven tray, likely reflecting more light. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_39",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a lighter shade of beige or cream, while point B is on a surface that is a darker shade, possibly a dark green or gray. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_40",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface color compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, both points A and B are located on the same red chair, and the surface color at these points appears to be about the same. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_42",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a grayish surface, while point B is on a surface with orange and blue tiles. Comparing the albedo (surface color without the effect of shading) of these two points, point A appears to be on a darker surface compared to point B, which is on a brighter, more colorful surface. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_43",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the carpet, appears to have a darker surface color compared to point B, which is located on the wall. The carpet at point A has a deeper, darker hue, likely a shade of brown, while the wall at point B is illuminated by the lamp light, making it appear lighter, likely a shade of beige or light brown. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_44",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the fireplace mantle, appears to have a darker surface color compared to point B, which is on the mirrored wall. The surface at point A is part of a gray stone, while point B is on a reflective silver surface that appears lighter. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_45",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the wall, appears to have a darker surface color compared to point B, which is located on the door. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_46",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A appears to be on a darker section of the stove or countertop, while point B is on a lighter section of the wall or tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored tile, while point B is on a darker colored tile. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_48",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a slightly darker shade of beige compared to point B, which is on a lighter beige surface. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white towel, and point B is on a patterned bedspread that includes darker colors. Considering the albedo, which refers to the reflectivity of surfaces without the influence of shading, the surface at point A (white towel) would naturally reflect more light and thus appear lighter in color compared to point B on the darker, patterned bedspread. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_50",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker brown surface, likely a wooden cabinet, while point B is on a lighter beige or off-white surface, possibly a wall or another part of the cabinet. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_51",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is on the curtain, which appears to be a lighter beige or cream color, and point B is on the chair, which is blue. Comparing the two, the blue color of the chair at point B is generally darker than the beige or cream color of the curtain at point A. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_52",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a green tile, and point B is on a white sink. Comparing the surface colors (albedo) of these points, point A (on the green tile) appears to have a darker surface color than point B (on the white sink). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_53",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a section of the wall that appears to be a darker shade, possibly due to the lighting or the inherent color of the wall. Point B, on the other hand, is on a lighter colored section of the wall. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_54",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on the same type of surface, which is the bedspread with a patterned design. The colors at both points A and B look about the same in terms of surface color (albedo), without considering the effects of shading or lighting. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter surface (the wall), and point B is on a darker surface (the couch). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_56",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter part of the girl's shirt, which appears to be a light pink or similar light color. Point B is on her denim skirt, which is a darker blue. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_57",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored surface, while point B is on a darker surface. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Point A is on a dark brown or black area, likely a part of a decorative item or artwork, while point B is on a lighter colored wall. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be on a lighter surface, likely a stone or concrete material, while point B is on a darker surface, which seems to be a shadowed area of the same material. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_60",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the carpet, has a darker surface color compared to point B, which is located on the wall. The carpet at point A appears to have a darker and richer color, likely due to its material and pattern, whereas the wall at point B is painted in a lighter, more uniform color. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a black suitcase, and point B is on a white bedsheet. Considering the albedo, which refers to the reflectivity of surfaces, the black suitcase at point A has a darker surface color compared to the white bedsheet at point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_62",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored object (a toy car), and point B is on a darker surface (a wooden table). Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_63",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a section of the wall that appears to be a darker shade of yellow or gold, while point B is on a lighter colored section of the ceiling. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_64",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a lighter tan color, while point B is on a surface that is a darker brown color. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_65",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a wall that appears to have a darker shade of color compared to point B, which is on a lighter colored wall. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white bedsheet, and point B is on a light brown wooden floor. Considering the albedo (surface color without the effect of shading), the white bedsheet at point A would naturally be lighter than the light brown wooden floor at point B. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_67",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white tiled wall, and point B is on a darker surface, possibly a black or dark gray toaster. Therefore, the surface color at point B is darker than at point A. The correct answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_68",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker orange surface, while point B is on a lighter purple surface. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_69",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a desk or table, which has a light color, possibly white or light beige. Point B is on the back of a chair, which is a darker shade, likely a medium brown or similar dark color. Therefore, the surface color at point B is darker than at point A.\n\nThe correct answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_70",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a black section of the coffee table, while point B is on a lighter, beige-colored chair. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_71",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white or light-colored shelf, and point B is on a similar surface. Both points A and B appear to have about the same surface color, which is light, likely due to the consistent color of the shelving material in the image. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_72",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and considering the surface color of the points labeled A and B, point A appears to be on a darker surface compared to point B. Point A is located on a darker wooden floor, while point B is on a lighter colored wooden object. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the wall, which appears to be a shadow or a darker patch of paint, while point B is on a lighter colored area of the wall. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_74",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on surfaces with similar colors. Both points are located on what seems to be a uniformly painted wall. The lighting conditions and the quality of the image suggest that there is no significant difference in the surface color at these two points. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_75",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark gray or black section of the stove, while point B is on a white door. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_76",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and the analysis of the surface colors at points A and B, it appears that point A, located on a lighter section of the wall, has a lighter surface color compared to point B, which is on a darker section of the wall. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_77",
+            "answer": "hidden",
+            "full_prediction": "From the image provided, both points A and B appear to be on the same wall and under similar lighting conditions. The surface color at both points A and B looks about the same. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker tile compared to point B, which is on a lighter tile. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_79",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point B is on a lighter surface, possibly a white door or a light-colored wall. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_80",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored area, which appears to be a piece of food or froth in a pot, while point B is on a darker area, likely a different type of food or a shadowed area in the pot. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_81",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark gray or black section of the floor, while point B is on a lighter, possibly beige or light gray section of the floor. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_82",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a red cabinet, while point B is also on a similar red surface. The colors at both points A and B appear to be about the same, as they are both on the same type of surface with similar lighting conditions affecting them. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_83",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the bedding, which appears to be a deep brown or black color. Point B is located on a lighter area of the bedding, which is a beige or light tan color. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_84",
+            "answer": "hidden",
+            "full_prediction": "In the image provided, point A is located on a lighter surface, possibly a white or cream-colored cabinet, while point B is on a darker surface, which appears to be a brown wooden cabinet. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_85",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the toilet paper, has a darker surface color compared to point B, which is located on the toilet seat. Therefore, the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_86",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B appear to be on surfaces with different lighting conditions but similar inherent colors. Point A is located on a surface that is in shadow, making it appear darker, while point B is on a more illuminated surface, making it appear lighter. However, considering the albedo (inherent color without the effect of shading), both points seem to be on surfaces that are likely to have about the same color. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_87",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a light-colored wall, while point B is on a chair with a darker, patterned fabric. Considering the albedo (surface color without the effect of shading), point B has a darker surface color compared to point A. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_88",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker tile compared to point B, which is on a lighter tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker area of the table compared to point B. The surface color at point A appears to be a deeper shade of brown, while the surface color at point B is a lighter brown. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_90",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the surface color at points A and B appears to be about the same. Both points are located on similar looking columns, and there doesn't seem to be a significant difference in the color of the surfaces at these points. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a part of the bedspread that appears to be in shadow, while point B is on a lighter part of the wall, likely illuminated by the lamp light. However, considering the surface color (albedo) without the effect of shading, it seems that both points A and B are on surfaces that are inherently similar in color. Both surfaces appear to be a light beige or off-white under normal lighting conditions. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored surface, possibly a wall or a light fixture, while point B is on a darker wooden surface, likely part of a furniture piece. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_93",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the bedspread, appears to have a darker surface color compared to point B, which is located on the bookshelf. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_94",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point B is on a lighter wooden surface. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_95",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored area of the wall, while point B is on the darker colored curtain. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_96",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white chef's jacket, and point B is on a gray metal container. Comparing the albedo of these surfaces, point A (on the white jacket) would naturally reflect more light and appear lighter, while point B (on the gray container) would absorb more light and appear darker. Therefore, the answer is:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_97",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white or light-colored label, while point B is on a darker red label. Therefore, the surface color at point A is lighter than at point B. \n\nSo, the answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a darker brown or reddish brick, while point B is on a lighter colored mortar or plaster. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is on a darker green pillow, appears to have a darker surface color compared to point B, which is on a lighter colored laptop screen. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_100",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker colored surface (the hair of the woman in the foreground), and point B is located on a lighter colored surface (the shirt of the woman in the background). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_101",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on a darker area of the sofa, appears to have a darker surface color compared to point B, which is located on a lighter area of the sofa. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_102",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a darker tile, while point B is on a lighter colored tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_103",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a darker shade of gray compared to point B, which is on a lighter gray or white surface. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_104",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a surface that appears to be a light-colored ceiling, while point B is on a wall that also seems to be light-colored but slightly darker than the ceiling. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_105",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B are located on the same wall, which appears to have a uniform color. Therefore, the surface color (albedo) of points A and B is about the same. The correct choice is:\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_106",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B are located on similar surface areas (the kitchen counter), which appear to have a consistent color across the surface. Therefore, the surface color of points A and B is about the same. The correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker blue cabinet, while point B is on a yellow countertop. Comparing the surface colors at these points, point A (on the blue cabinet) has a darker surface color than point B (on the yellow countertop). Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a wooden surface, and point B is on a fabric surface (bedding). The color of the wood at point A appears to be a medium brown, while the fabric at point B has a lighter, possibly beige or light pink color. Therefore, point A has a darker surface color compared to point B.\n\nThe correct answer is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_109",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is on a white bathrobe and point B is on a white bathtub. Both points appear to be on surfaces that are white, suggesting that their albedo (surface color without the effect of shading) is about the same. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_110",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a beige sofa, and point B is on a darker brown chair. Comparing the surface colors (albedo) of these two points without considering the effects of shading, point A appears to be on a lighter surface compared to point B. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_111",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a red, semi-transparent staircase, and point B is on the wooden floor. The surface color at point A appears to be a shade of red due to the color of the staircase, while point B shows a light brown or tan color typical of wooden flooring.\n\nGiven that the colors red and light brown are distinctly different, it can be concluded that:\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_112",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided and the points labeled A and B, point A appears to have a darker surface color compared to point B. Therefore, the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_113",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_114",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A and point B are located on the same blue sofa, and they appear to have the same surface color. Therefore, the correct answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_115",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white cabinet, while point B is on a similarly colored white tile above the countertop. Both points A and B appear to be on surfaces that are white and have similar albedo without significant shading affecting their appearance. Therefore, the answer is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_116",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be on a darker surface compared to point B. Point A is located on a darker section of the carpet, while point B is on a lighter section. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white pillow, while point B is on a pink curtain. Considering the albedo (reflectivity) of the surfaces without the effect of shading, the white pillow at point A would naturally have a lighter surface color compared to the pink curtain at point B. Therefore, the answer is:\n\n(B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_118",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to be on a surface that is darker in color compared to point B. Point B is on a lighter colored surface. Therefore, the answer is:\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_119",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_120",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a wooden cabinet, and point B is on a white microwave. Considering the albedo or surface color without the effect of shading, the surface at point A (wooden cabinet) is darker than the surface at point B (white microwave). Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_121",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white ceiling, while point B is on a darker wooden surface. Therefore, the surface color at point A is lighter compared to point B. \n\nThe correct answer is:\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_122",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a piece of sushi with a lighter shade of pink, which is likely the color of the fish, while point B is on the wooden cutting board, which has a darker brown color. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_123",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker tile compared to point B, which is on a lighter tile. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_124",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is annotated on a lighter colored tile, while point B is on a darker colored tile. Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_125",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white surface (possibly a wall or a door), and point B is on the surface of a stainless steel refrigerator. Considering the albedo, which is the measure of how much light that hits a surface is reflected without being absorbed, the surface at point A (white) typically has a higher albedo and thus reflects more light, appearing lighter. The surface at point B, although metallic and reflective, has a darker gray tone compared to the white surface at point A.\n\nTherefore, the answer is:\n(A) A is darker - Incorrect\n(B) B is darker - Correct\n(C) About the same - Incorrect\n\nSo, the correct choice is (B) B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_126",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on the floor, which appears to be a slightly darker beige or tan color. Point B is on the side of the sink, which is white. Therefore, the surface color at point A is darker than at point B. The correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_127",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a blue surface, and point B is on a lighter, possibly white or light gray surface. Considering the albedo or surface color without the effect of shading:\n\n(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_128",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a white wall, while point B is on a beige or light brown wall. Comparing the surface colors at these points, point A (white) appears lighter than point B (beige/light brown). Therefore, the correct answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_129",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface (the back of a black chair), and point B is located on a lighter surface (the wall, which appears to be a light beige or cream color). Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_130",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark tile, while point B is on a lighter tile. Therefore, the answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_131",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a lighter colored tile, and point B is on a darker colored tile. Therefore, the answer is:\n\n(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_132",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A, which is located on the bench, and point B, which is on the floor, both appear to have a similar surface color. The color of both surfaces seems to be a shade of brown with a similar intensity. Therefore, the correct choice would be:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_133",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_134",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A is located on a darker surface area compared to point B. Point A is on a dark brown section of the sofa, while point B is on a lighter beige section of the other sofa. Therefore, the correct answer is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        }
+    ]
+}

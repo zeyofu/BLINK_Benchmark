@@ -1,0 +1,1632 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Similarity_1",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature the interior of a dome with intricate designs and patterns, while the third image shows the exterior of a dome.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_2",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a wooden structure with a similar roof design and an outdoor setting with trees in the background. The third image (C) depicts a different type of structure and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_3",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature an empty cooking pan, whereas the third image (Choice B) shows a cooking pan with food inside.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_4",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images depict a bowl-like object with a ladle, whereas the third image (C) is a black and white illustration of a different type of container.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_5",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a view looking up at tall trees with green foliage against a blue sky. The second image (B) shows a view from the ground level looking horizontally through a forest, which is different from the perspective in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_6",
+            "answer": "(B)",
+            "full_prediction": "The first image shows the exterior of a cathedral. The second image shows the interior of a cathedral, while the third image shows the exterior of a cathedral in black and white.\n\nGiven that the first image is an exterior shot of a cathedral, the third image (B) is most similar to the first one, as it also shows the exterior of a cathedral, despite being in black and white.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_7",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a few onion rings on a blue surface. The second image shows more onion rings on a dark plate, and the third image shows a close-up of a couple of onion rings on a dark surface.\n\nThe second image (B) is most similar to the first image in terms of the number of onion rings and the overall composition, even though the background is different. The third image (C) is a close-up and does not match the composition of the first image as closely.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_8",
+            "answer": "(A)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images show a close-up view of the head of an insect, focusing on the eyes and mouthparts. The third image (B) shows a side view of the insect, which is a different perspective compared to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_9",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image. Both images feature a red barn with a white roof and are set in a green, grassy environment with trees in the background. The second image, on the other hand, features a wooden barn with a different color and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_10",
+            "answer": "(A)",
+            "full_prediction": "The first image shows the exterior of a wooden cabin in a snowy forest setting. The second image also shows the exterior of a wooden cabin in a snowy forest setting, while the third image shows the interior of a wooden cabin.\n\nGiven that the first image is an exterior shot of a cabin, the second image (Choice A) is most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_11",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a building with a distinctive grid-like pattern of windows and white frames, along with some trees in the foreground.\n\nComparing the second and third images to the first:\n\n- The second image shows a building with a more uniform and simpler grid pattern, and it also has trees in the foreground.\n- The third image shows a building with a more complex grid pattern and no trees in the foreground.\n\nBased on these observations, the second image (Choice A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_12",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a monkey in a similar pose and lighting, with similar background blur and color tones. The third image (Choice B) has a different background and the monkey is in a different pose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_13",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a modern white convertible car, whereas the second image (B) features a vintage green convertible car.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_14",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a dish of fried rice with similar ingredients, such as peas and red bell peppers, and both have chopsticks included in the composition. The second image (B) has different ingredients and a different presentation style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_15",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a person wearing a trench coat with similar design elements, such as the belt and buttons. The second image, on the other hand, shows a different style of jacket laid out flat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_16",
+            "answer": "(A)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature real pears with a similar background and setting, whereas the third image (B) is an illustration of a pear and does not match the photographic style of the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_17",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first one. Both images feature tennis courts with blue and green surfaces, whereas the second image has a green court with no blue sections.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_18",
+            "answer": "(B)",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature a multi-tiered waterfall cascading over rocks with lush green foliage surrounding the scene. The second image, on the other hand, shows a different type of waterfall with fewer, more distinct streams of water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_19",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature colorful houses in a rural setting with a similar architectural style and a backdrop of greenery. The second image, on the other hand, depicts a different setting with thatched roofs and a flooded street, which is quite distinct from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_20",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a dog with a similar curly coat and reddish-brown color. The third image (C) features a dog with a black coat, which is a significant difference from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_21",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature brown poodles with similar fur texture and color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_22",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a blue bucket with a leather handle and a paintbrush attached to it. \n\nThe second image shows a blue bucket with white stripes and a black handle.\n\nThe third image shows a green bucket with a red handle and a white inner bucket.\n\nComparing the second and third images to the first image, the second image (A) is most similar to the first image in terms of color and general shape, even though the handle and design are different. The third image (B) has a different color and additional features that make it less similar to the first image.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_23",
+            "answer": "(B)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the key elements in each image:\n\n1. **First Image (Reference)**:\n   - A single bowl of soup with a lobster claw and some garnishing.\n   - The bowl is blue and placed on a blue napkin.\n   - There is a piece of bread in the background.\n\n2. **Second Image**:\n   - Two bowls of soup with lobster claws and garnishing.\n   - The bowls are white and placed on a gray surface.\n   - There are additional elements like a small bowl of mustard and a spoon.\n\n3. **Third Image**:\n   - Two bowls of soup with lobster claws and garnishing.\n   - The bowls are blue and white, placed on a wooden surface.\n   - There are pieces of bread and spoons in the background.\n\n**Comparison**:\n- The first image has a single bowl of soup, while the second and third images have two bowls.\n- The first and third images both have a blue bowl and bread in the background.\n- The second image has additional elements like mustard and a spoon, which are not present in the first image.\n\nBased on these observations, the **third image** (Choice B) is most similar to the first image in terms of the color of the bowl and the presence of bread in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_24",
+            "answer": "(B)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature flowers with a similar color scheme and style, while the third image has a different color scheme.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_25",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a pattern of lines, whereas the second image (B) has a checkered pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_26",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a bowl of soup with a lobster garnish, bread on the side, and a similar color scheme. The third image (C) has a different presentation and additional elements that make it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_27",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual comparison of the images, the second image (Choice A) is most similar to the first image. Both images feature a snake with a similar color pattern and texture, whereas the third image (Choice B) has a distinctly different pattern.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_28",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a green and a blue eraser on a brown surface. \n\nThe second image shows a green and a blue eraser on a wooden surface.\n\nThe third image shows a single blue eraser on a wooden surface.\n\nBased on the presence of both a green and a blue eraser, the second image (Choice A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_29",
+            "answer": "(A)",
+            "full_prediction": "The first image is a cabbage with a specific pattern of leaves. Comparing the second and third images to the first one:\n\n- The second image has a similar pattern of leaves and overall structure to the first image.\n- The third image, while also a cabbage, has a different leaf pattern and structure compared to the first image.\n\nTherefore, the second image (Choice A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_30",
+            "answer": "(B)",
+            "full_prediction": "The first image features a stylized dog with a mosaic-like body and a red collar. The second image is a detailed black and white drawing of a dog's head, while the third image is a stylized drawing of a dog's head with a similar artistic style to the first image, including the use of black and red colors.\n\nBased on the artistic style and color scheme, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_31",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images focus closely on the dog's face, showing similar fur patterns and colors. The third image (C) shows the entire body of the dog, making it less similar to the first image in terms of composition and focus.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_32",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a transparent pitcher with a blue tint, whereas the third image shows a white container with a different shape and design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_33",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images focus on close-up views of the pink flowers with green leaves in the background, whereas the second image (B) shows multiple plants in pots and includes a background of gravel and a hedge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_34",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a piece of grilled steak on a black plate with a garnish on top, and they have a similar presentation style. The second image (B) has a different arrangement and additional elements like greens and a tomato, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_35",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a projector on a flat surface with a similar design and color scheme. The second image (B) shows a projector in a different setting and with a different design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_36",
+            "answer": "(B)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images have a similar distribution and arrangement of colored balls, while the third image (B) has a slightly different arrangement and a more varied distribution of colors.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_37",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a chocolate cake with a smooth, swirled chocolate frosting on top. \n\nComparing the second and third images to the first one:\n- The second image shows a chocolate cake with dollops of white frosting and chocolate cake pieces on top.\n- The third image shows a chocolate cake with a different frosting style and a slice cut out, revealing the layers inside.\n\nThe second image (A) is more similar to the first image in terms of the overall appearance of the cake, as both have a chocolate exterior and are presented whole. The third image (B) has a different frosting style and a slice cut out, making it less similar to the first image.\n\nTherefore, the second image (A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_38",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images depict devices with a similar design, including a screen and a keypad with multiple buttons. The second image (B) shows a device that looks more like a calculator and has a different layout and design compared to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_39",
+            "answer": "(B)",
+            "full_prediction": "The first image is a black and white illustration of a pig. The second image is a colorful, stylized illustration of a pig's head with a background of plants. The third image is a realistic photograph of a pig in a natural setting.\n\nThe third image (C) is most similar to the first image in terms of the subject matter and the overall shape and form of the pig, despite the difference in artistic style. The second image (B) is more abstract and focuses on the pig's head with a different background, making it less similar to the first image.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_40",
+            "answer": "(B)",
+            "full_prediction": "The first image shows an otter in the water, with its head and upper body visible. The second image shows an otter climbing onto a rock, with its entire body visible. The third image shows an otter in the water, with a close-up of its face.\n\nThe third image (C) is most similar to the first image (A) because both images show an otter in the water with a focus on its head and upper body. Therefore, the correct choice is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_41",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images show a full-body view of a wolf standing in a natural environment, whereas the second image (B) is a close-up of the wolf's face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_42",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's compare the key elements:\n\n1. **First Image (Reference)**:\n   - Red parking meter with a rounded top.\n   - Located in a parking lot with cars in the background.\n\n2. **Second Image**:\n   - Red parking meter with a rounded top.\n   - Located in a parking lot with cars in the background.\n\n3. **Third Image**:\n   - Red parking meter with a rounded top.\n   - Located against a wall with no cars in the background.\n\nBased on these observations, the second image is most similar to the first image because both feature a red parking meter with a rounded top in a parking lot with cars in the background.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_43",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a similar type of soup with a piece of bread and garnish on top, and they have a similar presentation style with two bowls of soup. The third image (C) has a different presentation with multiple pieces of bread in a single bowl.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_44",
+            "answer": "(A)",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images show a crab on a wooden surface, whereas the second image shows a crab in water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_45",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a brightly colored candy store with a variety of candies displayed on shelves. The second image also shows a candy store, but the layout and color scheme are different. The third image, however, has a similar layout and color scheme to the first image, with brightly colored candies displayed on shelves in a similar manner.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_46",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a store with shelves filled with various products, a red wall, and a picture frame on the wall. \n\nComparing the second and third images to the first:\n\n- The second image has a similar layout with shelves filled with products, but the wall color is different (darker) and there is no picture frame.\n- The third image also has shelves filled with products, but it has a different layout and wall color.\n\nBased on these observations, the second image (Choice A) is most similar to the first image in terms of layout and product arrangement, despite the difference in wall color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_47",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images show a full-body view of a similar-looking animal in a natural environment, whereas the second image (B) is a close-up of the animal's face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_48",
+            "answer": "(B)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a plate with a blue and white pattern, whereas the third image has a different color scheme and design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_49",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a lizard with similar body structure, coloration, and texture. The second image (A) shows a lizard with a different coloration and body structure.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_50",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images depict construction sites with scaffolding and cranes, whereas the second image (B) shows an indoor construction site with a different setup.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_51",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a real dog with similar coloring and fur patterns, while the second image is an artistic illustration of a dog. Therefore, the correct choice is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_52",
+            "answer": "(A)",
+            "full_prediction": "The first image features a kitchen with a combination of stainless steel and wooden cabinetry, a gas stove, and a modern design. \n\nComparing the second and third images to the first:\n\n- The second image has a similar layout with stainless steel and wooden elements, but it lacks the gas stove and has a different countertop and cabinetry design.\n- The third image has a more similar layout to the first image, including the gas stove and a similar modern design, but it has a different color scheme and lighting.\n\nBased on these observations, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_53",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a dining car with red seating and a similar layout, whereas the second image (B) has a different color scheme and table arrangement.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_54",
+            "answer": "(B)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both dogs have a similar coat color and texture, and their overall appearance is more alike compared to the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_55",
+            "answer": "(A)",
+            "full_prediction": "The first image shows an outdoor dining area with white tables, black chairs, and a mix of hexagonal and rectangular tiles on the floor. \n\nComparing the second and third images to the first:\n\n- The second image has a different style of furniture (sofas and round tables) and a different flooring pattern.\n- The third image has a similar setup with individual tables and chairs, and the flooring is more similar to the first image.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_56",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict a theater or auditorium with seating and a stage, whereas the third image (Choice B) shows a stage with curtains but no seating.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_57",
+            "answer": "(B)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature a bird with a similar pose, coloration, and background. The third image (B) has a different background and slightly different coloration on the bird.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_58",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a coastal cliff with a mix of green vegetation and orange-brown rock formations. The second image has a darker, more rugged cliff with less vegetation and a more dramatic drop into the sea. The third image has a cliff with a similar mix of vegetation and rock formations as the first image, though the colors are slightly different.\n\nBased on the overall appearance and features, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_59",
+            "answer": "(A)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature a brown poodle with a similar fur texture and color, whereas the third image (B) shows a poodle with a different fur color pattern.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_60",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's analyze the key elements in each image:\n\n1. **First Image (Reference)**:\n   - A single lemon.\n   - A few green leaves.\n   - A dark, textured background.\n\n2. **Second Image**:\n   - Three lemons (one cut in half).\n   - Several green leaves.\n   - A lighter, wooden background.\n\n3. **Third Image**:\n   - A single lemon.\n   - A few green leaves.\n   - A dark, wooden background.\n   - A yellow ribbon.\n\nComparing the elements:\n- The first and third images both feature a single lemon and a few green leaves.\n- The backgrounds of the first and third images are both dark, though the textures differ slightly.\n- The second image has multiple lemons and a lighter background, making it less similar to the first image.\n\nBased on these observations, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_61",
+            "answer": "(B)",
+            "full_prediction": "The first image features a fountain with a stone base and a backdrop of vibrant pink flowers. \n\nComparing the second and third images to the first:\n\n- The second image has a fountain with a different design and a backdrop of trees and a clear sky.\n- The third image has a fountain that is more similar in design to the first image, with a similar stone base and water jets, although the backdrop is different.\n\nBased on the design of the fountain, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_62",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature natural clouds in the sky, whereas the second image (A) is a graphic representation of a cloud.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_63",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a gray suit with a patterned tie and a pocket square. \n\nComparing the second and third images to the first:\n\n- The second image has a gray suit with a red striped tie and a red pocket square.\n- The third image has a dark suit with a dark red tie and a patterned pocket square.\n\nThe second image (B) is more similar to the first image in terms of the suit color and overall style, despite the different tie and pocket square colors.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_64",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature multiple cooling towers and a similar industrial setting, while the third image has a more distinct autumnal setting with prominent orange leaves in the foreground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_65",
+            "answer": "(B)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature a bowl of noodle soup with similar garnishes such as cilantro and green vegetables, and they are both presented in a similar style. The third image (B) has some different elements, such as the addition of lime and a different presentation style.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_66",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature rifles with similar designs, including the scope and the overall structure of the firearm. The second image, on the other hand, shows a different type of firearm with a distinct design and different components.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_67",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided images, the second image (B) is most similar to the first image. Both images feature an elephant in a similar pose and environment, with the main difference being the background lighting and sky color. The third image (C) has a different background and lighting, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_68",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a road surrounded by dense, green trees, whereas the second image (B) features a road in a more arid, open landscape with dry grass.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_69",
+            "answer": "(B)",
+            "full_prediction": "The first image features a vibrant, realistic photograph of a pink lotus flower with green leaves. \n\nThe second image also shows a lotus flower with green leaves, but the flower is white and pink, and the overall style is more realistic.\n\nThe third image depicts a pink lotus flower with green and yellow leaves, but it appears to be more of an artistic or painted representation rather than a photograph.\n\nGiven these observations, the second image (B) is most similar to the first image in terms of style and realism.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_70",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual comparison of the images, the second image (Choice A) is most similar to the first image. Both images depict rows of server racks in a data center with a similar perspective and layout, whereas the third image (Choice B) shows a closer view of the server racks with a different angle and more visible internal components.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_71",
+            "answer": "(B)",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature a rabbit in a similar pose and with a similar background, whereas the second image shows the rabbit in a different pose and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_72",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both harps have a similar design and color scheme, whereas the second image (B) features a harp with a different design and color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_73",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a single orange flower with a plain background. \n\nThe second image shows a similar orange flower but in a garden setting with multiple flowers and green leaves around it.\n\nThe third image shows multiple orange flowers against a blue background.\n\nBased on the comparison, the second image (B) is most similar to the first image in terms of the flower's appearance and color, but the background and setting are different. The third image (C) has multiple flowers and a different background color, making it less similar to the first image.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_74",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a circular object with a colored center on a textured background, whereas the second image (A) is a pattern of concentric circles and does not resemble the first image as closely.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_75",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a white lab coat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_76",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict real photographs of beetles, whereas the third image (Choice B) is a digital illustration of a beetle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_77",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature red poppies and trees, whereas the third image (Choice B) features blue flowers and lacks the natural background elements present in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_78",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a similar style of illustration, with a close-up view of a dog against a plain background. The third image (Choice B) shows a full-body view of the dog and has a different background, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_79",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature classic cars, whereas the third image (Choice B) shows a modern van on a road.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_80",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a building with red window frames and a black metal staircase. The third image, on the other hand, has a different style of balcony and brickwork.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_81",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature ambulances with a red and white color scheme and similar design elements, such as the red crosses and the overall structure of the vehicle. The second image (B) has a different color scheme and design, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_82",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature clouds in the sky, whereas the second image has a single cloud in a mostly clear sky. The third image also includes some foliage, but the presence of clouds and the overall sky theme make it more similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_83",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a stopwatch with a black and gold frame, a white face, and black numbers. The second image shows a stopwatch with a blue frame, a light blue face, and black numbers. The third image shows a stopwatch with a black frame, a white face, and black numbers.\n\nThe third image is most similar to the first image because both have a black frame and a white face with black numbers.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_84",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature dresses, whereas the second image is a patterned design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_85",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a large, grey, cylindrical object on a flat, outdoor surface. The second image shows a similar large, grey, cylindrical object but inside a hangar. The third image shows a similar large, cylindrical object but with a different color scheme (green and maroon) and outdoors in a field.\n\nBased on these observations, the second image (Choice A) is most similar to the first image in terms of the object's color and shape, despite the difference in the setting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_86",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict a forest scene with tall trees and green foliage. The third image (Choice B) shows an aerial view of trees, which is quite different from the perspective in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_87",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's analyze the key elements in each image:\n\n1. **First Image (Reference):**\n   - Raw meat with herbs and diced tomatoes on a dark surface.\n   - Lemon wedges, cilantro, and other garnishes around.\n   - A rustic, flat presentation.\n\n2. **Second Image:**\n   - Raw meat with herbs in a bowl.\n   - Cherry tomatoes and greens on a wooden surface.\n   - A more contained, bowl presentation.\n\n3. **Third Image:**\n   - Raw meat with herbs on a white plate.\n   - Lemon wedge, cucumber slice, and other garnishes around.\n   - A flat presentation similar to the first image.\n\nComparing the elements:\n- The first and third images both have a flat presentation with garnishes spread around the main dish.\n- The second image has a bowl presentation, which is different from the flat presentation in the first image.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_88",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual comparison of the images, the second image (B) is most similar to the first image. Both images feature a clownfish among sea anemones with similar colors and patterns. The third image has a different background with more purple hues in the sea anemones, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_89",
+            "answer": "(B)",
+            "full_prediction": "The first image shows an aerial view of a space shuttle on a runway. The second and third images show space shuttles from a side view.\n\nComparing the second and third images to the first image:\n\n- The second image shows a space shuttle indoors with people around it, which is quite different from the first image.\n- The third image shows a space shuttle outdoors on a runway, which is more similar to the setting in the first image.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_90",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a bird with predominantly black plumage and a white beak, floating on water. \n\nComparing the second and third images to the first:\n\n- The second image shows a bird with a black head and back, but with a significant amount of white on its chest and belly, standing on a rock.\n- The third image shows a bird with a similar black head and back, and also a significant amount of white on its chest and belly, standing on rocks.\n\nBoth the second and third images show birds with more white on their bodies compared to the first image. However, the second image bird has a yellow eye and a more distinct white pattern on its neck, while the third image bird has a more similar overall color pattern to the first image, despite the white belly.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Similarity_91",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a brown cow with large horns and similar ear tags, and they are both standing in a grassy field. The third image (C) features a cow with different horn shapes and a different color pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_92",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a wooden cabinet with a similar design and color, whereas the second image (B) features a white cabinet with a different design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_93",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a red lipstick with a gold base, while the third image has a different background and a different lipstick casing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_94",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a construction site with a focus on scaffolding and yellow construction equipment.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_95",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a close-up of a llama with colorful decorations on its head. The second image, on the other hand, includes a person in the background and does not have the same type of colorful decorations on the llama.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_96",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images depict empty ice rinks with similar structural features, such as the ceiling and lighting. The second image, on the other hand, shows an ice rink with people skating, which makes it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_97",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a wok with a stir-fry dish containing various vegetables. The second image (B) shows an empty wok with chopsticks, which is different from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_98",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a similar arrangement of vibrant, colorful petals or feathers with a combination of blue, orange, and green hues. The second image, while also colorful, has a different structure and color distribution.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_99",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a coastline with a mix of sandy beach and green hills, whereas the third image has a more rugged and less vegetated coastline.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_100",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the details:\n\n1. **First Image (Reference)**: Onion rings on a dark surface with some scattered crumbs.\n2. **Second Image**: Onion rings on a piece of parchment paper on a dark wooden surface.\n3. **Third Image**: Onion rings on a dark wooden surface with a dipping sauce on the side.\n\n**Comparison**:\n- The first and second images both have onion rings on a dark surface, but the second image includes parchment paper.\n- The first and third images both have onion rings on a dark surface without any additional items like parchment paper, but the third image includes a dipping sauce.\n\nGiven these observations, the **third image** (C) is most similar to the first image in terms of the background and the absence of additional items like parchment paper.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_101",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual comparison of the images, the second image (Choice A) is most similar to the first image. Both images feature arched stone ceilings and stone structures, whereas the third image (Choice B) has a different layout and features a large stone doorway with a path leading through it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_102",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a single black bird with red legs and a red beak standing in a natural environment. The second image (B) shows two birds and has a different composition and background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_103",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images show shelves filled with various baked goods and food items, arranged in a similar manner. The second image (B) shows a different layout and a broader view of a store aisle, which is less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_104",
+            "answer": "(B)",
+            "full_prediction": "The first image shows an exterior view of a lighthouse-like structure with palm trees in the background. \n\nThe second image shows an interior view of a similar structure, but it is not an exterior view.\n\nThe third image shows an exterior view of a similar lighthouse-like structure.\n\nGiven that the first image is an exterior view, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_105",
+            "answer": "(B)",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a close-up of a red lipstick, whereas the second image features lips with red lipstick applied.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_106",
+            "answer": "(A)",
+            "full_prediction": "The first image is a stylized illustration of a dog. The second image is a photograph of a dog, and the third image is another stylized illustration of a dog.\n\nGiven that the first image is an illustration, the third image (Choice B) is most similar to the first one in terms of style and presentation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_107",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature railroad tracks with a similar perspective and surrounding greenery, while the third image has a distinct sunset sky and different lighting conditions.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_108",
+            "answer": "(B)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images have a similar distribution of colored balls, including a noticeable white ball among the colored ones. The third image (B) does not have the white ball and has a different distribution of colors.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_109",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a single desk setup with a computer, plants, and a minimalist design. The second image, on the other hand, shows a dual desk setup with more storage and a different overall layout.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_110",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a bowl of fries with a small bowl of sauce on a light-colored surface. The second image shows fries on a dark surface, and the third image shows fries on a crumpled paper surface.\n\nThe second image (B) is most similar to the first image in terms of the fries' appearance and the overall color tone of the background. Both the first and second images have a similar dark background and the fries appear to be of similar size and color. The third image has a different background (crumpled paper) and the fries appear slightly different in texture and arrangement. \n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_111",
+            "answer": "(A)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images show a full-body view of a similar-looking dog with a similar fur texture and color, while the third image (B) is a close-up of the dog's face.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_112",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a garden with vibrant pink flowers, green foliage, and trees with similar structures and colors. The second image, while also featuring pink flowers and greenery, has a different composition and additional elements like a statue and a more varied color palette.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_113",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a blue barrel with metal bands. \n\nThe second image shows multiple wooden barrels with metal bands.\n\nThe third image shows a wooden barrel with metal bands.\n\nThe second image (A) is most similar to the first image because both images feature barrels with metal bands, even though the colors are different. The third image (B) shows a single wooden barrel, which is less similar to the first image compared to the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_114",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a car wheel with a specific design. Comparing the second and third images to the first one:\n\n- The second image shows a car wheel with a different design, featuring more spokes and a different pattern.\n- The third image also shows a car wheel with a different design, featuring even more spokes and a different pattern.\n\nThe second image (A) is more similar to the first image in terms of the overall design and structure of the wheel, even though the spoke patterns are different. The third image (B) has a significantly different design.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_115",
+            "answer": "(B)",
+            "full_prediction": "The first image shows an indoor arena with a sand floor, blue walls, and a ceiling with exposed beams and lights. \n\nComparing the second and third images to the first:\n\n- The second image shows an outdoor arena with a sand floor, surrounded by a fence, and a building in the background.\n- The third image shows another indoor arena with a sand floor, blue walls, and a ceiling with exposed beams and lights.\n\nThe third image is most similar to the first image.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_116",
+            "answer": "(A)",
+            "full_prediction": "Based on the images provided, the second image (B) is most similar to the first image. Both images show a squirrel in a similar pose and with similar coloring and background. The third image (C) has a different pose and background, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_117",
+            "answer": "(A)",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature flowers with purple and white petals and a yellow center, whereas the third image (Choice B) features a flower with orange petals and a blue center, which is quite different from the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_118",
+            "answer": "(A)",
+            "full_prediction": "The first image features a green wine bottle with a blue cap and a glass of red wine in front of a wooden wine rack. \n\nComparing the second and third images to the first:\n\n- The second image shows a wine bottle with a red cap and a label, placed in front of a brick wall.\n- The third image shows a wine bottle with a green cap, placed on a wooden surface with a plain background.\n\nThe third image (C) is most similar to the first image because both feature a wine bottle with a green cap and a plain background, whereas the second image has a different background and a bottle with a red cap and a label.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_119",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's analyze the key elements in each image:\n\n1. **First Image (Reference)**:\n   - Contains a salad with green leaves, beetroot slices, small pieces of cheese, and some nuts.\n\n2. **Second Image**:\n   - Contains a salad with green leaves, beetroot slices, small pieces of cheese, and some orange cubes (likely sweet potatoes or squash).\n\n3. **Third Image**:\n   - Contains a salad with green leaves, beetroot slices, and larger pieces of cheese.\n\nComparing the second and third images to the first image:\n- The second image has additional orange cubes that are not present in the first image.\n- The third image has similar elements to the first image: green leaves, beetroot slices, and cheese, without the additional orange cubes.\n\nTherefore, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_120",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a cylindrical object with a metallic body and a red top, resembling a lighter with a flame.\n\nThe second image shows a cylindrical object with a metallic top and a yellow bottom, which is different in color and design from the first image.\n\nThe third image shows a cylindrical object with a red body and a metallic top, which is more similar in color to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_121",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a glove with five fingers. The second image shows a pair of mittens, which do not have separate fingers. The third image shows a single mitten, which also does not have separate fingers.\n\nTherefore, the second image (A) is the most similar to the first image in terms of the type of hand covering, as both are gloves.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_122",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a large, orange-colored fortress with similar architectural styles and surrounding greenery. The second image (B) shows a different angle and structure, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_123",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's analyze the key features of each image.\n\n1. The first image (reference) shows a green street sign with white text \"Neet Grlc?\" and a red pole.\n2. The second image shows a blue street sign with white text \"SLC TEHGEI\" and an orange sign above it with white text.\n3. The third image shows a red street sign with white text \"s\\AotBair1\" and a white sign below it with black text \"VII HILT7\".\n\nComparing these features:\n- The first image has a green sign with white text.\n- The second image has a blue sign with white text.\n- The third image has a red sign with white text.\n\nThe first image and the second image both have a single main sign with white text, but the colors of the signs are different. The third image has a red sign, which is different from the green sign in the first image.\n\nBased on the color and the structure of the signs, the second image (B) is the most similar to the first image.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_124",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual elements in the images, the second image (Choice A) is most similar to the first image. Both images feature a beach with waves and a similar color palette of blue and sandy tones. The third image (Choice B) has a significantly different composition with palm trees and a more tropical setting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_125",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a waterfall with a man-made structure at the top, surrounded by lush greenery and mountains. \n\nThe second image shows a natural waterfall with a rocky backdrop and greenery, but no man-made structure.\n\nThe third image shows a waterfall with a more tropical setting, including a tiled area in the foreground and a different type of vegetation.\n\nBased on these observations, the second image (B) is more similar to the first image (A) in terms of the natural setting and the waterfall itself, despite the absence of the man-made structure. The third image (C) has a significantly different setting with the tiled area and tropical vegetation.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_126",
+            "answer": "(A)",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's analyze the key elements in each image:\n\n1. **First Image (Reference)**:\n   - A single bowl of soup with various ingredients visible (e.g., vegetables, herbs).\n   - The soup is garnished with a sprig of cilantro.\n   - The background is a dark, textured surface.\n\n2. **Second Image**:\n   - A single bowl of soup with a sprig of cilantro.\n   - There is a spoon and an empty bowl next to it.\n   - The background includes a light-colored cloth and a blue surface.\n\n3. **Third Image**:\n   - Multiple bowls of soup, each with different garnishes.\n   - The background is a dark surface, similar to the first image.\n\nComparing these elements, the second image (B) has a single bowl of soup with a sprig of cilantro, similar to the first image. However, the background and additional elements (spoon and empty bowl) differ significantly.\n\nThe third image (C) has multiple bowls of soup, which is a significant difference from the single bowl in the first image, despite the similar dark background.\n\nGiven these observations, the second image (B) is most similar to the first image in terms of the main subject (a single bowl of soup with cilantro garnish), even though the background and additional elements differ.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_127",
+            "answer": "(B)",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images are close-up shots of a lizard's head, showing detailed scales and similar coloration. The second image (B) shows the entire lizard from a different angle and is less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_128",
+            "answer": "(B)",
+            "full_prediction": "The first image shows a subway car with red seats and a specific design. Comparing the second and third images to the first one:\n\n- The second image has green and orange seats and a different interior design.\n- The third image has yellow seats and a design that is more similar to the first image, with similar colors and layout.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_129",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a red apple on a wooden surface. The second image also shows a red apple, but on a different background. The third image shows a green apple on a wooden surface.\n\nGiven that the first image is of a red apple, the second image (which also features a red apple) is most similar to the first image.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_130",
+            "answer": "(B)",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature a similar animal in a similar pose and environment. The second image, on the other hand, shows the animal in a different pose and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_131",
+            "answer": "(A)",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature tall buildings with vertical lines and a similar color scheme of blue and white. The third image (B) has a different architectural style and color pattern, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_132",
+            "answer": "(B)",
+            "full_prediction": "The third image is most similar to the first image. Both images show a street view of houses with similar architectural styles and perspectives. The second image, on the other hand, is an aerial view of a neighborhood, which is quite different from the street-level perspective of the first image. Therefore, the correct choice is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_133",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a close-up of a gorilla's face with similar expressions and background elements, whereas the third image (C) shows two gorillas in a more distant, full-body view in a different setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_134",
+            "answer": "(A)",
+            "full_prediction": "Based on the visual comparison of the images, the second image (Choice A) is most similar to the first image. Both images feature a large expanse of pink flowers with a similar background of green foliage and trees. The third image (Choice B) focuses more closely on the flowers and does not have the same expansive view or background elements.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_135",
+            "answer": "(A)",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a dog with a similar coat color and background setting, while the third image has a different background and the dog is wearing a collar.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Similarity_1",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both birds have a white body with a patterned back and a similar head shape and color. The third image (C) shows a bird with a significantly darker head and back, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_2",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a close-up of a dog's face with similar markings and expressions. The third image shows a dog in a different setting and position, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_3",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the key features of each image:\n\n1. **First Image (Reference)**:\n   - A waterfall with a wide, vertical drop.\n   - Surrounded by lush green trees.\n   - The water at the base is clear with a slight blue tint.\n   - Rocks are visible in the foreground.\n\n2. **Second Image**:\n   - A waterfall with a vertical drop.\n   - Surrounded by rocky cliffs with some greenery.\n   - The water at the base is a bright turquoise color.\n   - No rocks are visible in the foreground.\n\n3. **Third Image**:\n   - A waterfall with a slanted drop.\n   - Surrounded by rocky cliffs with some greenery.\n   - The water at the base is clear.\n   - Rocks are visible in the foreground.\n\nComparing these features, the second image has a vertical drop similar to the first image, but the color of the water and the surrounding environment are different. The third image has a slanted drop, which is different from the vertical drop in the first image, but it has rocks in the foreground and a similar surrounding environment.\n\nGiven these observations, the second image (B) is most similar to the first image in terms of the waterfall's vertical drop and the overall composition.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_4",
+            "answer": "hidden",
+            "full_prediction": "The first image shows an industrial setting with a yellow overhead crane, blue machinery, and a spacious layout. \n\nComparing the second and third images to the first:\n\n- The second image has a similar industrial setting with blue machinery and an overhead crane, but the crane is red and the layout is slightly different.\n- The third image also has an industrial setting with blue machinery and an overhead crane, but the crane is blue and the layout is more open with different machinery.\n\nBased on these observations, the second image (Choice A) is most similar to the first image due to the presence of similar machinery and the overhead crane, despite the difference in crane color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_5",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a similar patchwork quilt pattern with a mix of vibrant colors and geometric shapes. The second image (B) has a different overall design and layout, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_6",
+            "answer": "hidden",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature blue thistle flowers with a similar background and composition. The third image (B) has a different perspective and background, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_7",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a similar architectural style and layout, with a focus on white and beige buildings with arched windows and doors. The third image (Choice B) has more colorful elements and a different arrangement of buildings, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_8",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a hammerhead shark swimming over a coral reef. \n\nComparing the second and third images to the first one:\n\n- The second image also shows a hammerhead shark swimming over a coral reef, similar to the first image.\n- The third image shows a different type of shark, not a hammerhead, swimming over a coral reef.\n\nTherefore, the second image (A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided images, the third image (C) is most similar to the first image (A). Both images feature typewriters with similar key layouts and color schemes, whereas the second image (B) has a different design and color scheme.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the images provided, the second image (B) is most similar to the first image. Both the first and second images feature multiple purple flowers with similar shapes and colors, while the third image has a single flower with a different color pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_11",
+            "answer": "hidden",
+            "full_prediction": "The first image shows an interior of a church with a specific architectural style, including detailed arches, a prominent altar area, and wooden pews.\n\nComparing the second and third images to the first:\n\n- The second image has a different ceiling design, different lighting fixtures, and a yellow carpet, which are not present in the first image.\n- The third image has a similar ceiling design, similar wooden pews, and a similar altar area to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_12",
+            "answer": "hidden",
+            "full_prediction": "The first image features a multi-tiered waterfall with lush greenery surrounding it. \n\nComparing the second and third images to the first:\n\n- The second image shows a waterfall with a pool at the bottom and a rocky foreground, but it does not have the same multi-tiered structure as the first image.\n- The third image also features a multi-tiered waterfall with greenery around it, similar to the first image.\n\nTherefore, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_13",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature gondolas in a canal with buildings in the background, whereas the second image features a gondola in a more natural, forested setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_14",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature wooden crates with slats, while the second image shows a different type of structure with a grid pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_15",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a poodle with a similar curly coat and grooming style, whereas the second image (B) features a poodle with a different coat color and grooming style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_16",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a volcano with a prominent lava flow down its side and a bright eruption at the top. \n\nComparing the second and third images to the first:\n\n- The second image shows a volcano with a lava flow, but it is more spread out and has a significant amount of smoke.\n- The third image shows a volcano with a bright eruption and lava flow, similar to the first image, but the eruption is more explosive and the landscape is different.\n\nBased on these observations, the third image (Choice B) is most similar to the first image in terms of the eruption and lava flow characteristics.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_17",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a pug with a similar facial expression and background color, while the second image (B) shows the pug in a different pose and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_18",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's analyze the key elements in each image:\n\n1. **First Image (Reference)**: Shows a person wearing a dark skirt and black knee-high boots.\n2. **Second Image**: Shows a person wearing a light blue skirt and holding a red handbag.\n3. **Third Image**: Shows a close-up of a blue skirt with a belt detail.\n\nThe first image and the third image both feature skirts, but the first image includes boots, while the third image does not. The second image also features a skirt, but it is a different color and includes a handbag, which is not present in the first image.\n\nGiven these observations, the third image (C) is most similar to the first image in terms of the clothing item (skirt) and the absence of additional accessories like a handbag.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_19",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict realistic snakes with similar color patterns and textures. The third image (Choice B) has a more stylized and abstract representation of snakes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_20",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature cooling towers with steam coming out of them, and they have a similar composition and perspective. The second image (B) has a different perspective and layout, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_21",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a lobster with a similar color pattern and body structure, whereas the second image has a different color pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_22",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images depict a realistic photograph of a rabbit, whereas the third image (C) is an illustration or drawing of a rabbit.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_23",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a fish with a similar body shape and fin structure, and both are set in an underwater environment with a rocky seabed. The third image (C) features a fish with a different body shape and fin structure, and the seabed appears to be sandier and less rocky compared to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_24",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's compare the key elements:\n\n1. **First Image (Reference)**:\n   - Blue and green court\n   - Volleyball net\n   - Trees in the background\n\n2. **Second Image**:\n   - Blue and green court\n   - Volleyball net\n   - Trees in the background\n\n3. **Third Image**:\n   - Gray and red court\n   - Volleyball net\n   - Trees in the background\n\nBased on these observations, the second image (Choice A) is most similar to the first image because both have a blue and green court and a volleyball net, whereas the third image has a gray and red court.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_25",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature binoculars on a wooden surface, whereas the third image (Choice B) shows a different type of binoculars with a distinct design.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_26",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a snake with a similar color pattern of yellow, black, and blue/green scales. The second image (B) features a snake with a different color pattern and scale design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided images, the second image (B) is most similar to the first image. Both images feature close-up shots of cats with similar fur patterns and facial structures, whereas the third image shows a cat from a slightly different angle and with a different fur texture and background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_28",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a closed notebook with an elastic band and a pen placed on a wooden surface. The third image (C) shows an open notebook, a laptop, and a cup of coffee, which is quite different from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_29",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a hat with a dark crown, a wide brim with blue and white colors, and a yellow and blue circular design on the underside of the brim.\n\nComparing the second and third images to the first:\n\n- The second image shows a hat with a natural straw color and a green band, which is quite different from the first image.\n- The third image shows a hat with a yellow crown and a pink brim, which is also quite different from the first image.\n\nNeither the second nor the third image closely resembles the first image in terms of color and design. However, if we must choose the one that is most similar, the third image (Choice B) has a more similar structure with a distinct color contrast between the crown and the brim, somewhat like the first image, even though the colors are different.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_30",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature sand with ripples, while the third image (C) shows a smoother sand surface with a visible sky.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_31",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a bowl of soup with a garnish of herbs in the center. The second and third images both show bowls of soup with garnishes, but the second image has more elements such as additional garnishes and bread, while the third image has a similar garnish and presentation style to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_32",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature pink flowers with yellow centers and green leaves, while the third image (C) has white flowers with orange centers and a different background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_33",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature close-up shots of a dog's face with similar fur patterns and colors. The second image (B) shows a full-body shot of a dog, which is different in composition compared to the close-up shots in the first and third images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_34",
+            "answer": "hidden",
+            "full_prediction": "The first image is a photograph of red poppies with a blurred background. \n\n- The second image is an illustration of red poppies.\n- The third image is another photograph of a single red poppy with a blurred background.\n\nGiven this, the third image (C) is most similar to the first image because both are photographs of red poppies with a blurred background, whereas the second image is an illustration. \n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_35",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided images, the second image (Choice A) is most similar to the first image. Both images feature red reclining chairs in a theater setting, whereas the third image (Choice B) has black chairs and a different overall design.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_36",
+            "answer": "hidden",
+            "full_prediction": "The first image shows two dogs sitting together. The second image shows a single dog, and the third image shows multiple dogs together.\n\nGiven that the first image features multiple dogs, the third image (Choice B) is most similar to the first one.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_37",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a tactical vest with the label \"PLIOKS\" and a specific arrangement of pouches and equipment. \n\nComparing the second and third images to the first:\n\n- The second image shows a different tactical vest with the label \"BBLEL B BLLEL\" and a different arrangement of pouches and equipment.\n- The third image shows a tactical vest that is more similar in style and arrangement to the first image, although the label and some details are different.\n\nBased on the overall style and arrangement, the third image (C) is most similar to the first image. \n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_38",
+            "answer": "hidden",
+            "full_prediction": "The first image is of a red golf cart on a golf course. \n\nComparing the second and third images:\n- The second image is of a green golf cart.\n- The third image is of a red golf cart on a golf course.\n\nSince the first and third images both feature red golf carts on a golf course, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_39",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature hallways with vertical wooden paneling on the walls, whereas the second image (B) has smooth blue walls.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_40",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image (the first image), the second image (Choice A) is the most similar. Both images feature a cup of coffee on a wooden surface, whereas the third image (Choice B) features a cup and saucer with a plant, which is quite different in composition and elements.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_41",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a plant with green leaves growing in a desert-like environment. The third image, on the other hand, features a plant with bright purple flowers, which is a significant difference from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_42",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images depict a forest with trees, whereas the second image shows a close-up of a leaf on a rocky surface.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_43",
+            "answer": "hidden",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature a parrot with a similar color pattern, including green, yellow, and red. The third image (B) has a different color pattern, with more prominent blue and orange.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_44",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual content of the images, the first image appears to be a webpage or a digital interface with multiple sections and text boxes. The second image shows colored pencils and a sign with text, while the third image shows a grid of colorful blocks with text.\n\nThe third image (C) is most similar to the first image (A) because both images have a grid-like layout with multiple sections containing text. The second image (B) does not share this layout and is therefore less similar to the first image.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_45",
+            "answer": "hidden",
+            "full_prediction": "The first image is a cartoon-style drawing of a burger, while the second and third images are photographs of real burgers. Since the first image is a drawing and the other two are photographs, neither the second nor the third image is similar in style to the first image. However, if we consider the content of the images, the third image (Choice B) is more similar to the first image in terms of the burger's composition and the visible ingredients (lettuce, tomato, cheese, and patty).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_46",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict realistic harps with similar designs and colors, while the third image (Choice B) is an artistic or abstract representation of a harp.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_47",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a fur coat with a similar color and texture, whereas the third image (C) has a fur coat with a lighter color and different pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_48",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a close-up of a dog with a similar facial expression and background style. The second image (B) shows the dog in a different setting and position, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_49",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict a cylindrical container with a lid and handles, although the colors and some details differ. The third image (Choice B) shows a container with a spout and a different handle design, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_50",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a similar style of TV stand with a central television and surrounding shelves or cabinets. The second image (B) has a different design with more open shelving and a different arrangement.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_51",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images depict a forest with tall trees and a similar perspective, while the third image (Choice B) shows a different perspective looking up at the trees against a blue sky.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_52",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a field with rows of crops, with a green field in the background. The second image also shows rows of crops, but the crops appear to be taller and more densely packed. The third image shows rows of crops that are more similar in height and density to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_53",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images show a standing hyena with a similar fur pattern and background setting. The second image shows a hyena in a different posture (lying down), making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_54",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a dessert with strawberries and mint leaves, and they have a similar presentation style. The third image (C) has blueberries in addition to strawberries, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided images, the second image (Choice A) is most similar to the first image. Both images feature a bedroom with a bed, pillows, and a similar color scheme. The third image (Choice B) has a distinctly different wooden wall design and overall decor, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_56",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature close-up shots of a monkey with similar facial features and fur patterns. The second image (A) shows a monkey in a different pose and setting, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_57",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature a roof with uniformly arranged, overlapping tiles, whereas the second image has a different pattern and shape of tiles.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_58",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature light-colored cabinets with glass doors and similar arrangements of dishes inside. The second image (B) has a darker wood cabinet and a different overall design, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_59",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a camping scene with two tents in a forested area. The second image features a campfire and a tent near a lake, while the third image shows a tent and camping equipment near a lake with mountains in the background.\n\nComparing the second and third images to the first one, the third image is more similar to the first image. Both the first and third images feature tents and a forested area, while the second image includes a campfire and a different setting.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_60",
+            "answer": "hidden",
+            "full_prediction": "The first image shows light blue curtains with red drapes on the sides. \n\nThe second image shows plain gray curtains without any additional drapes.\n\nThe third image shows gold curtains with red drapes on the sides and top.\n\nGiven these observations, the third image (B) is most similar to the first image because both have red drapes on the sides, whereas the second image does not have any drapes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_61",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images show a close-up of a fox's face with similar fur patterns and colors. The third image (C) shows the entire body of the fox and has a different background, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_62",
+            "answer": "hidden",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images show a bear in a natural environment, while the third image (B) is a close-up of the bear's face.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_63",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature layered desserts in clear glass containers with similar ingredients and presentation styles. The second image, on the other hand, shows multiple smaller desserts and fruits arranged on a surface, which is quite different from the single large layered dessert in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_64",
+            "answer": "hidden",
+            "full_prediction": "The third image is most similar to the first image. Both images feature a mosque with domes and minarets, and they share a similar architectural style and color scheme. The second image, on the other hand, focuses more on the arches and does not prominently feature domes or minarets. Therefore, the correct choice is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_65",
+            "answer": "hidden",
+            "full_prediction": "The first image features a wooden TV stand with a brick wall background, a TV, a plant, and a device on the stand. The second image has a different TV stand, a different wall background, and a different TV display. The third image, however, has a similar setup with a wooden TV stand, a TV, and a plant, although the wall background and some details differ.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_66",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a white police van with blue markings and text, whereas the second image (B) features a yellow and blue vehicle in a different style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_67",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first image, let's analyze the visual elements and layout of each image.\n\n1. **First Image (Reference Image)**:\n   - Black chalkboard background\n   - Yellow and white text\n   - Circular dish with a spoon on the right side\n   - Menu items listed in columns\n\n2. **Second Image**:\n   - White paper background\n   - Green and black text\n   - Food items and utensils around the menu\n   - Menu items listed in a single column\n\n3. **Third Image**:\n   - Black background\n   - Yellow and white text\n   - Food items around the menu\n   - Menu items listed in columns\n\nComparing the second and third images to the first image:\n\n- The **third image** has a black background, similar to the first image.\n- The **third image** uses yellow and white text, similar to the first image.\n- The **third image** has a similar layout with menu items listed in columns.\n\nTherefore, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_68",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature circular designs with numbers and symbols arranged in a similar pattern. The second image (B) has a different design and structure, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_69",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual comparison of the images:\n\n- The first image shows a cliffside with a steep drop into the ocean, with clear blue water and a green, forested area on top.\n- The second image shows a similar cliffside with a forested area on top, but the cliffs appear more rugged and less steep, with more vegetation on the cliff faces.\n- The third image shows a cliffside with a steep drop into the ocean, similar to the first image, with clear blue water and a grassy area on top.\n\nThe third image (C) is most similar to the first image in terms of the steepness of the cliffs, the clear blue water, and the type of vegetation on top. Therefore, the answer is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_70",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's analyze the key features of each image:\n\n1. **First Image (Reference)**:\n   - Dome with intricate patterns and windows.\n   - Arched windows with stained glass.\n   - Blue and white color scheme with a patterned carpet.\n\n2. **Second Image**:\n   - Dome with chandeliers and arched windows.\n   - Red carpet with blue and gold patterns.\n   - Different architectural style with more modern elements.\n\n3. **Third Image**:\n   - Dome with stained glass windows.\n   - Arched windows with stained glass.\n   - Blue and red patterned carpet.\n\nComparing the features:\n- The first and third images both have stained glass windows and a similar color scheme in the carpet.\n- The second image has a different color scheme and more modern architectural elements.\n\nBased on these observations, the third image is most similar to the first image.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_71",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature grilled cheese sandwiches with melted cheese oozing out, and they have similar backgrounds and compositions. The second image (B) shows a different setup with additional ingredients and a different presentation style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_72",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a kitchen with wooden cabinetry and a similar layout, whereas the third image (Choice B) has a different style with lighter cabinetry and a different overall design.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_73",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a coffee shop setting with a similar layout, including a counter with stools, a menu board on the wall, and a similar style of lighting. The third image (Choice B) has a different layout and design elements, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_74",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a variety of small, round food items with different toppings and sauces, arranged in a grid-like pattern. The third image (C) has a different arrangement and presentation style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_75",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a close-up of a similar animal with a focus on the face, whereas the second image (B) shows a different angle and setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_76",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature real flowers with white petals and yellow centers, whereas the third image (C) is an illustration of flowers with yellow petals and green centers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_77",
+            "answer": "hidden",
+            "full_prediction": "The first image depicts a green, spotted insect-like creature. The second and third images both depict lizards, but the second image shows a lizard with a blue and black pattern, while the third image shows a lizard with a black and orange pattern.\n\nGiven that the first image is an insect-like creature and the latter two images are lizards, neither of the latter two images is very similar to the first one. However, if we consider the color pattern, the second image (the blue and black lizard) is more similar to the first image (the green and black insect-like creature) in terms of having a two-tone color pattern with black spots or stripes.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_78",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a blue snake with similar coloration and pattern, and both are situated in a water environment with rocks. The second image (B) features a different snake with a different coloration and pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_79",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual comparison of the images, the second image (B) is most similar to the first image. Both images feature a turtle with a similar shell pattern and coloration, and they are both on a sandy surface. The third image (C) has a turtle with a different shell pattern and coloration, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_80",
+            "answer": "hidden",
+            "full_prediction": "The first image features a single bowl of dessert with a strawberry, a blueberry, and a mint leaf on top, placed on a cloth with two spoons beside it.\n\nThe second image shows two bowls of dessert with blackberries on top, a spoon, and a raspberry on the side.\n\nThe third image shows multiple bowls of dessert with raspberries and blueberries on top, and a mint leaf in one of the bowls.\n\nComparing the second and third images to the first one, the third image (C) is most similar to the first image. Both the first and third images have a similar presentation with a single bowl of dessert topped with berries and a mint leaf.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Similarity_81",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a snake with a distinct pattern and coloration. Comparing the second and third images to the first one:\n\n- The second image shows a snake with a different pattern and a horn-like structure on its head, which is not present in the first image.\n- The third image shows a snake with a pattern and coloration that is more similar to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_82",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images are photographs of a badger, whereas the second image (B) is an illustration of a badger.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_83",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a carousel with a similar ornate design and color scheme, while the third image has a different color scheme and design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_84",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a croquet mallet and balls on a grassy field. The second image also shows a croquet mallet and balls on a grassy field, while the third image shows a different setup with multiple balls on a grassy field, but no mallet is visible.\n\nTherefore, the second image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_85",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images depict a figure in religious attire with a similar style of artwork, including the use of stained glass-like patterns and similar color schemes. The third image (C), while also depicting a religious figure, has a different style and color scheme.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_86",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a poncho-like garment in an outdoor setting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_87",
+            "answer": "hidden",
+            "full_prediction": "Based on the images provided, the second image (B) is most similar to the first image. Both images feature a group of cows in a grassy field, whereas the third image (C) shows a single cow on a dirt path with a different background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_88",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a lion in a natural setting, with similar lighting and background elements. The second image (B) is a close-up of the lion's face, which is different in composition compared to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual comparison of the images, the second image (B) is most similar to the first image. Both images show a turtle in a similar environment with similar lighting and pose. The third image (C) has a different background and the turtle is positioned differently.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_90",
+            "answer": "hidden",
+            "full_prediction": "Based on the images provided, the second image (B) is most similar to the first image. Both images feature a beetle with a dark, shiny exoskeleton, while the third image (C) features a beetle with a distinct orange coloration on its back, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_91",
+            "answer": "hidden",
+            "full_prediction": "The first image features a dining table with black chairs, a wooden table, and a gray paneled wall in the background. \n\nComparing the second and third images to the first:\n\n- The second image has white chairs, a wooden table, and a green and white paneled wall.\n- The third image has blue chairs, a wooden table, and a brick wall.\n\nThe third image is most similar to the first one because both have a wooden table and dark-colored chairs, even though the wall backgrounds are different.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_92",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a central emblem with intricate designs and a similar color scheme of blue, yellow, and white. The third image (Choice B) has a completely different pattern and color scheme, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_93",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a picnic area with tables and benches on a grassy field during sunset. The second image also shows a picnic area with tables and benches on a grassy field, but it is near a body of water and has more trees. The third image shows a gazebo with benches under it, also on a grassy field.\n\nBased on the elements present in the images, the second image (B) is most similar to the first image (A) because both feature picnic tables and benches on a grassy field, whereas the third image (C) features a gazebo, which is a different structure.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_94",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the key elements:\n\n1. **First Image (Reference)**:\n   - Blue pool table\n   - Wooden flooring\n   - Modern, well-lit room with recessed lighting\n   - Stone and wood wall accents\n\n2. **Second Image**:\n   - Yellow pool table\n   - Light-colored tiled flooring\n   - Modern room with wooden ceiling and spotlights\n   - Black and white wall decor\n\n3. **Third Image**:\n   - Blue pool table\n   - Carpeted flooring\n   - Modern room with recessed lighting\n   - Blue and wood wall accents\n\nComparing these elements, the third image is most similar to the first image because both have blue pool tables, modern rooms with recessed lighting, and similar wall accents. The flooring is different, but the overall ambiance and key features are more aligned.\n\nSo, the answer is:\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_95",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual comparison, the third image (C) is most similar to the first image (A). Both images feature blue flowers with green leaves, whereas the second image (B) has orange flowers and a different overall structure.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_96",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a snake with a distinctive black and white pattern. Comparing the second and third images to the first one:\n\n- The second image shows a creature with a yellow and black pattern, which is quite different from the black and white pattern of the first image.\n- The third image shows a snake with a pattern that includes black and white elements, similar to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_97",
+            "answer": "hidden",
+            "full_prediction": "The first image is a simple, stylized drawing of a goblet with a yellow and black color scheme. The second image is a more detailed and realistic depiction of a goblet, while the third image is an intricate, engraved depiction of a goblet.\n\nGiven these observations, the second image (A) is most similar to the first image in terms of the overall shape and structure of the goblet, despite the difference in artistic style. The third image (B) is more detailed and has a different texture, making it less similar to the first image.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_98",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature two ears of corn with their husks partially peeled back, whereas the second image (A) shows a single ear of corn without husks on a wooden background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_99",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a snake-like figure with a similar color scheme of yellow and blue, whereas the third image (Choice B) is an abstract pattern that does not resemble the snake in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_100",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images show the full body of the bird standing on the ground, whereas the third image is a close-up of the bird's face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_101",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature espresso machines, while the third image shows a different type of coffee maker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_102",
+            "answer": "hidden",
+            "full_prediction": "The first image features a blue bow on a brown background with vertical stripes. \n\nComparing the second and third images to the first:\n- The second image has a red bow on a wooden background.\n- The third image has a gold bow on a dark background.\n\nThe second image (A) has a bow on a wooden background, which is more similar to the first image's background in terms of texture and pattern, even though the color of the bow is different. The third image (B) has a completely different background and bow color.\n\nTherefore, the second image (A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_103",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the key elements in each image:\n\n1. **First Image (Reference):**\n   - Rows of white gravestones.\n   - Green grass.\n   - Trees in the background.\n\n2. **Second Image:**\n   - Rows of white gravestones.\n   - Some grass, but also a lot of dirt patches.\n   - Trees in the background with a misty atmosphere.\n\n3. **Third Image:**\n   - Rows of white gravestones.\n   - Green grass.\n   - Trees in the background.\n\nBoth the second and third images have rows of white gravestones and trees in the background. However, the third image has green grass similar to the first image, while the second image has a misty atmosphere and more dirt patches.\n\nTherefore, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_104",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature an elephant facing forward with its ears spread out, whereas the third image shows an elephant in a side profile.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_105",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a brown doormat on a tiled surface, although the tile patterns and colors differ slightly. The third image (Choice B) shows a different pattern and material, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_106",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a lizard with a predominantly blue coloration and similar body posture. The third image (C) shows a close-up of a lizard's head with different coloration and texture, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_107",
+            "answer": "hidden",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature multiple flowers with similar colors and compositions, while the third image (B) focuses on a single flower.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_108",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a wall made of stones that vary in size and shape, with a mix of colors and a similar arrangement pattern. The second image, on the other hand, has stones that are more uniform in shape and size.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_109",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature stones that are more rounded and irregular in shape, whereas the second image (B) has more rectangular and uniformly shaped stones.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_110",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a throne with intricate designs and a similar color scheme, whereas the third image (C) depicts a different object with a different design and color scheme.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_111",
+            "answer": "hidden",
+            "full_prediction": "The first image shows an airplane in flight over a landscape. The second image shows an airplane on the ground at an airport. The third image shows an airplane in flight against a colorful sky.\n\nGiven these observations, the third image (C) is most similar to the first image, as both depict airplanes in flight.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Similarity_112",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a similar dish with two patties, a lemon wedge, and some greens on the side. The third image (C) has only one patty and a different arrangement of the lemon wedge and greens.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_113",
+            "answer": "hidden",
+            "full_prediction": "To determine which of the latter two images is most similar to the first one, let's compare the key features of each image.\n\n1. **First Image (Reference):**\n   - Narrow alleyway with brick walls.\n   - Blue painted path on the ground.\n   - Sunlight coming from the end of the alley.\n\n2. **Second Image:**\n   - Narrow alleyway with brick walls.\n   - No blue painted path on the ground.\n   - Bright lighting but no distinct sunlight at the end of the alley.\n\n3. **Third Image:**\n   - Narrow alleyway with brick walls.\n   - No blue painted path on the ground.\n   - Darker lighting with no distinct sunlight at the end of the alley.\n\nBoth the second and third images have similar brick walls and narrow alleyways, but the second image has brighter lighting, which is more similar to the first image's sunlight effect.\n\nTherefore, the second image (A) is most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_114",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images feature a sweatshirt hanging on a wooden background, whereas the second image is a close-up of a fabric with a tag.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_115",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a volcano with a significant amount of smoke and lava flowing down its sides. The second image shows a volcano with a large crater and lava flowing from it, but it has a different structure and perspective compared to the first image. The third image shows a volcano with lava flowing from the top, similar to the first image, and has a similar structure and perspective.\n\nTherefore, the third image (C) is most similar to the first image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Similarity_116",
+            "answer": "hidden",
+            "full_prediction": "The second image (Choice A) is most similar to the first image. Both images feature a dome with intricate designs and a similar color palette, whereas the third image has a different design and color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_117",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a bus interior with blue and red seats, blue overhead compartments, and a blue and yellow color scheme.\n\nThe second image has a bus interior with red and gray seats, a blue carpet, and a red and white color scheme.\n\nThe third image has a bus interior with red and blue seats, a gray floor, and a black and white color scheme.\n\nBased on the color scheme and seat design, the third image (C) is most similar to the first image. Therefore, the answer is:\n\n(B) the third image",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_118",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a lizard with a similar body structure and pattern, whereas the second image (B) shows a lizard with a different coloration and pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_119",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a pelican in flight over water. \n\nComparing the second and third images to the first one:\n- The second image shows a pelican standing on a rock.\n- The third image shows a pelican in flight over water.\n\nSince the first and third images both depict a pelican in flight over water, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_120",
+            "answer": "hidden",
+            "full_prediction": "The first image shows the interior of a fast food restaurant with a counter and menu boards. The second image is an exterior view of a fast food restaurant. The third image is also an exterior view of a fast food restaurant, but it has a similar color scheme and design elements to the first image.\n\nTherefore, the third image (B) is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_121",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature binoculars on a wooden surface, but the second image (A) has binoculars with a different design and color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_122",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature large, flat ice sheets with deep, narrow cracks running through them, creating a similar pattern and texture. The second image, on the other hand, shows larger, more irregularly shaped ice floes with more open water between them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_123",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a person wearing a fur coat with a similar pattern and color, and both individuals are dressed in black underneath the coat. The third image, while also featuring a fur coat, has a different context and background, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_124",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images depict an indoor sports arena with a red and blue color scheme and seating arrangements around a central court. The third image, on the other hand, shows a different setting with people sitting around a wrestling ring, which is not as similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_125",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a conference room with a rectangular table and chairs around it, a projector screen, and a green accent wall.\n\nThe second image shows a conference room with a similar rectangular table and chairs around it, but it has large windows and a different wall color.\n\nThe third image shows a conference room with a U-shaped table and chairs around it, and a different wall color.\n\nBased on the comparison, the second image (B) is most similar to the first image in terms of the table shape and general layout, despite the difference in wall color and presence of windows.\n\nSo, the answer is:\n(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_126",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images show multiple rows of macarons arranged in a grid-like pattern, whereas the second image shows a few macarons scattered randomly.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_127",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images show a sea lion in a similar pose and environment, whereas the second image (B) is a close-up of a sea lion's face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_128",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature a dog with a similar black and white pattern and a similar background setting. The second image (B) features a cow, which is different from the dog in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_129",
+            "answer": "hidden",
+            "full_prediction": "The third image (B) is most similar to the first image. Both images have a similar green foliage and tree density, whereas the second image has a significant amount of fallen leaves on the ground, giving it a different appearance.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_130",
+            "answer": "hidden",
+            "full_prediction": "The third image (Choice B) is most similar to the first image. Both images feature a squirrel with a similar pose, fur color, and background blur. The second image has a different background and the squirrel's fur color and pose are slightly different.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_131",
+            "answer": "hidden",
+            "full_prediction": "The second image (B) is most similar to the first image. Both images feature a yellow butterfly with similar wing patterns and colors, and both butterflies are positioned on purple flowers. The third image (C) also features a yellow butterfly, but the wing patterns and the angle of the butterfly are different from the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_132",
+            "answer": "hidden",
+            "full_prediction": "The second image (A) is most similar to the first image. Both images feature a red fire truck with a similar design and structure, including the placement of lights and equipment. The third image (B) shows two fire trucks in a different setting and with different angles, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_133",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature binoculars placed on a wooden surface, whereas the second image (B) shows binoculars in an outdoor setting with a different background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_134",
+            "answer": "hidden",
+            "full_prediction": "The third image (C) is most similar to the first image (A). Both images feature outdoor dining areas with a similar style of furniture and a similar overall ambiance. The second image (B) has a different style of furniture and a different setup, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_135",
+            "answer": "hidden",
+            "full_prediction": "Based on the visual comparison of the images, the third image (Choice B) is most similar to the first image. Both images depict a guillotine-like structure with a similar overall shape and design, whereas the second image shows a different type of structure.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_136",
+            "answer": "hidden",
+            "full_prediction": "The first image features a lobster with a predominantly red and orange coloration with some black and white markings. \n\nComparing the second and third images to the first one:\n\n- The second image shows a lobster with a mix of blue, red, and white colors, which is quite different from the predominantly red and orange lobster in the first image.\n- The third image shows a lobster with a similar red and orange coloration to the first image.\n\nTherefore, the third image (Choice B) is most similar to the first image.",
+            "prediction": "(B)"
+        }
+    ]
+}

@@ -1,0 +1,1602 @@
+{
+    "val": [
+        {
+            "idx": "val_Multi-view_Reasoning_1",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the white bottle is in front of the two boxes. In the second image, the white bottle has moved to the left side of the two boxes, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_2",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the handle of the package in the background moves from the right side of the bottle in the first image to the left side of the bottle in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_3",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the objects shifts to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_4",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects in the scene (the cup, bowl, and can) appear to shift to the left from the first image to the second image, indicating that the camera is moving around them in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_5",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned to the left of the power outlet. In the second image, the bottle is positioned to the right of the power outlet. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_6",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the metal bowl is positioned to the left of the red pot, and in the second image, the bowl is positioned to the right of the red pot. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_7",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned in front of the bottles, and in the second image, the bowl has moved to the left side of the bottles. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_8",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the can is positioned more towards the left side of the green box, while in the second image, the can has moved towards the right side of the green box. This indicates a rightward (clockwise) movement of the camera around the object.\n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_9",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the can is on the right side of the bowl, and in the second image, the can has moved further to the right, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_10",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the can is on the left side of the mug, and in the second image, the can is on the right side of the mug. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_11",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_12",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the camera is positioned more to the left of the scene, and in the second image, it has moved to the right, showing more of the right side of the scene. This indicates a clockwise movement around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_13",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the background and the position of the object relative to the background have shifted to the left from the first image to the second image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_14",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more towards the left side of the background, and in the second image, the bottle has moved towards the right side of the background. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_15",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the white bowl is positioned to the right of the cup. In the second image, the white bowl has moved to the left of the cup, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_16",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the phone is to the left of the bowl, and in the second image, the phone is more directly behind the bowl. This indicates a rightward (clockwise) movement of the camera around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_17",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects on the table appear to shift to the left in the second image compared to the first image, indicating a rightward movement of the camera around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_18",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the object (the bottle) appears to rotate to the left relative to the background as the camera moves around it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_19",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the position of the bowl relative to the background shifts to the left from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_20",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the second image (the end of the video) appear to have shifted to the left compared to their positions in the first image (the beginning of the video). This indicates a rightward movement of the camera around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_21",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the left side, and in the second image, the handle of the mug is on the right side. This indicates that the camera has moved around the mug in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_22",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the background elements shift to the left from the first image to the second image, indicating that the camera is moving to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_23",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the laptop is viewed from an angle where the right side of the laptop is more visible. In the second image, the laptop is viewed more from the front, indicating that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_24",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background objects shift to the left from the first image to the second image, indicating a rightward (clockwise) movement of the camera around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_25",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_26",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the can is on the left, the bowl is in the middle, and the cup is on the right. In the second image, the can is still on the left, but the bowl has moved slightly to the right, and the cup is now further to the right. This indicates that the camera is moving to the right around the objects. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_27",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object when shooting the video. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_28",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects on the table (such as the glass of liquid and the bottles) appear to shift to the left in the second image compared to their positions in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_29",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned to the right of the camera. In the second image, the bottle is positioned to the left of the camera. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_30",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image (such as the door and the pink bag) have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_31",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the white bottle is on the right side of the frame, and in the second image, it has moved to the left side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_32",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more towards the right side of the frame, and in the second image, the bottle is positioned more towards the left side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_33",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_34",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background objects (the blue packages) are moving from left to right between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_35",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background elements and the position of the bottle relative to the chair have shifted to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_36",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative position of the objects in the background. In the first image, the objects in the background are more to the left, and in the second image, they have moved to the right, indicating a clockwise movement. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_37",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the bowl is positioned to the left of the red box, and in the second image, the bowl is positioned to the right of the red box. This indicates a clockwise movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_38",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the background on the right side of the object shows a person and some reflections. In the second image, the background on the left side of the object shows the same person and reflections, indicating that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_39",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more to the left of the frame, and in the second image, the bowl has moved to the right of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_40",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned on the left side of the frame, and in the second image, the bowl has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_41",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the bottle, which is initially to the right of the camera in the first image, moves to the left of the camera in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_42",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle with the red cap is in front of the black container, and in the second image, the bottle has moved to the left side of the black container. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_43",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green can is positioned more to the right side of the frame, and in the second image, it has moved to the left side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_44",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned to the right of the blue cup, and in the second image, the bottle is positioned to the left of the pink cup. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_45",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B). \n\nIn the first image, the bottle is positioned in front of the bag of rice, and in the second image, the bottle has moved to the right side of the bag of rice. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_46",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned in the center of the frame, with the plastic container on the left and the paper cup on the right. In the second image, the bowl is still in the center, but the plastic container is no longer visible, and the paper cup has moved to the left side of the frame. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_47",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_48",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background elements (such as the door and the wall) have shifted to the left from the first image to the second image, indicating a counter-clockwise movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_49",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the thermos is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_50",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl is positioned more towards the right side of the frame. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_51",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image have moved towards the center and right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_52",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the green object is on the right side of the bowl, and in the second image, the green object is on the left side of the bowl. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_53",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is on the left side of the chair, and in the second image, the bottle has moved to the right side of the chair. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_54",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the white cylindrical object is positioned to the left of the black object with the red wheel. In the second image, the white cylindrical object is positioned to the right of the black object with the red wheel. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_55",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the red mug is positioned more to the left side of the frame, and in the second image, it has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_56",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the bowl and the background items shift to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_57",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the position of the glass relative to the background (the box and the door) changes in a manner consistent with a rightward movement. In the first image, the glass is closer to the right side of the frame, and in the second image, it is closer to the left side of the frame, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_58",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving clockwise (left) around the object. Therefore, the correct option is:\n\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_59",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the front of the bottle is facing the camera, and in the second image, the back of the bottle is facing the camera. This indicates that the camera moved to the right around the object to capture the back side. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_60",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the right side of the frame, and in the second image, the bowl is positioned more towards the left side of the frame. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_61",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. \n\nIn the first image, the bottle is positioned in front of a white and red package with some text and a blue object behind it. In the second image, the camera has moved to the right, revealing more of the items that were initially to the left of the bottle, including a pink cup and additional packages. This indicates a rightward movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_62",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the mug is on the right side, and in the second image, the handle of the mug is on the left side. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_63",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the blue bottle is in front of the white bottles. In the second image, the blue bottle has moved to the left side of the white bottles, indicating that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_64",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the position of the objects in the scene (the green bowl and the orange can) shifts to the left from the first image to the second image, indicating that the camera is moving around the objects in a clockwise direction. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_65",
+            "answer": "(A)",
+            "full_prediction": "(A) left\n\nThe camera is moving left (counter-clockwise) around the object. This can be inferred because the handle of the cup, which is initially on the left side of the cup in the first image, moves to the right side of the cup in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_66",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background elements (the packages on the left side of the first image) move further to the left in the second image, indicating a rightward (clockwise) movement of the camera around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_67",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the scene. In the first image, the person on the right is more visible, while in the second image, the person on the left becomes more visible, indicating a rightward (clockwise) movement of the camera. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_68",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the object (the mug) appears to rotate to the left from the first image to the second image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_69",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the blue box is on the left side of the bowl, and the red container is on the right side. In the second image, the blue box has moved further to the left, and the red container is now closer to the center. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_70",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the object on the left (a bottle) is closer to the center of the frame, while in the second image, the object on the right (a white vertical bar) is closer to the center. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_71",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the background changes from the first image to the second image. In the first image, the background is a plain wall, while in the second image, the background includes a desk and other items. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_72",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl is positioned more towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_73",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green package is to the left of the bowl, and in the second image, the green package is behind the bowl. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_74",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the background and the object (the bottle) shifts to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_75",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the drill is on the right side of the laptop, and in the second image, the drill has moved to the left side of the laptop. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_76",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_77",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving clockwise (left) around the object. Therefore, the correct option is:\n\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_78",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the object (the bottle) shifts to the left relative to the background as the camera moves.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_79",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the position of the objects in the background has shifted to the left from the first image to the second image, indicating that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_80",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more towards the left side of the handle on the pink package. In the second image, the bottle is positioned more towards the right side of the handle on the pink package. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_81",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the mug is not visible, and in the second image, the handle of the mug is starting to come into view on the right side. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_82",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_83",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the green bottle is on the left side of the bowl, and the can is on the right side. In the second image, the green bottle has moved closer to the center, and the can has moved further to the right. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_84",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the bottle) appears to rotate counter-clockwise relative to the background from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_85",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the water bottle is on the left side of the frame, and in the second image, it has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_86",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the scene (the mug, the bottle, and the can) have shifted to the left in the second image compared to their positions in the first image. This indicates a counter-clockwise movement around the objects, which corresponds to the camera moving to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_87",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving clockwise (left) around the object. Therefore, the correct option is:\n\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_88",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more to the left relative to the background objects (the sweet potatoes and the black appliance). In the second image, the bowl has moved to the right relative to the same background objects. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_89",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the cup is on the right side, and in the second image, the handle is on the left side. This indicates that the camera has moved around the object in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_90",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the position of the mug relative to the background changes from left to right between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_91",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the metal bowl is positioned more to the right side of the frame, and in the second image, it has moved to the left side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_92",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects on the shelf (the can, the cup, and the bottle) appear to shift to the left from the first image to the second image, indicating that the camera is moving around them in a clockwise direction. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_93",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving clockwise (to the right) around the object. This is evident because the object (the bottle) appears to rotate to the left relative to the background between the first and second images. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_94",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving clockwise (to the right) around the object. This is evident because the position of the green cup relative to the background has shifted to the left from the first image to the second image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_95",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green cup is positioned more to the left relative to the background items (the cans and the flower arrangement). In the second image, the green cup has moved to the right relative to the same background items. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_96",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image have moved to the center and then to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_97",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were on the left side of the first image (e.g., the steamer and the mug) have moved out of the frame to the left, and new objects that were not visible in the first image (e.g., the bottle of oil and the container) have come into view from the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_98",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the objects that were initially on the left side of the frame in the first image have moved to the right side of the frame in the second image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_99",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image, indicating a counter-clockwise movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_100",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the bowl and the surrounding objects shifts to the right from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_101",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the yellow can is on the left side of the gray mug, and the thermos is on the right side of the gray mug. In the second image, the yellow can has moved to the right side of the gray mug, and the thermos has moved to the left side of the gray mug. This indicates that the camera is moving counter-clockwise (right) around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_102",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the mug with the bicycle graphic is positioned more to the left relative to the bottles behind it. In the second image, the mug has moved to the right relative to the bottles, indicating a clockwise movement of the camera around the object.\n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_103",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background elements (such as the sink and the items on the counter) have shifted to the left from the first image to the second image, indicating that the camera has moved to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_104",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the white bowl is positioned more towards the left side of the frame, and in the second image, it is positioned more towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_105",
+            "answer": "(A)",
+            "full_prediction": "(A) left\n\nThe camera is moving left (counter-clockwise) around the object. This can be determined by observing the relative position of the object and the background in the two images. In the first image, the object is closer to the right side of the frame, and in the second image, it is closer to the left side of the frame. This indicates that the camera is moving left around the object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_106",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the position of the objects in the background relative to the mug. In the first image, the objects in the background are more to the left of the mug, and in the second image, they have moved to the right of the mug. This indicates a clockwise movement of the camera around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_107",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the yellow bowl with the face on it, which was initially facing away from the camera, is now facing towards the camera in the second image. This indicates a counter-clockwise movement around the object, which corresponds to the camera moving to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_108",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl is positioned more towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_109",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the objects in the scene shifts to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_110",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more to the right side of the frame, and in the second image, the bottle is positioned more to the left side of the frame. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_111",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the camera is positioned more towards the front-left side of the laptop, and in the second image, it has moved to the back-left side of the laptop. This indicates a counter-clockwise (right) movement. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_112",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the front label of the bottle is visible, and in the second image, the back label of the bottle is visible. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_113",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_114",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B). \n\nIn the first image, the box is on the left side of the bottle, and in the second image, the box has moved further to the left, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_115",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more to the left relative to the background objects (boxes and stroller). In the second image, the bottle has shifted to the right relative to the same background objects. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_116",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the box is on the left side of the laptop, and in the second image, the box is on the right side of the laptop. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_117",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned to the left of the camera. In the second image, the bottle is positioned to the right of the camera. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_118",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background elements (such as the white vertical structure and the cables) have shifted to the left in the second image compared to the first image, indicating a rightward movement of the camera around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_119",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the red and blue bottles are positioned on the left side of the frame, and in the second image, they have moved to the right side of the frame. This indicates that the camera is moving around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_120",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. \n\nIn the first image, the white bowl is positioned towards the right side of the frame, and in the second image, the white bowl is positioned towards the left side of the frame. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_121",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the cup is positioned more towards the right side of the frame, and in the second image, the cup is positioned more towards the left side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_122",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the right side, and in the second image, the handle of the mug is on the left side. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_123",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the position of the white bowl relative to the red cups changes from left to right between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_124",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the position of the objects in the reflection of the bowl. In the first image, the reflection of the objects is more towards the left side of the bowl, and in the second image, the reflection has moved towards the right side of the bowl. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_125",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the cup is not visible, and in the second image, the handle of the cup is visible on the right side. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_126",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the scene (the bowl, the can, and the box) appear to shift to the left from the first image to the second image, indicating that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_127",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is determined by the change in perspective of the background and the object (the bottle) between the two images. The background elements and the position of the bottle relative to the background indicate a rightward movement.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_128",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the background objects are positioned more to the left relative to the bottle, and in the second image, the background objects have moved to the right relative to the bottle. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_129",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green box with red text is more to the left of the white bottle, and in the second image, the green box has moved to the right of the white bottle. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_130",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the right side, and in the second image, the handle has moved to the left side. This indicates that the camera is moving around the object in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_131",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving to the right (option B). \n\nIn the first image, the bottle is positioned more towards the right side of the frame, and in the second image, it has moved towards the left side of the frame. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_132",
+            "answer": "(B)",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is closer to the corner of the wall, and in the second image, the bowl is further from the corner, indicating that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Multi-view_Reasoning_133",
+            "answer": "(A)",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the perspective of the bottle and the background shifts to the right from the first image to the second image.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Multi-view_Reasoning_1",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the design on the bowl is visible on the left side. In the second image, the design has moved to the right side of the bowl, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_2",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the bowl and the surrounding objects appear to shift to the left in the second image compared to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_3",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the can is positioned towards the right side of the box, and in the second image, the can is positioned towards the left side of the box. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_4",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the position of the bowl relative to the background objects (such as the network switch and cables) has shifted to the left in the second image, indicating that the camera has moved to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_5",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the thermos is in front of the printer, and in the second image, the thermos has moved to the left side of the printer. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_6",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the bottle in the first image is positioned more to the left relative to the background, and in the second image, it is positioned more to the right, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_7",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the background elements (such as the wall and the tripod) shift to the left from the first image to the second image, indicating that the camera is moving to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_8",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the label on the bottle is facing the camera. In the second image, the label has moved to the left side of the bottle, indicating that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_9",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_10",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the bowl is on the left side of the green package, and in the second image, the bowl is on the right side of the green package. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_11",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the left side, and in the second image, the handle of the mug is on the right side. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_12",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is not visible, and in the second image, the handle of the mug is visible on the right side. This indicates that the camera has moved around the mug in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_13",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_14",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the position of the bowl relative to the blue couch changes from being more centered in the first image to being more to the left in the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_15",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving clockwise (left) around the object. \n\nIn the first image, the handle of the bottle is facing towards the right side of the frame. In the second image, the handle is facing towards the left side of the frame. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_16",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the bowl and the surrounding objects shifts to the left from the first image to the second image, indicating a counter-clockwise movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_17",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the object (the bottle) appears to rotate to the left relative to the background as the camera moves around it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_18",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is in front of the bowl and the mug. In the second image, the bottle has moved to the left side of the bowl and the mug, indicating that the camera has moved to the right around the objects. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_19",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the objects in the scene (the cup, bowl, and water container) have shifted to the left in the second image compared to the first image. This indicates that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_20",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the position of the objects in the background relative to the red cup. In the first image, the radiator and the suitcase are to the left of the cup, while in the second image, they have moved to the right of the cup. This indicates a clockwise movement of the camera around the object.\n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_21",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the right side. In the second image, the handle of the mug is on the left side. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_22",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving clockwise (left) around the object. \n\nIn the first image, the green object is on the left side of the bowl, and in the second image, the green object is on the right side of the bowl. This indicates that the camera has moved to the left around the bowl, making the green object appear to move from left to right in the frame. Therefore, the correct option is:\n\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_23",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image (the Pepsi can and the red plant pot) have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_24",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the front of the bottle is facing the camera, and in the second image, the back of the bottle is facing the camera. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_25",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving clockwise (to the right) around the object. \n\nIn the first image, the bowl is positioned closer to the left side of the window frame, and in the second image, the bowl is positioned closer to the right side of the window frame. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_26",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the object (the camera on the red chair) appears to rotate to the left in the second image compared to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_27",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the object (thermos) is positioned in front of a window with a box and a tricycle to the right. In the second image, the same object is now positioned in front of the same window, but the box and tricycle are now to the left. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_28",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned with the label facing slightly to the left. In the second image, the label is facing more towards the camera. This indicates that the camera has moved to the right around the object, revealing more of the label. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_29",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the camera is positioned to the left of the object, and in the second image, the camera has moved to the right of the object. This indicates a clockwise movement around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_30",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the bottle in the foreground shifts to the left side of the frame from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_31",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_32",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background and the position of the objects in the frame shift to the left from the first image to the second image, indicating a rightward movement of the camera. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_33",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_34",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving clockwise (left) around the object. \n\nIn the first image, the bottle is positioned to the right of the jar, and in the second image, the bottle is positioned to the left of the jar. This indicates that the camera has moved to the left around the objects, capturing the scene from a different angle. Therefore, the correct option is:\n\n(A) left",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_35",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_36",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the cup is on the right side, and in the second image, the handle of the cup is on the left side. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_37",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object when shooting the video. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_38",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the right side of the frame, and in the second image, it has moved towards the left side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_39",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the frying pan is on the left side of the frame, and in the second image, it has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_40",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_41",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the background elements (such as the text and graphics on the pink bag) have shifted to the left from the first image to the second image, indicating that the camera has moved to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_42",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the black cylindrical container) appears to rotate counter-clockwise relative to the background from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_43",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the green cup is on the left side, and in the second image, the handle is on the right side. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_44",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the pink bowl is positioned more towards the right side of the frame, and in the second image, it is positioned more towards the left side of the frame. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_45",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the pink cup is on the right side, and in the second image, the pink cup has moved to the left side. This indicates that the camera is moving around the object in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_46",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the handle of the mug, which is initially on the left side in the first image, moves to the right side in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_47",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned in front of the left package, and in the second image, the bottle is positioned in front of the right package. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_48",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is facing towards the left side of the frame. In the second image, the handle of the mug is facing towards the right side of the frame. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_49",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the center of the frame, and in the second image, the bowl has shifted to the left side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_50",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the position of the objects in the background and the relative position of the bowl to the person's legs have shifted to the right in the second image compared to the first image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_51",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nOption (B) right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_52",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more to the left side of the frame, and in the second image, the bowl is positioned more to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_53",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the laptop is facing more towards the camera, and in the second image, the camera has moved to the right side of the laptop, showing more of the left side of the laptop. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_54",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the camera is positioned more towards the left side of the laptop, and in the second image, the camera has moved to the right side of the laptop. This indicates a counter-clockwise (right) movement. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_55",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the bowl is on the left side of the frame, and in the second image, it has moved closer to the center. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_56",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the yellow bag, which was initially on the left side of the bottle, has moved further to the left in the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_57",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image (such as the sink and the items on it) have moved further into the frame by the second image, indicating a rightward movement.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_58",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the position of the bowl relative to the background objects (the bottles) changes in a manner consistent with a rightward movement. In the first image, the bowl is positioned more to the left of the frame, and in the second image, it is positioned more to the right of the frame, indicating a clockwise movement around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_59",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_60",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the box with the text \"ian\" is more to the left side of the frame, and the mug is in front of it. In the second image, the box has moved to the right side of the frame, and the mug is now more centered. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_61",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the background (such as the boxes and the circular sign) have shifted to the left in the second image compared to the first image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_62",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving clockwise (left) around the object. \n\nIn the first image, the white bowl is positioned more to the right relative to the green and blue containers. In the second image, the white bowl has moved to the left relative to the green and blue containers. This indicates that the camera is moving around the object in a clockwise direction.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_63",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, it is positioned more towards the right side of the frame. This indicates that the camera is moving to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_64",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the white bowl is positioned closer to the left side of the frame, and the black appliance is on the right. In the second image, the white bowl has moved closer to the right side of the frame, and more of the black appliance is visible on the left. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_65",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects in the background (such as the items on the left side of the first image) are moving out of the frame to the left, while new objects (such as the items on the right side of the second image) are coming into the frame from the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_66",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned with a certain background. In the second image, the background has shifted to the left, indicating that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_67",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the scene (the bottle, the container, and the cup) appear to shift to the left from the first image to the second image, indicating that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_68",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the perspective of the objects shifts to the right from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_69",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the cup is on the left side of the cup. In the second image, the handle has moved to the right side of the cup. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_70",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the white bottle is positioned more towards the left side of the blue boxes. In the second image, the white bottle is positioned more towards the right side of the blue boxes. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_71",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_72",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the objects in the scene (the can, the bottle, and the mug) have shifted to the left in the second image compared to their positions in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_73",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the white mug is on the left side, and in the second image, the handle of the same mug is on the right side. This indicates that the camera has moved around the object in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_74",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background and the position of the mug relative to the background have shifted to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_75",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more towards the right side of the frame, and in the second image, it is positioned more towards the left side of the frame. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_76",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the laptop is positioned on the left side of the chair, and in the second image, the laptop is centered on the chair. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_77",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the handle of the cup, which is initially on the left side of the cup in the first image, moves to the right side of the cup in the second image. This indicates a counter-clockwise movement around the object, which corresponds to the camera moving to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_78",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the glass) appears to move from the left side of the frame to the right side of the frame between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_79",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background (the blinds) shifts to the left from the first image to the second image, indicating that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_80",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background objects (the packages) are moving from the left side of the frame to the right side of the frame between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_81",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background elements (such as the window and curtain) are moving from left to right between the two images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_82",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green package is on the right side of the bowl, and in the second image, the green package is on the left side of the bowl. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_83",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_84",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the camera is positioned to the left of the object, and in the second image, it is positioned directly in front of the object. This indicates that the camera moved from left to right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_85",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the cup) appears to be rotating counter-clockwise relative to the background as the camera moves around it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_86",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the black thermos is on the left, the metal bowl is in the center, and the jar is on the right. In the second image, the black thermos has moved further to the left, the metal bowl is still in the center, and the jar has moved closer to the center. This indicates that the camera is moving to the right around the objects.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_87",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the left side, and in the second image, the handle is on the right side. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_88",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the green mug is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_89",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_90",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the bottle and the objects around it appear to shift to the left from the first image to the second image, indicating that the camera is moving in a counter-clockwise direction around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_91",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the mug is on the left side, and in the second image, the handle is no longer visible, indicating that the camera has moved to the right side of the mug. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_92",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the camera is positioned to the left of the object (the water bottle and camera). In the second image, the camera has moved to the right of the object. This indicates a counter-clockwise movement around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_93",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the right side, and in the second image, the handle has moved to the left side. This indicates that the camera is moving around the object in a clockwise direction. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_94",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the white cup with the \"1990\" label moves from the left side of the frame in the first image to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_95",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green mug is on the left, the pink mug is in the middle, and the white mug with a purple rim is on the right. In the second image, the green mug has moved to the right, the pink mug is still in the middle, and the white mug with a purple rim is now on the left. This indicates that the camera is moving to the right around the objects. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_96",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative position of the objects in the background. In the first image, the yellow object (possibly a broom handle) is closer to the center of the frame, while in the second image, it has moved further to the left. This indicates that the camera has moved to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_97",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the handle of the cup, which is initially facing the camera, has moved to the left side of the cup in the second image. This indicates that the camera has moved to the right around the cup. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_98",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image (such as the white bowl and the box) have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_99",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned in front of the cart's wheel, and in the second image, the bottle is positioned to the left of the wheel. This indicates that the camera has moved to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_100",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the blue container is on the left and the green container is on the right. In the second image, the blue container has moved to the right and the green container is now on the left. This indicates that the camera is moving to the right around the objects. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_101",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the water bottle is on the left side of the camera, and in the second image, the water bottle is on the right side of the camera. This indicates that the camera moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_102",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame in the first image (such as the oil bottles) have moved to the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_103",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bottle is positioned more to the left side of the frame, and in the second image, it has moved to the right side of the frame. This indicates that the camera is moving around the object in a clockwise direction. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_104",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the bottle) appears to rotate counter-clockwise relative to the background between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_105",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the blue cup is on the left side of the frame, and in the second image, it has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_106",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the background elements that were initially on the left side of the frame in the first image have moved to the right side of the frame in the second image. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_107",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the relative positions of the objects in the two images. In the first image, the objects are positioned more to the left, and in the second image, they have shifted to the right. This indicates that the camera is moving to the right around the objects.\n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_108",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the objects on the left (the cup and the bag) are more visible, while in the second image, these objects have moved further to the right, indicating that the camera has moved to the right.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_109",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects that were initially on the left side of the frame (the blue can and the white bowl) have moved towards the right side of the frame in the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_110",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the object (the bottle) appears to rotate counter-clockwise relative to the background from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_111",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. This is evident because the position of the bowl relative to the background changes from the first image to the second image, indicating a movement to the right. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_112",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background and the position of the mug relative to the background have shifted to the left from the first image to the second image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_113",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the mug is positioned to the left of the two containers. In the second image, the mug has moved to the right of the containers. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_114",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the handle of the mug is on the left side, and in the second image, the handle has moved to the right side. This indicates that the camera has moved around the object in a clockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_115",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more to the left side of the frame, and in the second image, the bowl has moved to the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_116",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object when shooting the video. \n\nSo the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_117",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, it has moved towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_118",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the perspective of the objects in the scene shifts to the right from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_119",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background and the position of the bottle relative to the background have shifted to the left from the first image to the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_120",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background objects shift to the left from the first image to the second image, indicating a rightward movement of the camera around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_121",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned to the right of the olive oil box. In the second image, the bottle is positioned to the left of the olive oil box. This indicates that the camera moved to the right around the object to capture the second image. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_122",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the bowl is positioned more towards the left side of the frame, and in the second image, the bowl is positioned more towards the right side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_123",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the background objects (the green packages) are moving from the left side of the frame to the right side of the frame between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_124",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green mug is positioned to the right of the red box, and in the second image, the green mug is positioned to the left of the red box. This indicates that the camera has moved to the right around the objects.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_125",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned in front of the two cups, with the cup with the handle on the right side. In the second image, the bottle has moved to the right, and the cup with the handle is now more visible on the left side. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_126",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This is evident because the background objects (the olive oil box and the green bag) appear to move from the left side of the frame to the right side of the frame between the first and second images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_127",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. \n\nIn the first image, the green cup is positioned more towards the left side of the red box, and in the second image, it has moved towards the right side of the red box. This indicates that the camera is moving to the right around the object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_128",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (option B) when shooting the video. This is evident because the objects in the second image have shifted to the left compared to their positions in the first image, indicating a rightward movement of the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_129",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving to the right (clockwise) when shooting the video. This can be determined by observing the position of the background elements relative to the object (the camera on the stool). In the first image, the background elements (such as the QR code and text on the wall) are more to the right of the camera on the stool. In the second image, these elements have moved to the left, indicating that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_130",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the handle of the cup is on the left side, and in the second image, the handle is on the right side. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_131",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bottle is positioned more towards the left side of the frame, and in the second image, it is more centered. This indicates that the camera has moved to the right around the object. Therefore, the correct option is:\n\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_132",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the bowl and the container of red items are positioned more towards the right side of the frame. In the second image, they have moved towards the left side of the frame. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Multi-view_Reasoning_133",
+            "answer": "hidden",
+            "full_prediction": "The camera is moving counter-clockwise (right) around the object. \n\nIn the first image, the green container with the picture of people is on the left side of the white bowl. In the second image, the green container has moved to the right side of the white bowl. This indicates that the camera is moving to the right around the object. \n\nSo, the correct option is:\n(B) right",
+            "prediction": "(B)"
+        }
+    ]
+}

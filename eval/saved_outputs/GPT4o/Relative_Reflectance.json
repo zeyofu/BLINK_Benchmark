@@ -1,0 +1,1614 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "The surface color (albedo) of the points A and B appears to be about the same. Both points are annotated on the same wall surface, which has a uniform color. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the curtains, which have a similar color and pattern.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "(B) B is darker\n\nThe surface color at point B appears darker than the surface color at point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are located on the ceiling of the room, which has a consistent color throughout. The lighting may affect the perceived brightness, but the inherent surface color seems to be uniform.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface colors at points A and B appear to be about the same. Both points are on the wooden floor, which has a consistent color throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. The difference in shading is due to lighting, but the inherent color of the surface at both points is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the white tiles of the bathroom wall, which have a similar albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, the surface color at point A appears to be darker than the surface color at point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the metallic surface of the kitchen sink, which has a similar reflective and color property.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same material of the staircase, which suggests that their inherent surface colors are similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the eggs, appears to be about the same. Both points are on white eggs, so their albedo is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same wall, which is painted a consistent color throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the red dress, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on similar areas of the meat, and there is no significant difference in their surface colors.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B, which are both on the white wall, appear to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as both points are located on the white window frame.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe points A and B are both located on the white ceiling of the room, which has a uniform color. Therefore, the surface color (albedo) of the points is about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both located on the same wooden door.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are on the same wall and have similar lighting conditions.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as both points are on the white refrigerator.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the wall appears to be about the same, as they are both on the same blue wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are on the same wall with a similar color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same wall and have a similar color and texture.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are located on the white uniforms of the chefs, which have similar albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as they are both located on the same white cabinet. The lighting conditions may vary slightly, but the inherent color of the surface (albedo) is the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white surfaces of the room's furniture.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the white window frame.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the glass structure, which has a consistent color throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the same white cabinet surface. The difference in shading is due to the lighting conditions, not the inherent color of the surface.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the same green container, and there is no significant difference in their surface colors.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "The surface color of the points A and B appears to be about the same. \n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same, as they are both located on the same white wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, the surface color at point A appears to be darker than the surface color at point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the ceiling, which is uniformly painted.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the white range hood, appears to be about the same. The albedo, or intrinsic surface color, of the range hood is white for both points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same type of chair, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same wall, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B on the chair appears to be about the same. Both points are on the same piece of furniture and seem to have the same fabric and color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe points A and B are both on the ceiling, which appears to be uniformly painted in a light color. Therefore, the surface color (albedo) at points A and B is about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as they are both on the same section of the wall with the same paint color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both on the same type of bedspread with similar patterns and colors.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same, as they are both on the white wall of the room.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same brick structure and have similar coloration.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the wooden wall appears to be about the same. The difference in their appearance is primarily due to the lighting and shading effects rather than a difference in the actual surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the floor appears to be about the same. The tiles in the kitchen have a consistent color, and the lighting does not significantly alter the perceived color of the surface at these points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the wooden cabinets, which have a similar color and albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are annotated on the white wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as both points are located on the same white countertop.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "The surface color of the points A and B appears to be about the same. Therefore, the correct choice is:\n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as both points are located on the white surfaces of the bathroom fixtures and walls.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the same type of tile in the bathroom, appears to be about the same. The tiles have a consistent color, and there is no significant difference in the albedo of the surface at these points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same material of the staircase, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on similar metallic surfaces of the pots, which have comparable albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same type of tile, which has a consistent color and pattern throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the labels of spice containers, which are predominantly white.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "The surface color of the points A and B appears to be about the same. \n\n(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same wall, which has a uniform color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both on the same black jacket.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the wall, which has a consistent color throughout. The lighting conditions may vary, but the inherent color of the wall at both points is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white bed sheets.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than the surface color of point B.\n\nSo the correct choice is:\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface colors at points A and B appear to be about the same. Both points are on similar tiles with similar coloration.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "The surface color at point A is darker than the surface color at point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the marble floor, which has a consistent color and pattern throughout the area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same tile surface, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same wall and have similar surface colors.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same couch and seem to have the same fabric and color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same. Both points are on the same countertop material, which has a consistent color and texture.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the rock surface, which has a consistent color and texture.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the dresser appears to be about the same. Both points are on the white surface of the dresser, and there is no significant difference in their surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B, which are both on the window frame, appears to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same object (the blender), which has a consistent surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as both points are located on the same wall with a similar color.",
+            "prediction": "(C)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Reflectance_1",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, considering the albedo without the effect of shading, appears to be about the same. Both points are on the white bed linens, which have a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_2",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same wooden paneling, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_3",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both on the same wall with a similar color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_4",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the headboard of the bed, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_5",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_6",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_7",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, considering the albedo without the effect of shading, appears to be about the same. Both points are on the same black countertop, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_8",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both on the same wall with a similar color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_9",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker\n\nThe surface color at point A appears to be darker than the surface color at point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_10",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_11",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white wall in the background.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_12",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the same green kitchen island.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_13",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_14",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same. The difference in their appearance is due to the shading caused by the light source, but the albedo (intrinsic surface color) of the points is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_15",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_16",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_17",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the white door.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_18",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both located on the same wooden wall paneling, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_19",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_20",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the ceiling appears to be about the same. The difference in shading is likely due to lighting rather than a difference in the actual surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_21",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_22",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_23",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_24",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the wall appears to be about the same. Both points are on the same brick wall, which has a consistent color pattern.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_25",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B, which are both on the skin of the same person, appears to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_26",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_27",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B on the couch appears to be about the same. Both points are on the same fabric of the couch, which has a consistent color and pattern.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_28",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_29",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the window blinds which have a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_30",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same, as they are both on the same pillow and have similar albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_31",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same type of floor surface, which has a consistent color throughout the hallway.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_32",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same, as they are both located on the same section of the wall and have similar albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_33",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_34",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_35",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the green wall, and the color of the wall seems consistent in that area.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_36",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the curtains, appears to be about the same. The difference in brightness is due to the lighting and shading, not the inherent color of the surface.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_37",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. The difference in perceived brightness is due to the lighting, with point A being closer to the light source and thus appearing brighter.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_38",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the oven appears to be about the same. Both points are on the metallic surface of the oven, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_39",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are on the same section of the house with the same paint color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_40",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_41",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of points A and B appears to be about the same. Both points are on the same red chair, and there is no significant difference in the albedo of the surface at these points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_42",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same wall, which has a consistent color throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_43",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. The difference in perceived brightness is due to the lighting conditions rather than the actual color of the surfaces.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_44",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_45",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both located on the same white wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_46",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white cabinets in the kitchen.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_47",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, considering the albedo without the effect of shading, appears to be about the same. Both points are on the same type of surface (the wall), which suggests that their inherent color is likely the same. The difference in appearance is primarily due to the lighting conditions rather than a difference in the actual surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_48",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the white sink, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_49",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the bedspread, which has a consistent color and pattern. The lighting may affect the perceived brightness, but the albedo (surface color without shading) is similar for both points.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_50",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_51",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_52",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same type of surface (the white sink), and there is no significant difference in their albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_53",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_54",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_55",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B. Therefore, the correct choice is:\n\n(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_56",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the girl's face, which has a consistent skin tone.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_57",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_58",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_59",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the brick wall appears to be about the same. The bricks in both areas have a similar color and texture, indicating that their albedo is likely similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_60",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are on the white wall and bed in the room.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_61",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_62",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_63",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as they are both on the same wooden headboard and do not show significant differences in color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_64",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the same white surface, and there is no significant difference in their surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_65",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_66",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_67",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are on the white tiles of the backsplash, which have a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_68",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_69",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_70",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the white wall, and there is no significant difference in their albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_71",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white shelves.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_72",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_73",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_74",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as both points are located on the same wall with a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_75",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B on the door appears to be about the same. Both points are on the same white door, and there is no significant difference in their surface color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_76",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same wall and have the same paint color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_77",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as both points are on the same wall and seem to have the same paint color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_78",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same, as both points are on the same yellow tile.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_79",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_80",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the wall, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_81",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_82",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe points A and B are both located on the ceiling, which appears to be uniformly colored. Therefore, the surface color (albedo) of the points A and B is about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_83",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_84",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_85",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_86",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_87",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the same chair, which has a consistent pattern and color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_88",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_89",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_90",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_91",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both located on the same wall and seem to have the same color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_92",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same, as they are both located on the white ceiling.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_93",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_94",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_95",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_96",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_97",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_98",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_99",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the headboard, which is black.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_100",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B appears to be about the same. Both points are on the same person's hair, which has a consistent color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_101",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_102",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_103",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as they are both on the same white ceiling. The difference in shading is due to the lighting conditions, not the inherent color of the surface.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_104",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same. Both points are located on the white wall, and the color of the wall is consistent across the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_105",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_106",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_107",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_108",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_109",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_110",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_111",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker\n\nThe surface color at point B appears darker than the surface color at point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_112",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the black jacket of the person in the foreground, indicating that the albedo (reflectivity) of the surface at both points is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_113",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_114",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same, as they are both located on the same painting and do not show significant differences in albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_115",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the white wall, appears to be about the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_116",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker\n\nThe surface color at point A is darker compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_117",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_118",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_119",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the white cabinets, appears to be about the same. The albedo, or intrinsic surface color, of the cabinets is consistent throughout.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_120",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color of the points A and B, which are both on the wooden cabinets, appears to be about the same. The lighting conditions might make one appear slightly different from the other, but the inherent color of the surface (albedo) is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_121",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are located on the white ceiling.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_122",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_123",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_124",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_125",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_126",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface color (albedo) of the points A and B appears to be about the same, as both points are on the same white wall.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_127",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_128",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are on the white wall, and there is no significant difference in their albedo.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_129",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_130",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_131",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_132",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_133",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B on the rug appear to be about the same. Both points are on the same colored section of the rug, indicating that their albedo, or intrinsic surface color, is similar.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_134",
+            "answer": "hidden",
+            "full_prediction": "(C) About the same\n\nThe surface colors of points A and B appear to be about the same. Both points are located on the same wall and seem to have similar surface colors.",
+            "prediction": "(C)"
+        }
+    ]
+}
