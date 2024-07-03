@@ -10,7 +10,9 @@ This repo contains the evaluation code for the paper "[BLINK: Multimodal Large L
 
 ## 🔔News
 
- **🔥[2024-06-16]: We added the scores for GPT-4o and GPT-4 Turbo!**
+ **🔥[2024-07-03]: We added a validation set leaderboard on the website!**
+ 
+ **🔥[2024-06-16]: We added the scores and outputs for GPT-4o and GPT-4 Turbo!**
  
  **🔥[2024-05-18]: [Gemini 1.5 Pro](https://twitter.com/ashkamath20/status/1791949907500081534) achieved great improvements on BLINK!**
  
